@@ -1,6 +1,12 @@
-## 安卓手机/平板 - [点击下载翻墙神器金刚安卓客户端App 2.1](https://github.com/a2zitpro/client/releases/download/2.1/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)） 一键翻墙 安全高速 多条线路 免费公测 HTTPS/SSL VPN 
+## 安卓手机/平板 
+- [点击下载翻墙神器金刚安卓客户端App 2.1](https://github.com/a2zitpro/client/releases/download/2.1/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)） 
+- 一键翻墙 安全高速 多条线路 免费公测 HTTPS/SSL VPN 
+
 ### 苹果客户端在开发中
-## 其它：苹果手机，iPad， 苹果计算机，Windows计算机，以及安卓等设备 - [用email注册后拿到参数, 配置您的设备即可翻墙](https://github.com/a2zitpro/k/blob/master/README.md) L2TP/IpSec VPN
+
+## 其它：苹果手机，iPad， 苹果计算机，Windows计算机，以及安卓等设备 
+- [用email注册后拿到参数, 配置您的设备即可翻墙](https://github.com/a2zitpro/k/blob/master/README.md) 
+- L2TP/IpSec VPN
 
 ![image](l-w-s-athird.png)
 
