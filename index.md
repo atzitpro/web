@@ -10,10 +10,11 @@
 - 金刚号
 ### 四、客户端 的 下载、安装
 #### 1、下载
-客户端安装包请在此  [点击下载](https://www.atozitpro.net/zh/wp-content/uploads/2018/08/softether-vpnclient-v4.27-9668-beta-2018.05.29-windows-x86_x64-intel.exe.zip) ，或从本站 菜单 > 软件下载 中下载。
+客户端安装包请在此  [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 。
 #### 2、安装
 在下载文件夹内，点击安装包，开始安装。
 001B
+![Image](安装001B.png)
 
 每遇类似如上画面，点击下一步，直到完成安装。
 
