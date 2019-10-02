@@ -21,7 +21,7 @@
 ### C. [Windows客户端 - 点击查看、下载《安装配置说明》](https://a2zitpro.github.io/web/win)
 
 
-## 2. 配置参数翻墙 适用于所有智能设备
+## 2. 配置参数翻墙 适用于主流智能设备
 - 适用于：<br>
 苹果手机iPhone<br>
 苹果平板iPad<br>
