@@ -30,7 +30,7 @@
 安卓平板<br>
 安卓机顶盒<br>
 Windows<br>
-   - Win7<br>
+  - Win7<br>
   - Win10<br>
 等设备
 - [点这里 用email注册，拿到参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg) 
