@@ -21,8 +21,8 @@
 ### C. [Windows客户端 - 点击查看、下载《安装配置说明》](https://a2zitpro.github.io/web/win)
 
 
-## 2. 配置参数翻墙 适用于主流智能设备
-- 适用于：<br>
+## 2. 配置参数翻墙 适用于主流智能设备：
+- 《配置说明》：<br>
 苹果手机iPhone<br>
 苹果平板iPad<br>
 苹果计算机<br>
@@ -32,9 +32,8 @@
 Windows<br>
   - Win7<br>
   - Win10<br>
-等设备
-- [点这里 用email注册，拿到参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg) 
-- L2TP/IpSec VPN
+
+- [点这里 提交您的email注册，获取专属于您的参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_）
 
 
 
