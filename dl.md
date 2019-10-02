@@ -15,7 +15,8 @@
 - 一键翻墙 安全高速 多条线路 免费公测 
 - HTTPS/SSL VPN 
 
-### B. 苹果手机/平板 开发中...
+### B. 苹果手机/平板 
+- 开发中...
 
 ### C. [Windows客户端 - 点击查看、下载《安装配置说明》](https://a2zitpro.github.io/web/win)
 
