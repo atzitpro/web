@@ -13,19 +13,17 @@
 客户端安装包请在此  [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 。
 #### 2、安装
 在下载文件夹内，点击安装包，开始安装。
-001B
 ![Image](安装001B.png)
 
 每遇类似如上画面，点击下一步，直到完成安装。
 
 安装完成后，将在PC桌面上生成如下图标：
-icons8
+![Image](icons8-softether-vpn-50-1.png)
 
 ### 五、金刚号 的 获取、送达、配置
 #### a、获取
 请在以下商品中选购：
-ladderxxx
-
+![Image](ladder-wall-sky-358x269.png)
 
 其中包含 金刚号 和 金刚密码。
 
@@ -38,16 +36,14 @@ ladderxxx
 #### c、配置
 
 点击桌面图标：
-icons8
+![Image](icons8-softether-vpn-50-1.png)
 
 弹出如下窗口：
-001b
-
+![Image](配置001B.png)
 双击 添加新的V-P-N连接
 或
 在窗口右击，选 新V-P-N连接设置，弹出如下窗口：
-003b
-
+![Image](配置003B.png)
 
 在该窗口中按照以下规则填写：
 - 红色内容：按照上图内容原样填入
@@ -55,7 +51,7 @@ icons8
 - 其余内容：保持原状
 
 点击 确定，完成配置，窗口关闭，弹出如下窗口。
-005a
+![Image](配置005A.png)
 
 ### 六、连接
 
@@ -66,21 +62,18 @@ icons8
 则 金刚SSL开始尝试连通。
 
 当 状态 从 离线 改变为 已连接 时，说明 金刚SSL连接成功，可自由上网。
-
-005
-
+![Image](配置005.png)
 
 ### 七、日常使用
 
 #### 1、连通 金刚SSL V-P-N
 
 点击桌面图标：
-
-icon
+![Image](icons8-softether-vpn-50-1.png)
 
 
 弹出如下窗口：
-005a(1)
+![Image](配置005A.png)
 
 
 双击 金刚SSL V-P-N
@@ -90,8 +83,7 @@ icon
 则 金刚SSL 开始尝试连通。
 
 当 状态 从 离线 改变为 已连接 时，说明 金刚SSL 连接成功，可自由上网。
-
-005(1)
+![Image](配置005.png)
 
 
 #### 2、切断 金刚SSL
@@ -99,8 +91,7 @@ icon
 右击下图中的 金刚SSL V-P-N
 
 在下拉菜单中选 断开，则切断连接
-
-005a(2)
+![Image](配置005A.png)
 
 
 
