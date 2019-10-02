@@ -29,7 +29,7 @@
 
 - [KKSSL-FREE—免费金刚-测试版](https://www.atozitpro.net/zh/product/kkfree-ssl)
 
-(上面金刚网站已经被墙，必须翻到墙外才能访问)
+(以上金刚网站已经被墙，必须翻墙出来才能访问)
 
 其中包含 金刚号 和 金刚密码。
 
