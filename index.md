@@ -3,11 +3,14 @@
 - 速度更快——比L2型速度更快
 - 自动重连——在连接中断时自动重连
 - 更加健壮——比L2型更加健壮，生命力更强
+
 ### 二、适用设备
 适用于 PC+Windows 环境
+
 ### 三、所需工具
 - 客户端
 - 金刚号
+
 ### 四、客户端 的 下载、安装
 #### 1、下载
 客户端安装包请在此  [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 。
