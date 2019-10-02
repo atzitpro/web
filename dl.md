@@ -1,14 +1,17 @@
-# 金刚提供全方位VPN服务 覆盖您所有智能设备
-## 1. 客户端App翻墙： 安卓手机/平板 
-- [点击下载翻墙神器金刚安卓客户端App](https://github.com/a2zitpro/client/releases/download/2.1/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)） 
+# 翻墙神器金刚 - 全方位VPN服务 覆盖所有智能设备
+## 1. App翻墙： 
+### A. 安卓手机/平板 
+- [点击下载安装翻墙神器金刚安卓客户端App](https://github.com/a2zitpro/client/releases/download/2.1/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)） 
 - 一键翻墙 安全高速 多条线路 免费公测 
 - HTTPS/SSL VPN 
 
-### 苹果客户端尚在开发中
-### [Windows客户端](https://a2zitpro.github.io/web/win)
+### B. 苹果客户端尚在开发中
 
-## 2. 配参数翻墙：苹果手机，iPad， 苹果计算机，Windows计算机，以及安卓等设备 
-- [用email注册后拿到参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg) 
+### C. [Windows客户端说明](https://a2zitpro.github.io/web/win)
+
+## 2. 配参数翻墙：适合所有智能设备
+- 适合 苹果手机，iPad， 苹果计算机，Windows计算机，以及安卓等设备 
+- [用email注册，拿到参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg) 
 - L2TP/IpSec VPN
 
 ![image](l-w-s-athird.png)
