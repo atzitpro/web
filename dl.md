@@ -7,7 +7,7 @@
 
 ### B. 苹果客户端尚在开发中
 
-### C. [Windows客户端说明](https://a2zitpro.github.io/web/win)
+### C. [Windows客户端安装配置说明点击查看](https://a2zitpro.github.io/web/win)
 
 
 ## 2. 配参数翻墙 适合所有智能设备
