@@ -12,7 +12,7 @@
 
 ## 2. 配参数翻墙：适合所有智能设备
 - 适合 苹果手机，iPad， 苹果计算机，Windows计算机，以及安卓等设备 
-- [用email注册，拿到参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg) 
+- [点这里 用email注册，拿到参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg) 
 - L2TP/IpSec VPN
 
 
