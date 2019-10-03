@@ -13,7 +13,7 @@
 
 ## 1. 金刚2.0 App型翻墙梯
 
-### A. 适用于 [安卓手机/安卓平板](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) 
+### A. 适用于 安卓手机/安卓平板
  
 
 - 一键翻墙 安全高速 多条线路 免费公测 
