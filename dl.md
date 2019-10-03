@@ -33,7 +33,7 @@ Windows<br>
   - [Win7](https://a2zitpro.github.io/web/win7)<br>
   - [Win10](https://a2zitpro.github.io/web/win10)<br>
 
-- [点这里 提交您的email注册，获取专属于您的参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_）
+- [点这里 提交您的email注册，获取专属于您的参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_ipsec）
 
 
 
