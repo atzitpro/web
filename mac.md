@@ -56,7 +56,7 @@
 苹果计算机配置屏幕1<br>
 - 接口：选VPN<br>
 - 类型：选<font color="Red"> IPSec上的L2TP </font><br>
-- 在 服务器名称 处填入<font color="Green"> AAA金刚 </font><br>
+- 在 服务器名称 处填入<font color="Red"> AAA金刚 </font><br>
 - 点击 创建<br>
 
 
