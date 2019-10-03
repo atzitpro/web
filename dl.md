@@ -31,7 +31,7 @@
 - 适用于主流智能设备
 
 ### A、参数获取
-- 点这里 [提交您的email注册，获取专属于您的参数、配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg)
+- 点这里 [提交您的email，将在金刚网自动代您注册，自动派送专属于您的参数；配置完您的设备](https://a2zitpro.github.io/web/l2_reg)即可翻墙
 
 
 
