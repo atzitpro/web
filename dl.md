@@ -23,7 +23,7 @@
 ### B. 适用于 苹果手机/平板 金刚2.0客户端
 - 开发中，请耐心等待...
 
-### C. 适用于 [Windows - 点击查看、下载《安装配置说明》](https://a2zitpro.github.io/web/win)
+### C. 适用于 [Windows - 点击下载、安装SSL客户端，查看《配置说明》](https://a2zitpro.github.io/web/win)
 
 
 ## 2. 金刚1.0 配置参数型翻墙梯
