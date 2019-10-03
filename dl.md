@@ -6,22 +6,22 @@
 ## 翻墙神器金刚梯<br> 
 - 金刚公司精心打造<br> 
 - 带您穿越长城、给您全息资讯<br> 
-- 全方位VPN服务、覆盖主流智能设备<br> 
+- 覆盖主流智能设备、全方位VPN护航<br> 
 - 视频流畅、画质清晰<br> 
 - 基于美国法律的用户个人信息和隐私保护<br> 
 <br>
 
-## 1. App翻墙
+## 1. 金刚2.0 App型翻墙梯
 
-### A. [安卓手机/安卓平板](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) 
+### A. [金刚2.0客户端 for 安卓手机/安卓平板](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) 
 - 点击下载、安装翻墙神器[金刚2.0安卓客户端App](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)） 
 - 一键翻墙 安全高速 多条线路 免费公测 
 - HTTPS/SSL VPN 
 
-### B. 苹果手机/平板 
+### B. 金刚2.0客户端 for 苹果手机/平板 金刚2.0客户端
 - 开发中，请耐心等待...
 
-### C. [Windows客户端 - 点击查看、下载《安装配置说明》](https://a2zitpro.github.io/web/win)
+### C. [金刚2.0客户端 for Windows - 点击查看、下载《安装配置说明》](https://a2zitpro.github.io/web/win)
 
 
 ## 2. 配置参数翻墙
