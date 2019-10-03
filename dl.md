@@ -13,13 +13,13 @@
 
 ## 1. 金刚2.0 App型翻墙梯
 
-### A. for [安卓手机/安卓平板](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) 
-php)） 
+### A. 适用于 [安卓手机/安卓平板](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) 
+ 
 
 - 一键翻墙 安全高速 多条线路 免费公测 
-dl_an_1358.
+
 - HTTPS/SSL VPN 
-- 点击下载、安装翻墙神器[金刚2.0安卓客户端App](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/
+- 点击下载、安装翻墙神器[金刚2.0安卓客户端App](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)）
 
 ### B. for 苹果手机/平板 金刚2.0客户端
 - 开发中，请耐心等待...
