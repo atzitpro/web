@@ -55,27 +55,23 @@
 
 苹果计算机配置屏幕1
 
-      接口：选 VPN
-      类型：选<font color="Red"> IPSec上的 L2TP </font>
-      在 服务名称 处填入<font color="Red"> AAA金刚 </font>
+      接口：选VPN
+      类型：选<font color="Red"> IPSec上的L2TP </font>
+      在 服务器名称 处填入<font color="Red"> AAA金刚 </font>
       点击 创建
 
 2、下一窗口填 服务器地址 和 账户名称：
 
 苹果计算机配置屏幕2
-
       在 服务器地址 处填入：<font color="Red"> atz开头的串 </font>
       在 账户名称 处填入：<font color="Red"> 金刚号 </font>
       点击 鉴定设置，弹窗：
 
 苹果计算机配置屏幕3
-
       在 密码 处填入：<font color="Red"> 金刚密码 </font>
-
       在 共享密钥 处填入：<font color="Red"> mft </font>
 
       点击 好、确认 关闭窗口
-
       在前一窗口点击右下角的 高级，选择 通过VPN连接发送所有流量
 
 3、点击 好 回到上一窗口，点 连接，开始连接金刚。
