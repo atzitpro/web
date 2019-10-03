@@ -21,21 +21,25 @@
 ### C. [Windows客户端 - 点击查看、下载《安装配置说明》](https://a2zitpro.github.io/web/win)
 
 
-## 2. 配置参数翻墙 适用于主流智能设备：
-- 《配置说明》：<br>
-苹果手机iPhone<br>
-苹果平板iPad<br>
-苹果计算机<br>
-安卓手机<br>
-安卓平板<br>
-安卓机顶盒<br>
-Windows<br>
-  - [Win7](https://a2zitpro.github.io/web/win7)<br>
-  - [Win10](https://a2zitpro.github.io/web/win10)<br>
-
+## 2. 配置参数翻墙
+适用于主流智能设备：
+### A、参数获取
 - [点这里 提交您的email注册，获取专属于您的参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg)
 
 
+
+
+### B、配置方法、
+- 《配置说明》：<br>
+《苹果手机iPhone配置说明》<br>
+《苹果平板iPad配置说明》<br>
+《苹果计算机配置说明》<br>
+《安卓手机配置说明》<br>
+《安卓平板配置说明》<br>
+《安卓机顶盒配置说明》<br>
+Windows<br>
+  - [《Win7配置说明》](https://a2zitpro.github.io/web/win7)<br>
+  - [《Win10配置说明》](https://a2zitpro.github.io/web/win10)<br>
 
 **联系金刚客服**：
   * [直接发电邮给客服 电邮地址](mailto:cs@a2zitpro.com)，让我们来帮您。
