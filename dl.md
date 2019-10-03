@@ -30,8 +30,8 @@
 安卓平板<br>
 安卓机顶盒<br>
 Windows<br>
-  - [Win7](https://github.com/a2zitpro/web/win7)<br>
-  - [Win10](https://github.com/a2zitpro/web/win10)<br>
+  - [Win7](https://a2zitpro.github.io/web/win7)<br>
+  - [Win10](https://a2zitpro.github.io/web/win10)<br>
 
 - [点这里 提交您的email注册，获取专属于您的参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_）
 
