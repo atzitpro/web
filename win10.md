@@ -10,14 +10,14 @@
 4. 不足：连接易中断，中断后需要手动重连。在信号较弱、源切换、手机黑屏时，连接将中断。
 
 
-<font color="Black">### 二、适用设备</font>
+<font color="Black"> ### 二、适用设备</font>
 适用于 PC+Win10 环境
 
-<font color="Black">### 三、所需工具</font>
+<font color="Black"> ### 三、所需工具</font>
 - PC+Win10
 - 金刚号（非c9开头）及配套参数
 
-<font color="Black">### 四、金刚号的获取、送达、配置</font>
+<font color="Black"> ### 四、金刚号的获取、送达、配置</font>
 #### a、获取
 
 如果您已持有金刚号（非c9开头），则请勿略此条<br>
@@ -69,11 +69,11 @@
 总之，您需要在 网络设置 里找到 设置新的网络连接，创建一个 VPN连接，然后按照以上叙述，把 绿色内容 与 红色内容 填入正确的位置，或按照 红色内容 做正确的选择。
 
 
-<font color="Black">### 五、连接</font>
+<font color="Black"> ### 五、连接</font>
 
 
 
-<font color="Black">### 六、日常使用</font>
+<font color="Black"> ### 六、日常使用</font>
 
 #### 1、连通您的金刚号
 
