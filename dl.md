@@ -1,13 +1,14 @@
+# 美国金刚公司一一
 
 ![image](l-w-s-athird.png)
 
 
 # 翻墙神器金刚梯<br> 
-美国金刚公司精心打造<br> 
-带您穿越长城、给您全息资讯<br> 
-全方位VPN服务、覆盖主流智能设备<br> 
-视频流畅、画质清晰<br> 
-基于美国法律的个人信息和隐私保护<br> 
+- 金刚公司精心打造<br> 
+- 带您穿越长城、给您全息资讯<br> 
+- 全方位VPN服务、覆盖主流智能设备<br> 
+- 视频流畅、画质清晰<br> 
+- 基于美国法律的个人信息和隐私保护<br> 
 <br>
 ## 1. App翻墙
 ### A. [安卓手机/安卓平板](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) 
@@ -16,15 +17,16 @@
 - HTTPS/SSL VPN 
 
 ### B. 苹果手机/平板 
-- 开发中...
+- 开发中，请耐心等待...
 
 ### C. [Windows客户端 - 点击查看、下载《安装配置说明》](https://a2zitpro.github.io/web/win)
 
 
 ## 2. 配置参数翻墙
-适用于主流智能设备：
+- 适用于主流智能设备
+
 ### A、参数获取
-- [点这里 提交您的email注册，获取专属于您的参数, 配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg)
+- 点这里 [提交您的email注册，获取专属于您的参数、配置您的设备即可翻墙](https://a2zitpro.github.io/web/l2_reg)
 
 
 
