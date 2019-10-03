@@ -12,8 +12,9 @@
 <br>
 
 ## 1. App翻墙
+
 ### A. [安卓手机/安卓平板](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) 
-- [点击下载、安装翻墙神器金刚安卓客户端App](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)） 
+- 点击下载、安装翻墙神器[金刚2.0安卓客户端App](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)） 
 - 一键翻墙 安全高速 多条线路 免费公测 
 - HTTPS/SSL VPN 
 
