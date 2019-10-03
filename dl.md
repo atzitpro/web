@@ -20,7 +20,7 @@
 - HTTPS/SSL VPN 
 - 点击下载、安装翻墙神器[金刚2.0安卓客户端App](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)）
 
-### B. 适用于 苹果手机/平板 金刚2.0客户端
+### B. 适用于 苹果手机/平板
 - 开发中，请耐心等待...
 
 ### C. 适用于 [Windows - 点击下载、安装SSL客户端，查看《配置说明》](https://a2zitpro.github.io/web/win)
