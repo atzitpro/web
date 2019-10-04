@@ -18,7 +18,7 @@
 
 - 一键翻墙 安全高速 多条线路 免费公测 
 - HTTPS/SSL VPN 
-- 点击链接，下载、安装翻墙神器[金刚2.0 安卓客户端App](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) （ [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)）<br>
+- 点击链接，下载、安装翻墙神器[金刚2.0 安卓客户端App](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) / [下载网址2](https://myfasttrack.org/midman/dl_an_1358.php)<br>
 <br>
 <font color="Red">【重要提醒】 </font>
   - 当点击以上链接无法下载时，请长按链接、复制链接网址，将其粘贴到您确定安全的浏览器比如chrome地址栏中再前往下载
