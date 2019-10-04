@@ -23,7 +23,7 @@
 #### a、获取
 
 如果您已持有金刚号（非c9开头），则请勿略此条<br>
-如果您尚无金刚号（非c9开头），则在 [金刚网>商店](https://www.atozitpro.net/zh/shop/) 里选购L2型金刚号（点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
+如果您尚无金刚号（非c9开头），则在[ 金刚网 > 商店 ](https://www.atozitpro.net/zh/shop/) 里选购L2型金刚号（点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
 
 其中包含：<br>
 - 金刚号<br>
@@ -45,13 +45,13 @@
 #### c、配置
 ![image](24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
 1、点开手机主屏上的 设置 > 通用 > VPN > 添加VPN配置… 弹出上图<br>
-2、在 类型 的 IKEv2、IPsec、L2TP 三个选项中：选 L2TP<br>
+2、在 类型 的 IKEv2、IPsec、L2TP 三个选项中：选<font color="Red"> L2TP </font><br>
 3、在 描述 处填入：<font color="Red"> AAA金刚 </font><br>
-4、在 服务器  处填入：<font color="Red"> atz 开头的串 </font><br>
-5、在 账户  处填入：<font color="Green"> 金刚号 </font><br>
+4、在 服务器 处填入：<font color="Red"> atz 开头的串 </font><br>
+5、在 账户 处填入：<font color="Green"> 金刚号 </font><br>
 6、RSASecurID 开关：关闭<br>
-7、在 密码  处填入：<font color="Green"> 金刚密码 </font><br>
-8、在 密钥  处填入：<font color="Red"> mft </font><br>
+7、在 密码 处填入：<font color="Green"> 金刚密码 </font><br>
+8、在 密钥 处填入：<font color="Red"> mft </font><br>
 9、发送所有流量 开关：打开<br>
 10、在 代理 的 关闭、手动、自动 三个选项中：选 关闭<br>
 11、点击右上角的 完成<br>
