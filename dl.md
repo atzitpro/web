@@ -40,8 +40,8 @@
 
 
 ### B、配置说明
-- [《苹果手机iPhone配置说明》](https://a2zitpro.github.io/web/iOS)<br>
-- [《苹果平板iPad配置说明》](https://a2zitpro.github.io/web/iOS)<br>
+- [《苹果手机iPhone配置说明》](https://a2zitpro.github.io/web/ios)<br>
+- [《苹果平板iPad配置说明》](https://a2zitpro.github.io/web/ios)<br>
 - [《苹果计算机MacOS配置说明》](https://a2zitpro.github.io/web/mac)<br>
 - 《安卓手机配置说明》<br>
 - 《安卓平板配置说明》<br>
