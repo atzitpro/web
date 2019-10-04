@@ -38,7 +38,6 @@
 - 点击链接，[提交您的email，将自动在金刚网代您注册、自动派送专属于您的参数；当您将参数配置入您的设备后](https://a2zitpro.github.io/web/l2_reg)即可翻墙
 
 
-
 ### B、配置说明
 - [《苹果手机iPhone配置说明》](https://a2zitpro.github.io/web/ios)<br>
 - [《苹果平板iPad配置说明》](https://a2zitpro.github.io/web/ios)<br>
