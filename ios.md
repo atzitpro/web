@@ -44,8 +44,6 @@
 
 #### c、配置
 ![image](C43E1AFE-A9D8-48EF-915C-4416A8F02FB7.png)
-
-
 1、点开手机主屏上的 设置 > 通用 > VPN > 添加VPN配置… 弹出上图
 2、在 类型 的 IKEv2、IPsec、L2TP 三个选项中：选 L2TP
 3、在 描述 处填入：AAA金刚
