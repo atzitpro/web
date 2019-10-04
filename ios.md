@@ -46,16 +46,16 @@
 ![image](24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
 1、点开手机主屏上的 设置 > 通用 > VPN > 添加VPN配置… 弹出上图<br>
 2、在 类型 的 IKEv2、IPsec、L2TP 三个选项中：选 L2TP<br>
-3、在 描述 处填入：AAA金刚<br>
-4、在 服务器  处填入：atz 开头的串<br>
-5、在 账户  处填入：金刚号<br>
+3、在 描述 处填入：<font color="Red"> AAA金刚 </font><br>
+4、在 服务器  处填入：<font color="Red"> atz 开头的串 </font><br>
+5、在 账户  处填入：<font color="Green"> 金刚号 </font><br>
 6、RSASecurID 开关：关闭<br>
-7、在 密码  处填入：金刚密码<br>
-8、在 密钥  处填入：mft<br>
+7、在 密码  处填入：<font color="Green"> 金刚密码 </font><br>
+8、在 密钥  处填入：<font color="Red"> mft </font><br>
 9、发送所有流量 开关：打开<br>
 10、在 代理 的 关闭、手动、自动 三个选项中：选 关闭<br>
 11、点击右上角的 完成<br>
-12、如果已安装多个 VPN 工具，则应勾选刚刚创建的 AAA金刚，确保 蓝色的勾 打在 AAA金刚 的左侧，不可打在其他VPN工具上<br>
+12、如果已安装多个 VPN 工具，则应勾选刚刚创建的<font color="Red"> AAA金刚 </font>，确保 蓝色的勾 打在 AAA金刚 的左侧，不可打在其他VPN工具上<br>
 13、状态开关：打开，开始连接金刚<br>
 14、屏幕顶端出现 带框VPN 图标，表示 金刚连接成功，可自由上网<br>
 15、下载谷歌浏览器 Chrome 和 YouTube 视频播放器<br>
