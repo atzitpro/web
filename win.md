@@ -15,7 +15,7 @@
 
 ### 四、客户端 的 下载、安装
 #### 1、下载
-客户端安装包请在此  [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 。
+客户端安装包请在此 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 。
 #### 2、安装
 在下载文件夹内，点击安装包，开始安装。
 ![Image](安装001B.png)
@@ -27,11 +27,15 @@
 
 ### 五、金刚号 的 获取、送达、配置
 #### a、获取
-请在[金刚网站商店](https://www.atozitpro.net/zh/shop/)里选购KKSSL-FREE-免费金刚： 
+
+- 如果您已持有c9开头金刚号，则请勿略此条<br>
+- 如果您尚无c9开头金刚号，则在[ 金刚网 > 商店 ](https://www.atozitpro.net/zh/shop/) 里选购L2型金刚号（点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
+
+请在[ 金刚网 > 商店 ](https://www.atozitpro.net/zh/shop/)里选购SSL型免费金刚号： 
 
 - [KKSSL-FREE—免费金刚-测试版](https://www.atozitpro.net/zh/product/kkfree-ssl)
 
-(以上金刚网站已经被墙，必须翻墙出来才能访问)
+（点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
 
 其中包含 金刚号 和 金刚密码。
 
@@ -50,9 +54,9 @@
 
 弹出如下窗口：
 ![Image](配置001B.png)
-双击 添加新的V-P-N连接
+双击 添加新的VPN连接
 或
-在窗口右击，选 新V-P-N连接设置，弹出如下窗口：
+在窗口右击，选 新VPN连接设置，弹出如下窗口：
 ![Image](配置003B.png)
 
 在该窗口中按照以下规则填写：
@@ -65,7 +69,7 @@
 
 ### 六、连接
 
-双击 金刚SSL V-P-N
+双击 金刚SSL VPN
 
 或 右击，选 连接
 
@@ -76,7 +80,7 @@
 
 ### 七、日常使用
 
-#### 1、连通 金刚SSL V-P-N
+#### 1、连通 金刚SSL VPN
 
 点击桌面图标：
 ![Image](icons8-softether-vpn-50-1.png)
@@ -86,7 +90,7 @@
 ![Image](配置005A.png)
 
 
-双击 金刚SSL V-P-N
+双击 金刚SSL VPN
 
 或 右击，选 连接
 
@@ -98,10 +102,9 @@
 
 #### 2、切断 金刚SSL
 
-右击下图中的 金刚SSL V-P-N
+右击下图中的 金刚SSL VPN
 
 在下拉菜单中选 断开，则切断连接
 ![Image](配置005A.png)
-
 
 
