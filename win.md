@@ -33,7 +33,7 @@
 
 请在[ 金刚网 > 商店 ](https://www.atozitpro.net/zh/shop/)里选购SSL型免费金刚号： 
 
-- [KKSSL-FREE—免费金刚-测试版](https://www.atozitpro.net/zh/product/kkfree-ssl)
+- [KKSSL-FREE—当下免费金刚号](https://www.atozitpro.net/zh/product/kkfree-ssl)
 
 （点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
 
