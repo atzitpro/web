@@ -56,21 +56,21 @@
 
 6、在 添加VPN网络屏 内点 类型 所在的行
 
-7、在 类型 的 6 个选项中：选  L2…/IPSec PSK
+7、在 类型 的 6 个选项中：选<font color="Red"> L2…/IPSec PSK </font>
 
-8、在 名称 处填入：AAA金刚
+8、在 名称 处填入：<font color="Red"> AAA金刚
 
-9、在 服务器 或 服务器地址  处填入：atz开头的串
+9、在 服务器 或 服务器地址  处填入：<font color="Red"> atz开头的串 </font>
 
-10、在 L2…密钥 处：保持空白
+10、在 L2…密钥 处：<font color="Red"> 保持空白 </font>
 
-11、在 IPSec标识符 处：保持空白
+11、在 IPSec标识符 处：<font color="Red"> 保持空白 </font>
 
-12、在 IPSec预共享密钥 处填入：mft
+12、在 IPSec预共享密钥 处填入：<font color="Red"> mft </font>
 
-13、在 用户名 处填入：金刚号
+13、在 用户名 处填入：<font color="Green"> 金刚号 </font>
 
-14、在 密码 处填入：金刚密码
+14、在 密码 处填入：<font color="Green"> 金刚密码 </font>
 
 15、应勾选 记住用户名和密码 （有的安卓手机该项叫 保存用户信息 ）
 
