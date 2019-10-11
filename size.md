@@ -4,13 +4,11 @@
 30GB <br>
 90GB <br>
 300GB <br>
-<br>
 
 2、半年包<br>
 180GB <br>
 540GB <br>
 1800GB <br>
-<br>
 
 3、年包<br>
 360GB <br>
