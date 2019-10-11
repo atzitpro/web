@@ -3,7 +3,7 @@ Q01、金刚1.0 配置参数型翻墙梯怎么收费？
 
 Q02、金刚提供免费流量吗？
 
-Q03、[流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/Packagesize.md)
+Q03、[流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/Size.md)
 
 Q04、流量包有效期有哪几种？
 
