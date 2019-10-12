@@ -10,7 +10,7 @@ Q04、[流量包有效期有哪几种？](https://a2zitpro.github.io/web/流量�
 
 Q05、[流量包的有效期从何时开始起算？](https://a2zitpro.github.io/web/流量包的有效期从何时开始起算)
 
-Q06、哪些情景属于 即买即用？
+Q06、[哪些情景属于 即买即用？](https://a2zitpro.github.io/web/哪些情景属于即买即用)
 
 Q07、哪些情景属于 预购下一期流量？
 
