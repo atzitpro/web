@@ -14,4 +14,4 @@ Q06、[哪些情景属于 即买即用？](https://a2zitpro.github.io/web/哪些
 
 Q07、[哪些情景属于 预购下一期流量？](https://a2zitpro.github.io/web/哪些情景属于预购下一期流量)
 
-Q08、[流量包过期后，剩余流量还可以用吗？](https://a2zitpro.github.io/web/流量包过期后剩余流量还可以用吗)
+Q08、[流量包过期后，包内剩余流量还可以用吗？](https://a2zitpro.github.io/web/流量包过期后剩余流量还可以用吗)
