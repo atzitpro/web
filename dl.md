@@ -51,7 +51,7 @@
 ### 2. 问题与解答
 
 Q. [价格、流量、流量有效期](https://a2zitpro.github.io/web/price_of_L2TP)<br>
-Q. 积分
+Q. [积分](https://a2zitpro.github.io/web/积分)
 
 Q0001、积分与美元价格是怎样的关系？
 
