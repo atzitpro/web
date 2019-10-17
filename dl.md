@@ -46,7 +46,7 @@
   - [《Win10配置说明》](https://a2zitpro.github.io/web/win10)<br>
 
 **联系金刚客服**：
-  * 让客服来帮您：直接[发电邮给客服](mailto:cs@a2zitpro.com)
+  * 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
 
 ### 2. 问题与解答
 [关于金刚1.0 若干问题及解答](https://a2zitpro.github.io/web/问题与解答)
