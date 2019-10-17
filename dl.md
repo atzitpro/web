@@ -23,7 +23,7 @@
 - 开发中，请耐心等待...
 
 ### 3. 适用于 Windows 
-- 在PC+Windows环境中点击链接，下载、安装[SSL客户端](https://a2zitpro.github.io/web/win)，查看[《配置说明》](https://a2zitpro.github.io/web/win)
+- 在PC+Windows环境中，点击链接，下载、安装[SSL客户端](https://a2zitpro.github.io/web/win)，查看[《配置说明》](https://a2zitpro.github.io/web/win)
 
 
 ## 二. 金刚1.0 配置参数型翻墙梯
@@ -31,7 +31,7 @@
 
 ### 1. 预备工作
 #### A. 参数获取
-- 点击链接，[提交您的email，将自动在金刚网代您注册、自动派送专属于您的金刚号等参数](https://a2zitpro.github.io/web/l2_reg)。将参数配置入您的设备后，即可翻墙
+- 点击链接，[提交您的email] (https://a2zitpro.github.io/web/l2_reg)，将自动在金刚网代您注册、自动派送专属于您的万能[金刚号](https://a2zitpro.github.io/web/金刚号)。将参数配置入您的设备后，即可翻墙
 
 
 #### B. 配置说明
