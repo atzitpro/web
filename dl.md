@@ -34,7 +34,7 @@
 - 点击链接，[提交您的email，将自动在金刚网代您注册、自动派送专属于您的金刚号等参数](https://a2zitpro.github.io/web/l2_reg)。将参数配置入您的设备后，即可翻墙
 
 
-### B. 配置说明
+#### B. 配置说明
 - [《苹果手机iPhone配置说明》](https://a2zitpro.github.io/web/ios)<br>
 - [《苹果平板iPad配置说明》](https://a2zitpro.github.io/web/ios)<br>
 - [《苹果计算机MacOS配置说明》](https://a2zitpro.github.io/web/mac)<br>
@@ -45,7 +45,7 @@
   - [《Win7配置说明》](https://a2zitpro.github.io/web/win7)<br>
   - [《Win10配置说明》](https://a2zitpro.github.io/web/win10)<br>
 
-### C. 联系客服
+#### C. 联系客服
   - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
 
 ### 2. 问题与解答
