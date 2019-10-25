@@ -4,6 +4,8 @@
 
 [什么是流量？](https://a2zitpro.github.io/web/流量)
 
+[什么是流量包？](https://a2zitpro.github.io/web/流量包)
+
 [金刚提供免费流量吗？](https://a2zitpro.github.io/web/免费流量)
 
 [流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/size)
