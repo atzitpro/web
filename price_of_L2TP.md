@@ -30,10 +30,6 @@
 
 [我刚付完购买流量的费用，为何又收到续费提醒邮件？](https://a2zitpro.github.io/web/)
 
-[可用短命邮箱注册吗？](https://a2zitpro.github.io/web/短命邮箱注册)
-
-[]()
-
 []()
 
 []()
