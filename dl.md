@@ -59,7 +59,7 @@
 
 
 #### B. 配置说明
-- [万能金刚号在各种配置说明》](https://a2zitpro.github.io/web/配置说明)<br>
+- [《万能金刚号在各种配置说明》](https://a2zitpro.github.io/web/配置说明)<br>
 
 
 #### C. 配置
