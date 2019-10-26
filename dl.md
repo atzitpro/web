@@ -31,8 +31,8 @@
 ### 3. 适用于 Windows
 #### A、特色
 - 视频画面与PC等大，节省视力
-- 居家观看，坐卧皆可
 - 当下免费，节省金钱
+
 #### B、获取
 - 在PC+Windows环境中，点击链接，下载、安装[ SSL客户端 ](https://a2zitpro.github.io/web/win)，查看[《配置说明》](https://a2zitpro.github.io/web/win)
 
