@@ -51,23 +51,23 @@
 - 请留意收取《派号通知单》邮件
 ### 3. 配置
 
-- 将[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)送入您的设备（比如手机）后，即可翻墙
+- 将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)配入您的设备（比如手机）后，即可翻墙
 
 #### A. 配置说明
 
-- 万能金刚号在主流智能设备上的[配置说明](https://a2zitpro.github.io/web/配置说明)<br>
+- [ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[配置说明](https://a2zitpro.github.io/web/配置说明)<br>
 
 
 #### B. 配置
-- 严格按照[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)把[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)及[ 配套参数 ](https://a2zitpro.github.io/web/配套参数)正确送入手机或其他设备
+- 严格按照[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)把[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)及[ 配套参数 ](https://a2zitpro.github.io/web/配套参数)正确送入手机或其他设备
 
 #### C. 配置注意事项
 
-- 万能金刚号在主流智能设备上的[配置注意事项](https://a2zitpro.github.io/web/配置注意事项)<br>
+- [ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备] (https://a2zitpro.github.io/web/万能金刚号)上的[配置注意事项](https://a2zitpro.github.io/web/配置注意事项)<br>
 
-### 4. 使用
+### 4. 翻墙
 
-- 连通金刚号，即可翻墙，畅游囯际互联网
+- 连通[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)，即可翻墙，畅游囯际互联网
 
 ### 5. 联系客服
   - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
