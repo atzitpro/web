@@ -46,7 +46,7 @@
 
 ### 2. 预备工作
 #### A. [ 金刚号 ](https://a2zitpro.github.io/web/金刚号)获取
-- 点击链接，[ 提交您的email](https://a2zitpro.github.io/web/l2_reg)，将自动在[ 金刚网 ](https://www.atozitpro.net/zh/)代您注册、自动派送专属于您的万能[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)。将[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)送入您的设备（比如手机）后，即可翻墙
+- 点击链接，[ 提交您的email](https://a2zitpro.github.io/web/l2_reg)，将自动在[ 金刚网 ](https://www.atozitpro.net/zh/)代您注册、自动派送专属于您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)。将[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)送入您的设备（比如手机）后，即可翻墙
 
 
 #### B. 配置说明
