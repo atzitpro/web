@@ -70,7 +70,7 @@
   - [《Win10配置说明》](https://a2zitpro.github.io/web/win10)<br>
 
 #### C. 配置
-- 严格按照[ 配置说明 ]()把[ 金刚号 ]()及[ 配套参数 ]()正确送入手机或其他设备
+- 严格按照[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)把[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)及[ 配套参数 ](https://a2zitpro.github.io/web/配套参数)正确送入手机或其他设备
 - 连通金刚号，即可翻墙
 - 配置注意事项<br>
   - 务必逐字录入，切勿复制粘贴
