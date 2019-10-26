@@ -59,7 +59,7 @@
 
 
 #### B. 配置说明
-- [万能金刚号在主流智能设备上的配置说明](https://a2zitpro.github.io/web/配置说明)<br>
+- 万能金刚号在主流智能设备上的[配置说明](https://a2zitpro.github.io/web/配置说明)<br>
 
 
 #### C. 配置
@@ -70,7 +70,7 @@
 
 - 万能金刚号在主流智能设备上的[配置注意事项](https://a2zitpro.github.io/web/配置注意事项)<br>
 
-#### D. 联系客服
+#### E. 联系客服
   - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
 
 ## 三、问题与解答
