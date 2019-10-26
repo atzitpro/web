@@ -7,7 +7,7 @@
 ####     带您穿越长城
 ####     给您全息资讯
 
-<font color="Black">高速 </font>视频流畅且清晰<br>
+** 高速 ** 视频流畅且清晰<br>
 <font color="Black">方便 </font>不用下载App 四条参数就搞定<br>
 适用安卓、苹果和Windows <br>
     
