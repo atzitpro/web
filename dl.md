@@ -45,7 +45,7 @@
 
 ### 2. 注册
 
-- 点击链接，[ 提交您的email](https://a2zitpro.github.io/web/l2_reg)，将自动在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)代您注册
+- [点击此处](https://a2zitpro.github.io/web/l2_reg)，提交您的email，将自动在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)代您注册
 
 ### 3. 取号
 - 代注成功之后，金刚网将自动派送专属于您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)到您的注册邮箱。
