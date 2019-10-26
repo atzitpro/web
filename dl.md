@@ -48,7 +48,7 @@
 
 
 - 随需而变，全天陪伴<br>
-  - [一号万能](https://a2zitpro.github.io/web/万能金刚号)一一同一[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)可配入主流智能设备
+  - [一号万能](https://a2zitpro.github.io/web/万能金刚号)一一同一[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)可配入[主流智能设备](https://a2zitpro.github.io/web/金刚号)
   - 无论何时何地，全球资讯，信手拈来
   - 既可播放于手机、平板，又可播放于PC、TV
 
