@@ -49,4 +49,4 @@
   - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
 
 ## 三、问题与解答
-[若干问题及解答](https://a2zitpro.github.io/web/问题与解答)
+[问题及解答](https://a2zitpro.github.io/web/问题与解答)
