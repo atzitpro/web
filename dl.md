@@ -44,12 +44,17 @@
  
 
 ### 2. 注册、取号
-#### A. [ 金刚号 ](https://a2zitpro.github.io/web/金刚号)获取
-- 点击链接，[ 提交您的email](https://a2zitpro.github.io/web/l2_reg)，将自动在[ 金刚网 ](https://www.atozitpro.net/zh/)代您注册、自动派送专属于您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)。将[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)送入您的设备（比如手机）后，即可翻墙
-
+#### A. 注册[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)获取
+- 点击链接，[ 提交您的email](https://a2zitpro.github.io/web/l2_reg)，将自动在[ 金刚网 ](https://www.atozitpro.net/zh/)代您注册
+#### B. 取号
+- 代注之后，金刚网将自动派送专属于您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)到您的注册邮箱。
+- 请留意收取《派号通知单》邮件
 ### 3. 配置
 
+- 将[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)送入您的设备（比如手机）后，即可翻墙
+
 #### A. 配置说明
+
 - 万能金刚号在主流智能设备上的[配置说明](https://a2zitpro.github.io/web/配置说明)<br>
 
 
