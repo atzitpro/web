@@ -47,7 +47,7 @@
   - 9部设备共享该[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)内流量<br>
 
 
-- 随需而变，全天陪伴<br>
+- 适用面宽，随需而变<br>
   - [一号万能](https://a2zitpro.github.io/web/万能金刚号)一一同一[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)可配入[主流智能设备](https://a2zitpro.github.io/web/万能金刚号)
   - 无论何时何地，全球资讯，信手拈来
   - 既可播放于手机、平板，又可播放于PC、TV
@@ -59,15 +59,8 @@
 
 
 #### B. 配置说明
-- [《苹果手机iPhone配置说明》](https://a2zitpro.github.io/web/ios)<br>
-- [《苹果平板iPad配置说明》](https://a2zitpro.github.io/web/ios)<br>
-- [《苹果计算机MacOS配置说明》](https://a2zitpro.github.io/web/mac)<br>
-- [《安卓手机配置说明》](https://a2zitpro.github.io/web/android)<br>
-- [《安卓平板配置说明》](https://a2zitpro.github.io/web/android)<br>
-- [《安卓机顶盒配置说明》]()<br>
-- Windows<br>
-  - [《Win7配置说明》](https://a2zitpro.github.io/web/win7)<br>
-  - [《Win10配置说明》](https://a2zitpro.github.io/web/win10)<br>
+- [万能金刚号在各种配置说明》](https://a2zitpro.github.io/web/配置说明)<br>
+
 
 #### C. 配置
 - 严格按照[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)把[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)及[ 配套参数 ](https://a2zitpro.github.io/web/配套参数)正确送入手机或其他设备
