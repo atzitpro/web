@@ -61,7 +61,7 @@
 
 
 #### B. 配置
-- 严格按照[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)把[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)及[ 配套参数 ](https://a2zitpro.github.io/web/配套参数)正确送入手机或其他设备
+- 严格按照[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)把[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)及[ 配套参数 ](https://a2zitpro.github.io/web/配套参数)正确配入手机或其他设备
 
 #### C. 配置注意事项
 
