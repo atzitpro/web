@@ -43,15 +43,15 @@
 - [ 万能号 ](https://a2zitpro.github.io/web/万能金刚号)：一号万能，多机通用
  
 
-### 2. 注册、取号
-#### A. 注册
+### 2. 注册
+
 - 点击链接，[ 提交您的email](https://a2zitpro.github.io/web/l2_reg)，将自动在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)代您注册
 
-#### B. 取号
+### 3. 取号
 - 代注成功之后，金刚网将自动派送专属于您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)到您的注册邮箱。
 - 请留意收取《派号通知单》邮件
 
-### 3. 配置
+### 4. 配置
 
 - 将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)配入您的设备（比如手机）后，即可翻墙
 
@@ -67,11 +67,11 @@
 
 - [ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备](https://a2zitpro.github.io/web/万能金刚号)上的[配置注意事项](https://a2zitpro.github.io/web/配置注意事项)<br>
 
-### 4. 翻墙
+### 5. 翻墙
 
 - 连通[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)，即可翻墙，畅游囯际互联网
 
-### 5. 联系客服
+### 6. 联系客服
   - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
 
 ## 三、问题与解答
