@@ -26,7 +26,7 @@
 - 在PC+Windows环境中，点击链接，下载、安装[ SSL客户端 ](https://a2zitpro.github.io/web/win)，查看[《配置说明》](https://a2zitpro.github.io/web/win)
 
 
-## 二. 金刚1.0 配置参数型翻墙梯
+## 二. 金刚1.0 配置金刚号型翻墙梯
 - 适用于主流智能设备
 
 ### 1. 预备工作
