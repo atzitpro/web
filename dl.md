@@ -53,11 +53,11 @@
 
 ### 4. 配置
 
-- 请按《派号通知单》指引，将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)配入您的设备（比如手机）后，即可翻墙
+- 请按《派号通知单》或以下《配置说明》指引，将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)配入您的设备（比如手机）后，即可翻墙
 
 #### A. 配置说明
 
-- [ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)<br>
+- 获取[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)<br>
 
 
 #### B. 配置
