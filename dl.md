@@ -52,16 +52,13 @@
 - 请留意收取《派号通知单》邮件
 
 ### 4. 配置
-
-- 请按《派号通知单》或以下《配置说明》指引，将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)配入您的设备（比如手机）后，即可翻墙
-
 #### A. 配置说明
 
 - 获取《[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)》<br>
 
 
 #### B. 配置
-- 严格按照[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)把[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)及[ 配套参数 ](https://a2zitpro.github.io/web/金刚号的配套参数)正确配入手机或其他设备
+- 请严格按照《派号通知单》或[《配置说明》](https://a2zitpro.github.io/web/配置说明)指引，将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号) 及[ 配套参数 ](https://a2zitpro.github.io/web/金刚号的配套参数)正确配入手机或其他设备后，即可翻墙
 
 #### C. 配置注意事项
 
