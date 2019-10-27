@@ -57,7 +57,7 @@
 
 #### A. 配置说明
 
-- 获取[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)<br>
+- 获取《[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)》<br>
 
 
 #### B. 配置
