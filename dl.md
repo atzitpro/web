@@ -62,7 +62,7 @@
 
 #### C. 配置注意事项
 
-- [ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备](https://a2zitpro.github.io/web/万能金刚号)上的[配置注意事项](https://a2zitpro.github.io/web/配置注意事项)<br>
+- [ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[ 配置注意事项 ](https://a2zitpro.github.io/web/配置注意事项)<br>
 
 ### 5. 翻墙
 
