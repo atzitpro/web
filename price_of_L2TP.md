@@ -22,7 +22,7 @@
 
 [如何识别流量过期？](https://a2zitpro.github.io/web/流量过期的识别)
 
-[为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？]()
+[为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/区分流量提前耗尽与流量过期的原因)
 
 [流量提前耗尽后我该怎么办？]()
 
