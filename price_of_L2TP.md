@@ -16,7 +16,11 @@
 
 [什么是流量提前耗尽？](https://a2zitpro.github.io/web/流量提前耗尽)
 
+[如何识别流量提前耗尽？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
+
 [什么是流量过期？](https://a2zitpro.github.io/web/流量过期)
+
+[如何识别流量过期？](https://a2zitpro.github.io/web/流量过期的识别)
 
 [如何区分流量提前耗尽与流量过期？]()
 
