@@ -12,7 +12,7 @@
 
 [流量包有效期有哪几种？](https://a2zitpro.github.io/web/流量包有效期)
 
-[如何查询我的某个金刚号还是剩多少流量](https://a2zitpro.github.io/web/查询金刚号)
+[如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/查询名下金刚号)
 
 [流量包的有效期从何时开始起算？](https://a2zitpro.github.io/web/流量包的有效期从何时开始起算)
 
