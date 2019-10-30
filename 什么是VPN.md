@@ -1,4 +1,4 @@
-### 问：VPN是什么？
+### 问：什么是VPN？
 
 答：
 VPN是英文Virtual Private Network的缩写。译为中文是“虚拟私人网络”。
