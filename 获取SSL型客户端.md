@@ -4,4 +4,4 @@
 - 点击此处[ 阅读配置说明并下载 ](https://a2zitpro.github.io/web/win)
 
 #### 推荐阅读
-- [ 问题与解答 ](https://a2zitpro.github.io/web/问题与解答)
+- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
