@@ -1,7 +1,7 @@
 ### 关于VPN及相关问题
 [关于VPN](https://a2zitpro.github.io/web/什么是VPN)
 
-[关于VPS]()
+[关于VPS](https://a2zitpro.github.io/web/什么是VPS)
 
 [关于代理服务器](https://a2zitpro.github.io/web/代理服务器)
 
