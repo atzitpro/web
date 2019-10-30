@@ -5,7 +5,7 @@
 
 [关于代理服务器](https://a2zitpro.github.io/web/代理服务器)
 
-[关于VPN与代理服务器的区别]( )
+[关于VPN与代理服务器的区别](https://a2zitpro.github.io/web/VPN与代理服务器的区别)
 
 
 #### 推荐阅读
