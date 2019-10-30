@@ -20,4 +20,8 @@
 
 <!-- 
 Hidden text - testing...
+
+2.2 20191023 - revised 22:02PM 
+kkGenesis L60U65blURDCMoH/OvmtBMD7h5ga+p/ikdC4VWT7sW3yEnwqgWy/MhSjsCnlnF6H7/xwCJ0pYqtcchueyFHMIQQL21cAK4UBHL7m6AVRmIsYVwhMseLwZflJMHnll4rgzTEbqi0C6aeKt/nSQqbv/b82iiOv2N+MbG/q7OYV4+b1+raEHFdWfRwQAPk4KoTDt2OoWFC23CA8MaLq4U0yA5TAiAAhzdW35frVGVa9o+aHVhH/0sdNMQTC7VA3CU65gJ4HRCG/ijVezWy0WsVEr34G+QlpypK/Q0wuCyXs5inga1mF62C+ujh4R3+8kqCIR2V9boMnE5niuT4BPQljLTfgTvOTKMCju4hYeg2OZJ5so2//yB6zO3GwSBMlG05t6GnAbcBb9Cab7uewh9fu/xNVdcPthns3MEGIOn0vh/8= kkRevelation
+
 -->
