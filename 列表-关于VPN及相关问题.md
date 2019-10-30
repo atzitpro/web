@@ -1,5 +1,5 @@
 ### 关于VPN及相关问题
-[关于VPN](https://a2zitpro.github.io/web/aboutvpn)
+[关于VPN](https://a2zitpro.github.io/web/什么是VPN)
 
 [关于VPS]()
 
