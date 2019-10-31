@@ -49,7 +49,7 @@
 
 ### 3. 取号
 - 代注成功之后，金刚网将自动派送专属于您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)到您的注册邮箱。
-- 请留意收取《派号通知单》邮件
+- 请留意收取<font color="Red">《派号通知单》</font>邮件
 
 ### 4. 配置
 #### A. 配置说明
@@ -58,7 +58,7 @@
 
 
 #### B. 配置
-- 请严格按照《派号通知单》或[《配置说明》](https://a2zitpro.github.io/web/配置说明)指引，将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号) 及[ 配套参数 ](https://a2zitpro.github.io/web/金刚号的配套参数)正确配入手机或其他设备后，即可翻墙
+- 请严格按照<font color="Red">《派号通知单》</font>或[《配置说明》](https://a2zitpro.github.io/web/配置说明)指引，将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号) 及[ 配套参数 ](https://a2zitpro.github.io/web/金刚号的配套参数)正确配入手机或其他设备后，即可翻墙
 
 #### C. 配置注意事项
 
