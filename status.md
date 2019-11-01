@@ -7,9 +7,9 @@
 
 | 系统 | 状态 | 
 | ----------- | ----------- | 
-| 安卓app后台状态 | <font color="green">运转正常</font> | 
-| Windows客户端后系统 | <font color="green">运转正常</font> | 
-| 配置型服务L2TP服务后系统 | <font color="green">运转正常</font> | 
+| 安卓app后台| <font color="green">正常</font> | 
+| Windows客户端后台 | <font color="green">正常</font> | 
+| 配置金刚号梯后台 | <font color="green">正常</font> | 
 
 ## 说明
 ### 配置型服务L2TP
