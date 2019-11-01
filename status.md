@@ -8,12 +8,13 @@
 | ----------- | ----------- | 
 | 1.金刚安卓app梯| <font color="green">正常</font> | 
 | 2.金刚Windows app梯| <font color="green">正常</font> | 
-| 3.金刚号梯#c36| <font color="green">正常</font> | 
-| 3.金刚号梯#c33| <font color="green">正常</font> | 
-| 3.金刚号梯#c15| <font color="red">巳停用</font> | 
-| 3.金刚号梯#c13| <font color="red">巳停用</font> | 
-| 3.金刚号梯#c12| <font color="red">巳停用</font> | 
-| 3.金刚号梯#c11| <font color="red">巳停用</font> | 
+| 3.金刚号梯| <font color="White">正常</font> | 
+|#c36| <font color="green">正常</font> |  
+|#c33| <font color="green">正常</font> | 
+|#c15| <font color="red">巳停用</font> | 
+|#c13| <font color="red">巳停用</font> | 
+|#c12| <font color="red">巳停用</font> | 
+|#c11| <font color="red">巳停用</font> | 
 
 ### 金刚号梯后台
 - 被墙的频率
