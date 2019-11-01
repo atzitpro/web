@@ -9,7 +9,7 @@
 | ----------- | ----------- | 
 | 安卓app后台| <font color="green">正常</font> | 
 | Windows客户端后台 | <font color="green">正常</font> | 
-| 配置金刚号梯后台 | <font color="green">正常</font> | 
+| 金刚号梯后台 | <font color="green">正常</font> | 
 
 ## 说明
 ### 配置型服务L2TP
