@@ -7,9 +7,9 @@
 
 | 系统 | 状态 | 
 | ----------- | ----------- | 
-| 安卓app后台| <font color="green">正常</font> | 
-| Windows客户端后台 | <font color="green">正常</font> | 
-| 金刚号梯后台 | <font color="green">正常</font> | 
+| 1.安卓app后台| <font color="green">正常</font> | 
+| 2.Windows客户端后台 | <font color="green">正常</font> | 
+| 3.金刚号梯后台 | <font color="green">正常</font> | 
 
 ## 说明
 - 金刚号梯
