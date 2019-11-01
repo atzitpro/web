@@ -4,11 +4,11 @@
 ## 金刚梯后台运行状态<br>  
 
 
-| 系统 | 状态 | 
+| 后台 | 状态 | 
 | ----------- | ----------- | 
-| 1.安卓app后台| <font color="green">正常</font> | 
-| 2.Windows客户端后台 | <font color="green">正常</font> | 
-| 3.金刚号梯后台 | <font color="green">正常</font> | 
+| 1.金刚安卓app梯| <font color="green">正常</font> | 
+| 2.金刚Windows app梯| <font color="green">正常</font> | 
+| 3.金刚号梯| <font color="green">正常</font> | 
 
 ## 说明
 - 金刚号梯
