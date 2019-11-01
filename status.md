@@ -1,13 +1,13 @@
 ![image](l-w-s-athird.png)
 
 
-## 金刚梯后台状态<br> 
+## 金刚梯后台运行状态<br> 
 您可在此页面查看金刚后台运行状况<br> 
 
 
 | 系统 | 状态 | 
 | ----------- | ----------- | 
-| 手机客户端后系统 | <font color="green">运转正常</font> | 
+| 安卓app后台状态 | <font color="green">运转正常</font> | 
 | Windows客户端后系统 | <font color="green">运转正常</font> | 
 | 配置型服务L2TP服务后系统 | <font color="green">运转正常</font> | 
 
