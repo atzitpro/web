@@ -37,39 +37,11 @@
 <br>
 
 ## 二. 金刚1.0金刚号型翻墙梯
-### 1. 特色
-
-- [ 一拖九 ](https://a2zitpro.github.io/web/一拖九)：一号在手，全家自由
-- [ 万能号 ](https://a2zitpro.github.io/web/万能金刚号)：一号万能，多机通用
- 
-
-### 2. 注册
-
-- [ 点击此处 ](https://a2zitpro.github.io/web/l2_reg)，提交您的email，将自动在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)代您注册
-
-### 3. 取号
-- 代注成功之后，金刚网将自动派送专属于您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)到您的注册邮箱。
-- 请留意收取<font color="Red">《派号通知单》</font>邮件
-
-### 4. 配置
-#### A. 配置说明
-
-- 获取《[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)》<br>
-
-
-#### B. 配置
-- 请严格按照<font color="Red">《派号通知单》</font>或[《配置说明》](https://a2zitpro.github.io/web/配置说明)指引，将[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号) 及[ 配套参数 ](https://a2zitpro.github.io/web/金刚号的配套参数)正确配入手机或其他设备后，即可翻墙
-
-#### C. 配置注意事项
-
-- [ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)在[ 主流智能设备 ](https://a2zitpro.github.io/web/万能金刚号)上的[ 配置注意事项 ](https://a2zitpro.github.io/web/配置注意事项)<br>
-
-### 5. 翻墙
-
-- 连通[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)，即可翻墙，畅游囯际互联网
-
-### 6. 联系客服
-  - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
+- 点击此处，[ 获取详情 ](https://a2zitpro.github.io/web/)
 
 ## 三、问题与解答
 [问题及解答](https://a2zitpro.github.io/web/列表-问题与解答)
+
+## 四、联系客服
+- 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
+
