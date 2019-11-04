@@ -37,7 +37,7 @@
 <br>
 
 ## 二. 金刚1.0金刚号型翻墙梯
-- 点击此处，[ 获取详情 ](https://a2zitpro.github.io/web/)
+- 点击此处，[ 获取详情 ](https://a2zitpro.github.io/web/金刚产品-金刚1.0 金刚号梯)
 
 ## 三、问题与解答
 - [问题及解答](https://a2zitpro.github.io/web/列表-问题与解答)
