@@ -118,4 +118,5 @@
 
 
 #### 推荐阅读
+- [关于金刚VPN产品等](https://a2zitpro.github.io/web/列表-关于金刚VPN产品等)
 - [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
