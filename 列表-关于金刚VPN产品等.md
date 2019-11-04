@@ -25,4 +25,5 @@
     - [适用于Win10系统]()
 
 #### 推荐阅读
-- [ 问题与解答 ](https://a2zitpro.github.io/web/列表-问题与解答)
+- [关于金刚公司等](https://a2zitpro.github.io/web/列表-关于金刚公司及相关问题)
+- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
