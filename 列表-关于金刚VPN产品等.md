@@ -13,13 +13,13 @@
     
 - 金刚号梯
   - 安卓系统
-    - [适用于安卓手机](https://a2zitpro.github.io/web/)
-    - [适用于安卓平板]()
-    - [适用于安卓机顶盒]()
+    - [适用于安卓手机](https://a2zitpro.github.io/web/金刚产品)
+    - [适用于安卓平板](https://a2zitpro.github.io/web/金刚产品)
+    - [适用于安卓机顶盒](https://a2zitpro.github.io/web/金刚产品)
   - 苹果系统
-    - [适用于苹果手机]()
-    - [适用于苹果平板]()
-    - [适用于苹果电脑MacOS]()
+    - [适用于苹果手机](https://a2zitpro.github.io/web/金刚产品)
+    - [适用于苹果平板](https://a2zitpro.github.io/web/金刚产品)
+    - [适用于苹果电脑MacOS](https://a2zitpro.github.io/web/金刚产品)
   - Windows系统
     - [适用于Win7系统]()
     - [适用于Win10系统]()
