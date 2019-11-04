@@ -7,7 +7,7 @@
 | 后台 | 状态 | 
 | ----------- | ----------- | 
 | 1.金刚安卓app梯| <font color="green">正常</font> | 
-| 2.金刚Windows app梯c92| <font color="White">正常</font> | 
+| 2.金刚Windows app梯| <font color="White">正常</font> | 
 |#c92| <font color="green">正常</font> |  
 |#c91| <font color="green">正常</font> |  
 |#c90| <font color="green">正常</font> |  
