@@ -9,7 +9,7 @@
     - [适用于苹果平板]()
     - [适用于苹果电脑MacOS]()
   - Windows系统
-    - [适用于Windows](https://a2zitpro.github.io/web/金刚产品-金刚2.0WindowsApp梯)
+    - [适用于Windows](https://a2zitpro.github.io/web/win)
     
 - 金刚1.0 金刚号梯
   - 安卓系统
