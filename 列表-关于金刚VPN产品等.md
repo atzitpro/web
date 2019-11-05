@@ -15,7 +15,7 @@
   - 安卓系统
     - [适用于安卓手机](https://a2zitpro.github.io/web/金刚产品-金刚1.0金刚号梯)
     - [适用于安卓平板](https://a2zitpro.github.io/web/金刚产品-金刚1.0金刚号梯)
-    - [适用于安卓机顶盒](https://a2zitpro.github.io/web/金刚产品-金刚1.0金刚号梯)
+    - [适用于安卓机顶盒](https://a2zitpro.github.io/web/金刚产品-金刚1.0安卓机顶盒金刚号梯)
   - 苹果系统
     - [适用于苹果手机](https://a2zitpro.github.io/web/金刚产品-金刚1.0金刚号梯)
     - [适用于苹果平板](https://a2zitpro.github.io/web/金刚产品-金刚1.0金刚号梯)
