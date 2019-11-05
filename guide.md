@@ -3,8 +3,9 @@
 ![image](l-w-s-athird.png)
 
 
-### 新手导航
-- [下载谷歌浏览器Chrome]()
-- [下载谷歌视频播放器YouTube]()
-- [下载推特Twitter]()
-- [下载脸书FaceBook]()
+### 安卓手机用户新手导航
+- 请先连通您的金刚客户端，再点击以下链接
+  - [下载谷歌浏览器Chrome]()
+  - [下载谷歌视频播放器YouTube]()
+  - [下载推特Twitter]()
+  - [下载脸书FaceBook]()
