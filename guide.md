@@ -7,5 +7,5 @@
 - 请先连通您的金刚客户端，再点击以下链接
   - [下载谷歌浏览器Chrome]()
   - [下载谷歌视频播放器YouTube]()
-  - [下载推特Twitter]()
+  - [下载推特Twitter](https://mobile.twitter.com/i/flow/signup)
   - [下载脸书FaceBook]()
