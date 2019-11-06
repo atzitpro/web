@@ -5,6 +5,7 @@
 
 ### 安卓用户新手导航
 - 请先<font color="Red">连通金刚客户端kkVPN</font>，再点击以下链接
+  - [下载谷歌软件商店Google Play]()
   - [下载谷歌浏览器Chrome](https://a2zitpro.github.io/web/downloadchrome)
   - [下载谷歌视频播放器YouTube]()
   - [注册 或 登录推特Twitter](https://mobile.twitter.com/)
