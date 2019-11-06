@@ -3,7 +3,7 @@
 ![image](l-w-s-athird.png)
 
 
-### 安卓手机用户新手导航
+### 安卓用户新手导航
 - 请先<font color="Red">连通金刚客户端kkVPN</font>，再点击以下链接
   - [下载谷歌浏览器Chrome](https://a2zitpro.github.io/web/downloadchrome)
   - [下载谷歌视频播放器YouTube]()
