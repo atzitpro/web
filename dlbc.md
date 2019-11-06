@@ -1,4 +1,0 @@
-### 在安卓手机上下载谷歌浏览器Chrome
-- 连通您的金刚kkVPN客户端
-- [点击此处下载](https://play.google.com/store/apps/details?id=com.android.chrome&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E5%8D%93%E7%89%88%E4%B8%8B%E8%BD%BD&pcampaignid=APPU_1_g0zBXZK9H7zE0PEPlq6ZmAo)
-
