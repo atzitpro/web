@@ -16,7 +16,7 @@
     - [下载3]()
 
   - 下载谷歌软件商店Google Play
-    - [下载1]()
+    - [下载1](https://google-play.cn.uptodown.com/android)
     - [下载2]()
     - [下载3]()
     
