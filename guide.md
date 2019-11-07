@@ -28,8 +28,7 @@
   - [No.13 AppBrain]()
   - [V No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
   - [No.15 Mobile9]()
-  - [No.16 Samsung Galaxy Apps]()
+  - [No.16 SamsungGalaxyAppstore](https://galaxy-apps.cn.uptodown.com/android/download)
   - [No.17 Soc.io Mall 2]()
-  - [No.18 Galaxy Apps]()
 - 下载google软件商店 app
   - [谷歌软件商店Google Play app](https://a2zitpro.github.io/web/downloadgoogleplayapp)    
