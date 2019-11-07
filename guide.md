@@ -28,7 +28,7 @@
   - [V 英文 No.17 Soc.io Mall](https://aapks.com/download.php?dl=19025300)
 
   - [V No.13 AppBrain](https://dw.uptodown.com/dwn/dF4NfpYWywl0AZumUjUDRPvVnsalgH32wuX2jV26MkviGIHiXk9a93-IKhtaBER4VJ_el5is_bfKMeN5QipXMsav0cabv5TIpGTdBHLv6t-qsFeRMxsCN-7lDcnT6t1H/7Sb7y0ekAyWFOXEGEmMhDOoR4u6WlzTY0ccGs6fVm2WW9sYTXFSJRHhkNb5NHEP0g-JzcoJTCTRSzEn1YBGRosUri-WVzP09V1H8leeuENcItn_O0e7Orgvac_q1UPjt/_cH5hYA_NJvk09VewSbWeVAGlio3eQXBk3Xk8kroDy1uG2lnBTqp9vzZgXvzWj3s/)
-  - [V No.16 SamsungGalaxyAppstore](https://dw.uptodown.com/dwn/u66k3-w2sz4uw8xjgzuDQPljnVHfsrDTU0MOI1Log6eKjdM2Rx_Y8NDBX0ZnpljJbazU6_eOcO4m4NkRROggC-dwrKY4lsSl4AFmtjvG5tPoJerDO8M6a9Z1hCdmkFNB/T_VqFbHjvb59GKLNxTtIbIdDljuGX895Wuq1Cga11CcmRfs4XLSt6kv1vtyNnBbDzEe5bucqyL-mOQQXWrzim_1esqaRMwRnPFgDeEl8f-ZHHIiThP95Apgdu_yN2d0z/8qBdVp1vqEO5t51j0QtH_NNNVP1uI-OsMbJN5JUYXhpVZx96BoTtk5H6gqp_mkOH/)
+  - [X No.16 SamsungGalaxyAppstore](https://dw.uptodown.com/dwn/u66k3-w2sz4uw8xjgzuDQPljnVHfsrDTU0MOI1Log6eKjdM2Rx_Y8NDBX0ZnpljJbazU6_eOcO4m4NkRROggC-dwrKY4lsSl4AFmtjvG5tPoJerDO8M6a9Z1hCdmkFNB/T_VqFbHjvb59GKLNxTtIbIdDljuGX895Wuq1Cga11CcmRfs4XLSt6kv1vtyNnBbDzEe5bucqyL-mOQQXWrzim_1esqaRMwRnPFgDeEl8f-ZHHIiThP95Apgdu_yN2d0z/8qBdVp1vqEO5t51j0QtH_NNNVP1uI-OsMbJN5JUYXhpVZx96BoTtk5H6gqp_mkOH/)
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
   - [No.04 SlideME]()
   - [No.11 Mobango]()
