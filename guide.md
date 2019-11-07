@@ -12,7 +12,7 @@
   - [脸书FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
 - 下载墙外软件商店（google play备选者）app
   - [No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
-  - [No.01 AmazonAppStore]()
+  - [No.01 AmazonAppStore](http://createwindow)
   - [No.02 GetJar]()
   - [No.03 Mobogenie]()
   - [No.04 SlideME]()
