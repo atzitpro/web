@@ -29,7 +29,7 @@
   - [X No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download?ex=MOB-152.3)
   - [No.04 SlideME]()
   - [No.11 Mobango]()
-  - [V No.12 1AppMarket](https://m.apkpure.com/app-market/com.vicinfotech.vicappmarket.appmarket/download?from=details)
+  - [V 英文 No.12 1AppMarket](https://m.apkpure.com/app-market/com.vicinfotech.vicappmarket.appmarket/download?from=details)
   - [No.15 Mobile9]()
   - [No.17 Soc.io Mall 2]()
 - 下载google软件商店 app
