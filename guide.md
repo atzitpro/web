@@ -18,6 +18,7 @@
     - [APKUpdater*]()
     - [APKPure]()
     - [Aptoide]()
+    - [AppBrain]()
     - [F-Droid]()
     - [GetApk]()
     - [GetJar]()
@@ -25,7 +26,6 @@
     - [Mobango]()
     - [SlideME]()
 
-    - [AppBrain]()
     - [Mobile9]()
     - [Samsung Galaxy Apps]()
     - [Soc.io Mall 2]()
