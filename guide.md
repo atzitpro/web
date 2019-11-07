@@ -13,6 +13,7 @@
 - 下载墙外软件商店（google play备选者）app
   - [No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
+- [amazon](https://www.amazon.cn/gp/mas/blp/install/ref=mas_rw_hw?campaign=DLP&channel=3240&asin=&appVersion=stable&appName=hollywood&isMLP=1&startassist=false)
   - [No.02 GetJar]()
   - [No.03 Mobogenie]()
   - [No.04 SlideME]()
