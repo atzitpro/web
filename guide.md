@@ -28,7 +28,7 @@
   - [No.13 AppBrain]()
   - [V No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
   - [No.15 Mobile9]()
-  - [No.16 SamsungGalaxyAppstore](https://galaxy-apps.cn.uptodown.com/android/download)
+  - [No.16 SamsungGalaxyAppstore](https://dw.uptodown.com/dwn/u66k3-w2sz4uw8xjgzuDQPljnVHfsrDTU0MOI1Log6eKjdM2Rx_Y8NDBX0ZnpljJbazU6_eOcO4m4NkRROggC-dwrKY4lsSl4AFmtjvG5tPoJerDO8M6a9Z1hCdmkFNB/T_VqFbHjvb59GKLNxTtIbIdDljuGX895Wuq1Cga11CcmRfs4XLSt6kv1vtyNnBbDzEe5bucqyL-mOQQXWrzim_1esqaRMwRnPFgDeEl8f-ZHHIiThP95Apgdu_yN2d0z/8qBdVp1vqEO5t51j0QtH_NNNVP1uI-OsMbJN5JUYXhpVZx96BoTtk5H6gqp_mkOH/)
   - [No.17 Soc.io Mall 2]()
 - 下载google软件商店 app
   - [谷歌软件商店Google Play app](https://a2zitpro.github.io/web/downloadgoogleplayapp)    
