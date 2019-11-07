@@ -4,13 +4,13 @@
 
 
 ### 安卓用户新手导航
-#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>
-  - 点击以下链接，下载免费app
+#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>，再点击以下链接
+  - 下载免费app
     - [谷歌浏览器Chrome](https://a2zitpro.github.io/web/downloadchrome)
     - [谷歌视频播放器YouTube app](https://a2zitpro.github.io/web/downloadyoutubeapp)
     - [推特Twitter app](https://a2zitpro.github.io/web/downloadtwitterapp)
     - [脸书FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
-  - 点击以下链接，下载墙外软件商店app 
+  - 下载墙外软件商店app 
     - [Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
     - [Amazon App Store for Android]()
     - [1AppMarket]()
@@ -29,8 +29,4 @@
     - [Samsung Galaxy Apps]()
     - [SlideME]()
     - [Soc.io Mall 2]()
-
-    - []()
-    - []()
-    - []()
     - [谷歌软件商店Google Play app](https://a2zitpro.github.io/web/downloadgoogleplayapp)    
