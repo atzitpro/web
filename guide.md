@@ -21,7 +21,7 @@
     - [AppBrain]()
     - [No.05 F-Droid]()
     - [Galaxy Apps]()
-    - [GetApk]()
+    - [No.10 GetApk]()
     - [No.02 GetJar]()
     - [Mobango]()
     - [Mobile9]()
