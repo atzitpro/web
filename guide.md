@@ -13,7 +13,7 @@
   - 下载墙外软件商店（2019最佳google play备选者）app
     - [No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
     - [No.01 Amazon App Store for Android]()
-    - [1AppMarket]()
+    - [No.12 1AppMarket]()
     - [No.09 APKMirror]()
     - [No.08 APKUpdater*]()
     - [APKPure]()
