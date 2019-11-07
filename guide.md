@@ -20,6 +20,7 @@
   - [V 英文 No.02 GetJar](https://www.getjar.com/download-app/?u=%2Fdownload%2F16914%2F92497%2F%3Ft%3D1573134913&a=GetJar%20Apps&f=395241_640489__app-getJar-release.apk)
   - [V 英文 No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download?ex=MOB-152.3)
   - [V 英文 No.10 GetApk](http://download2268.mediafire.com/0t1rknce26og/n2s3trfhxv6so0q/getapk2.0.4.apk)
+  - [V 英文 No.11 Mobango](https://m.apkpure.com/mobango-app-store/com.appswiz.mobangoappstorehgaje/download?from=details)
   - [V 英文 No.12 1AppMarket](https://m.apkpure.com/app-market/com.vicinfotech.vicappmarket.appmarket/download?from=details)
   - [V 英文 No.15 Mobile9](https://dw.uptodown.com/dwn/_aPyb_NJzKo1v5Zl2XDKnYsL5gUHj80M4OW_ZJjZMdj3A3_oUPJIGqqaaM24-bZidJw0kE1AP5mpgf9h8cp6f8cpynTkk39F19qvokxL-MVyZBKwPKcMA_PvrhS7EBT1/ASRmCNxeFYZ3vbIO1H6eORmgodTPdri4Fk5L1eKXwwO1bkMKwA8vSEvcVJrfzHljGPTTjzsILJGy7JKtBW1O-O6RLrNsjhz9cI3Hg29Cvh-OkbFOyIRI144NqM9wmwqW/gVC0zOggQlID-3D_nUOsM8Xf5AY90nzecrGwcSBqxYAnfXPigbqWOQuKs2tDbdtj/)
   - [V 英文 No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
@@ -32,6 +33,5 @@
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/blp/install/ref=mas_rw_hw?campaign=DLP&channel=3240&asin=&appVersion=stable&appName=hollywood&isMLP=1&startassist=false)
   - [No.04 SlideME]()
-  - [F No.11 Mobango](https://m.apkpure.com/mobango-app-store/com.appswiz.mobangoappstorehgaje/download?from=details)
 - 下载google软件商店 app
   - [谷歌软件商店Google Play app](https://a2zitpro.github.io/web/downloadgoogleplayapp)    
