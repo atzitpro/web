@@ -8,9 +8,6 @@
   - [下载谷歌浏览器Chrome](https://a2zitpro.github.io/web/downloadchrome)
 
   - 下载谷歌视频播放器YouTube
-    - [下载1 软件商店 Uptodown](https://youtube.cn.uptodown.com/android/download)
-    - [下载2 软件商店 Apkpure]()
-    - [下载3]()
 
   - 下载谷歌软件商店Google Play
     - [下载1](https://google-play.cn.uptodown.com/android)
