@@ -15,7 +15,7 @@
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
   - [amazonnnnnnnnnnnnnnn](https://www.amazon.cn/gp/mas/blp/install/ref=mas_rw_hw?campaign=DLP&channel=3240&asin=&appVersion=stable&appName=hollywood&isMLP=1&startassist=false)
   - [V No.02 GetJar](https://www.getjar.com/download-app/?u=%2Fdownload%2F16914%2F92497%2F%3Ft%3D1573111774&a=GetJar%20Apps&f=395241_640489__app-getJar-release.apk)
-  - [No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download?ex=MOB-152.3)
+  - [X No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download?ex=MOB-152.3)
   - [No.04 SlideME]()
   - [No.05 F-Droid]()
   - [No.06 Aptoide]()
