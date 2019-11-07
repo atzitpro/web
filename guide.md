@@ -15,7 +15,7 @@
     - [No.01 Amazon App Store for Android]()
     - [1AppMarket]()
     - [APKMirror]()
-    - [APKUpdater*]()
+    - [No.08 APKUpdater*]()
     - [APKPure]()
     - [No.06 Aptoide]()
     - [AppBrain]()
