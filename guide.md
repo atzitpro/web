@@ -16,7 +16,7 @@
     - [No.12 1AppMarket]()
     - [No.09 APKMirror]()
     - [No.08 APKUpdater*]()
-    - [APKPure]()
+    - [No.14 APKPure]()
     - [No.06 Aptoide]()
     - [No.13 AppBrain]()
     - [No.05 F-Droid]()
