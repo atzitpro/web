@@ -13,13 +13,13 @@
 - 下载墙外软件商店（google play备选者）app
   - [V No.07 Uptodown](https://dw.uptodown.com/dwn/w76tVn7onjw1uZFTLSx7oIxYomQfut9TVAFqvIXhaXpXWIoc7ap7cDcDy6DfN5bsFAv59N7x2zMp1U3M1qsqFQfP8bDdyEHODPtwhhY8rucnFvtnY8zuNqBcN87z3u5A/Q1AmX-ZkmAe0DUQLJjv-H2aoOfj9s8dX9Whgq8FV4qzIBiervdrP3TD0YJnkMcRFuWrQnW8MvVVh6HVxkNVaoBNMrkROmJlx_2p8FIdyT341TJtlbdS9KATXg1tiF8jn/UXsi-70vntQLkBlfu4A3ud_gYaS6SUPp3qzmwPU5bM-2bTtWdLqwTtNb11lKzn-3/)
   - [V No.05 F-Droid](https://F-droid.org/)
+  - [V No.06 Aptoide](https://cn.aptoide.com/download)
 
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
   - [amazonnnnnnnnnnnnnnn](https://www.amazon.cn/gp/mas/blp/install/ref=mas_rw_hw?campaign=DLP&channel=3240&asin=&appVersion=stable&appName=hollywood&isMLP=1&startassist=false)
   - [V No.02 GetJar](https://www.getjar.com/download-app/?u=%2Fdownload%2F16914%2F92497%2F%3Ft%3D1573111774&a=GetJar%20Apps&f=395241_640489__app-getJar-release.apk)
   - [X No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download?ex=MOB-152.3)
   - [No.04 SlideME]()
-  - [No.06 Aptoide]()
   - [No.08 APKUpdater*]()
   - [V No.09 APKMirror](https://dw76.uptodown.com/dwn/Hb9YmyfPxVcEGeqrgJnFCuqP2_bzxR_NrMWWoOEnarD3Pm7s2tpArPKUeYI9Wwd8kfQwXWpNcL-Pn62U0C4_GnFpg095f9emsluxaz-PmrnrPxf3ijoi-edPmbwA_m1b/ED6pZDACAqK20Gxn6h9c64r28p7Uey3tIh-sdFLtNtw0XyjoMFJnA8ziPS8pILSH_4ivryNKQd7il5keWcEzW9gmQTIp2AXlN4JgH2HdqekpAOR9PJEy-gUONxvsE2R5/Vp3O6gCGasaJ-GmTPyFKaxLco_RLmcYaWqzvsn966hQ=/)
   - [No.10 GetApk]()
