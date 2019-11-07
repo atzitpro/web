@@ -17,7 +17,7 @@
     - [APKMirror]()
     - [APKUpdater*]()
     - [APKPure]()
-    - [Aptoide]()
+    - [No.06 Aptoide]()
     - [AppBrain]()
     - [No.05 F-Droid]()
     - [Galaxy Apps]()
