@@ -11,7 +11,7 @@
     - [推特Twitter app](https://a2zitpro.github.io/web/downloadtwitterapp)
     - [脸书FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
   - 点击以下链接，下载墙外软件商店app 
-    - [Uptodown]()
+    - [Uptodown](https://uptodown-android.cn.uptodown.com/android)
     - [Amazon App Store for Android]()
     - [GetJar]()
     - [Mobogenie]()
