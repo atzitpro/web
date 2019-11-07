@@ -19,7 +19,7 @@
     - [APKPure]()
     - [Aptoide]()
     - [AppBrain]()
-    - [F-Droid]()
+    - [No.05 F-Droid]()
     - [Galaxy Apps]()
     - [GetApk]()
     - [No.02 GetJar]()
