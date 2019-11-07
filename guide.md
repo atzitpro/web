@@ -20,7 +20,6 @@
   - [No.05 F-Droid]()
   - [No.06 Aptoide]()
   - [No.08 APKUpdater*]()
-  - [ No.09 APKMirror](https://apkmirror.en.uptodown.com/android/download)
   - [V No.09 APKMirror](https://dw76.uptodown.com/dwn/Hb9YmyfPxVcEGeqrgJnFCuqP2_bzxR_NrMWWoOEnarD3Pm7s2tpArPKUeYI9Wwd8kfQwXWpNcL-Pn62U0C4_GnFpg095f9emsluxaz-PmrnrPxf3ijoi-edPmbwA_m1b/ED6pZDACAqK20Gxn6h9c64r28p7Uey3tIh-sdFLtNtw0XyjoMFJnA8ziPS8pILSH_4ivryNKQd7il5keWcEzW9gmQTIp2AXlN4JgH2HdqekpAOR9PJEy-gUONxvsE2R5/Vp3O6gCGasaJ-GmTPyFKaxLco_RLmcYaWqzvsn966hQ=/)
   - [No.10 GetApk]()
   - [No.11 Mobango]()
