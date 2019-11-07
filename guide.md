@@ -14,7 +14,6 @@
   - [No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
   - [amazonnnnnnnnnnnnnnn](https://www.amazon.cn/gp/mas/blp/install/ref=mas_rw_hw?campaign=DLP&channel=3240&asin=&appVersion=stable&appName=hollywood&isMLP=1&startassist=false)
-  - [No.02 GetJar](https://www.getjar.com/categories/search-apps/GetJar-Apps-16914?_gl=1*rrni3h*_ga*TlVacEp4U0hocjdMZEJrYlc5WHJsRGNvSUVYV0FBTkJhNGJ0a2pRMHBmSERnV1JQdG9LN1BMY2hkdVRDVThRMg..)
   - [No.02 GetJar](https://www.getjar.com/download-app/?u=%2Fdownload%2F16914%2F92497%2F%3Ft%3D1573111774&a=GetJar%20Apps&f=395241_640489__app-getJar-release.apk)
   - [No.03 Mobogenie]()
   - [No.04 SlideME]()
