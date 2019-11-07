@@ -18,6 +18,7 @@
 
 
   - [V No.02 GetJar](https://www.getjar.com/download-app/?u=%2Fdownload%2F16914%2F92497%2F%3Ft%3D1573111774&a=GetJar%20Apps&f=395241_640489__app-getJar-release.apk)
+  - [V No.08 APKUpdater](https://apkupdater.en.uptodown.com/android/download)
   - [V No.09 APKMirror](https://dw76.uptodown.com/dwn/Hb9YmyfPxVcEGeqrgJnFCuqP2_bzxR_NrMWWoOEnarD3Pm7s2tpArPKUeYI9Wwd8kfQwXWpNcL-Pn62U0C4_GnFpg095f9emsluxaz-PmrnrPxf3ijoi-edPmbwA_m1b/ED6pZDACAqK20Gxn6h9c64r28p7Uey3tIh-sdFLtNtw0XyjoMFJnA8ziPS8pILSH_4ivryNKQd7il5keWcEzW9gmQTIp2AXlN4JgH2HdqekpAOR9PJEy-gUONxvsE2R5/Vp3O6gCGasaJ-GmTPyFKaxLco_RLmcYaWqzvsn966hQ=/)
   - [V No.13 AppBrain](https://dw.uptodown.com/dwn/dF4NfpYWywl0AZumUjUDRPvVnsalgH32wuX2jV26MkviGIHiXk9a93-IKhtaBER4VJ_el5is_bfKMeN5QipXMsav0cabv5TIpGTdBHLv6t-qsFeRMxsCN-7lDcnT6t1H/7Sb7y0ekAyWFOXEGEmMhDOoR4u6WlzTY0ccGs6fVm2WW9sYTXFSJRHhkNb5NHEP0g-JzcoJTCTRSzEn1YBGRosUri-WVzP09V1H8leeuENcItn_O0e7Orgvac_q1UPjt/_cH5hYA_NJvk09VewSbWeVAGlio3eQXBk3Xk8kroDy1uG2lnBTqp9vzZgXvzWj3s/)
   - [V No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
@@ -26,7 +27,6 @@
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
   - [X No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download?ex=MOB-152.3)
   - [No.04 SlideME]()
-  - [No.08 APKUpdater*]()
   - [No.10 GetApk]()
   - [No.11 Mobango]()
   - [No.12 1AppMarket]()
