@@ -23,9 +23,9 @@
   - [V 英文 No.10 GetApk](http://download2268.mediafire.com/0t1rknce26og/n2s3trfhxv6so0q/getapk2.0.4.apk)
   - [V 英文 No.12 1AppMarket](https://m.apkpure.com/app-market/com.vicinfotech.vicappmarket.appmarket/download?from=details)
   - [V 英文 No.15 Mobile9](https://dw.uptodown.com/dwn/_aPyb_NJzKo1v5Zl2XDKnYsL5gUHj80M4OW_ZJjZMdj3A3_oUPJIGqqaaM24-bZidJw0kE1AP5mpgf9h8cp6f8cpynTkk39F19qvokxL-MVyZBKwPKcMA_PvrhS7EBT1/ASRmCNxeFYZ3vbIO1H6eORmgodTPdri4Fk5L1eKXwwO1bkMKwA8vSEvcVJrfzHljGPTTjzsILJGy7JKtBW1O-O6RLrNsjhz9cI3Hg29Cvh-OkbFOyIRI144NqM9wmwqW/gVC0zOggQlID-3D_nUOsM8Xf5AY90nzecrGwcSBqxYAnfXPigbqWOQuKs2tDbdtj/)
+  - [V 英文 No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
 
   - [V No.13 AppBrain](https://dw.uptodown.com/dwn/dF4NfpYWywl0AZumUjUDRPvVnsalgH32wuX2jV26MkviGIHiXk9a93-IKhtaBER4VJ_el5is_bfKMeN5QipXMsav0cabv5TIpGTdBHLv6t-qsFeRMxsCN-7lDcnT6t1H/7Sb7y0ekAyWFOXEGEmMhDOoR4u6WlzTY0ccGs6fVm2WW9sYTXFSJRHhkNb5NHEP0g-JzcoJTCTRSzEn1YBGRosUri-WVzP09V1H8leeuENcItn_O0e7Orgvac_q1UPjt/_cH5hYA_NJvk09VewSbWeVAGlio3eQXBk3Xk8kroDy1uG2lnBTqp9vzZgXvzWj3s/)
-  - [V No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
   - [V No.16 SamsungGalaxyAppstore](https://dw.uptodown.com/dwn/u66k3-w2sz4uw8xjgzuDQPljnVHfsrDTU0MOI1Log6eKjdM2Rx_Y8NDBX0ZnpljJbazU6_eOcO4m4NkRROggC-dwrKY4lsSl4AFmtjvG5tPoJerDO8M6a9Z1hCdmkFNB/T_VqFbHjvb59GKLNxTtIbIdDljuGX895Wuq1Cga11CcmRfs4XLSt6kv1vtyNnBbDzEe5bucqyL-mOQQXWrzim_1esqaRMwRnPFgDeEl8f-ZHHIiThP95Apgdu_yN2d0z/8qBdVp1vqEO5t51j0QtH_NNNVP1uI-OsMbJN5JUYXhpVZx96BoTtk5H6gqp_mkOH/)
   - [V 英文 No.17 Soc.io Mall](https://aapks.com/download.php?dl=19025300)
   - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
