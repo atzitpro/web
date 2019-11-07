@@ -6,7 +6,7 @@
 ### 安卓用户新手导航
 - 请<font color="Red"> 先连通金刚梯翻墙出来，再点击以下链接</font>
   - [下载谷歌浏览器Chrome](https://a2zitpro.github.io/web/downloadchrome)
-  - [下载谷歌视频播放器YouTube app] (https://a2zitpro.github.io/web/downloadyoutubeapp)
+  - [下载谷歌视频播放器YouTube app](https://a2zitpro.github.io/web/downloadyoutubeapp)
   - 下载谷歌软件商店Google Play
     - [下载1](https://google-play.cn.uptodown.com/android)
     - [下载2]()
