@@ -15,20 +15,22 @@
   - [V 中文 No.05 F-Droid](https://F-droid.org/)
   - [V 中文 No.06 Aptoide](https://cn.aptoide.com/download)
 
-  - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
-  - [amazonnnnnnnnnnnnnnn](https://www.amazon.cn/gp/mas/blp/install/ref=mas_rw_hw?campaign=DLP&channel=3240&asin=&appVersion=stable&appName=hollywood&isMLP=1&startassist=false)
+
+
   - [V No.02 GetJar](https://www.getjar.com/download-app/?u=%2Fdownload%2F16914%2F92497%2F%3Ft%3D1573111774&a=GetJar%20Apps&f=395241_640489__app-getJar-release.apk)
+  - [V No.09 APKMirror](https://dw76.uptodown.com/dwn/Hb9YmyfPxVcEGeqrgJnFCuqP2_bzxR_NrMWWoOEnarD3Pm7s2tpArPKUeYI9Wwd8kfQwXWpNcL-Pn62U0C4_GnFpg095f9emsluxaz-PmrnrPxf3ijoi-edPmbwA_m1b/ED6pZDACAqK20Gxn6h9c64r28p7Uey3tIh-sdFLtNtw0XyjoMFJnA8ziPS8pILSH_4ivryNKQd7il5keWcEzW9gmQTIp2AXlN4JgH2HdqekpAOR9PJEy-gUONxvsE2R5/Vp3O6gCGasaJ-GmTPyFKaxLco_RLmcYaWqzvsn966hQ=/)
+  - [V No.13 AppBrain](https://dw.uptodown.com/dwn/dF4NfpYWywl0AZumUjUDRPvVnsalgH32wuX2jV26MkviGIHiXk9a93-IKhtaBER4VJ_el5is_bfKMeN5QipXMsav0cabv5TIpGTdBHLv6t-qsFeRMxsCN-7lDcnT6t1H/7Sb7y0ekAyWFOXEGEmMhDOoR4u6WlzTY0ccGs6fVm2WW9sYTXFSJRHhkNb5NHEP0g-JzcoJTCTRSzEn1YBGRosUri-WVzP09V1H8leeuENcItn_O0e7Orgvac_q1UPjt/_cH5hYA_NJvk09VewSbWeVAGlio3eQXBk3Xk8kroDy1uG2lnBTqp9vzZgXvzWj3s/)
+  - [V No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
+  - [V No.16 SamsungGalaxyAppstore](https://dw.uptodown.com/dwn/u66k3-w2sz4uw8xjgzuDQPljnVHfsrDTU0MOI1Log6eKjdM2Rx_Y8NDBX0ZnpljJbazU6_eOcO4m4NkRROggC-dwrKY4lsSl4AFmtjvG5tPoJerDO8M6a9Z1hCdmkFNB/T_VqFbHjvb59GKLNxTtIbIdDljuGX895Wuq1Cga11CcmRfs4XLSt6kv1vtyNnBbDzEe5bucqyL-mOQQXWrzim_1esqaRMwRnPFgDeEl8f-ZHHIiThP95Apgdu_yN2d0z/8qBdVp1vqEO5t51j0QtH_NNNVP1uI-OsMbJN5JUYXhpVZx96BoTtk5H6gqp_mkOH/)
+
+  - [No.01 AmazonAppStore](https://www.amazon.cn/gp/mas/get/android/ref=mas_rw_hw?ie=UTF8&campaign=DLP&channel=3240)
   - [X No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download?ex=MOB-152.3)
   - [No.04 SlideME]()
   - [No.08 APKUpdater*]()
-  - [V No.09 APKMirror](https://dw76.uptodown.com/dwn/Hb9YmyfPxVcEGeqrgJnFCuqP2_bzxR_NrMWWoOEnarD3Pm7s2tpArPKUeYI9Wwd8kfQwXWpNcL-Pn62U0C4_GnFpg095f9emsluxaz-PmrnrPxf3ijoi-edPmbwA_m1b/ED6pZDACAqK20Gxn6h9c64r28p7Uey3tIh-sdFLtNtw0XyjoMFJnA8ziPS8pILSH_4ivryNKQd7il5keWcEzW9gmQTIp2AXlN4JgH2HdqekpAOR9PJEy-gUONxvsE2R5/Vp3O6gCGasaJ-GmTPyFKaxLco_RLmcYaWqzvsn966hQ=/)
   - [No.10 GetApk]()
   - [No.11 Mobango]()
   - [No.12 1AppMarket]()
-  - [V No.13 AppBrain](https://dw.uptodown.com/dwn/dF4NfpYWywl0AZumUjUDRPvVnsalgH32wuX2jV26MkviGIHiXk9a93-IKhtaBER4VJ_el5is_bfKMeN5QipXMsav0cabv5TIpGTdBHLv6t-qsFeRMxsCN-7lDcnT6t1H/7Sb7y0ekAyWFOXEGEmMhDOoR4u6WlzTY0ccGs6fVm2WW9sYTXFSJRHhkNb5NHEP0g-JzcoJTCTRSzEn1YBGRosUri-WVzP09V1H8leeuENcItn_O0e7Orgvac_q1UPjt/_cH5hYA_NJvk09VewSbWeVAGlio3eQXBk3Xk8kroDy1uG2lnBTqp9vzZgXvzWj3s/)
-  - [V No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
   - [No.15 Mobile9]()
-  - [V No.16 SamsungGalaxyAppstore](https://dw.uptodown.com/dwn/u66k3-w2sz4uw8xjgzuDQPljnVHfsrDTU0MOI1Log6eKjdM2Rx_Y8NDBX0ZnpljJbazU6_eOcO4m4NkRROggC-dwrKY4lsSl4AFmtjvG5tPoJerDO8M6a9Z1hCdmkFNB/T_VqFbHjvb59GKLNxTtIbIdDljuGX895Wuq1Cga11CcmRfs4XLSt6kv1vtyNnBbDzEe5bucqyL-mOQQXWrzim_1esqaRMwRnPFgDeEl8f-ZHHIiThP95Apgdu_yN2d0z/8qBdVp1vqEO5t51j0QtH_NNNVP1uI-OsMbJN5JUYXhpVZx96BoTtk5H6gqp_mkOH/)
   - [No.17 Soc.io Mall 2]()
 - 下载google软件商店 app
   - [谷歌软件商店Google Play app](https://a2zitpro.github.io/web/downloadgoogleplayapp)    
