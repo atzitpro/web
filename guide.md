@@ -10,9 +10,9 @@
     - [谷歌视频播放器YouTube app](https://a2zitpro.github.io/web/downloadyoutubeapp)
     - [推特Twitter app](https://a2zitpro.github.io/web/downloadtwitterapp)
     - [脸书FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
-  - 下载墙外软件商店app 
+  - 下载墙外软件商店（2019最佳google play备选者）app
     - [Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
-    - [Amazon App Store for Android]()
+    - [No.01 Amazon App Store for Android]()
     - [1AppMarket]()
     - [APKMirror]()
     - [APKUpdater*]()
