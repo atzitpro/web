@@ -116,7 +116,7 @@ app安装包请在此 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVP
 在下拉菜单中选 断开，则切断连接
 ![Image](配置005A.png)
 
-
 #### 推荐阅读
+- [翻墙神器金刚梯](https://a2zitpro.github.io/web/dlb)
 - [关于金刚VPN产品等](https://a2zitpro.github.io/web/列表-关于金刚VPN产品等)
 - [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
