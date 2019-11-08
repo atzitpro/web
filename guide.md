@@ -8,5 +8,6 @@
 - 下载免费app
   - [谷歌浏览器 Chrome](https://a2zitpro.github.io/web/downloadchrome)
   - [谷歌视频播放器 YouTube app](https://a2zitpro.github.io/web/downloadyoutubeapp)
+  - [谷歌软件商店 google play app](https://a2zitpro.github.io/web/downloadyoutubeapp)
   - [推特 Twitter app](https://a2zitpro.github.io/web/downloadtwitterapp)
   - [脸书 FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
