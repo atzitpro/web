@@ -12,4 +12,4 @@
 - [脸书 FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
 
 #### 推荐阅读
-[墙外软件商店](https://a2zitpro.github.io/web/appstores)
+- [墙外软件商店](https://a2zitpro.github.io/web/appstores)
