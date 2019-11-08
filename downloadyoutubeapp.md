@@ -3,3 +3,6 @@
   - [A、从软件商店Uptodown下载](https://youtube.cn.uptodown.com/android/download)
   - [B、从软件商店Apkpure下载]()
   - [C、从软件商店xxx下载]()
+
+#### 推荐阅读
+- [新手导航](https://a2zitpro.github.io/web/guide)
