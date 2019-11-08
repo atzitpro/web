@@ -1,3 +1,12 @@
+## 美国金刚公司出品一一
+
+![image](l-w-s-athird.png)
+
+
+### 墙外软件商店推荐 for 安卓用户
+#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>[（获取金刚app for 安卓）](https://a2zitpro.github.io/web/dl)，再点击以下链接
+
+
 - 下载墙外软件商店app（google play 备选者）
   - [中文 No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
   - [中文 No.05 F-Droid](https://F-droid.org/)
