@@ -9,7 +9,9 @@
 
   
 #### 获取
+- 如果您从未在金刚网注册，则请提交您的email
 
+- 否则，
 
 #### 推荐阅读
 - [翻墙神器金刚梯](https://a2zitpro.github.io/web/dlb)
