@@ -12,7 +12,7 @@
 
 ### 一、全线产品
 
-- 金刚2.0app型梯
+- 金刚2.0app梯
 
   - 安卓手机 [产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_android_phone)[ 安装说明   ](kkvpn2.0_installationnotes_android_phone)
   - 安卓平板 [产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_android_pad)[ 安装说明     ](kkvpn2.0_installationnotes_android_pad)
@@ -24,7 +24,8 @@
 
   - Windows [产品获取]() [安装说明](https://a2zitpro.github.io/web/kkvpn2.0_installationnotes_win)
 <br>
-- 金刚1.0金刚号型梯
+<br>
+- 金刚1.0金刚号梯
 
   - 安卓手机 [产品获取]() [配置说明](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_phone)
   - 安卓平板 [产品获取]() [配置说明](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_pad)
