@@ -12,13 +12,13 @@
 
 ### 一、全线产品
 - 金刚2.0app型梯
-  - 安卓手机[产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_android_phone)[ 安装说明 ]()
-  - 安卓平板[产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_android_pad)[ 安装说明 ]()
-  - 安卓机顶盒[产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_android_tvbox)[ 安装说明 ]()
+  - 安卓手机 [产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_android_phone)[ 安装说明 ]()
+  - 安卓平板 [产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_android_pad)[ 安装说明 ]()
+  - 安卓机顶盒 [产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_android_tvbox)[ 安装说明 ]()
 
-  - 苹果手机[产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_ios_iphone) [ 安装说明 ]()
-  - 苹果平板[产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_ios_ipad) [ 安装说明 ]()
-  - 苹果电脑[产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_macos) [ 安装说明 ]()
+  - 苹果手机 [产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_ios_iphone) [ 安装说明 ]()
+  - 苹果平板 [产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_ios_ipad) [ 安装说明 ]()
+  - 苹果电脑 [产品获取](https://a2zitpro.github.io/web/kkvpn2.0_product_macos) [ 安装说明 ]()
 
   - Windows [产品获取]() [安装说明]()
 
