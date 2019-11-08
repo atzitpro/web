@@ -3,3 +3,5 @@
   - [Uptodown](https://chrome.cn.uptodown.com/android/download#)
   - [Apkpure](https://m.apkpure.com/google-chrome-fast-secure/com.android.chrome/download?from=details)
   - [xxx]()
+#### 推荐阅读
+- [新手导航](https://a2zitpro.github.io/web/guide)
