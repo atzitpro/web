@@ -12,4 +12,6 @@
 - [脸书 FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
 
 #### 推荐阅读
+- [获取金刚2.0 金刚app梯](https://a2zitpro.github.io/web/dl)
+- [获取金刚1.0 金刚号梯]()
 - [墙外软件商店](https://a2zitpro.github.io/web/appstores)
