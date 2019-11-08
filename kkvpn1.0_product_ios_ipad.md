@@ -1,7 +1,12 @@
 ### 美国金刚公司出品一一
 ## 翻墙神器金刚梯
+#### 金刚1.0 金刚号梯
+#### 适用于 苹果平板
+
+#### 特色
+  
+#### 获取
 
 
 #### 推荐阅读
-- [翻墙神器金刚梯](https://a2zitpro.github.io/web/dl_backup)
-
+- [翻墙神器金刚梯](https://a2zitpro.github.io/web/dlb)
