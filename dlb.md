@@ -25,9 +25,9 @@
 
 - 金刚1.0金刚号型梯
 
-  - 安卓手机 [产品获取]() [配置说明](kkvpn1.0_installationnotes_android_phone)
-  - 安卓平板 [产品获取]() [配置说明](kkvpn1.0_installationnotes_android_pad)
-  - 安卓机顶盒 [产品获取]() [配置说明](kkvpn1.0_installationnotes_android_tvbox)
+  - 安卓手机 [产品获取]() [配置说明](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_phone)
+  - 安卓平板 [产品获取]() [配置说明](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_pad)
+  - 安卓机顶盒 [产品获取]() [配置说明](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_tvbox)
 
   - 苹果手机 [产品获取]() [配置说明]()
   - 苹果平板 [产品获取]() [配置说明]()
