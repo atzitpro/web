@@ -24,7 +24,7 @@
 
   - Windows [产品获取]() [安装说明](https://a2zitpro.github.io/web/kkvpn2.0_installationnotes_win)
 
-
+<br>
 
 
 - 金刚1.0金刚号型梯
