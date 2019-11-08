@@ -30,3 +30,5 @@
 - 下载google软件商店 app
   - [谷歌软件商店 Google Play app](https://a2zitpro.github.io/web/downloadgoogleplayapp)    
 
+#### 推荐阅读
+- [新手导航](https://a2zitpro.github.io/web/guide)
