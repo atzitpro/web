@@ -11,7 +11,7 @@
 #### 获取
 - 如果您从未在[ 金刚网 ]()注册，则请[ 点击此处 ](https://a2zitpro.github.io/web/l2_reg)，提交您的电子邮箱
   - 将在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)注册
-  - [ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)将为您派送第1个[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)到您的[ 注册邮箱 ](https://a2zitpro.github.io/web/注册邮箱)，同时派送到 [ 金刚网>菜单>我的金刚 ](https://atozitpro.net/zh/myaccount/)下
+  - [ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)将为您派送第1个[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)到您的[ 注册邮箱 ](https://a2zitpro.github.io/web/注册邮箱)，同时派送到 [ 金刚网>菜单>我的金刚 ](https://atozitpro.net/zh/my-account/)下
 
     - 该号上捆绑的[ 流量包 ]()的[ 尺寸 ]()是30GB
     - 该[ 流量包 ]()的[ 有效期 ]()是1个月
