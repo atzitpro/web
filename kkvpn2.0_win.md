@@ -1,9 +1,9 @@
 ## 美国金刚公司＆筑波大学出品一一
 
-## 金刚SSL型客户端 Windows 配置说明
+## 金刚2.0 for Windows 配置说明
 
 ### <font color="Red">版权声明 </font>
-- 客户端软件系筑波大学作品
+- app系筑波大学作品
 - 后台支撑由金刚公司提供
 
 ### 一、特点
@@ -20,7 +20,7 @@
 
 ### 四、客户端 的 下载、安装
 #### 1、下载
-客户端安装包请在此 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 。
+app安装包请在此 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 。
 #### 2、安装
 在下载文件夹内，点击安装包，开始安装。
 ![Image](安装001B.png)
