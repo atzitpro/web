@@ -17,7 +17,8 @@
   - [中文 No.01 Amazon](https://www.amazon.cn/gp/mas/blp/install/ref=mas_rw_hw?campaign=DLP&channel=3240&asin=&appVersion=stable&appName=hollywood&isMLP=1&startassist=false)
 
   - [英文 No.02 GetJar](https://www.getjar.com/download-app/?u=%2Fdownload%2F16914%2F92497%2F%3Ft%3D1573134913&a=GetJar%20Apps&f=395241_640489__app-getJar-release.apk)
-  - [英文 No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download?ex=MOB-152.  - [英文 No.04 SlideME](http://m.slideme.org/application/slideme-marketplace)
+  - [英文 No.03 Mobogenie](https://mobogenie.en.softonic.com/android/download)
+  - [英文 No.04 SlideME](http://m.slideme.org/application/slideme-marketplace)
   - [英文 No.08 APKUpdater](https://apkupdater.en.uptodown.com/android/download)
   - [英文 No.09 APKMirror](https://apkmirror.en.uptodown.com/android/download)
   - [英文 No.10 GetApk](http://download2268.mediafire.com/0t1rknce26og/n2s3trfhxv6so0q/getapk2.0.4.apk)
