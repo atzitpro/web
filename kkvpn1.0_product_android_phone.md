@@ -9,15 +9,15 @@
 
   
 #### 获取
-- 如果您从未在[ 金刚网 ]()注册，则请[ 点击此处 ](https://a2zitpro.github.io/web/l2_reg)，提交您的电子邮箱
+- 如果您从未在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)注册，则请[ 点击此处 ](https://a2zitpro.github.io/web/l2_reg)，提交您的电子邮箱
   - 将在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)注册
   - [ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)将为您派送第1个[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)到您的[ 注册邮箱 ](https://a2zitpro.github.io/web/注册邮箱)，同时派送到 [ 金刚网>菜单>我的金刚 ](https://atozitpro.net/zh/my-account/)下
 
-    - 该号上捆绑的[ 流量包 ]()的[ 尺寸 ]()是30GB
-    - 该[ 流量包 ]()的[ 有效期 ]()是1个月
+    - 该号上捆绑的[ 流量包 ](https://a2zitpro.github.io/web/流量包)的[ 尺寸 ](https://a2zitpro.github.io/web/)是30GB
+    - 该[ 流量包 ](https://a2zitpro.github.io/web/)的[ 有效期 ](https://a2zitpro.github.io/web/)是1个月
 
-- 否则，您必然是[ 金刚 ]()的[ 在册用户 ]()，且您至少持有1个[ 万能金刚号 ]()
-  - 请按照《派号通知单》将此号正确配入您的手机，或按照[《配置说明》]()将在该号正确配入相应设备，即可[ 连通 ]()翻墙
+- 否则，您必然是[ 金刚 ](https://a2zitpro.github.io/web/)的[ 在册用户 ](https://a2zitpro.github.io/web/)，且您至少持有1个[ 万能金刚号 ](https://a2zitpro.github.io/web/)
+  - 请按照《派号通知单》将此号正确配入您的手机，或按照[《配置说明》](https://a2zitpro.github.io/web/)将在该号正确配入相应设备，即可[ 连通 ]()翻墙
 
 
 #### 推荐阅读
