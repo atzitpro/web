@@ -6,10 +6,10 @@
 ### 安卓用户新手导航
 #### 请<font color="Red"> 连通金刚梯翻墙出来 </font>[（点此获取金刚app for 安卓）](https://a2zitpro.github.io/web/dl)，再点击以下链接
 - 下载免费app
-  - [谷歌浏览器Chrome](https://a2zitpro.github.io/web/downloadchrome)
-  - [谷歌视频播放器YouTube app](https://a2zitpro.github.io/web/downloadyoutubeapp)
-  - [推特Twitter app](https://a2zitpro.github.io/web/downloadtwitterapp)
-  - [脸书FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
+  - [谷歌浏览器 Chrome](https://a2zitpro.github.io/web/downloadchrome)
+  - [谷歌视频播放器 YouTube app](https://a2zitpro.github.io/web/downloadyoutubeapp)
+  - [推特 Twitter app](https://a2zitpro.github.io/web/downloadtwitterapp)
+  - [脸书 FaceBook app](https://a2zitpro.github.io/web/downloadfacebookapp)
 - 下载墙外软件商店（google play 备选者）app
   - [中文 No.07 Uptodown](https://dw.uptodown.com/dwn/w76tVn7onjw1uZFTLSx7oIxYomQfut9TVAFqvIXhaXpXWIoc7ap7cDcDy6DfN5bsFAv59N7x2zMp1U3M1qsqFQfP8bDdyEHODPtwhhY8rucnFvtnY8zuNqBcN87z3u5A/Q1AmX-ZkmAe0DUQLJjv-H2aoOfj9s8dX9Whgq8FV4qzIBiervdrP3TD0YJnkMcRFuWrQnW8MvVVh6HVxkNVaoBNMrkROmJlx_2p8FIdyT341TJtlbdS9KATXg1tiF8jn/UXsi-70vntQLkBlfu4A3ud_gYaS6SUPp3qzmwPU5bM-2bTtWdLqwTtNb11lKzn-3/)
   - [中文 No.05 F-Droid](https://F-droid.org/)
