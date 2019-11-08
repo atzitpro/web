@@ -18,7 +18,6 @@
 
   - [英文 No.02 GetJar](https://www.getjar.com/download-app/?u=%2Fdownload%2F16914%2F92497%2F%3Ft%3D1573134913&a=GetJar%20Apps&f=395241_640489__app-getJar-release.apk)
   - [英文 No.03 Mobogenie](https://mobogenie.en.softonic.com/android/download)
-  - [英文 No.03 Mobogenie](https://en.softonic.com/download/mobogenie/android/post-download)
   - [英文 No.04 SlideME](http://m.slideme.org/application/slideme-marketplace)
   - [英文 No.08 APKUpdater](https://apkupdater.en.uptodown.com/android/download)
   - [英文 No.09 APKMirror](https://apkmirror.en.uptodown.com/android/download)
