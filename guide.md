@@ -28,7 +28,7 @@
   - [英文 No.08 APKUpdater](https://apkupdater.en.uptodown.com/android/download)
   - [英文 No.09 APKMirror](https://apkmirror.en.uptodown.com/android/download)
   - [英文 No.13 AppBrain](https://appbrain-app-market.en.uptodown.com/android/download)
-  - [未竟 No.16 Samsung Galaxy](https://dw.uptodown.com/dwn/u66k3-w2sz4uw8xjgzuDQPljnVHfsrDTU0MOI1Log6eKjdM2Rx_Y8NDBX0ZnpljJbazU6_eOcO4m4NkRROggC-dwrKY4lsSl4AFmtjvG5tPoJerDO8M6a9Z1hCdmkFNB/T_VqFbHjvb59GKLNxTtIbIdDljuGX895Wuq1Cga11CcmRfs4XLSt6kv1vtyNnBbDzEe5bucqyL-mOQQXWrzim_1esqaRMwRnPFgDeEl8f-ZHHIiThP95Apgdu_yN2d0z/8qBdVp1vqEO5t51j0QtH_NNNVP1uI-OsMbJN5JUYXhpVZx96BoTtk5H6gqp_mkOH/)
+  - [英文 No.16 Samsung Galaxy](https://galaxy-apps.en.uptodown.com/android/download)
   - [英文 No.04 SlideME](http://m.slideme.org/application/slideme-marketplace)
 - 下载google软件商店 app
   - [谷歌软件商店 Google Play app](https://a2zitpro.github.io/web/downloadgoogleplayapp)    
