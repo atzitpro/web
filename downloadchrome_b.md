@@ -8,4 +8,5 @@
 
 #### 推荐阅读
 - [新手必备](https://a2zitpro.github.io/web/greenhandtools)
-
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [翻墙神器金刚梯](https://a2zitpro.github.io/web/dlb)
