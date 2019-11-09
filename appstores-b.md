@@ -1,13 +1,8 @@
-## 美国金刚公司出品一一
+### 金刚推荐一一墙外软件商店app
 
-![image](l-w-s-athird.png)
+#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>[（点此获取金刚app for 安卓）](https://a2zitpro.github.io/web/dlb)，再点击以下链接下载安装
 
-
-### 墙外软件商店推荐 for 安卓用户
-#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>[（获取金刚app for 安卓）](https://a2zitpro.github.io/web/dl)，再点击以下链接
-
-
-- 下载墙外软件商店app（google play 备选者）
+- google play 替代者 for 安卓用户
   - [中文 No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
   - [中文 No.05 F-Droid](https://F-droid.org/)
   - [中文 No.06 Aptoide](https://cn.aptoide.com/download)
@@ -28,3 +23,5 @@
   - [英文 No.17 Soc.io Mall](https://aapks.com/download.php?dl=19025300)
 
 #### 推荐阅读
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+
