@@ -1,7 +1,7 @@
 ### 安卓手机 免费下载谷歌视频播放器YouTube app
-- 请<font color="Red"> 先连通金刚梯翻墙出来，再点击以下链接</font>
-  - [从软件商店Uptodown下载](https://youtube.cn.uptodown.com/android/download)
-  - [从软件商店Apkpure下载]()
+- 请先<font color="Red"> 连通金刚梯翻墙出来 </font>，再从以下软件商店之一下载
+  - [Uptodown](https://youtube.cn.uptodown.com/android/download)
+  - [Apkpure]()
 
 
 #### 推荐阅读
