@@ -8,45 +8,40 @@
 - 金刚号及后台支撑由金刚公司提供
 
 #### 特色
-  - 一键翻墙
-  - 安全高速 
-  - 多条线路 
-  - 免费公测 
-  - HTTPS/SSL VPN
+- 一键翻墙
+- 安全高速  
+- 流量免费
+- HTTPS/SSL VPN
 
 #### 获取
-  - 
+- 客户端
+
+  - app安装包请在此 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 
+
+- 金刚号
+  - 如果您已持有c9开头金刚号，则请忽略此条<br>
+  - 如果您尚无c9开头金刚号，则在[ 金刚网 > 商店 ](https://www.atozitpro.net/zh/shop/) 里选购SSL型c9开头金刚号（点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
+
+  - [KKSSL-FREE—当下免费金刚号](https://www.atozitpro.net/zh/product/kkfree-ssl)
+
+
+
 
 
 #### 推荐阅读
 - [翻墙神器金刚梯](https://a2zitpro.github.io/web/dlb)
-
-
-
-
-## 美国金刚公司＆筑波大学出品一一
-
-## 金刚2.0 for Windows 配置说明
-
-### <font color="Red">版权声明 </font>
-- app系筑波大学作品
-- 后台支撑由金刚公司提供
 
 ### 一、特点
 - 速度更快——比L2型速度更快
 - 自动重连——在连接中断时自动重连
 - 更加健壮——比L2型更加健壮，生命力更强
 
-### 二、适用设备
-适用于 PC+Windows 环境
 
 ### 三、所需工具
-- 客户端
-- 金刚号
 
 ### 四、客户端 的 下载、安装
 #### 1、下载
-app安装包请在此 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 。
+
 #### 2、安装
 在下载文件夹内，点击安装包，开始安装。
 ![Image](安装001B.png)
@@ -59,12 +54,7 @@ app安装包请在此 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVP
 ### 五、金刚号 的 获取、送达、配置
 #### a、获取
 
-- 如果您已持有c9开头金刚号，则请忽略此条<br>
-- 如果您尚无c9开头金刚号，则在[ 金刚网 > 商店 ](https://www.atozitpro.net/zh/shop/) 里选购SSL型c9开头金刚号（点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
-
 请在[ 金刚网 > 商店 ](https://www.atozitpro.net/zh/shop/)里选购SSL型免费金刚号： 
-
-- [KKSSL-FREE—当下免费金刚号](https://www.atozitpro.net/zh/product/kkfree-ssl)
 
 （点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
 
