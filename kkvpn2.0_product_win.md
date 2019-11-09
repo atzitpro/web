@@ -23,7 +23,7 @@
     - [ 金刚网 ]将把c9开头金刚号派送到您邮箱[ 注册邮箱 ]()，同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account)下
 - 客户端
   - 下载客户端安装包[请点击此处](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 
-  - [ 客户端安装 ]()
+  - [ 客户端安装 ](https://a2zitpro.github.io/web/kkvpn2.0_installationnotes_win)
 
   
 
