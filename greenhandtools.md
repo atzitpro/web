@@ -6,4 +6,4 @@
   - [下载脸书FaceBook](https://a2zitpro.github.io/web/downloadfacebookapp)<br><br>
 
 
-- [金刚帮助](https://a2zitpro.github.io/web/https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
