@@ -15,11 +15,10 @@
 
 #### 获取
 - 客户端
-
-  - app安装包请在此 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 
-
+  - 客户端安装包请 [点击下载](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 
+  - [客户端安装]()
 - 金刚号
-  - 如果您已持有c9开头金刚号，则请忽略此条<br>
+  - 如果您已有c9开头金刚号，则请忽略此条<br>
   - 如果您尚无c9开头金刚号，则在[ 金刚网 > 商店 ](https://www.atozitpro.net/zh/shop/) 里选购SSL型c9开头金刚号（点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）。 
 
   - [KKSSL-FREE—当下免费金刚号](https://www.atozitpro.net/zh/product/kkfree-ssl)
