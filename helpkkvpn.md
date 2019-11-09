@@ -20,7 +20,7 @@
   - [英文 No.09 APKMirror](https://apkmirror.en.uptodown.com/android/download)
   - [英文 No.10 GetApk](http://download2268.mediafire.com/0t1rknce26og/n2s3trfhxv6so0q/getapk2.0.4.apk)
   - [英文 No.11 Mobango](https://m.apkpure.com/mobango-app-store/com.appswiz.mobangoappstorehgaje/download?from=details)
-  - [英文 No.12 1AppMarket](https://m.apkpure.com/app-market/com.vicinfotech.vicappmarket.appmarket/download?from=details)
+  - [英文 No.12 AppMarket](https://m.apkpure.com/app-market/com.vicinfotech.vicappmarket.appmarket/download?from=details)
   - [英文 No.13 AppBrain](https://appbrain-app-market.en.uptodown.com/android/download)
   - [英文 No.14 APKPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
   - [英文 No.15 Mobile9](https://mobile9-deco.en.uptodown.com/android/download)
