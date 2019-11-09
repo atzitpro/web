@@ -38,7 +38,7 @@
   - Win10 [产品获取](https://a2zitpro.github.io/web/kkvpn1.0_product_win10) [配置说明](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_win10)
 
 ### 二、帮助
-- [ 金刚帮助](https://a2zitpro.github.io/web/)
+- [ 金刚帮助](https://a2zitpro.github.io/web/helpkkvpn)
 - [ 金刚1.0帮助](https://a2zitpro.github.io/web/)
 - [ 金刚2.0帮助](https://a2zitpro.github.io/web/)
 ### 三、联系客服
