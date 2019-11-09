@@ -1,4 +1,4 @@
-#### 翻墙神器金刚梯>金刚帮助
+#### 翻墙神器金刚梯>金刚帮助>
 ### 新手必备
 - [下载谷歌浏览器chrome](https://a2zitpro.github.io/web/downloadchrome_b)
 - [下载谷歌视频播放器YouTube](https://a2zitpro.github.io/web/downloadyoutubeapp_b)
