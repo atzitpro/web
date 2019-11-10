@@ -12,7 +12,7 @@
 - 合约解除后：
 
   - [ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)将对该用户不再承担除用户信息与用户隐私保护条款之外的[ 合约 ](https://a2zitpro.github.io/web/Endusercontract)义务
-  - 该用户在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)的[ kkaccount ](https://a2zitpro.github.io/web/kkaccount)将注销
+  - 该用户在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)将注销
   - 该用户的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)下的所有[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)将注销
   - 该用户的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)下的所有[ 剩余流量 ]()将注销
   - 该用户的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)下的所有[ 积分 ](https://a2zitpro.github.io/web/积分)将注销
