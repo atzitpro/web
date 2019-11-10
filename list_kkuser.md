@@ -1,5 +1,5 @@
 ### 关于金刚用户等
-- [何谓金刚用户？](https://a2zitpro.github.io/web/金刚用户)
+- [何谓金刚用户？](https://a2zitpro.github.io/web/kkuser)
 - [如何解除金刚用户身份？ ](https://a2zitpro.github.io/web/解除金刚用户合约)
 - [金刚用户与金刚网是什么关系？ ](https://a2zitpro.github.io/web/金刚用户与金刚网的关系)
 - [如何成为金刚用户？](https://a2zitpro.github.io/web/成为金刚用户)
