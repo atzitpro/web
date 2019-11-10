@@ -15,7 +15,7 @@
   - 该用户在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)将注销
   - 该用户的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)下的所有[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)将注销
   - 该用户的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)下的所有[ 剩余流量 ]()将注销
-  - 该用户的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)下的所有[ 积分 ](https://a2zitpro.github.io/web/积分)将注销
+  - 该用户的[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)下的所有[ 积分 ](https://a2zitpro.github.io/web/point)将注销
   - [ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)不因该用户与[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)解除[ 合约 ](https://a2zitpro.github.io/web/Endusercontract)而放弃对其个人信息和个人隐私的保护
 
 #### 推荐阅读
