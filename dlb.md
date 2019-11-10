@@ -38,7 +38,7 @@
   - Win10 [产品获取](https://a2zitpro.github.io/web/kkvpn1.0_product_win10) [配置说明](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_win10)
 
 ### 二、金刚服务
-- [ 金刚公司 ](https://a2zitpro.github.io/web/金刚公司 )经由<font color="Red"> 金刚产品 </font>向[ 金刚用户 ](https://a2zitpro.github.io/web/)提供[ 金刚服务 ](https://a2zitpro.github.io/web/金刚服务)
+- [ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro )经由<font color="Red"> 金刚产品 </font>向[ 金刚用户 ](https://a2zitpro.github.io/web/金刚用户)提供[ 金刚服务 ](https://a2zitpro.github.io/web/金刚服务)
 
 
 ### 三、帮助
