@@ -1,5 +1,5 @@
 ### 什么是积分？
-答：<font color="red"> 积分 </font>是[ 金刚公司 ](https://a2zitpro.github.io/web/金刚公司)发行的、当前仅可流通于[ 金刚用户 ](https://a2zitpro.github.io/web/金刚用户)与[ 金刚公司 ](https://a2zitpro.github.io/web/金刚公司)之间的数字化代金券
+答：<font color="red"> 积分 </font>是[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)发行的、当前仅可流通于[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)与[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)之间的数字化代金券
 
 
 #### 推荐阅读
