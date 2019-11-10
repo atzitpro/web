@@ -7,7 +7,7 @@
   - [下载脸书FaceBook](https://a2zitpro.github.io/web/downloadfacebookapp_b)<br><br>
 
 - 更多工具
-  - [下载应用商店Uptodown]()
+  - [下载应用商店Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
   - [下载应用商店ApkPure]()
 
 #### 推荐阅读
