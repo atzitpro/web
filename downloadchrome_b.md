@@ -1,5 +1,5 @@
 #### 金刚梯>金刚帮助>安卓必备>
-### 下载谷歌浏览器Chrome
+### 下载Chrome
 
 - 请先<font color="Red"> 连通金刚梯翻墙出来 </font>，再从以下软件商店之一下载
     - [Uptodown](https://chrome.cn.uptodown.com/android/download#)
