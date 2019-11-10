@@ -1,4 +1,4 @@
-#### 金刚梯>金刚公司
+#### 金刚梯>金刚帮助>金刚公司
 ### 问：何谓金刚中文网？
 答：[<font color="Red">金刚中文网</font>]()（在[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)发布的中文文档中亦简称[ 金刚网 ](https://www.atozitpro.net/zh/)、[ 官网 ](https://www.atozitpro.net/zh/)
 - 是[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)旗下网站之一
@@ -8,4 +8,5 @@
 #### 推荐阅读
 
 - [金刚公司](https://a2zitpro.github.io/web/list_a2zitpro)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
