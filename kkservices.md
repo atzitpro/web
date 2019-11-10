@@ -1,5 +1,6 @@
-### 问：什么是金刚服务？
-答：所谓<font color="Red"> 金刚服务 </font>仅指：由[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)面向全球讲汉语、写中文的互联网用户提供的一一
+#### 金刚梯>金刚帮助>金刚公司>
+### 金刚服务
+所谓<font color="Red"> 金刚服务 </font>仅指：由[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)面向全球讲汉语、写中文的互联网用户提供的一一
 - [ 安全上网 ](https://a2zitpro.github.io/web/valueofkkproducts&services)服务
 - 穿越[ 网络防火墙 ](https://a2zitpro.github.io/web/firewall)服务
 
