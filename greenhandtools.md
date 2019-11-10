@@ -8,7 +8,7 @@
 
 - 更多工具
   - [下载应用商店Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
-  - [下载应用商店ApkPure]()
+  - [下载应用商店ApkPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
 
 #### 推荐阅读
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
