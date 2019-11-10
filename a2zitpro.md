@@ -13,4 +13,4 @@ Lafayette, CO 80026, USA <br>
 #### 推荐阅读
 
 - [关于金刚公司等](https://a2zitpro.github.io/web/list_a2zitpro)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
