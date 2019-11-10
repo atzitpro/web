@@ -1,5 +1,6 @@
 #### 金刚梯>金刚帮助>
 ### 安卓必备
+- 请<font color="Red"> 连通金刚梯翻墙 </font>出来，再点击以下链接，下载安装
 - 工具
   - [下载谷歌浏览器chrome](https://a2zitpro.github.io/web/downloadchrome_b)
   - [下载谷歌播放器YouTube](https://a2zitpro.github.io/web/downloadyoutubeapp_b)
