@@ -8,7 +8,7 @@
 
 - 将帮助[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)突破第三方设立的[ 网络防火墙 ](https://a2zitpro.github.io/web/firewall)，亦称<font color="Red"> 翻墙 </font>，使其在Internet上畅行无阻，自由上网
 
-- 将帮助[ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)的公司用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的[ 网络防火墙 ](https://a2zitpro.github.io/web/firewall)，完成身份认证，进而访问公司内部网
+- 将帮助[ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)的公司（或非公月组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的[ 网络防火墙 ](https://a2zitpro.github.io/web/firewall)，完成身份认证，进而访问公司内部网
 
 #### 推荐阅读
 - [关于金刚公司](https://a2zitpro.github.io/web/list_a2zitpro)
