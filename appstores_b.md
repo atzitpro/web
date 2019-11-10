@@ -1,6 +1,7 @@
-### 金刚推荐一一墙外应用商店app
-#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>[（点此获取金刚2.0 app梯 for 安卓）](https://a2zitpro.github.io/web/dlb)，再点击以下链接下载安装
-- google play 替代者 for 安卓用户
+#### 金刚梯>金刚帮助>
+### 墙外应用商店app
+#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>，再点击以下链接下载安装
+- google play 替代者 
   - [中文 No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
   - [中文 No.05 F-Droid](https://F-droid.org/)
   - [中文 No.06 Aptoide](https://cn.aptoide.com/download)
@@ -22,4 +23,4 @@
 
 #### 推荐阅读
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
