@@ -2,8 +2,8 @@
 ### 下载FaceBook
 
 - 请先<font color="Red"> 连通金刚梯翻墙出来 </font>，再从以下应用商店之一下载
-  - [Uptodown](https://twitter.cn.uptodown.com/android/download)
-  - [Apkpure]()
+  - [Uptodown下载](https://facebook.cn.uptodown.com/android/download)
+  - [Apkpure下载]()
 
 #### 推荐阅读
 - [安卓必备](https://a2zitpro.github.io/web/greenhandtools)
