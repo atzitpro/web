@@ -1,5 +1,5 @@
 #### 金刚梯>金刚帮助>
-### 墙外应用商店app
+### 安卓商店app
 - 请<font color="Red"> 连通金刚梯翻墙 </font>出来，再点击以下链接，下载安装google play 替代者
   - [中文 No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
   - [中文 No.05 F-Droid](https://F-droid.org/)
