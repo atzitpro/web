@@ -1,3 +1,4 @@
+#### 金刚梯>金刚帮助>金刚公司等
 ### 问：金刚公司及相关信息？
 
 答：<font color="Red"> 金刚公司 </font>是一间依照美国法律设立，并合法存续于美国的信息技术公司。<br><br>
@@ -12,5 +13,5 @@ Lafayette, CO 80026, USA <br>
 
 #### 推荐阅读
 
-- [关于金刚公司](https://a2zitpro.github.io/web/list_a2zitpro)
+- [金刚公司](https://a2zitpro.github.io/web/list_a2zitpro)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
