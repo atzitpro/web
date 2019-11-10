@@ -8,5 +8,5 @@
 - 该[ 合约 ](https://a2zitpro.github.io/web/Endusercontract)签署后，使用者即成为<font color="Red"> 金刚用户 </font>
 
 #### 推荐阅读
-- [关于金刚用户](https://a2zitpro.github.io/web/list_kkuser)
+- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
