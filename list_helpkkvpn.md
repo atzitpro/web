@@ -1,6 +1,6 @@
 #### 金刚梯>
 ### 金刚帮助
-- [随手工具]
+- 随手工具
   - [安卓必备](https://a2zitpro.github.io/web/greenhandtools)
   - [安卓商店](https://a2zitpro.github.io/web/appstores_b)
 - [基础概念]()
