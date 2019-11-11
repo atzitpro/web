@@ -2,7 +2,7 @@
 ### 金刚伙伴
 
 - [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferrer)
-- [金刚广告商](https://a2zitpro.github.io/web/list_kkadvertiser)
+- [金刚广告商](https://a2zitpro.github.io/web/list_advertiser)
 
 #### 推荐阅读
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
