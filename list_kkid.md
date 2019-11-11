@@ -1,4 +1,5 @@
-### 关于金刚号等
+#### 金刚梯金刚1.0帮助
+### 关于金刚号
 
 - [什么是金刚号？](https://a2zitpro.github.io/web/kkid)
 - [金刚号长什么样？](https://a2zitpro.github.io/web/金刚号的形态)
@@ -27,5 +28,5 @@
 
 
 #### 推荐阅读
-- [金刚1.0 帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚1.0帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
