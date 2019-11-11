@@ -9,7 +9,7 @@
 - [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
 - [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/忘记注册邮箱)
 - [从未使用过金刚，我该如何开始？](https://a2zitpro.github.io/web/tobekkuser)
-- [如何在金刚网注册？](https://a2zitpro.github.io/web/reinkksitecn)
+- [如何在金刚网注册？](https://a2zitpro.github.io/web/reginkksitecn)
 - [我可以用多个邮箱在金刚网注册多个金刚账户吗？](https://a2zitpro.github.io/web/多邮箱注册)
 - [我是金刚用户，如何解除与金刚的合约？](https://a2zitpro.github.io/web/解除金刚用户合约)
 - [可用短命邮箱注册吗？](https://a2zitpro.github.io/web/短命邮箱注册)
