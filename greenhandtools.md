@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>
+#### 金刚梯>金刚帮助>随身工具
 ### 安卓必备
 - 请<font color="Red"> 连通金刚梯翻墙 </font>出来，再点击以下链接，下载安装
   - 工具
@@ -12,5 +12,7 @@
     - [下载应用商店ApkPure](https://m.apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon_m)
 
 #### 推荐阅读
+
+- [随身工具](https://a2zitpro.github.io/web/list_carryontools)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
