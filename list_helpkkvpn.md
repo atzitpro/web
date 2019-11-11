@@ -9,6 +9,5 @@
 - [金刚积分](https://a2zitpro.github.io/web/list_kkpoint)
 - [金刚伙伴](https://a2zitpro.github.io/web/list_kkpartner)
 
-
 #### 推荐阅读
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
