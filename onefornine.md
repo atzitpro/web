@@ -1,3 +1,4 @@
+#### 金刚梯>金刚1.0金刚号梯帮助>金刚号>
 ### 问：我能把同一金刚号配入手机和iPad同时使用吗？
 答：可以。
 - 北京时间2019.06.01 0:00:00之前，1个[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)可配入[ 多部设备 ](https://a2zitpro.github.io/web/金刚号与设备的关系)，这些设备共享该[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)内流量；但同一时刻只有1部设备能连通，多部设备不可同时连通
