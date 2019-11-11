@@ -21,6 +21,6 @@
   - [英文 No.17 Soc.io Mall](https://aapks.com/download.php?dl=19025300)
 
 #### 推荐阅读
-- [金刚帮助](https://a2zitpro.github.io/web/list_carryontools)
+- [随身工具](https://a2zitpro.github.io/web/list_carryontools)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
