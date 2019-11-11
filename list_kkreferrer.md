@@ -3,7 +3,7 @@
 - [什么叫金刚推荐人？](https://a2zitpro.github.io/web/kkreferrer)
 - [金刚推荐人能得到啥回报？](https://a2zitpro.github.io/web/rewardforreferrer)
 - [什么样的人才有资格作金刚推荐人？](https://a2zitpro.github.io/web/推荐人资格)
-- [金刚推荐人该如何工作？](https://a2zitpro.github.io/web/workmethodsofreferre)
+- [金刚推荐人该如何工作？](https://a2zitpro.github.io/web/workingmethodsofreferre)
 
 
 
