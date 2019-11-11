@@ -16,6 +16,8 @@
 
 
 - [什么是金刚账户？](https://a2zitpro.github.io/web/kkaccount)
+
+
 - [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
 - [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/忘记注册邮箱)
 
