@@ -7,7 +7,7 @@
 - [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
 - [金刚流量]()
 - [金刚积分]()
-- [金刚伙伴]()
+- [金刚伙伴](https://a2zitpro.github.io/web/kkpartner)
 
 
 #### 推荐阅读
