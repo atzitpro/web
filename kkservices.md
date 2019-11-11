@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚产品与服务>
+#### 金刚梯>金刚帮助>金刚VPN产品与VPN服务>
 ### 金刚VPN服务
 所谓<font color="Red"> 金刚VPN服务 </font>仅指：由[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)面向全球讲汉语、写中文的互联网用户提供的一一
 - [ 安全上网 ](https://a2zitpro.github.io/web/valueofkkproducts&services)服务
