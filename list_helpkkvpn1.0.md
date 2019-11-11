@@ -14,6 +14,13 @@
 - [价格](https://a2zitpro.github.io/web/列表-金刚梯价格)
 - [金刚流量](https://a2zitpro.github.io/web/列表-流量及相关问题)
 
+
+- [什么是金刚账户？](https://a2zitpro.github.io/web/kkaccount)
+- [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
+- [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/忘记注册邮箱)
+
+
+
 #### 2、操作与实务
 - [如何为我的金刚号购买下一期流量？]()
 - [我想改按月为按年购买流量，该怎么操作？]()
