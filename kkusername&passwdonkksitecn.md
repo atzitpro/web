@@ -1,4 +1,4 @@
-### 问：何谓用户名？何谓密码？
+### 用户名和密码
 答：
 - 所谓<font color="Red"> 用户名 </font>：
   - 是指您登录[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)时所需的<font color="Red"> 用户名 </font>，而非当您在安卓手机（或其他设备）上填入[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)等时所遇到的[<font color="Black"> 用户名 </font>](https://a2zitpro.github.io/web/金刚号)
