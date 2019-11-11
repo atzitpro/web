@@ -3,7 +3,7 @@
 
 - [什么是金刚流量？](https://a2zitpro.github.io/web/kkdatatraffic)
 - [什么是金刚流量包？](https://a2zitpro.github.io/web/packageofkkdatatraffic)
-- [金刚提供免费流量吗？](https://a2zitpro.github.io/web/免费流量)
+- [金刚提供免费流量吗？](https://a2zitpro.github.io/web/freekkdatatraffic)
 - [流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/流量包尺寸)
 - [流量包有效期有哪几种？](https://a2zitpro.github.io/web/流量包有效期)
 - [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/查询名下金刚号)
