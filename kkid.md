@@ -1,4 +1,4 @@
-### 问：什么是金刚号？
+### 金刚号
 
 答：<font color="Red"> 金刚号 </font>是：
 
@@ -16,4 +16,4 @@
 - [金刚号](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
 - [金刚1.0金刚号梯](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dbl)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
