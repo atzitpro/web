@@ -3,18 +3,16 @@
 ### 金刚1.0帮助
 
 #### 1、概念与术语
-- [关于VPN等](https://a2zitpro.github.io/web/列表-关于VPN及相关问题)
-- [关于金刚公司等](https://a2zitpro.github.io/web/列表-关于金刚公司及相关问题)
-- [关于金刚VPN产品等](https://a2zitpro.github.io/web/列表-关于金刚VPN产品等)
-- [关于金刚2.0app梯等](https://a2zitpro.github.io/web/列表-关于金刚2.0app型翻墙梯及相关问题)
-- [关于金刚1.0金刚号梯等](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
-- [关于金刚用户等](https://a2zitpro.github.io/web/list_kkuser)
+- [关于VPN](https://a2zitpro.github.io/web/列表-关于VPN及相关问题)
+- [金刚公司](https://a2zitpro.github.io/web/列表-关于金刚公司及相关问题)
+- [金刚VPN产品](https://a2zitpro.github.io/web/列表-关于金刚VPN产品等)
+- [金刚2.0app梯](https://a2zitpro.github.io/web/列表-关于金刚2.0app型翻墙梯及相关问题)
+- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
+- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
 - [金刚号](https://a2zitpro.github.io/web/list_kkid)
-- [关于金刚推荐人等](https://a2zitpro.github.io/web/列表-金刚推荐人及相关问题)
-- [关于金刚广告商等](https://a2zitpro.github.io/web/列表-金刚广告商及相关问题)
-- [关于积分等](https://a2zitpro.github.io/web/列表-积分及相关问题)
-- [关于价格等](https://a2zitpro.github.io/web/列表-金刚梯价格)
-- [关于金刚流量等](https://a2zitpro.github.io/web/列表-流量及相关问题)
+- [积分](https://a2zitpro.github.io/web/列表-积分及相关问题)
+- [价格](https://a2zitpro.github.io/web/列表-金刚梯价格)
+- [金刚流量](https://a2zitpro.github.io/web/列表-流量及相关问题)
 
 #### 2、操作与实务
 - [如何为我的金刚号购买下一期流量？]()
