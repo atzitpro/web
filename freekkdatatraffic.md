@@ -1,3 +1,4 @@
+#### 
 ### 问：金刚提供免费流量吗？
 答：提供。据现行政策，[金刚公司 ](https://a2zitpro.github.io/web/金刚公司)提供以下<font color="Red"> 免费流量 </font>：
 - [ 普通金刚号 ](https://a2zitpro.github.io/web/普通金刚号)+Windows+[ SSL客户端 ](https://a2zitpro.github.io/web/获取SSL型客户端) 一一 无上限供应<font color="Red"> 免费流量 </font>
@@ -11,6 +12,8 @@
 - 新注册[ 金刚用户 ](https://a2zitpro.github.io/web/金剛用户)的第1个[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号) 一一 一次性供30GB<font color="Red"> 免费流量 </font>，有效期1个月
 
 #### 推荐阅读
-- [关于流量等](https://a2zitpro.github.io/web/列表-流量及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [流量](https://a2zitpro.github.io/web/列表-流量及相关问题)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
+
 
