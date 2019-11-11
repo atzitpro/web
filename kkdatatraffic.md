@@ -1,9 +1,9 @@
 #### 金刚梯>金刚帮助>金刚流量>
 ### 问：什么是金刚流量？
-- 金刚流量的实质是：经由[ 金刚 ](https://a2zitpro.github.io/web/金刚公司)服务器为您供应的数字化信息量。
+- 金刚流量的实质是：经由[ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)服务器为[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)供应的数字化信息量。
 - 金刚流量同时也是：
-  - [ 金刚 ](https://a2zitpro.github.io/web/金刚公司)度量为您提供服务的尺度
-  - [ 金刚 ](https://a2zitpro.github.io/web/金刚公司)收取费用的依据
+  - [ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)度量为您提供服务的尺度
+  - [ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)收取费用的依据
 - 计量单位：B（即字节）、KB、MB、GB、TB等
 - 换算关系：
   - 1KB=1024B
