@@ -1,8 +1,8 @@
 #### 金刚梯>金刚帮助
 ### 金刚流量
 
-- [什么是流量？](https://a2zitpro.github.io/web/kkdatatraffic)
-- [什么是流量包？](https://a2zitpro.github.io/web/流量包)
+- [什么是金刚流量？](https://a2zitpro.github.io/web/kkdatatraffic)
+- [什么是金刚流量包？](https://a2zitpro.github.io/web/流量包)
 - [金刚提供免费流量吗？](https://a2zitpro.github.io/web/免费流量)
 - [流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/流量包尺寸)
 - [流量包有效期有哪几种？](https://a2zitpro.github.io/web/流量包有效期)
