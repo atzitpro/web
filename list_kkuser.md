@@ -6,7 +6,7 @@
 - [金刚用户与金刚网是什么关系？ ](https://a2zitpro.github.io/web/金刚用户与金刚网的关系)
 - [如何成为金刚用户？](https://a2zitpro.github.io/web/tobekkuser)
 - [什么是金刚账户？](https://a2zitpro.github.io/web/kkaccount)
-- [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/忘记密码)
+- [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
 - [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/忘记注册邮箱)
 - [从未使用过金刚，我该如何开始？](https://a2zitpro.github.io/web/成为金刚用户)
 - [如何在金刚网注册？](https://a2zitpro.github.io/web/在金刚网注册)
