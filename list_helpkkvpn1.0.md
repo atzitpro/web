@@ -37,4 +37,4 @@
 - [我想把我在金刚网的注册邮箱改变为另一个邮箱，可以吗？]()
 
 #### 推荐阅读
--[金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
