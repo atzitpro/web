@@ -3,7 +3,7 @@
 - 外形特征：<font color="Red"> 普通金刚号 </font>以c9开头
 - 在[ 金刚网>菜单>商店 ](https://atozitpro.net/shop)里：
   - 所有<font color="Red"> 普通金刚号 </font>均属SSL型
-  - 所有[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)均属L2型
+  - 所有[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)均属L2型
 - 适用设备：<font color="Red"> 普通金刚号 </font>仅可用于Windows+[ SSL型客户端 ](https://a2zitpro.github.io/web/获取SSL型客户端)环境
 
 #### 推荐阅读
