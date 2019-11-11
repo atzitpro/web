@@ -5,7 +5,7 @@
   - [安卓商店](https://a2zitpro.github.io/web/appstores_b)
 - [基础概念]()
 - [金刚公司](https://a2zitpro.github.io/web/list_a2zitpro)
-- [金刚产品与服务](https://a2zitpro.github.io/web/kkproduts&services)
+- [金刚产品与服务](https://a2zitpro.github.io/web/list_kkproduts&services)
 - [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
 - [金刚流量]()
 - [金刚积分]()
