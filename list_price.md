@@ -1,7 +1,8 @@
-### 关于金刚梯价格等
+#### 金刚梯>
+### 金刚梯价格
 - [ 金刚2.0app梯价格 ](https://a2zitpro.github.io/web/金刚2.0梯价格表)
 - [ 金刚1.0金刚号梯价格 ](https://a2zitpro.github.io/web/金刚1.0梯价格表)
 
 #### 推荐阅读
-- [价格](https://a2zitpro.github.io/web/list_price)
+- [金刚梯价格](https://a2zitpro.github.io/web/list_price)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
