@@ -1,6 +1,6 @@
 ### 关于积分等
 
-- [什么是积分？](https://a2zitpro.github.io/web/积分)
+- [什么是积分？](https://a2zitpro.github.io/web/kkpoint)
 - [积分有什么用？](https://a2zitpro.github.io/web/积分用途)
 - [积分与美元怎样兑换？](https://a2zitpro.github.io/web/积分与美元怎样兑换)
 - [用积分可购买哪些商品？](https://a2zitpro.github.io/web/用积分可购买哪些商品)
