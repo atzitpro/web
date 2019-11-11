@@ -1,9 +1,9 @@
 ### 问：万能金刚号是怎么回事？
-答：<font color="Red"> 万能金刚号 </font>是相对[ 普通金刚号 ](https://a2zitpro.github.io/web/普通金刚号)的称谓，即除[ 普通金刚号 ](https://a2zitpro.github.io/web/普通金刚号)之外的[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)都是<font color="Red"> 万能金刚号 </font>
+答：<font color="Red"> 万能金刚号 </font>是相对[ 普通金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)的称谓，即除[ 普通金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)之外的[ 金刚号 ](https://a2zitpro.github.io/web/kkid)都是<font color="Red"> 万能金刚号 </font>
 - 外形特征：<font color="Red"> 万能金刚号 </font>非c9开头
 - 在[ 金刚网>菜单>商店 ](https://atozitpro.net/shop)里：
   - 所有<font color="Red"> 万能金刚号 </font>均属于L2型
-  - 所有[ 普通金刚号 ](https://a2zitpro.github.io/web/普通金刚号)均属于SSL型
+  - 所有[ 普通金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)均属于SSL型
 - 适用设备：<font color="Red"> 万能金刚号 </font>可配入多种设备连通使用
   - [安卓手机](https://a2zitpro.github.io/web/android)
   - [安卓平板](https://a2zitpro.github.io/web/android)
@@ -21,6 +21,6 @@
 
 #### 推荐阅读
 
-- [关于金刚号等](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
+- [金刚号](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
 - [关于金刚1.0金刚号梯等](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
