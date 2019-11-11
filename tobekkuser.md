@@ -1,6 +1,6 @@
-### 问：如何成为金刚用户？
+### 成为金刚用户
 
-答：使用[ 金刚产品 ](https://a2zitpro.github.io/web/dlb)即成为[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)
+使用[ 金刚VPN产品 ](https://a2zitpro.github.io/web/kkproducts)即成为[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)
 
   - 金刚梯获取渠道
     - 您可以扫他人散发的[ 邀请二维码1 ](https://a2zitpro.github.io/web/邀请二维码-广告商)或[ 邀请二维码2 ](https://a2zitpro.github.io/web/邀请二维码-推荐人)在[ 金刚中文网 ](https://a2zitpro.github.io/web/kksitecn)注册以获取
