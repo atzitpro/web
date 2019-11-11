@@ -1,3 +1,4 @@
+#### 金刚梯>金刚1.0金刚号梯帮助>金刚用户>金刚账户
 ### 问：可用短命邮箱注册吗？
 答：不可。
 - 用短命邮箱在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)注册[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)的行为是违约行为
