@@ -8,12 +8,12 @@
   - [安卓手机](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_phone)
   - [安卓平板](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_pad)
   - [安卓机顶盒](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_tvbox)
-  - [苹果手机](https://a2zitpro.github.io/web/ios)
-  - [苹果平板](https://a2zitpro.github.io/web/ios)
-  - [苹果电脑MacOS](https://a2zitpro.github.io/web/mac)
+  - [苹果手机](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_ios_iphone)
+  - [苹果平板](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_ios_ipad)
+  - [苹果电脑MacOS](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_macos)
   - Windows
-     - [Win7](https://a2zitpro.github.io/web/win7)
-     - [Win10](https://a2zitpro.github.io/web/win10) 
+     - [Win7](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_win7)
+     - [Win10](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_win10)
 - 价值：<font color="Red"> 万能金刚号 </font>可帮您实现：
   - 全球视频资讯，无论何时何地，均可信手拈来
   - 视频既能播放于可移动的手机、平板、PC，又能播放于不可移动的TV
@@ -22,5 +22,5 @@
 #### 推荐阅读
 
 - [金刚号](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
-- [关于金刚1.0金刚号梯等](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
+- [金刚1.0帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
