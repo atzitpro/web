@@ -7,4 +7,5 @@
 不包括[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)的其它服务。
 
 #### 推荐阅读
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
