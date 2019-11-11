@@ -1,5 +1,5 @@
 ### 主号
-- [<font color="Red"> 主号 </font>](https://a2zitpro.github.io/web/mainkkid)是[ 副号 ]()的相对称谓
+- [<font color="Red"> 主号 </font>](https://a2zitpro.github.io/web/mainkkid)是[ 副号 ](https://a2zitpro.github.io/web/副号)的相对称谓
 - [ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)把具有以下特征的[ 金刚号 ](https://a2zitpro.github.io/web/kkid)叫<font color="Black">主号</font>：
   - 非c9开头
   - 其上捆绑了[ 大宗流量 ](https://a2zitpro.github.io/web/大宗流量)包
