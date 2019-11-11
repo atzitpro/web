@@ -16,4 +16,4 @@
 - [关于金刚流量等](https://a2zitpro.github.io/web/列表-流量及相关问题)
 - [关于金刚号等](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
 - [关于金刚推荐人等](https://a2zitpro.github.io/web/列表-金刚推荐人及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
