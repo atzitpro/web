@@ -34,4 +34,5 @@
 #### 推荐阅读
 - [金刚流量](https://a2zitpro.github.io/web/list_kkdatatraffic)
 - [金刚梯价格](https://a2zitpro.github.io/web/list_kkprice)
+- [金刚帮助](https://a2zitpro.github.io/web/list_kkprice)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
