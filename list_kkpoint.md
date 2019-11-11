@@ -1,4 +1,4 @@
-### 关于积分等
+### 关于积分
 
 - [什么是积分？](https://a2zitpro.github.io/web/kkpoint)
 - [积分有什么用？](https://a2zitpro.github.io/web/积分用途)
