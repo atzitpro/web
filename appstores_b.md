@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>
+#### 金刚梯>金刚帮助>随身工具>
 ### 安卓商店app
 - 请<font color="Red"> 连通金刚梯翻墙 </font>出来，再点击以下链接，下载安装google play 替代者
   - [中文 No.07 Uptodown](https://uptodown-android.cn.uptodown.com/android/download)
@@ -21,5 +21,6 @@
   - [英文 No.17 Soc.io Mall](https://aapks.com/download.php?dl=19025300)
 
 #### 推荐阅读
+- [金刚帮助](https://a2zitpro.github.io/web/list_carryontools)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
