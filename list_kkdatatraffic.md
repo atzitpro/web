@@ -1,7 +1,6 @@
 #### 金刚梯>金刚帮助
 ### 金刚流量
 
-- [金刚1.0金刚号梯怎么收费？](https://a2zitpro.github.io/web/金刚1.0梯价格表)
 - [什么是流量？](https://a2zitpro.github.io/web/kkdatatraffic)
 - [什么是流量包？](https://a2zitpro.github.io/web/流量包)
 - [金刚提供免费流量吗？](https://a2zitpro.github.io/web/免费流量)
