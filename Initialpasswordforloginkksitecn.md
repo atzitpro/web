@@ -1,3 +1,4 @@
+#### 金刚梯>金刚帮助>金刚用户
 ### 问：何谓初始密码？
 答：<font color="Red"> 初始密码 </font>是您的[ 金刚账户 ](https://a2zitpro.github.io/web/金刚账户)的第一个密码
 - 该<font color="Red"> 初始密码 </font>由[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)自动生成
@@ -8,5 +9,6 @@
 
 
 #### 推荐阅读
-- [关于金刚用户等](https://a2zitpro.github.io/web/列表-金刚用户及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
