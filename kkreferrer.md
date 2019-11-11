@@ -1,6 +1,6 @@
 #### 金刚梯>金刚帮助>金刚伙伴>
 ### 问：何谓金刚推荐人？
-答：凡分享金刚产品与服务给其他人的金刚用户都是金刚推荐人。
+答：凡分享[ 金刚产品 ](https://a2zitpro.github.io/web/kkproducts)与[ 金刚服务 ](https://a2zitpro.github.io/web/kkservices)给其他人的[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)都是金刚推荐人。
 
 #### 推荐阅读
 - [金刚伙伴](https://a2zitpro.github.io/web/list_kkpartner)
