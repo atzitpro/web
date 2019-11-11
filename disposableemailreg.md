@@ -8,5 +8,5 @@
 
 #### 推荐阅读
 
-- [关于金刚用户等](https://a2zitpro.github.io/web/列表-金刚用户及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
