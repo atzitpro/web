@@ -4,10 +4,7 @@
 
 #### 1、概念与术语
 - [金刚1.0金刚号梯](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
-- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
 - [金刚号](https://a2zitpro.github.io/web/list_kkid)
-
-
 - [什么是金刚账户？](https://a2zitpro.github.io/web/kkaccount)
 
 
