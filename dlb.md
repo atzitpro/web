@@ -47,3 +47,4 @@
 - [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
 
 ### 四、联系客服
+- 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
