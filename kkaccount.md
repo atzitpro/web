@@ -1,6 +1,5 @@
 #### 金刚梯>金刚帮助>金刚用户>
-### 问：什么是金刚账户？
-答：
+### 金刚账户
 - 每一位[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)《[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)一览表》中都被登记为唯一的一行
 - 该行登记就是该[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)的<font color="Red"> 金刚账户 </font>。它是使用者作为[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)的凭据
 - 构成 <font color="Red"> 金刚账户 </font>的主要部分：<br>
