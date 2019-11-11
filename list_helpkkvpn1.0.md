@@ -13,7 +13,7 @@
 
 - [如何在金刚网注册？](https://a2zitpro.github.io/web/reginkksitecn)
 - [我可以用多个邮箱在金刚网注册多个金刚账户吗？](https://a2zitpro.github.io/web/mutimailboxreginkksitecn)
-- [可用短命邮箱注册吗？](https://a2zitpro.github.io/web/短命邮箱注册)
+- [可用短命邮箱注册吗？](https://a2zitpro.github.io/web/disposableemailreg)
 
 
 
