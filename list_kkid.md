@@ -20,8 +20,8 @@
 - [主号、副号各有何用途？](https://a2zitpro.github.io/web/主号和副号的用途) 
 - [如何获得副号？](https://a2zitpro.github.io/web/获取副号)
 - [金刚号卖什么价格？](https://a2zitpro.github.io/web/金刚号的价格)
-- [我能把同一金刚号配入手机和iPad上同时使用吗？](https://a2zitpro.github.io/web/一拖九)
-- [<font color="Red"> 一拖九 </font>是怎么回事？](https://a2zitpro.github.io/web/一拖九)
+- [我能把同一金刚号配入手机和iPad上同时使用吗？](https://a2zitpro.github.io/web/onefornine)
+- [<font color="Red"> 一拖九 </font>是怎么回事？](https://a2zitpro.github.io/web/onefornine)
 - [如何获取普通金刚号（c9开头）？](https://a2zitpro.github.io/web/获取c9开头金刚号)
 - [如何获取与普通金刚号（c9开头）配套使用的SSL型客户端？](https://a2zitpro.github.io/web/获取SSL型客户端)
 
