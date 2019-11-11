@@ -1,9 +1,10 @@
 ### 问：我可以用多个邮箱在金刚网注册多个金刚账户吗？
 答：不可。
-- 每一位自然人用户在[ 金刚网 ](https://atozitpro.net/zh/)只允许注册一个[ 金刚账户 ](https://a2zitpro.github.io/web/金刚账户)
-- 同一位自然人用户在[ 金刚网 ](https://atozitpro.net/zh/)用多个邮箱注册多个[ 金刚账户 ](https://a2zitpro.github.io/web/金刚账户)的行为是违约行为
-- 同一位自然人用户在[ 金刚网 ](https://atozitpro.net/zh/)用多个邮箱注册多个[ 金刚账户 ](https://a2zitpro.github.io/web/金刚账户)的，从第2个[ 金刚账户 ](https://a2zitpro.github.io/web/金刚账户)开始的其余[ 金刚账户 ](https://a2zitpro.github.io/web/金刚账户)将被封禁
+- 每一位自然人用户在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)只允许注册一个[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)
+- 同一位自然人用户在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)用多个邮箱注册多个[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)的行为是违约行为
+- 同一位自然人用户在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)用多个邮箱注册多个[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)的，从第2个[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)开始的其余[ 金刚账户 ](https://a2zitpro.github.io/web/kkaccount)将被封禁
 
 #### 推荐阅读
-- [关于金刚用户等](https://a2zitpro.github.io/web/列表-金刚用户及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
+- [金刚帮助1.0](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
