@@ -5,8 +5,8 @@
   - 所有<font color="Red"> 万能金刚号 </font>均属于L2型
   - 所有[ 普通金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)均属于SSL型
 - 适用设备：<font color="Red"> 万能金刚号 </font>可配入多种设备连通使用
-  - [安卓手机](https://a2zitpro.github.io/web/android)
-  - [安卓平板](https://a2zitpro.github.io/web/android)
+  - [安卓手机](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_phone)
+  - [安卓平板](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_pad)
   - [安卓机顶盒](https://a2zitpro.github.io/web/android)
   - [苹果手机](https://a2zitpro.github.io/web/ios)
   - [苹果平板](https://a2zitpro.github.io/web/ios)
