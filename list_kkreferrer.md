@@ -1,4 +1,5 @@
-### 关于金刚推荐人等
+#### 金刚梯>金刚帮助>金刚伙伴>
+### 金刚推荐人
 
 - [什么叫金刚推荐人？](https://a2zitpro.github.io/web/kkreferrer)
 - [金刚推荐人能得到啥回报？](https://a2zitpro.github.io/web/rewardforkkreferrer)
