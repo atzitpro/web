@@ -2,7 +2,7 @@
 ### 关于金刚号
 
 - [什么是金刚号？](https://a2zitpro.github.io/web/kkid)
-- [金刚号长什么样？](https://a2zitpro.github.io/web/金刚号的形态)
+- [金刚号长什么样？](https://a2zitpro.github.io/web/kkidform)
 - [金刚号可用于哪些设备？](https://a2zitpro.github.io/web/金刚号与设备的关系)
 - [金刚号如何配置？](https://a2zitpro.github.io/web/配置说明)
 - [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/配置注意事项)
