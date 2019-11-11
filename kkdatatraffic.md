@@ -14,6 +14,7 @@
 
 
 #### 推荐阅读
-- [关于金刚流量等](https://a2zitpro.github.io/web/列表-流量及相关问题)
-- [关于金刚1.0金刚号梯等](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+
+- [金刚流量](https://a2zitpro.github.io/web/list_kkdatatraffic)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚梯](https://a2zitpro.github.io/web/列表-问题与解答)
