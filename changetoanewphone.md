@@ -5,7 +5,7 @@
 
 第一步：找回[ 金刚号及配套参数 ](https://a2zitpro.github.io/web/getbackparameters)
 
-第二步：配入手机
+第二步：配入新手机
 - 将[ 金刚号 ](https://a2zitpro.github.io/web/kkid)及[ 配套参数 ](https://a2zitpro.github.io/web/parametersofkkid)严格按照原样逐字[ 正确录入 ]()手机
 
 #### 推荐阅读
