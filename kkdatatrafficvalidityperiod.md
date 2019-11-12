@@ -6,7 +6,7 @@
   - [ 免费流量包 ](https://a2zitpro.github.io/web/kkdatatrafficfree)有效期
     - 天
     - 月
-  - [ 收费流量 ](https://a2zitpro.github.io/web/kkpriceofdatatraffic)包有效期
+  - [ 收费流量 ](https://a2zitpro.github.io/web/kkpriceofkkvpn1.0)包有效期
     - 月
     - 半年
     - 年
