@@ -1,6 +1,7 @@
-### 问：什么是VPN？
+####
+### VPN
 
-答：
+
 VPN是英文Virtual Private Network的缩写。译为中文是“虚拟私人网络”。
 
 一一 以下内容来自维基百科 一一
@@ -26,5 +27,6 @@ VPN是一种常用于连接中、大型企业或团体与团体间的私人网�
 一一 以上内容来自维基百科 一一
 
 #### 推荐阅读
-- [关于VPN等](https://a2zitpro.github.io/web/列表-关于VPN及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [VPN](https://a2zitpro.github.io/web/list_VPN)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
