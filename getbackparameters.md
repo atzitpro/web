@@ -1,7 +1,7 @@
 ### 问：我换了新手机，如何找回金刚号并搬迁到新手机上来？
 答：分两步走：
 
-第一步：找回[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)及[ 配套参数](https://a2zitpro.github.io/web/金刚号的配套参数)
+第一步：找回[ 金刚号 ](https://a2zitpro.github.io/web/kkid)及[ 配套参数](https://a2zitpro.github.io/web/parametersofkkid)
 
 可用以下3种方式找回：
 
@@ -26,8 +26,6 @@ c、给客服发邮件
 
 第二步：配入手机
 - 将[ 金刚号 ](https://a2zitpro.github.io/web/kkid)及[ 配套参数 ](https://a2zitpro.github.io/web/parametersofkkid)严格按照原样逐字[ 正确录入 ]()手机
-- 除中文外，参数中的每个字符、数字、标点都应为英文，切勿填入中文全角字符、数字、标点
-- 切勿在参数的中间、两端添加空格
 
 #### 推荐阅读
 - [金刚号](https://a2zitpro.github.io/web/list_kkid)
