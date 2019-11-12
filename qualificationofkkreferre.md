@@ -1,5 +1,5 @@
 #### 金刚梯>金刚帮助>金刚伙伴>金刚推荐人>
-### 成为金刚推荐人所必需的资格
+### 金刚推荐人资格
 凡[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)均有资格作[ 金刚推荐人 ](https://a2zitpro.github.io/web/kkreferrer)
 
 #### 推荐阅读
