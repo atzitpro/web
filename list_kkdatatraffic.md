@@ -7,7 +7,7 @@
 - [流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/kkdatatrafficsize)
 - [流量包有效期有哪几种？](https://a2zitpro.github.io/web/kkdatatrafficvalidityperiod)
 - [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/查询名下金刚号)
-- [流量包的有效期从何时开始起算？](https://a2zitpro.github.io/web/流量包的有效期从何时开始起算)
+- [流量包的有效期从何时开始起算？](https://a2zitpro.github.io/web/kkdatatrafficpakagevalidityperiodstarttime)
 - [什么是流量提前耗尽？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
 - [我如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
 - [什么是流量过期？](https://a2zitpro.github.io/web/流量过期)
