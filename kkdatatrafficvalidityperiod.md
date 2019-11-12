@@ -1,16 +1,17 @@
-### 问：流量包有效期有几种？
+#### 金刚梯>金刚帮助>金刚流量>
+### 流量包有效期
 
-答：流量包有效期共有以下种类：<br>
-
-1、免费流量包有效期
-- 天
-- 月
-
-2、收费流量包有效期
-- 月
-- 半年
-- 年
+- [ 流量包]()有效期共有以下种类：
+  - [ 免费流量包 ]()有效期
+    - 天
+    - 月
+  - [ 收费流量 ]()包有效期
+    - 月
+    - 半年
+    - 年
 
 #### 推荐阅读
-- [关于金刚流量等](https://a2zitpro.github.io/web/列表-流量及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+
+- [金刚流量](https://a2zitpro.github.io/web/listkkdatatraffic)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
