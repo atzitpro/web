@@ -1,12 +1,13 @@
-### 问：万能金刚号有哪些配套参数？该如何使用它們？
+### 万能金刚号的配套参数及配置方法
 
-答：每一个[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)都有以下<font color="Red"> 配套参数 </font>。其中[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)和[ 金刚密码 ](https://a2zitpro.github.io/web/金刚号的配套参数)专属于您，<font color="Red">归您独享，不可泄露</font>：
+- 每一个[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)都有以下<font color="Red"> 配套参数 </font>
+- 其中[ 金刚号 ](https://a2zitpro.github.io/web/kkid)和[ 金刚密码 ](https://a2zitpro.github.io/web/kkid)专属于您，<font color="Red">归您独享，不可泄露</font>：
 
-- 金刚密码：由8位阿拉伯数字构成
-- 服务器：形如 atz12.softether.net
-- 密钥：mft 一一所有[ 金刚用户 ](https://a2zitpro.github.io/web/金刚用户)均使用该密钥
+  - 金刚密码：由8位阿拉伯数字构成
+  - 服务器：形如 atz12.softether.net
+  - 密钥：mft 一一所有[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)均使用该密钥
 
-您需按照针对不同设备的[ 配置说明 ](https://a2zitpro.github.io/web/配置说明)，把[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)和[ 配套参数 ](https://a2zitpro.github.io/web/金刚号的配套参数)正确送入您的设备方可连通使用
+- 您需按照针对不同设备的[ 《配置说明》 ](https://a2zitpro.github.io/web/配置说明)，把[ 金刚号 ](https://a2zitpro.github.io/web/kkid)和[ 配套参数 ](https://a2zitpro.github.io/web/parametersofkkid)正确送入您的设备，方可连通使用
 
 #### 推荐阅读
 
