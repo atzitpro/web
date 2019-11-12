@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>金刚伙伴>金刚推荐人>
-### 问：推荐朋友赚积分如何操作?
+### 推荐朋友赚积分的操作
 
-答：请按以下步骤操作：<br>
+请按以下步骤操作：
 - a1、如果您使用金刚1.0金刚号梯
   - [ 连通 ](https://a2zitpro.github.io/web/usageofkkid)[ 金刚号 ](https://a2zitpro.github.io/web/kkid)翻墙出来
 - a2、如果您使用金刚2.0 app梯
