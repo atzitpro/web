@@ -2,7 +2,7 @@
 ### 万能金刚号的配套参数及配置方法
 
 - 每一个[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)都有以下<font color="Red"> 配套参数 </font>
-- 其中[ 金刚号 ](https://a2zitpro.github.io/web/kkid)和[ 金刚密码 ](https://a2zitpro.github.io/web/parametersofkkid)专属于您，<font color="Red">归您独享，不可泄露</font>
+- 其中[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)和[ 金刚密码 ](https://a2zitpro.github.io/web/parametersofkkid)专属于您，<font color="Red">归您独享，不可泄露</font>
 
   - 金刚密码：由8位阿拉伯数字构成
   - 服务器：形如 atz12.softether.net
