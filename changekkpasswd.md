@@ -3,10 +3,12 @@
 
 答：
 
-- [ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)当前不提供修改[ 金刚密码 ](https://a2zitpro.github.io/web/金刚号的配套参数)的功能
+- [ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)当前不提供修改[ 金刚密码 ](https://a2zitpro.github.io/web/金刚号的配套参数)的功能
 - 建议您保护好您的[ 金刚密码 ](https://a2zitpro.github.io/web/金刚号的配套参数)
-- [ 金刚密码 ](https://a2zitpro.github.io/web/金刚号的配套参数)泄露后，[ 金刚 ](https://a2zitpro.github.io/web/金刚公司)所能做的是：注销该[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)
-- 从[ 金刚密码 ](https://a2zitpro.github.io/web/金刚号的配套参数)泄露到[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)被注销期间，巳经造成的损失需要您承担
+- [ 金刚密码 ](https://a2zitpro.github.io/web/金刚号的配套参数)泄露后，您需发邮件告我知客服。[ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)为悠所能做的是
+  - 注销该[ 金刚号 ](https://a2zitpro.github.io/web/kkid)
+  - 按该号剩余有效期和剩余流量重派您的一新[ 金刚号 ](https://a2zitpro.github.io/web/kkid)
+- 从[ 金刚密码 ](https://a2zitpro.github.io/web/金刚号的配套参数)泄露到[ 金刚号 ](https://a2zitpro.github.io/web/kkid)被注销期间，巳经造成的损失需要您承担
 
 
 #### 推荐阅读
