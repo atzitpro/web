@@ -5,9 +5,9 @@
 
 - [ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)当前不提供修改[ 金刚密码 ](https://a2zitpro.github.io/web/parametersofkkid)的功能
 - 建议您保护好您的[ 金刚密码 ](https://a2zitpro.github.io/web/parametersofkkid)
-- [ 金刚密码 ](https://a2zitpro.github.io/web/parametersofkkid)泄露后，您需发邮件告知客服。[ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)为悠所能做的是
+- [ 金刚密码 ](https://a2zitpro.github.io/web/parametersofkkid)泄露后，您需发邮件告知客服。[ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)为您所能做的是
   - 注销该[ 金刚号 ](https://a2zitpro.github.io/web/kkid)
-  - 按该号剩余有效期和剩余流量重派您的一个[ 金刚号 ](https://a2zitpro.github.io/web/kkid)
+  - 按与该号剩余有效期和剩余流量大致相当的原则，重派您一个[ 金刚号 ](https://a2zitpro.github.io/web/kkid)
 - 从[ 金刚密码 ](https://a2zitpro.github.io/web/parametersofkkid)泄露到[ 金刚号 ](https://a2zitpro.github.io/web/kkid)被注销期间，巳经造成的损失需要您承担
 
 
