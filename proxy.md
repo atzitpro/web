@@ -41,6 +41,6 @@
 
 
 #### 推荐阅读
-- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofVPN)
+- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofvpn)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
