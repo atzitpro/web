@@ -27,6 +27,6 @@ VPN是一种常用于连接中、大型企业或团体与团体间的私人网�
 一一 以上内容来自维基百科 一一
 
 #### 推荐阅读
-- [翻墙ABC](https://a2zitpro.github.io/web/list_VPN)
+- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofvpn)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
