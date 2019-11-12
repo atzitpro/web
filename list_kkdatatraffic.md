@@ -2,7 +2,7 @@
 ### 金刚流量
 
 - [什么是金刚流量？](https://a2zitpro.github.io/web/kkdatatraffic)
-- [什么是金刚流量包？](https://a2zitpro.github.io/web/packageofkkdatatraffic)
+- [什么是金刚流量包？](https://a2zitpro.github.io/web/kkdatatrafficpackage)
 - [金刚提供免费流量吗？](https://a2zitpro.github.io/web/kkdatatrafficfree)
 - [流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/kkdatatrafficsize)
 - [流量包有效期有哪几种？](https://a2zitpro.github.io/web/kkdatatrafficvalidityperiod)
