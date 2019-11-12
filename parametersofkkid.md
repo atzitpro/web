@@ -1,7 +1,7 @@
 ### 万能金刚号的配套参数及配置方法
 
 - 每一个[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)都有以下<font color="Red"> 配套参数 </font>
-- 其中[ 金刚号 ](https://a2zitpro.github.io/web/kkid)和[ 金刚密码 ](https://a2zitpro.github.io/web/kkid)专属于您，<font color="Red">归您独享，不可泄露</font>：
+- 其中[ 金刚号 ](https://a2zitpro.github.io/web/kkid)和[ 金刚密码 ](https://a2zitpro.github.io/web/parametersofkkid)专属于您，<font color="Red">归您独享，不可泄露</font>
 
   - 金刚密码：由8位阿拉伯数字构成
   - 服务器：形如 atz12.softether.net
@@ -11,6 +11,6 @@
 
 #### 推荐阅读
 
-- [关于金刚号等](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
-- [关于金刚1.0金刚号梯等](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚号](https://a2zitpro.github.io/web/list_kkid)
+- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
