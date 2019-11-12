@@ -5,6 +5,6 @@
 - [ 重新注册 ]()[金刚账户]()
 
 #### 推荐阅读
-- [金刚账户](https://a2zitpro.github.io/web/list_kkaccount)
+- [金刚账户](https://a2zitpro.github.io/web/kkaccount)
 - [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
