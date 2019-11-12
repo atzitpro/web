@@ -4,7 +4,7 @@
 
 ## 翻墙神器金刚梯
 
-- [ 金刚公司 ](https://a2zitpro.github.io/web/金刚公司)精心打造 
+- [ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)精心打造 
 - 带您穿越长城、给您全息资讯
 - 覆盖主流智能设备、全方位VPN护航
 - 视频流畅、画质清晰
