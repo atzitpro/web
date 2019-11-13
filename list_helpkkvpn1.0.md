@@ -8,16 +8,13 @@
 - [金刚账户](https://a2zitpro.github.io/web/kkaccount)
 
 
+#### 2、操作与实务
+
 - [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
 - [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/forgettenregemailaddress)
-
 - [如何在金刚网注册？](https://a2zitpro.github.io/web/reginkksitecn)
 - [我可以用多个邮箱在金刚网注册多个金刚账户吗？](https://a2zitpro.github.io/web/mutimailboxreginkksitecn)
 - [我可用短命邮箱注册吗？](https://a2zitpro.github.io/web/disposableemailreg)
-
-
-
-#### 2、操作与实务
 - [如何为我的金刚号购买下一期流量？]()
 - [我想改按月为按年购买流量，该怎么操作？]()
 - [我想改按年为按月购买流量，该怎么操作？]()
@@ -32,7 +29,6 @@
 - [如何找回金刚号的配套参数？](https://a2zitpro.github.io/web/getbackparameters)
 - [金刚密码已泄露，如何改密？](https://a2zitpro.github.io/web/changekkidpasswd)
 - [如何放弃某个金刚号？](https://a2zitpro.github.io/web/金刚号注销)
-
 - [如何查询我有多少积分？]()
 - [如何改变我在金刚网的登录密码？]()
 - [我想把我在金刚网的注册邮箱改变为另一个邮箱，可以吗？]()
