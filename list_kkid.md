@@ -8,7 +8,7 @@
 - [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/configurationconsiderations)
 - [金刚号与流量是什么关系？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkdatatraffic)
 - [万能金刚号是怎么回事？](https://a2zitpro.github.io/web/multipurposekkid)
-- [普通金刚号是怎么回事？](https://a2zitpro.github.io/web/普通金刚号)
+- [普通金刚号是怎么回事？](https://a2zitpro.github.io/web/singlepurposekkid)
 - [金刚号有哪些配套参数？该如何使用它们？](https://a2zitpro.github.io/web/parametersofkkid)
 - [如何获得金刚号？](https://a2zitpro.github.io/web/金刚号获取)
 - [金刚号会失效吗？](https://a2zitpro.github.io/web/金刚号有效期)
