@@ -4,8 +4,8 @@
 #### 适用于 苹果平板iPad
 
 #### 特色
-  - [ 一拖九 ](https://a2zitpro.github.io/web/一拖九)：一号在手，全家自由
-  - [ 万能号 ](https://a2zitpro.github.io/web/万能金刚号)：一号万能，多机通用
+  - [ 一拖九 ](https://a2zitpro.github.io/web/onefornine)：一号在手，全家自由
+  - [ 万能号 ](https://a2zitpro.github.io/web/multipurposekkid)：一号万能，多机通用
  
 #### 配置说明
 ![image](24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
