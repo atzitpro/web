@@ -5,7 +5,7 @@
 
 #### 特色
   - [ 一拖九 ](https://a2zitpro.github.io/web/onefornine)：一号在手，全家自由
-  - [ 万能号 ](https://a2zitpro.github.io/web/万能金刚号)：一号万能，多机通用
+  - [ 万能号 ](https://a2zitpro.github.io/web/multipurposekkid)：一号万能，多机通用
  
 #### 获取
 - 如果您从未在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)注册，则请[ 点击此处 ](https://a2zitpro.github.io/web/l2_reg)，提交您的电子邮箱
