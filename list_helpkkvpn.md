@@ -6,7 +6,7 @@
 - [金刚VPN产品与VPN服务](https://a2zitpro.github.io/web/list_kkproducts&services)
 - [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
 - [金刚流量](https://a2zitpro.github.io/web/list_kkdatatraffic)
-- [金刚积分](https://a2zitpro.github.io/web/list_kkpoint)
+- [金刚积分](https://a2zitpro.github.io/web/list_kkpoints)
 - [金刚伙伴](https://a2zitpro.github.io/web/list_kkpartner)
 - [金刚梯价格](https://a2zitpro.github.io/web/list_kkprice)
 
