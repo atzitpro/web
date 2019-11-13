@@ -5,7 +5,7 @@
 
 #### <font color="Red">版权声明 </font>
 - app系筑波大学作品
-- [ 金刚号 ](https://a2zitpro.github.io/web/金刚号)、[ 流量 ](https://a2zitpro.github.io/web/流量)及后台支撑由[ 金刚公司 ](https://a2zitpro.github.io/web/金刚公司)提供
+- [ 金刚号 ](https://a2zitpro.github.io/web/kkid)、[ 流量 ](https://a2zitpro.github.io/web/kkdatatraffic)及后台支撑由[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)提供
 
 #### 特色
 - 一键翻墙
