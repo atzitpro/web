@@ -8,12 +8,12 @@
   - [安卓手机](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_phone)
   - [安卓平板](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_pad)
   - [安卓机顶盒](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_tvbox)
-  - [苹果手机](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_ios_iphone)
-  - [苹果平板](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_ios_ipad)
-  - [苹果电脑MacOS](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_macos)
+  - [苹果手机](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_ios_iphone)
+  - [苹果平板](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_ios_ipad)
+  - [苹果电脑MacOS](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_macos)
   - Windows
-     - [Win7](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_win7)
-     - [Win10](https://a2zitpro.github.io/web/a2zitpro.github.io/web/kkvpn1.0_installationnotes_win10)
+     - [Win7](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_win7)
+     - [Win10](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_win10)
 - 价值：<font color="Red"> 万能金刚号 </font>可帮您实现：
   - 全球视频资讯，无论何时何地，均可信手拈来
   - 视频既能播放于可移动的手机、平板、PC，又能播放于不可移动的TV
