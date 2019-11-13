@@ -11,5 +11,3 @@
 - 当一个[ 金刚号 ](https://a2zitpro.github.io/web/kkid)的[ 流量过期 ](https://a2zitpro.github.io/web/kkdatatrafficexpired)后，[ 金刚网 ](https://a2zitpro.github.io/web/kkditecn)会自动发续费订单邮件到您的[ 注册邮箱 ]()提醒您
 
 #### 推荐阅读
-- [关于金刚流量等](https://a2zitpro.github.io/web/列表-流量及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
