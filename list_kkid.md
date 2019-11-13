@@ -15,7 +15,7 @@
 - [我可以持有多个金刚号吗？](https://a2zitpro.github.io/web/每位用户可持有几个金刚号)
 - [如何知道我名下有几个金刚号？](https://a2zitpro.github.io/web/查询名下金刚号)
 - [如何知道我的金刚号的剩余流量？](https://a2zitpro.github.io/web/查询名下金刚号)
-- [什么是主号？](https://a2zitpro.github.io/web/主号) 
+- [什么是主号？](https://a2zitpro.github.io/web/mainkkid) 
 - [什么是副号？](https://a2zitpro.github.io/web/副号)
 - [主号、副号各有何用途？](https://a2zitpro.github.io/web/主号和副号的用途) 
 - [如何获得副号？](https://a2zitpro.github.io/web/获取副号)
