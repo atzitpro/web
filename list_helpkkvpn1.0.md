@@ -24,7 +24,7 @@
 - [我的流量包尺寸是每月30GB，想改为每月90GB，该怎么操作？]()
 - [我的流量包尺寸是每月90GB，想改为每月30GB，该怎么操作？]()
 - [我的金刚号无法连通，我该怎么办？](https://a2zitpro.github.io/web/)
-- [如何找回金刚号并配入新手机？](https://a2zitpro.github.io/web/找回参数)
+- [如何找回金刚号并配入新手机？](https://a2zitpro.github.io/web/)
 - [如何查询我有几个金刚号？](https://a2zitpro.github.io/web/查询名下金刚号)
 - [如何查询我的金刚号的剩余流量？](https://a2zitpro.github.io/web/查询名下金刚号)
 - [如何知道我的金刚号流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
