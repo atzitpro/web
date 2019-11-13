@@ -4,8 +4,8 @@
 #### 适用于 安卓手机
 
 #### 特色
-  - [ 一拖九 ](https://a2zitpro.github.io/web/一拖九)：一号在手，全家自由
-  - [ 万能号 ](https://a2zitpro.github.io/web/万能金刚号)：一号万能，多机通用
+  - [ 一拖九 ](https://a2zitpro.github.io/web/onefornine)：一号在手，全家自由
+  - [ 万能号 ](https://a2zitpro.github.io/web/multipurposekkid)：一号万能，多机通用
  
 #### 配置说明
 ![image](B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
