@@ -16,8 +16,8 @@
 #### 获取
 
 - 金刚号
-  - 如果您已有[ c9开头金刚号 ](https://a2zitpro.github.io/web/普通金刚号)，则请忽略此条
-  - 如果您尚无[ c9开头金刚号 ](https://a2zitpro.github.io/web/普通金刚号)，则请用手机：
+  - 如果您已有[ c9开头金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)，则请忽略此条
+  - 如果您尚无[ c9开头金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)，则请用手机：
     - [ 连通 ](https://a2zitpro.github.io/web/主号和副号的用途)您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)翻墙出来
     - 在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/) 里花$0元购买捆绑[ 免费流量包 ](https://a2zitpro.github.io/web/免费流量)的[ c9开头金刚号 ](https://a2zitpro.github.io/web/普通金刚号)
     - [ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)将把[ c9开头金刚号 ](https://a2zitpro.github.io/web/普通金刚号)派送到您的[ 注册邮箱 ](https://a2zitpro.github.io/web/注册邮箱)，同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account)下
