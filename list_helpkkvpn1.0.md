@@ -29,7 +29,7 @@
 - [如何查询我的金刚号的剩余流量？](https://a2zitpro.github.io/web/查询名下金刚号)
 - [如何知道我的金刚号流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
 - [如何知道我的金刚号流量过期了？](https://a2zitpro.github.io/web/流量过期的识别)
-- [如何找回某个金刚号的配套参数？](https://a2zitpro.github.io/web/如何找回配套参数)
+- [如何找回金刚号的配套参数？](https://a2zitpro.github.io/web/getbackparameters)
 - [金刚密码已泄露，如何改密？](https://a2zitpro.github.io/web/changekkidpasswd)
 - [如何放弃某个金刚号？](https://a2zitpro.github.io/web/金刚号注销)
 
