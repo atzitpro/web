@@ -2,7 +2,7 @@
 
 答：
 
-- [ 金刚流量 ](https://a2zitpro.github.io/web/流量)以[ 包 ](https://a2zitpro.github.io/web/流量包)为单位捆绑在[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)上供[ 金刚用户 ](https://a2zitpro.github.io/web/金刚用户)使用
+- [ 金刚流量 ](https://a2zitpro.github.io/web/kkdatatraffic)以[ 包 ](https://a2zitpro.github.io/web/kkdatatrafficpackage)为单位捆绑在[ 金刚号 ](https://a2zitpro.github.io/web/kkid)上供[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)使用
 
 #### 推荐阅读
 
