@@ -4,8 +4,8 @@
 #### 适用于 苹果电脑MacOS
 
 #### 特色
-  - [ 一拖九 ](https://a2zitpro.github.io/web/一拖九)：一号在手，全家自由
-  - [ 万能号 ](https://a2zitpro.github.io/web/万能金刚号)：一号万能，多机通用
+  - [ 一拖九 ](https://a2zitpro.github.io/web/onefornine)：一号在手，全家自由
+  - [ 万能号 ](https://a2zitpro.github.io/web/multipurposekkid)：一号万能，多机通用
  
 #### 配置说明
 在苹果电脑上配置金刚与在苹果手机上配置类似，关键是下面几点：
