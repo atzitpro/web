@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>
 ### 金刚伙伴
 
-- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferrer)
+- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferee)
 - [金刚广告商](https://a2zitpro.github.io/web/list_kkadvertiser)
 
 #### 推荐阅读
