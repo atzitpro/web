@@ -3,5 +3,5 @@
 答：所谓<font color="Red"> 注册邮箱 </font>即您在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)[ 注册 ](https://a2zitpro.github.io/web/l2_reg)时提交的邮箱
 
 #### 推荐阅读
-- [关于金刚用户等](https://a2zitpro.github.io/web/列表-金刚用户及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
