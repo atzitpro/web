@@ -1,6 +1,6 @@
 ### 流量过期
 
-- [ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)卖的[ 流量 ](https://a2zitpro.github.io/web/kkdatatraffic)包是附带[ 有效期 ](https://a2zitpro.github.io/web/流量包有效期)的
+- [ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)卖的[ 流量 ](https://a2zitpro.github.io/web/kkdatatraffic)包是附带[ 有效期 ](https://a2zitpro.github.io/web/kkdatatrafficvalidity)的
 - 所谓流量过期是指：当前时刻已经越过了[ 流量包 ](https://a2zitpro.github.io/web/流量包) [ 有效期 ](https://a2zitpro.github.io/web/流量包有效期)的截止时刻
 
 #### 推荐阅读
