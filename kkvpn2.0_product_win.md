@@ -18,9 +18,9 @@
 - 金刚号
   - 如果您已有[ c9开头金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)，则请忽略此条
   - 如果您尚无[ c9开头金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)，则请用手机：
-    - [ 连通 ](https://a2zitpro.github.io/web/主号和副号的用途)您的[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)翻墙出来
-    - 在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/) 里花$0元购买捆绑[ 免费流量包 ](https://a2zitpro.github.io/web/免费流量)的[ c9开头金刚号 ](https://a2zitpro.github.io/web/普通金刚号)
-    - [ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)将把[ c9开头金刚号 ](https://a2zitpro.github.io/web/普通金刚号)派送到您的[ 注册邮箱 ](https://a2zitpro.github.io/web/注册邮箱)，同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account)下
+    - [ 连通 ](https://a2zitpro.github.io/web/usageofkkid)您的[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)翻墙出来
+    - 在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/) 里花$0元购买捆绑[ 免费流量包 ](https://a2zitpro.github.io/web/kkdatatrafficfree)的[ c9开头金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)
+    - [ 金刚网 ](https://a2zitpro.github.io/web/kkditecn)将把[ c9开头金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)派送到您的[ 注册邮箱 ](https://a2zitpro.github.io/web/注册邮箱)，同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account)下
 - 客户端
   - 下载客户端安装包[ 请点击此处 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 
   - [ 客户端安装 ](https://a2zitpro.github.io/web/kkvpn2.0_installationnotes_win)
