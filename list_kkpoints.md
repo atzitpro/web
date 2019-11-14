@@ -1,3 +1,4 @@
+#### 金刚梯>金刚帮助>
 ### 关于积分
 
 - [什么是积分？](https://a2zitpro.github.io/web/kkpoints)
@@ -11,6 +12,7 @@
 - [积分有有效期吗？它会失效吗？](https://a2zitpro.github.io/web/kkpointsexpired)
 - [什么是积分交易所？](https://a2zitpro.github.io/web/kkpointexchange)
 - [金刚是如何回购积分的？](https://a2zitpro.github.io/web/buybackpoints)
+
 #### 推荐阅读
 
 - [金刚流量](https://a2zitpro.github.io/web/list_kkdatatraffic)
