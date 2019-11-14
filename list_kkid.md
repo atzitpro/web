@@ -11,7 +11,7 @@
 - [普通金刚号是怎么回事？](https://a2zitpro.github.io/web/singlepurposekkid)
 - [金刚号有哪些配套参数？该如何使用它们？](https://a2zitpro.github.io/web/parametersofkkid)
 - [如何获得金刚号？](https://a2zitpro.github.io/web/金刚号获取)
-- [金刚号会失效吗？](https://a2zitpro.github.io/web/金刚号有效期)
+- [金刚号会失效吗？](https://a2zitpro.github.io/web/kkidvilidity)
 - [我可以持有多个金刚号吗？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkuser)
 - [如何知道我名下有几个金刚号？](https://a2zitpro.github.io/web/查询名下金刚号)
 - [如何知道我的金刚号的剩余流量？](https://a2zitpro.github.io/web/查询名下金刚号)
