@@ -18,7 +18,7 @@
 - [什么是主号？](https://a2zitpro.github.io/web/mainkkid) 
 - [什么是副号？](https://a2zitpro.github.io/web/auxiliarykkid)
 - [主号、副号各有何用途？](https://a2zitpro.github.io/web/usageofkkid) 
-- [如何获得副号？](https://a2zitpro.github.io/web/获取副号)
+- [如何获得副号？](https://a2zitpro.github.io/web/getauxiliarykkid)
 - [金刚号卖什么价格？](https://a2zitpro.github.io/web/金刚号的价格)
 - [我能把同一金刚号配入手机和iPad上同时使用吗？](https://a2zitpro.github.io/web/onefornine)
 - [<font color="Red"> 一拖九 </font>是怎么回事？](https://a2zitpro.github.io/web/onefornine)
