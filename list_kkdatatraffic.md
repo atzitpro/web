@@ -22,7 +22,7 @@
 - [哪些情景属于 预购下一期流量？](https://a2zitpro.github.io/web/哪些情景属于预购下一期流量)
 - [流量包过期后，包内剩余流量还可以用吗？](https://a2zitpro.github.io/web/流量包过期后剩余流量还可以用吗)
 - [什么是大宗流量?](https://a2zitpro.github.io/web/bulkkkdatatraffic)
-- [什么是小额流量?](https://a2zitpro.github.io/web/小额流量)
+- [什么是小额流量?](https://a2zitpro.github.io/web/smallamountkkdatatraffic)
 - [线下购买](https://a2zitpro.github.io/web/offlinepurchasedatatraffic)
 
 
