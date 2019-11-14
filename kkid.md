@@ -1,3 +1,4 @@
+#### 金刚梯>金刚帮助>金刚1.0金刚号梯帮助>金刚号>
 ### 金刚号
 
 答：<font color="Red"> 金刚号 </font>是：
@@ -14,5 +15,6 @@
 #### 推荐阅读
 
 - [金刚号](https://a2zitpro.github.io/web/list_kkid)
-- [金刚1.0帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
