@@ -11,7 +11,7 @@
 - [什么是流量提前耗尽？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
 - [我如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
 - [什么是流量过期？](https://a2zitpro.github.io/web/kkdatatrafficexpired)
-- [我如何知道流量过期了？](https://a2zitpro.github.io/web/流量过期的识别)
+- [我如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 - [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/区分流量提前耗尽与流量过期的原因)
 - [流量提前耗尽后我该怎么办？](https://a2zitpro.github.io/web/)
 - [流量过期后我该怎么办？](https://a2zitpro.github.io/web/)
