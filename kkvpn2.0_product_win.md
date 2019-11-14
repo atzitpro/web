@@ -22,7 +22,7 @@
       - 在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/) 里花$0元购买捆绑[ 免费流量包 ](https://a2zitpro.github.io/web/kkdatatrafficfree)的[ c9开头金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)
       - [ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)将把[ c9开头金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)派送到您的[ 注册邮箱 ](https://a2zitpro.github.io/web/emailaddressforregonkksitecn)，同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account)下
   - 客户端
-    - 下载客户端安装包[ 请点击此处 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 
+    - 下载SSL客户端安装包[ 请点击此处 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 
     - [ 客户端安装 ](https://a2zitpro.github.io/web/kkvpn2.0_installationnotes_win)
 
   
