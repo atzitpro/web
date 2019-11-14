@@ -6,7 +6,7 @@
 - [金刚用户与金刚网是什么关系？ ](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkuser&kksitecn)
 - [如何成为金刚用户？](https://a2zitpro.github.io/web/tobekkuser)
 - [从未使用过金刚，我该如何开始？](https://a2zitpro.github.io/web/tobekkuser)
-- [我是金刚用户，如何解除与金刚的合约？](https://a2zitpro.github.io/web/解除金刚用户合约)
+- [我是金刚用户，如何解除与金刚的合约？](https://a2zitpro.github.io/web/dismisskkuseridentity)
 
 
 #### 推荐阅读
