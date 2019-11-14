@@ -1,3 +1,4 @@
+#### 
 ### 问：如何获取副号？
 答：
 - 连通[ 主号 ](https://a2zitpro.github.io/web/主号)翻墙出来
@@ -7,6 +8,6 @@
 
 #### 推荐阅读
 
-- [关于金刚号等](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
-- [关于金刚1.0金刚号梯等](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚号](https://a2zitpro.github.io/web/list_kkid)
+- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
