@@ -32,7 +32,7 @@
   - 当<font color="Black"> 当前在用流量包 </font>包内[ 流量过期 ](https://a2zitpro.github.io/web/kkdatatrafficexpired)时：
     - [ 连通 ](https://a2zitpro.github.io/web/usageofkkid)您的[ 金刚号 ](https://a2zitpro.github.io/web/kkid)翻墙出来
     - 登录[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)
-    - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，该[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)的剩余流量为<font color="Red"> 待续费 </font>
+    - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，该[ 金刚号 ](https://a2zitpro.github.io/web/kkid)的剩余流量为<font color="Red"> 待续费 </font>
     - 点击<font color="Blue" > 续费 </font>按钮，到达<font color="Red"> 结算 </font>页面
     - 在<font color="Red" > 结算 </font>页面，点击<font color="Blue" > 使用积分 </font>按钮，则[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)优先使用您的[ 积分 ](https://a2zitpro.github.io/web/kkpoints)购买流量
     - 当[ 积分 ](https://a2zitpro.github.io/web/kkpoints)不足购买时，[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)将请您用金钱䃼足差额部分
