@@ -5,7 +5,7 @@
 - [ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)使用[ 金刚服务 ](https://a2zitpro.github.io/web/kkservices)的凭证
 - [ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)向[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)提供[ 金刚服务 ](https://a2zitpro.github.io/web/kkservices)的管道
 - 其作用和价值类似于手机电话号码
-- [ 金刚号 ](https://a2zitpro.github.io/web/kkid)分为[ 普通金刚号 ](https://a2zitpro.github.io/web/普通金刚号)和[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)两类
+- [ 金刚号 ](https://a2zitpro.github.io/web/kkid)分为[ 普通金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)和[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)两类
 - 在安卓手机里，填入<font color="Red"> 金刚号 </font>的位置叫<font color="Black"> 用户名 </font>：<br>
 ![image](B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 - 在苹果手机里，填入<font color="Red"> 金刚号 </font>的位置叫<font color="Black"> 帐户 </font>：<br>
