@@ -6,5 +6,5 @@
 
 #### 推荐阅读
 - [关于积分等](https://a2zitpro.github.io/web/列表-积分及相关问题)
-- [关于金刚推荐人等](https://a2zitpro.github.io/web/列表-金刚推荐人及相关问题)
+- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferee)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
