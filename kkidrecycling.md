@@ -7,8 +7,8 @@
 
 #### 推荐阅读
 
-- [金刚号]()
-- [金刚用户]()
-- [金刚1.0金刚号帮助]()
-- [金刚帮助]()
-- [金刚梯]()
+- [金刚号](https://a2zitpro.github.io/web/list_kkid)
+- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
+- [金刚1.0金刚号帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
