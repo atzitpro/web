@@ -2,7 +2,7 @@
 
 答：请在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网) 按以下步骤自主查询
 
-- [ 连通 ](https://a2zitpro.github.io/web/主号和副号的用途)您的[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)翻墙出来一一因为您即将访问的[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)永远被墙
+- [ 连通 ](https://a2zitpro.github.io/web/usageofkkid)您的[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)翻墙出来一一因为您即将访问的[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)永远被墙
 - 登录[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)
 - 查名下[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)
   - 在 [ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/) 下，列明您当前持有的全部[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)
