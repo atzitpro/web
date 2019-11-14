@@ -1,8 +1,14 @@
-### 问：何谓被推荐人？
-答：所谓<font color="Red"> 被推荐人 </font>是指经由:
-- 扫描您的[ 邀请二维码 ](https://a2zitpro.github.io/web/邀请二维码-推荐人) 或
-- 点击您的[ 邀请链接 ](https://a2zitpro.github.io/web/邀请链接-推荐人)
+#### 金刚梯>金刚帮助>金刚伙伴>金刚推荐人>
+### 被推荐人
+- 所谓<font color="Red"> 被推荐人 </font>是指经由:
+  - 扫描您的[ 邀请二维码 ](https://a2zitpro.github.io/web/邀请二维码-推荐人) 或
+  - 点击您的[ 邀请链接 ](https://a2zitpro.github.io/web/邀请链接-推荐人)
 
 到达[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)并[ 注册 ](https://a2zitpro.github.io/web/l2_reg)成功的[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)
 
 #### 推荐阅读
+- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferee)
+- [金刚伙伴](https://a2zitpro.github.io/web/list_kkpartner)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
+
