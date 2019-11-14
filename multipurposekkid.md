@@ -4,7 +4,7 @@
 - 在[ 金刚网>菜单>商店 ](https://atozitpro.net/shop)里：
   - 所有<font color="Red"> 万能金刚号 </font>均属于L2型
   - 所有[ 普通金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)均属于SSL型
-- 适用设备：<font color="Red"> 万能金刚号 </font>可配入多种设备连通使用
+- 适用设备：<font color="Red"> 万能金刚号 </font>可配入[ 多种智能设备 ](https://a2zitpro.github.io/web/kkproducts1.0)连通使用
   - [安卓手机](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_phone)
   - [安卓平板](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_pad)
   - [安卓机顶盒](https://a2zitpro.github.io/web/kkvpn1.0_installationnotes_android_tvbox)
