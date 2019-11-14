@@ -19,7 +19,7 @@
     - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，该[ 金刚号 ](https://a2zitpro.github.io/web/kkid)的剩余流量为<font color="Red"> 0 </font>
     - 点击该[ 金刚号 ](https://a2zitpro.github.io/web/kkid)
     - 在新的一页里，寻找并点击 <font color="Blue"> 充流量>延长期限 </font>按钮
-    - 在新的一页里，选择比<font color="Black"> 当前在用流量包 </font> [ 尺寸 ](https://a2zitpro.github.io/web/kkdatatrafficpackagesize)大一级的[ 流量包 ](https://a2zitpro.github.io/web/kkdatatrafficpackage)
+    - 在新的一页里，选择比<font color="Black"> 当前在用流量包 </font> [ 尺寸 ](https://a2zitpro.github.io/web/kkdatatrafficsize)大一级的[ 流量包 ](https://a2zitpro.github.io/web/kkdatatrafficpackage)
     - 选择与<font color="Black"> 当前在用流量包 </font>相同的[ 有效期 ](https://a2zitpro.github.io/web/kkdatatrafficvalidity)
     - 点击<font color="Blue" > 立即购买 </font>按钮，到达<font color="Red"> 结算 </font>页面
     - 在<font color="Red" > 结算 </font>页面，点击<font color="Blue" > 使用积分 </font>按钮，则[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)优先使用您的[ 积分 ](https://a2zitpro.github.io/web/kkpoints)购买流量
