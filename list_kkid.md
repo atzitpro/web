@@ -24,7 +24,7 @@
 - [<font color="Red"> 一拖九 </font>是怎么回事？](https://a2zitpro.github.io/web/onefornine)
 - [如何获取普通金刚号（c9开头）？](https://a2zitpro.github.io/web/获取c9开头金刚号)
 - [如何获取与普通金刚号（c9开头）配套使用的SSL型客户端？](https://a2zitpro.github.io/web/获取SSL型客户端)
-- [如何注销一个金刚号？](https://a2zitpro.github.io/web/kkiddrop)
+- [想放弃某个金刚号，我该怎么做？](https://a2zitpro.github.io/web/kkiddrop)
 
 
 #### 推荐阅读
