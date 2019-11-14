@@ -9,7 +9,7 @@
 
 
 #### 2、操作与实务
-
+- [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/)
 - [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
 - [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/forgettenregemailaddress)
 - [如何在金刚网注册？](https://a2zitpro.github.io/web/reginkksitecn)
