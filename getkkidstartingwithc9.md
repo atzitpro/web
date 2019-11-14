@@ -3,6 +3,6 @@
 
 #### 推荐阅读
 
-- [关于金刚号等](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
+- [金刚号](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
