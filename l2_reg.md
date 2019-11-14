@@ -8,7 +8,7 @@
 ####     给您全息资讯
 
 * **高速** 视频流畅且清晰<br>
-* **方便** </font>不用下载App 四条参数就搞定<br>
+* **方便** 不用下载App 四条参数就搞定<br>
 * 适用安卓、苹果和Windows <br>
     
 ## 新朋友？[点击免费注册](https://myfasttrack.org/midman/testfm.php)
