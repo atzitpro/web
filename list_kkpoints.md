@@ -13,7 +13,7 @@
 - [金刚是如何回购积分的？](https://a2zitpro.github.io/web/buybackpoints)
 #### 推荐阅读
 
-- [关于金刚流量等](https://a2zitpro.github.io/web/列表-流量及相关问题)
-- [关于金刚号等](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
-- [关于金刚推荐人等](https://a2zitpro.github.io/web/列表-金刚推荐人及相关问题)
+- [金刚流量](https://a2zitpro.github.io/web/list_kkdatatraffic)
+- [金刚号](https://a2zitpro.github.io/web/list_kkid)
+- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferee)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
