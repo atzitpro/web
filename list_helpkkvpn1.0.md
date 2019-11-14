@@ -33,6 +33,9 @@
 - [如何查询我有多少积分？]()
 - [如何改变我在金刚网的登录密码？]()
 - [我想把我在金刚网的注册邮箱改变为另一个邮箱，可以吗？]()
+- [如何获得c9开头的金刚号？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
+
+
 
 #### 推荐阅读
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
