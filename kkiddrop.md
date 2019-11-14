@@ -2,7 +2,7 @@
 
 答：
 
-a、金刚网会[ 自动回收 ](https://a2zitpro.github.io/web/)
+a、金刚网会[ 自动回收 ](https://a2zitpro.github.io/web/kkidrecycling)
 b、发邮件给客服
 
 - 客服将帮您注销
