@@ -10,6 +10,6 @@
   - 凡属被这种网络防火墙所困的自然人、公司（或非公司组织）均可与[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)签约，使用[ 金刚产品 ](https://a2zitpro.github.io/web/dlb)与[ 金刚服务 ](https://a2zitpro.github.io/web/kkservices)
 
 #### 推荐阅读
-- [金刚产品与服务](https://a2zitpro.github.io/web/list_kkproducts)
+- [金刚产品与服务](https://a2zitpro.github.io/web/list_kkproducts&services)
 - [金刚帮助](https://a2zitpro.github.io/web/a2zitpro)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
