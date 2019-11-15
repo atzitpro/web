@@ -9,7 +9,7 @@
 - [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [流量包的有效期从何时开始起算？](https://a2zitpro.github.io/web/kkdatatrafficpakagevalidityperiodstarttime)
 - [什么是流量提前耗尽？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
-- [我如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
+- [我如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearlyidentify)
 - [什么是流量过期？](https://a2zitpro.github.io/web/kkdatatrafficexpired)
 - [我如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 - [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/reasonsfordistinguishingbetweenkkdatatrafficexpiration&earlyexhaustion)
