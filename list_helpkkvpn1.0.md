@@ -3,7 +3,7 @@
 ### 金刚1.0金刚号梯帮助
 
 #### 1、概念与术语
-- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/)
+- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/list_kkproducts1.0)
 - [金刚号](https://a2zitpro.github.io/web/list_kkid)
 - [金刚账户](https://a2zitpro.github.io/web/kkaccount)
 
