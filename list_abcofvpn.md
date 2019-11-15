@@ -5,7 +5,7 @@
 - [什么是VPN？](https://a2zitpro.github.io/web/whatisvpn)
 - [什么是VPS？](https://a2zitpro.github.io/web/whatisvps)
 - [什么是代理服务器？](https://a2zitpro.github.io/web/whatisproxy)
-- [VPN与代理服务器的区别？](https://a2zitpro.github.io/web/whatisthedifferencebetweenavpnandaproxyserver)
+- [VPN与代理服务器的区别？](https://a2zitpro.github.io/web/whatisthedifferencebetweenaVPNandaproxyserver)
 
 
 #### 推荐阅读
