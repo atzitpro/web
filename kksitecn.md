@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚公司
+#### 金刚梯>金刚帮助>金刚公司>
 ### 金刚中文网
 [<font color="Red">金刚中文网</font>](https://a2zitpro.github.io/web/kksitecn)（在[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)发布的中文文档中亦简称[ 金刚网 ](https://www.atozitpro.net/zh/)、[ 官网 ](https://www.atozitpro.net/zh/)
 - 是[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)旗下网站之一
@@ -7,6 +7,8 @@
 
 #### 推荐阅读
 
-- [金刚公司](https://a2zitpro.github.io/web/list_a2zitpro)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
+- [金刚公司](https://a2zitpro.github.io/web/list_a2zitpro)
