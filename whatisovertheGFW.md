@@ -4,7 +4,10 @@
 - （以下[ ]里的内容来自维基百科）[“翻墙”也被引申为突破网络审查浏览中国大陆境外被屏蔽的网站或使用服务的行为。]
 
 #### 推荐阅读
-- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofvpn)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
 
+- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
+- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofvpn)
+- [什么是翻墙？](https://a2zitpro.github.io/web/whatisovertheGFW)
