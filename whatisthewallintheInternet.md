@@ -8,7 +8,7 @@
 
 - GFW
   - GFW是Great Firewall的缩写
-  - GFW最早出现在（以下[]内的内容来自维基百科）[2002年5月17日Charles R. Smith所写的一篇关于中国网络审查的文章《The Great Firewall of China》，取与 Great Wall（长城）相谐的效果，简写为Great Firewall，缩写GFW。]
+  - GFW最早出现在（以下[ ]里的内容来自维基百科）[2002年5月17日Charles R. Smith所写的一篇关于中国网络审查的文章《The Great Firewall of China》，取与 Great Wall（长城）相谐的效果，简写为Great Firewall，缩写GFW。]
   - [随着使用的拓广，中文“墙”和英文“GFW”有时也被用作动词，网友所说的“被墙”即指网站内容被防火长城所屏蔽或者指服务器的通讯被封阻]
   - [“翻墙”也被引申为突破网络审查浏览中国大陆境外被屏蔽的网站或使用服务的行为。]
 
