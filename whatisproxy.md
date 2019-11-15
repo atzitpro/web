@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>翻墙ABC
+#### 金刚梯>金刚帮助>翻墙ABC>
 ### 代理服务器
 
 
@@ -41,6 +41,10 @@
 
 
 #### 推荐阅读
-- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofvpn)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
+- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
+- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofvpn)
+- [什么是代理服务器？](https://a2zitpro.github.io/web/whatisproxy)
