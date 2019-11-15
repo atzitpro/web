@@ -1,5 +1,5 @@
 #### 金刚梯>金刚1.0帮助>
-### 关于金刚号
+### 金刚号
 
 - [什么是金刚号？](https://a2zitpro.github.io/web/kkid)
 - [金刚号长什么样？](https://a2zitpro.github.io/web/kkidform)
