@@ -16,6 +16,7 @@
 - [万能金刚号](https://a2zitpro.github.io/web/multipurposekkid)
 - [普通金刚号](https://a2zitpro.github.io/web/singlepurposekkid)
 - [金刚号的配套参数及使用方法](https://a2zitpro.github.io/web/parametersofkkid)
+- [金刚号的有效期](https://a2zitpro.github.io/web/kkidvalidity)
 
 #### 涉及流量
 
@@ -49,7 +50,6 @@
 
 
 - [如何获得金刚号？](https://a2zitpro.github.io/web/getkkid)
-- [金刚号会失效吗？](https://a2zitpro.github.io/web/kkidvalidity)
 - [我可以持有多个金刚号吗？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkuser)
 - [如何知道我名下有几个金刚号？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [如何知道我的金刚号的剩余流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
