@@ -7,7 +7,7 @@
 - [金刚网](https://a2zitpro.github.io/web/kksitecn)
 - [金刚账户](https://a2zitpro.github.io/web/kkaccount)
 
-#### 涉及金刚号
+#### B、涉及金刚号
 - [金刚1.0金刚号梯](https://a2zitpro.github.io/web/kkproducts1.0)
 - [金刚号](https://a2zitpro.github.io/web/kkid)
 - [金刚号的长相](https://a2zitpro.github.io/web/kkidform)
@@ -23,9 +23,9 @@
 - [<font color="Red"> 一拖九 </font>](https://a2zitpro.github.io/web/onefornine)
 - [金刚号的价格](https://a2zitpro.github.io/web/kkidprice)
 
-#### 涉及流量
+#### C、涉及流量
 
-#### 涉及积分
+#### D；涉及积分
 
 #### 2、操作与实务
 
