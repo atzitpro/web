@@ -50,7 +50,7 @@
 - [如何查询我有几个金刚号？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [如何找回金刚号的配套参数？](https://a2zitpro.github.io/web/getbackparameters)
 - [金刚密码已泄露，如何改密？](https://a2zitpro.github.io/web/changekkidpasswd)
-- [如何放弃某个金刚号？](https://a2zitpro.github.io/web/金刚号注销)
+- [如何放弃某个金刚号？](https://a2zitpro.github.io/web/kkiddrop)
 - [如何获得c9开头的金刚号？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
 
 
@@ -62,7 +62,6 @@
 - [我能把同一金刚号配入手机和iPad上同时使用吗？](https://a2zitpro.github.io/web/onefornine)
 - [如何获取普通金刚号（c9开头）？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
 - [如何获取与普通金刚号（c9开头）配套使用的SSL型客户端？](https://a2zitpro.github.io/web/getSSLclientapp)
-- [想放弃某个金刚号，我该怎么做？](https://a2zitpro.github.io/web/kkiddrop)
 
 
 
