@@ -3,8 +3,8 @@
 ### 金刚1.0金刚号梯帮助
 
 #### 1、概念与术语
-#### 涉及金刚网
-- [金刚网]()
+#### A、涉及金刚网
+- [金刚网](https://a2zitpro.github.io/web/kksitecn)
 - [金刚账户](https://a2zitpro.github.io/web/kkaccount)
 
 #### 涉及金刚号
