@@ -19,6 +19,4 @@
   - [ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)不因该用户与[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)解除[ 合约 ](https://a2zitpro.github.io/web/Endusercontract)而放弃对其个人信息和个人隐私的保护
 
 #### 推荐阅读
-- [金刚用户](https://a2zitpro.github.io/web/kkuser)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+
