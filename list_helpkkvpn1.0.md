@@ -10,7 +10,7 @@
 
 #### 2、操作与实务
 
-#### 涉及金刚网
+#### A、涉及金刚网
 
 - [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
 - [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/forgettenregemailaddress)
@@ -20,7 +20,7 @@
 - [如何改变我在金刚网的登录密码？]()
 - [我想把我在金刚网的注册邮箱改变为另一个邮箱，可以吗？]()
 
-#### 涉及金刚号
+#### B、涉及金刚号
 
 - [在各种设置上配置金刚时，《配置说明》去哪里找？](https://a2zitpro.github.io/web/list_kkproducts1.0)
 - [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/configurationconsiderations)
@@ -32,7 +32,7 @@
 - [如何放弃某个金刚号？](https://a2zitpro.github.io/web/金刚号注销)
 - [如何获得c9开头的金刚号？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
 
-#### 涉及流量
+#### C、涉及流量
 
 - [如何为我的金刚号购买下一期流量？]()
 - [我想改按月为按年购买流量，该怎么操作？]()
@@ -43,7 +43,7 @@
 - [如何知道我的金刚号流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
 - [如何知道我的金刚号流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 
-#### 涉及积分
+#### D、涉及积分
 - [如何查询我有多少积分？]()
 
 
