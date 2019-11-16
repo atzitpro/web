@@ -5,6 +5,14 @@
 #### 1、概念与术语
 - [金刚1.0金刚号梯](https://a2zitpro.github.io/web/kkproducts1.0)
 - [金刚号](https://a2zitpro.github.io/web/kkid)
+- [什么是金刚号？](https://a2zitpro.github.io/web/kkid)
+- [金刚号长什么样？](https://a2zitpro.github.io/web/kkidform)
+- [金刚号可用于哪些设备？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&device)
+- [金刚号与流量是什么关系？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkdatatraffic)
+- [万能金刚号是怎么回事？](https://a2zitpro.github.io/web/multipurposekkid)
+- [普通金刚号是怎么回事？](https://a2zitpro.github.io/web/singlepurposekkid)
+- [金刚号有哪些配套参数？该如何使用它们？](https://a2zitpro.github.io/web/parametersofkkid)
+
 - [金刚账户](https://a2zitpro.github.io/web/kkaccount)
 
 
@@ -36,13 +44,6 @@
 - [如何获得c9开头的金刚号？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
 
 
-- [什么是金刚号？](https://a2zitpro.github.io/web/kkid)
-- [金刚号长什么样？](https://a2zitpro.github.io/web/kkidform)
-- [金刚号可用于哪些设备？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&device)
-- [金刚号与流量是什么关系？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkdatatraffic)
-- [万能金刚号是怎么回事？](https://a2zitpro.github.io/web/multipurposekkid)
-- [普通金刚号是怎么回事？](https://a2zitpro.github.io/web/singlepurposekkid)
-- [金刚号有哪些配套参数？该如何使用它们？](https://a2zitpro.github.io/web/parametersofkkid)
 - [如何获得金刚号？](https://a2zitpro.github.io/web/getkkid)
 - [金刚号会失效吗？](https://a2zitpro.github.io/web/kkidvalidity)
 - [我可以持有多个金刚号吗？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkuser)
