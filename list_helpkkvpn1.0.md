@@ -10,14 +10,16 @@
 #### 涉及金刚号
 - [金刚1.0金刚号梯](https://a2zitpro.github.io/web/kkproducts1.0)
 - [金刚号](https://a2zitpro.github.io/web/kkid)
-- [金刚号长什么样？](https://a2zitpro.github.io/web/kkidform)
-- [金刚号可用于哪些设备？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&device)
-- [金刚号与流量是什么关系？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkdatatraffic)
-- [万能金刚号是怎么回事？](https://a2zitpro.github.io/web/multipurposekkid)
-- [普通金刚号是怎么回事？](https://a2zitpro.github.io/web/singlepurposekkid)
-- [金刚号有哪些配套参数？该如何使用它们？](https://a2zitpro.github.io/web/parametersofkkid)
+- [金刚号的长相](https://a2zitpro.github.io/web/kkidform)
+- [金刚号与设备的关系](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&device)
+- [金刚号与流量的关系](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkdatatraffic)
+- [万能金刚号](https://a2zitpro.github.io/web/multipurposekkid)
+- [普通金刚号](https://a2zitpro.github.io/web/singlepurposekkid)
+- [金刚号的配套参数及使用方法](https://a2zitpro.github.io/web/parametersofkkid)
 
+#### 涉及流量
 
+#### 涉及积分
 
 #### 2、操作与实务
 
