@@ -3,7 +3,7 @@
 - [金刚公司](https://a2zitpro.github.io/web/a2zitpro)
 - [金刚中文网](https://a2zitpro.github.io/web/kksitecn)
 - [金刚VPN产品](https://a2zitpro.github.io/web/list_kkproducts)
-- [金刚VPN服务](https://a2zitpro.github.io/web/list_kkservices)
+- [金刚VPN服务](https://a2zitpro.github.io/web/kkservices)
 - [金刚VPN产品与VPN服务的价值](https://a2zitpro.github.io/web/valueofkkproducts&services)
 
 
