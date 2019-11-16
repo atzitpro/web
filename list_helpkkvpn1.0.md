@@ -17,6 +17,9 @@
 - [普通金刚号](https://a2zitpro.github.io/web/singlepurposekkid)
 - [金刚号的配套参数及使用方法](https://a2zitpro.github.io/web/parametersofkkid)
 - [金刚号的有效期](https://a2zitpro.github.io/web/kkidvalidity)
+- [主号](https://a2zitpro.github.io/web/mainkkid) 
+- [副号](https://a2zitpro.github.io/web/auxiliarykkid)
+- [主号、副号的用途？](https://a2zitpro.github.io/web/usageofkkid) 
 
 #### 涉及流量
 
@@ -53,9 +56,6 @@
 - [我可以持有多个金刚号吗？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkuser)
 - [如何知道我名下有几个金刚号？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [如何知道我的金刚号的剩余流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
-- [什么是主号？](https://a2zitpro.github.io/web/mainkkid) 
-- [什么是副号？](https://a2zitpro.github.io/web/auxiliarykkid)
-- [主号、副号各有何用途？](https://a2zitpro.github.io/web/usageofkkid) 
 - [如何获得副号？](https://a2zitpro.github.io/web/getauxiliarykkid)
 - [金刚号卖什么价格？](https://a2zitpro.github.io/web/kkidprice)
 - [我能把同一金刚号配入手机和iPad上同时使用吗？](https://a2zitpro.github.io/web/onefornine)
