@@ -42,7 +42,6 @@
 
 
 ### 三、帮助
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 
 ### 四、联系客服
