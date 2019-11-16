@@ -20,6 +20,8 @@
 - [主号](https://a2zitpro.github.io/web/mainkkid) 
 - [副号](https://a2zitpro.github.io/web/auxiliarykkid)
 - [主号、副号的用途？](https://a2zitpro.github.io/web/usageofkkid) 
+- [<font color="Red"> 一拖九 </font>](https://a2zitpro.github.io/web/onefornine)
+- [金刚号的价格](https://a2zitpro.github.io/web/kkidprice)
 
 #### 涉及流量
 
@@ -57,9 +59,7 @@
 - [如何知道我名下有几个金刚号？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [如何知道我的金刚号的剩余流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [如何获得副号？](https://a2zitpro.github.io/web/getauxiliarykkid)
-- [金刚号卖什么价格？](https://a2zitpro.github.io/web/kkidprice)
 - [我能把同一金刚号配入手机和iPad上同时使用吗？](https://a2zitpro.github.io/web/onefornine)
-- [<font color="Red"> 一拖九 </font>是怎么回事？](https://a2zitpro.github.io/web/onefornine)
 - [如何获取普通金刚号（c9开头）？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
 - [如何获取与普通金刚号（c9开头）配套使用的SSL型客户端？](https://a2zitpro.github.io/web/getSSLclientapp)
 - [想放弃某个金刚号，我该怎么做？](https://a2zitpro.github.io/web/kkiddrop)
