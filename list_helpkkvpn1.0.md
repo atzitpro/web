@@ -35,7 +35,6 @@
 - [金刚号如何配置？](https://a2zitpro.github.io/web/list_kkproducts1.0)
 - [在各种设置上配置金刚时，《配置说明》去哪里找？](https://a2zitpro.github.io/web/list_kkproducts1.0)
 - [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/configurationconsiderations)
-- [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/configurationconsiderations)
 
 
 - [我的金刚号无法连通，我该怎么办？](https://a2zitpro.github.io/web/)
