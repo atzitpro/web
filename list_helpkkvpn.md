@@ -11,11 +11,11 @@
 - [金刚伙伴](https://a2zitpro.github.io/web/list_kkpartner)
 - [金刚梯价格](https://a2zitpro.github.io/web/list_kkprice)
 
-#### 金刚2.0
-- [什么是金刚2.0？](https://a2zitpro.github.io/web/kkproducts2.0)
+#### 金刚2.0app梯
+- [什么是金刚2.0app梯？](https://a2zitpro.github.io/web/kkproducts2.0)
 
 #### 金刚1.0
-- [什么是金刚1.0？](https://a2zitpro.github.io/web/kkproducts1.0)
+- [什么是金刚1.0金刚号梯？](https://a2zitpro.github.io/web/kkproducts1.0)
 
 #### 推荐阅读
 
