@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>金刚用户>
 ### 成为金刚用户
 
-使用[ 金刚VPN产品 ](https://a2zitpro.github.io/web/kkproducts)和[ 金刚VPN服务 ](https://a2zitpro.github.io/web/kkservices)即成为[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)
+使用[ 金刚VPN产品 ](https://a2zitpro.github.io/web/list_kkproducts)和[ 金刚VPN服务 ](https://a2zitpro.github.io/web/kkservices)即成为[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)
 
 - 金刚梯获取渠道
   - 您可以扫他人散发的[ 邀请二维码1 ](https://a2zitpro.github.io/web/邀请二维码-广告商)或[ 邀请二维码2 ](https://a2zitpro.github.io/web/邀请二维码-推荐人)在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)[ 注册 ](https://a2zitpro.github.io/web/reginkksitecn)以获取
