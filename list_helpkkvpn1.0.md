@@ -5,7 +5,6 @@
 #### 1、概念与术语
 - [金刚1.0金刚号梯](https://a2zitpro.github.io/web/kkproducts1.0)
 - [金刚号](https://a2zitpro.github.io/web/kkid)
-- [什么是金刚号？](https://a2zitpro.github.io/web/kkid)
 - [金刚号长什么样？](https://a2zitpro.github.io/web/kkidform)
 - [金刚号可用于哪些设备？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&device)
 - [金刚号与流量是什么关系？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkdatatraffic)
