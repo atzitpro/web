@@ -13,6 +13,7 @@
 
 #### 金刚2.0
 - [什么是金刚2.0？](https://a2zitpro.github.io/web/kkproducts2.0)
+
 #### 金刚1.0
 - [什么是金刚1.0？](https://a2zitpro.github.io/web/kkproducts1.0)
 
