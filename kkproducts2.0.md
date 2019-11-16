@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>
 ### 金刚2.0app梯
 
-- 金刚2.0app梯是一系列金刚梯的总称
+- [<font color="red"> 金刚2.0app梯 </font>](https://a2zitpro.github.io/web/kkproductd2.0)是一系列金刚梯的总称
 - 它们的产品形态全部都是app客户端
 - 将其下载、安装到您的设备上，运行之后方可翻墙
 - 这些设备是：
