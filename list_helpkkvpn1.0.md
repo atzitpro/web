@@ -34,17 +34,14 @@
 - [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
 - [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/forgettenregemailaddress)
 - [如何在金刚网注册？](https://a2zitpro.github.io/web/reginkksitecn)
-- [我可以在金刚网注册多个金刚账户吗？](https://a2zitpro.github.io/web/mutimailboxreginkksitecn)
-- [我可用短命邮箱注册吗？](https://a2zitpro.github.io/web/disposableemailreg)
+- [可在金刚网注册多个金刚账户吗？](https://a2zitpro.github.io/web/mutimailboxreginkksitecn)
+- [可用短命邮箱注册吗？](https://a2zitpro.github.io/web/disposableemailreg)
 - [如何改变我在金刚网的登录密码？]()
 - [我想把我在金刚网的注册邮箱改变为另一个邮箱，可以吗？]()
 
 #### B、涉及金刚号
 - [金刚号如何配置？](https://a2zitpro.github.io/web/list_kkproducts1.0)
-- [在各种设置上配置金刚时，《配置说明》去哪里找？](https://a2zitpro.github.io/web/list_kkproducts1.0)
 - [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/configurationconsiderations)
-
-
 - [我的金刚号无法连通，我该怎么办？](https://a2zitpro.github.io/web/)
 - [如何找回金刚号并配入新手机？](https://a2zitpro.github.io/web/changetoanewphone)
 - [如何查询我有几个金刚号？](https://a2zitpro.github.io/web/howmanykkiddoihave)
