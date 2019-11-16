@@ -19,7 +19,7 @@
 - [金刚号的有效期](https://a2zitpro.github.io/web/kkidvalidity)
 - [主号](https://a2zitpro.github.io/web/mainkkid) 
 - [副号](https://a2zitpro.github.io/web/auxiliarykkid)
-- [主号、副号的用途？](https://a2zitpro.github.io/web/usageofkkid) 
+- [主号、副号的用途](https://a2zitpro.github.io/web/usageofkkid) 
 - [<font color="Red"> 一拖九 </font>](https://a2zitpro.github.io/web/onefornine)
 - [金刚号的价格](https://a2zitpro.github.io/web/kkidprice)
 
