@@ -9,13 +9,19 @@
 
 
 #### 2、操作与实务
-- [在各种设置上配置金刚时，《配置说明》去哪里找？](https://a2zitpro.github.io/web/list_kkproducts1.0)
-- [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/configurationconsiderations)
+
+#### 与金刚网相关的问题与解答
+
 - [忘记了登录金刚网的密码，我该怎么办？](https://a2zitpro.github.io/web/forgettenpasswdonkksite)
 - [忘记了在金刚网的注册邮箱，我该怎么办？](https://a2zitpro.github.io/web/forgettenregemailaddress)
 - [如何在金刚网注册？](https://a2zitpro.github.io/web/reginkksitecn)
 - [我可以在金刚网注册多个金刚账户吗？](https://a2zitpro.github.io/web/mutimailboxreginkksitecn)
 - [我可用短命邮箱注册吗？](https://a2zitpro.github.io/web/disposableemailreg)
+
+#### 与金刚号相关的问题与解答
+
+- [在各种设置上配置金刚时，《配置说明》去哪里找？](https://a2zitpro.github.io/web/list_kkproducts1.0)
+- [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/configurationconsiderations)
 - [如何为我的金刚号购买下一期流量？]()
 - [我想改按月为按年购买流量，该怎么操作？]()
 - [我想改按年为按月购买流量，该怎么操作？]()
