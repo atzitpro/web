@@ -23,9 +23,9 @@
 
 注册链接不好用？请[发电邮给客服，告诉客服您正面临什么样的困难](mailto:cs@a2zitpro.com)，让客服来帮您。
 
-## 老朋友无法访问金刚网？
+### 老朋友无法访问金刚网？
 * 先连通您的金刚号翻墙，再访问[ 金刚网 ](https://atozitpro.net/zh)   
 
-**联系金刚客服**：
+**联系客服**：
   * 翻墙登录金刚网，在论坛提问，或[联系客服](https://www.atozitpro.net/zh/contact-us/)(确保您能找到金刚)
-  * [直接发电邮给客服](mailto:cs@a2zitpro.com)，让客服来帮您。
+  * [发电邮](mailto:cs@a2zitpro.com)，让客服来帮您。
