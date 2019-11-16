@@ -12,7 +12,7 @@
 - [金刚梯价格](https://a2zitpro.github.io/web/list_kkprice)
 
 #### 金刚2.0
-- [什么是金刚2.0？](https://a2zitpro.github.io/web/kkproductd2.0))
+- [什么是金刚2.0？](https://a2zitpro.github.io/web/kkproducts2.0)
 #### 金刚1.0
 
 #### 推荐阅读
