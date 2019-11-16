@@ -40,6 +40,9 @@
 - [我想把我在金刚网的注册邮箱改变为另一个邮箱，可以吗？]()
 
 #### B、涉及金刚号
+- [如何获得金刚号？](https://a2zitpro.github.io/web/getkkid)
+- [如何获得副号？](https://a2zitpro.github.io/web/getauxiliarykkid)
+- [如何获得c9开头的金刚号？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
 - [金刚号如何配置？](https://a2zitpro.github.io/web/list_kkproducts1.0)
 - [配置金刚号时应注意哪些事项？](https://a2zitpro.github.io/web/configurationconsiderations)
 - [我的金刚号无法连通，我该怎么办？](https://a2zitpro.github.io/web/)
@@ -48,14 +51,9 @@
 - [如何找回金刚号的配套参数？](https://a2zitpro.github.io/web/getbackparameters)
 - [金刚密码已泄露，如何改密？](https://a2zitpro.github.io/web/changekkidpasswd)
 - [如何放弃某个金刚号？](https://a2zitpro.github.io/web/kkiddrop)
-- [如何获得c9开头的金刚号？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
-
-
-- [如何获得金刚号？](https://a2zitpro.github.io/web/getkkid)
 - [我可以持有多个金刚号吗？](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkuser)
 - [如何知道我名下有几个金刚号？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [如何知道我的金刚号的剩余流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
-- [如何获得副号？](https://a2zitpro.github.io/web/getauxiliarykkid)
 - [我能把同一金刚号配入手机和iPad上同时使用吗？](https://a2zitpro.github.io/web/onefornine)
 - [如何获取普通金刚号（c9开头）？](https://a2zitpro.github.io/web/getkkidstartingwithc9)
 - [如何获取与普通金刚号（c9开头）配套使用的SSL型客户端？](https://a2zitpro.github.io/web/getSSLclientapp)
