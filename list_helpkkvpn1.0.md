@@ -33,9 +33,6 @@
 - [流量提前耗尽](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
 - [流量过期](https://a2zitpro.github.io/web/kkdatatrafficexpired)
 - [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/reasonsfordistinguishingbetweenkkdatatrafficexpiration&earlyexhaustion)
-- [流量提前耗尽后我该怎么办？](https://a2zitpro.github.io/web/)
-- [流量过期后我该怎么办？](https://a2zitpro.github.io/web/)
-- [我想用积分买流量，该如何操作？](https://a2zitpro.github.io/web/thewaytobuydatatrafficwithpoints)
 - [有人扫我散发的二维码并用短命邮箱注册成功，他注册成功我所赚积分仍然有效，对吗？](https://a2zitpro.github.io/web/短命邮箱注册之奖励积分)
 - [我刚买完流量，为何又收到续费提醒邮件？](https://a2zitpro.github.io/web/刚买流量又被提醒续费)
 - [哪些情景属于 即买即用？](https://a2zitpro.github.io/web/哪些情景属于即买即用)
@@ -94,6 +91,9 @@
 - [如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 - [如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 - [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
+- [流量提前耗尽后我该怎么办？](https://a2zitpro.github.io/web/)
+- [流量过期后我该怎么办？](https://a2zitpro.github.io/web/)
+- [我想用积分买流量，该如何操作？](https://a2zitpro.github.io/web/thewaytobuydatatrafficwithpoints)
 
 #### D、涉及积分
 - [如何查询我有多少积分？]()
