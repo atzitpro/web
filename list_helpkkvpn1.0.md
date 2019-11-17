@@ -34,9 +34,6 @@
 - [流量包有效期的起算时刻](https://a2zitpro.github.io/web/kkdatatrafficpakagevalidityperiodstarttime)
 - [流量提前耗尽](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
 - [流量过期](https://a2zitpro.github.io/web/kkdatatrafficexpired)
-- [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/reasonsfordistinguishingbetweenkkdatatrafficexpiration&earlyexhaustion)
-- [哪些情景属于 即买即用？](https://a2zitpro.github.io/web/哪些情景属于即买即用)
-- [哪些情景属于 预购下一期流量？](https://a2zitpro.github.io/web/哪些情景属于预购下一期流量)
 - [线下购买](https://a2zitpro.github.io/web/offlinepurchasedatatraffic)
 
 
@@ -91,6 +88,9 @@
 - [过期流量包包内剩余流量还可以用吗？](https://a2zitpro.github.io/web/流量包过期后剩余流量还可以用吗)
 - [流量过期后我该怎么办？](https://a2zitpro.github.io/web/)
 - [我想用积分买流量，该如何操作？](https://a2zitpro.github.io/web/thewaytobuydatatrafficwithpoints)
+- [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/reasonsfordistinguishingbetweenkkdatatrafficexpiration&earlyexhaustion)
+- [哪些情景属于 即买即用？](https://a2zitpro.github.io/web/哪些情景属于即买即用)
+- [哪些情景属于 预购下一期流量？](https://a2zitpro.github.io/web/哪些情景属于预购下一期流量)
 
 #### D、涉及积分
 - [如何查询我有多少积分？]()
