@@ -35,13 +35,12 @@
 - [流量提前耗尽](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
 - [流量过期](https://a2zitpro.github.io/web/kkdatatrafficexpired)
 - [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/reasonsfordistinguishingbetweenkkdatatrafficexpiration&earlyexhaustion)
-- [有人扫我散发的二维码并用短命邮箱注册成功，他注册成功我所赚积分仍然有效，对吗？](https://a2zitpro.github.io/web/短命邮箱注册之奖励积分)
 - [哪些情景属于 即买即用？](https://a2zitpro.github.io/web/哪些情景属于即买即用)
 - [哪些情景属于 预购下一期流量？](https://a2zitpro.github.io/web/哪些情景属于预购下一期流量)
 - [线下购买](https://a2zitpro.github.io/web/offlinepurchasedatatraffic)
 
 
-#### D；涉及积分
+#### D、涉及积分
 
 #### 2、操作与实务
 
@@ -95,7 +94,7 @@
 
 #### D、涉及积分
 - [如何查询我有多少积分？]()
-
+- [有人扫我散发的二维码并用短命邮箱注册成功，他注册成功我所赚积分仍然有效，对吗？](https://a2zitpro.github.io/web/短命邮箱注册之奖励积分)
 
 #### 推荐阅读
 
