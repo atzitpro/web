@@ -29,7 +29,6 @@
 - [金刚免费流量](https://a2zitpro.github.io/web/kkdatatrafficfree)
 - [流量包尺寸](https://a2zitpro.github.io/web/kkdatatrafficsize)
 - [流量包有效期](https://a2zitpro.github.io/web/kkdatatrafficvalidityperiod)
-- [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [流量包有效期的起算时刻](https://a2zitpro.github.io/web/kkdatatrafficpakagevalidityperiodstarttime)
 - [流量提前耗尽](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
 - [我如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearlyidentify)
@@ -94,6 +93,7 @@
 - [如何查询我的金刚号的剩余流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [如何知道我的金刚号流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
 - [如何知道我的金刚号流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
+- [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 
 #### D、涉及积分
 - [如何查询我有多少积分？]()
