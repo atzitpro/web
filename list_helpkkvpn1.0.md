@@ -32,7 +32,6 @@
 - [流量包有效期的起算时刻](https://a2zitpro.github.io/web/kkdatatrafficpakagevalidityperiodstarttime)
 - [流量提前耗尽](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
 - [流量过期](https://a2zitpro.github.io/web/kkdatatrafficexpired)
-- [我如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 - [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/reasonsfordistinguishingbetweenkkdatatrafficexpiration&earlyexhaustion)
 - [流量提前耗尽后我该怎么办？](https://a2zitpro.github.io/web/)
 - [流量过期后我该怎么办？](https://a2zitpro.github.io/web/)
@@ -92,7 +91,8 @@
 - [如何查询我的金刚号的剩余流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
 - [如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearlyidentify)
-- [如何知道我的金刚号流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
+- [如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
+- [如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 - [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 
 #### D、涉及积分
