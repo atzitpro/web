@@ -38,7 +38,6 @@
 - [有人扫我散发的二维码并用短命邮箱注册成功，他注册成功我所赚积分仍然有效，对吗？](https://a2zitpro.github.io/web/短命邮箱注册之奖励积分)
 - [哪些情景属于 即买即用？](https://a2zitpro.github.io/web/哪些情景属于即买即用)
 - [哪些情景属于 预购下一期流量？](https://a2zitpro.github.io/web/哪些情景属于预购下一期流量)
-- [过期流量包包内剩余流量还可以用吗？](https://a2zitpro.github.io/web/流量包过期后剩余流量还可以用吗)
 - [线下购买](https://a2zitpro.github.io/web/offlinepurchasedatatraffic)
 
 
@@ -88,9 +87,9 @@
 - [如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/流量提前耗尽的识别)
 - [如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearlyidentify)
 - [如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
-- [如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 - [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [流量提前耗尽后我该怎么办？](https://a2zitpro.github.io/web/)
+- [过期流量包包内剩余流量还可以用吗？](https://a2zitpro.github.io/web/流量包过期后剩余流量还可以用吗)
 - [流量过期后我该怎么办？](https://a2zitpro.github.io/web/)
 - [我想用积分买流量，该如何操作？](https://a2zitpro.github.io/web/thewaytobuydatatrafficwithpoints)
 
