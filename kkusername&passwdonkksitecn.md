@@ -8,7 +8,7 @@
   - 是您使用 金刚1.0金刚号梯 的前提
   - 是您与[ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)沟通的管道
 - 所谓<font color="Red"> 密码 </font>
-  - 是指您登录[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)时所需的<font color="Red"> 密码 </font>，而非当您在手机（或其他设备）上填入[ 金刚号 ](https://a2zitpro.github.io/web/kkid)等时所填的[ <font color="Black"> 金刚密码 </font> ](https://a2zitpro.github.io/web/parametersofkkid)
+  - 是指您登录[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)时所需的<font color="Red"> 密码 </font>，而非当您在手机（或其他设备）上填入[ 金刚号 ](https://a2zitpro.github.io/web/kkid)等时所填的[ 金刚密码  ](https://a2zitpro.github.io/web/parametersofkkid)
   - 关于该<font color="Red"> 密码 </font>的<font color="Red"> 初始密码 </font>请[ 点击此处 ](https://a2zitpro.github.io/web/initialpasswordforloginkksitecn)
  
 
