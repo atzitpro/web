@@ -2,7 +2,7 @@
 ### 金刚1.0金刚号梯
 
 - [<font color="red"> 金刚1.0金刚号梯 </font>](https://a2zitpro.github.io/web/kkproducts1.0)是一款通用金刚梯的称谓
-- 其产品形态是由3或4条参数构成的一套参数
+- 其产品形态是由4条参数构成的一套参数
 - 其中最重要的参数是[ 金刚号 ](https://a2zitpro.github.io/web/kkid)，故名<font color="red"> 金刚号梯 </font>
 - 您只需把[ 这套参数 ](https://a2zitpro.github.io/web/parametersofkkid)正确送入您的设备，即可翻墙
 - 该款产品之所以叫通用金刚梯，是因为
