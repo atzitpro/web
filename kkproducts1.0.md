@@ -16,7 +16,7 @@
     - Win7
     - Win10
     - Windows其它版本
-  - 配入同一套参数的最多9部设备可同时连通翻墙
+  - 配入同[ 一套参数 ](https://a2zitpro.github.io/web/parametersofkkid)的最多9部设备可同时连通翻墙
 
 #### 推荐阅读
 
