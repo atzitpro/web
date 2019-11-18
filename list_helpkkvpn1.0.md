@@ -10,6 +10,8 @@
 - [金刚账户](https://a2zitpro.github.io/web/kkaccount)
 - [登录金刚网的用户名](https://a2zitpro.github.io/web/kkusername&passwdonkksitecn)
 - [登录金刚网的密码](https://a2zitpro.github.io/web/kkusername&passwdonkksitecn)
+- [登录金刚网的密码](https://a2zitpro.github.io/web/
+
 #### B、涉及金刚号
 - [金刚1.0金刚号梯](https://a2zitpro.github.io/web/kkproducts1.0)
 - [金刚号](https://a2zitpro.github.io/web/kkid)
