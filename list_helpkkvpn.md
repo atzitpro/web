@@ -1,9 +1,9 @@
 #### 金刚梯>
 ### 金刚帮助
 
-#### 金刚2.0[app梯](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
+- [金刚2.0 app梯](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
 
-#### 金刚1.0[金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚1.0 金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
 
 #### 金刚ABC
 - [随身工具](https://a2zitpro.github.io/web/list_carryontools)
