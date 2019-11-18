@@ -3,7 +3,7 @@
 ### 金刚1.0金刚号梯帮助
 
 #### 1、概念与术语
-#### A、涉及金刚网
+##### A、涉及金刚网
 - [金刚网](https://a2zitpro.github.io/web/kksitecn)
 - [金刚用户](https://a2zitpro.github.io/web/kkuser)
 - [金刚用户与金刚网的关系](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkuser&kksitecn)
