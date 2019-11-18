@@ -44,17 +44,16 @@
 
 #### D、涉及积分
 
-- [什么是积分？](https://a2zitpro.github.io/web/kkpoints)
-- [积分有什么用？](https://a2zitpro.github.io/web/useofkkpoints)
-- [积分与美元怎样兑换？](https://a2zitpro.github.io/web/kkpointstoexchangedollars)
-- [用积分可购买哪些商品？](https://a2zitpro.github.io/web/kkgoodsthatcanbepurchasedwithkkpoints)
-- [共有哪些获取积分的方式？](https://a2zitpro.github.io/web/waystoearnkkpoints)
-- [怎样才能快速赚取积分？](https://a2zitpro.github.io/web/toearnpointsquickly)
+- [积分](https://a2zitpro.github.io/web/kkpoints)
+- [积分用途](https://a2zitpro.github.io/web/useofkkpoints)
+- [积分与美元的兑换比例](https://a2zitpro.github.io/web/kkpointstoexchangedollars)
+- [可用积分购买的商品](https://a2zitpro.github.io/web/kkgoodsthatcanbepurchasedwithkkpoints)
+- [获取积分的方式](https://a2zitpro.github.io/web/waystoearnkkpoints)
+- [快速赚取积分的方式](https://a2zitpro.github.io/web/toearnpointsquickly)
 - [推荐朋友赚积分如何操作？](https://a2zitpro.github.io/web/workingmethodsofkkreferee)
 - [如何用积分为我的金刚号购买流量？](https://a2zitpro.github.io/web/thewaytobuydatatrafficwithpoints)
-- [积分有有效期吗？它会失效吗？](https://a2zitpro.github.io/web/kkpointsexpired)
-- [什么是积分交易所？](https://a2zitpro.github.io/web/kkpointexchange)
-- [金刚是如何回购积分的？](https://a2zitpro.github.io/web/buybackpoints)
+- [积分有有效期](https://a2zitpro.github.io/web/kkpointsexpired)
+- [积分交易所](https://a2zitpro.github.io/web/kkpointexchange)
 
 #### 2、操作与实务
 
@@ -112,6 +111,7 @@
 #### D、涉及积分
 - [如何查询我有多少积分？]()
 - [有人扫我散发的二维码并用短命邮箱注册成功，他注册成功我所赚积分仍然有效，对吗？](https://a2zitpro.github.io/web/短命邮箱注册之奖励积分)
+- [金刚是如何回购积分的？](https://a2zitpro.github.io/web/buybackpoints)
 
 #### 推荐阅读
 
