@@ -1,10 +1,8 @@
 #### 金刚梯>金刚帮助>
 
-### 金刚2.0app梯帮助
+### [金刚2.0app梯](https://a2zitpro.github.io/web/list_kkproducts2.0)
 
 #### 1、概念与术语
-- [金刚2.0app梯](https://a2zitpro.github.io/web/list_kkproducts2.0)
-
 
 #### 推荐阅读
 
