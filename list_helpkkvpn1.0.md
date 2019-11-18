@@ -1,6 +1,6 @@
 #### 金刚梯>
 
-### 金刚1.0金刚号梯
+### [金刚1.0金刚号梯](https://a2zitpro.github.io/web/kkproducts1.0)
 
 #### 1、概念与术语
 #### A、涉及金刚网
@@ -13,7 +13,6 @@
 - [登录金刚网所需的初始密码](https://a2zitpro.github.io/web/initialpasswdforloginkksitecn)
 
 #### B、涉及金刚号
-- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/kkproducts1.0)
 - [金刚号](https://a2zitpro.github.io/web/kkid)
 - [金刚号的长相](https://a2zitpro.github.io/web/kkidform)
 - [金刚号与设备的关系](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&device)
