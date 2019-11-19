@@ -34,4 +34,4 @@
 - 如果连接失败，则请阅读[ 金刚网 > 菜单 > 帮助 > 金刚L2型 >《金刚L2型报错信息与原因》](https://www.atozitpro.net/zh/%e9%87%91%e5%88%9al2%e5%9e%8b%e6%8a%a5%e9%94%99%e4%bf%a1%e6%81%af%e4%b8%8e%e5%8e%9f%e5%9b%a0/)（点击该链接前，请务必先翻墙出来，因为金刚网永久被墙）<br>    
 
 #### 推荐阅读
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
