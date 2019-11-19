@@ -35,7 +35,7 @@
     - 当下免费，节省金钱
 
   - 获取
-    - 在PC+Windows环境中，点击链接，下载、安装[ SSL客户端 ](https://a2zitpro.github.io/web/win)，查看[《配置说明》](https://a2zitpro.github.io/web/win)
+    - 在PC+Windows环境中，点击链接，下载、安装[ SSL客户端 ](https://github.com/a2zitpro/web/blob/master/win.md)，查看[《配置说明》](https://github.com/a2zitpro/web/blob/master/win.md)
 
 #### 二. 金刚1.0金刚号梯
 - 点击此处，[ 获取详情 ](https://github.com/a2zitpro/web/blob/master/金刚产品-金刚1.0金刚号梯.md)
