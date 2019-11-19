@@ -38,7 +38,7 @@
     - 在PC+Windows环境中，点击链接，下载、安装[ SSL客户端 ](https://github.com/a2zitpro/web/blob/master/win.md)，查看[《配置说明》](https://github.com/a2zitpro/web/blob/master/win.md)
 
 #### 二. 金刚1.0金刚号梯
-- 点击此处，[ 获取详情 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
+- [点击获取 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
 
 #### 三、问题与解答
 - [问题及解答](https://github.com/a2zitpro/web/blob/master/列表-问题与解答.md)
