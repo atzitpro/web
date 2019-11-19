@@ -38,10 +38,10 @@
     - 在PC+Windows环境中，点击链接，下载、安装[ SSL客户端 ](https://a2zitpro.github.io/web/win)，查看[《配置说明》](https://a2zitpro.github.io/web/win)
 
 #### 二. 金刚1.0金刚号梯
-- 点击此处，[ 获取详情 ](https://a2zitpro.github.io/web/金刚产品-金刚1.0金刚号梯)
+- 点击此处，[ 获取详情 ](https://github.com/a2zitpro/web/blob/master/金刚产品-金刚1.0金刚号梯.md)
 
 #### 三、问题与解答
-- [问题及解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [问题及解答](https://github.com/a2zitpro/web/blob/master/列表-问题与解答.md)
 
 #### 四、联系客服
 - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
