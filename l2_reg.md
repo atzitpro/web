@@ -11,7 +11,7 @@
 * **方便** 不用下载App 四条参数就搞定<br>
 * 适用安卓、苹果和Windows <br>
 
-### 安卓新朋友？[点此获取金刚客户端](https://a2zitpro.github.io/web/dlb)  
+### 安卓新朋友？[点此获取金刚客户端](https://github.com/a2zitpro/web/blob/master/dlb.md)  
 ### 苹果新朋友？[点此免费注册](https://myfasttrack.org/midman/testfm.php)
 * 注册后，金刚网自动给您派送免费试用翻墙[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)+30GB免费流量（流量有效期1个月）<br>
 * **免费试用1个月**，试用满意、且欲继续使用，再购买下期流量<br>
