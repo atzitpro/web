@@ -7,8 +7,8 @@
 到达[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)并[ 注册 ](https://github.com/a2zitpro/web/blob/master/l2_reg.md)成功的[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master//kkuser.md)
 
 #### 推荐阅读
-- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferee)
-- [金刚伙伴](https://a2zitpro.github.io/web/list_kkpartner)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚推荐人](https://github.com/a2zitpro/web/blob/master/list_kkreferee.md)
+- [金刚伙伴](https://github.com/a2zitpro/web/blob/master/list_kkpartner.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 
