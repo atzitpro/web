@@ -16,13 +16,13 @@
   - 该用户的[ 金刚账户 ](https://github.com/a2zitpro/web/blob/master/kkaccount.md)下的所有[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)将注销
   - 该用户的[ 金刚账户 ](https://github.com/a2zitpro/web/blob/master/kkaccount.md)下的所有[ 剩余流量 ](https://github.com/a2zitpro/web/blob/master/)将注销
   - 该用户的[ 金刚账户 ](https://github.com/a2zitpro/web/blob/master/kkaccount.md)下的所有[ 积分 ](https://github.com/a2zitpro/web/blob/master/point.md)将注销
-  - [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)不因该用户与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.mf)解除[ 合约 ](https://github.com/a2zitpro/web/blob/master/Endusercontract.md)而放弃对其个人信息和个人隐私的保护
+  - [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)不因该用户与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)解除[ 合约 ](https://github.com/a2zitpro/web/blob/master/Endusercontract.md)而放弃对其个人信息和个人隐私的保护
 
 #### 推荐阅读
 
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
-- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
-- [解除金刚用户身份](https://a2zitpro.github.io/web/dismisskkuseridentity)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚1.0金刚号梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚2.0app梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn2.0.md)
+- [金刚用户](https://github.com/a2zitpro/web/blob/master/list_kkuser.md)
+- [解除金刚用户身份](https://github.com/a2zitpro/web/blob/master/dismisskkuseridentity.md)
