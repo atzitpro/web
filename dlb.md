@@ -38,11 +38,11 @@
   - Win10 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn1.0_product_win10.md) [配置说明](https://github.com/a2zitpro/web/blob/master/kkvpn1.0_installationnotes_win10.md)
 
 ### 二、金刚VPN服务
-- [ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro )经由以上<font color="Red"> 金刚VPN产品 </font>向[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)提供[ 金刚VPN服务 ](https://a2zitpro.github.io/web/kkservices)
+- [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)经由以上<font color="Red"> 金刚VPN产品 </font>向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)提供[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)
 
 
 ### 三、帮助
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn)
-r
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+
 ### 四、联系客服
 - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
