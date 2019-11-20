@@ -21,7 +21,7 @@
     - 把小米安卓机顶盒与电视机相连，电视机将成为机顶盒的显示屏
     - 用机顶盒遥控器 或 用连接在机顶盒U口上的鼠标器操纵机顶盒，操作过程和结果均显示在电视机上
   - 安装方法1
-    - 在Windows+PC环境下，在浏览器里访问 https://a2zitpro.github.io/web/dl
+    - 在Windows+PC环境下，在浏览器里访问 https://github.com/a2zitpro/web/blob/master/dlb
     - 下载金刚2.0安卓客户端安装包到PC磁盘
     - 从PC磁盘复制金刚2.0安卓客户端安装包到U盘
     - 把U盘插入小米安卓机顶盒U口，电视机则显示检测到新的USB设备
@@ -46,7 +46,7 @@
     - 把U盘插入机顶盒U口
     - 把UPX浏览器安装到机顶盒
     - 再在机顶盒的U口里插入鼠标
-    - 用鼠标在UPX浏览器网址栏内输入网址：https://a2zitpro.github.io/web/dl
+    - 用鼠标在UPX浏览器网址栏内输入网址：https://github.com/a2zitpro/web/blob/master/dlb
     - 下载金刚2.0安卓客户端一一后续安装和打开步骤与安装方法1完全相同
 
 
