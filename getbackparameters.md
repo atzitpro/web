@@ -11,9 +11,9 @@ a、从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)找
 
 b、从[ 注册邮箱 ]的收件箱中找回
 
-- 每一个[ 金刚号 ](https://a2zitpro.github.io/web/kkid)都对应着一封<font color="black"> 派号通知单邮件 </font>
-- 在这封邮件里，包含[ 金刚号 ](https://a2zitpro.github.io/web/kkid)及[ 配套参数 ](https://a2zitpro.github.io/web/parametersofkkid)
-- 在[金刚号](https://a2zitpro.github.io/web/kkid)派出的同时，<font color="black"> 派号通知单邮件 </font>即已发到您的[ 注册邮箱 ]()
+- 每一个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)都对应着一封<font color="black"> 派号通知单邮件 </font>
+- 在这封邮件里，包含[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)及[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/parametersofkkid.md)
+- 在[金刚号](https://github.com/a2zitpro/web/blob/master/kkid.md)派出的同时，<font color="black"> 派号通知单邮件 </font>即已发到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/)
 - 该邮件十分重要，应妥善保管
 
 c、给客服发邮件
@@ -23,7 +23,7 @@ c、给客服发邮件
 
 
 #### 推荐阅读
-- [金刚号](https://a2zitpro.github.io/web/list_kkid)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚号](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
+- [金刚1.0金刚号梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
