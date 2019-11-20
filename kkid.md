@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>金刚1.0金刚号梯帮助>金刚号>
 ### 金刚号
 
-<font color="Red"> 金刚号 </font>是：
+[<font color="Red"> 金刚号 </font>]()是：
 
 - [ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)使用[ 金刚服务 ](https://a2zitpro.github.io/web/kkservices)的凭证
 - [ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)向[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)提供[ 金刚服务 ](https://a2zitpro.github.io/web/kkservices)的管道
