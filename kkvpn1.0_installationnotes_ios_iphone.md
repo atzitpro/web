@@ -4,7 +4,7 @@
 #### 适用于 苹果手机iPhone
 
 #### 特色
-  - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/一拖九)：一号在手，全家自由
+  - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/onefornine.md)：一号在手，全家自由
   - [ 万能号 ](https://github.com/a2zitpro/web/blob/master/万能金刚号)：一号万能，多机通用
  
 #### 配置说明
