@@ -5,7 +5,7 @@
 
 - <font color="Red">版权声明 </font>
   - app系筑波大学作品
-  - [ 金刚号 ](https://a2zitpro.github.io/web/kkid)、[ 流量 ](https://a2zitpro.github.io/web/kkdatatraffic)及后台支撑由[ 金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)提供
+  - [ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)、[ 流量 ](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)及后台支撑由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)提供
 
 - 特色
   - 一键翻墙
