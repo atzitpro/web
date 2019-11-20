@@ -4,8 +4,8 @@
 #### 适用于 Win7
 
 #### 特色
-  - [ 一拖九 ](https://a2zitpro.github.io/web/onefornine)：一号在手，全家自由
-  - [ 万能号 ](https://a2zitpro.github.io/web/multipurposekkid)：一号万能，多机通用
+  - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/onefornine.md)：一号在手，全家自由
+  - [ 万能号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)：一号万能，多机通用
  
 #### 配置说明
 1. 打开 控制面板，运行 网络和共享中心
