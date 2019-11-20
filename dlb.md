@@ -42,7 +42,7 @@
 
 
 ### 三、帮助
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn)
+r
 ### 四、联系客服
 - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
