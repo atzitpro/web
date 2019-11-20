@@ -7,12 +7,12 @@
 
 #### 推荐阅读
 
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
-- [随身工具](https://a2zitpro.github.io/web/list_carryontools)
-- [安卓必备](https://a2zitpro.github.io/web/greenhandtools)
-- [下载FaceBook](https://a2zitpro.github.io/web/greenhandtools/download Facebook_b)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚1.0金刚号梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚2.0app梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn2.0.md)
+- [随身工具](https://github.com/a2zitpro/web/blob/master/list_carryontools.md)
+- [安卓必备](https://github.com/a2zitpro/web/blob/master/greenhandtools.md)
+- [下载FaceBook](https://github.com/a2zitpro/web/blob/master/download Facebook_b)
 
 
