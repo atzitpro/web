@@ -2,8 +2,8 @@
 ### 金刚VPN产品
 - 金刚2.0 app梯
 
-  - 安卓手机 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_phone.md)[ 安装说明   ](kkvpn2.0_installationnotes_android_phone)
-  - 安卓平板 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_pad.md)[ 安装说明     ](kkvpn2.0_installationnotes_android_pad)
+  - 安卓手机 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_phone.md)[ 安装说明   ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_android_phone.md)
+  - 安卓平板 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_pad.md)[ 安装说明     ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_android_pad.md)
   - 安卓机顶盒 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_tvbox.md)[ 安装说明  ](kkvpn2.0_installationnotes_android_tvbox)
 
   - 苹果手机 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_ios_iphone.md) [ 安装说明 ](https://a2zitpro.github.io/web/kkvpn2.0_installationnotes_ios_iphone)
