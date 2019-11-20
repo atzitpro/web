@@ -9,7 +9,7 @@
   - 用[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)替代<font color="Black"> AAA金刚 </font>填入<font color="Red"> 名称 </font>或<font color="Red"> 描述 </font>处，以避免冲突
 
 #### 推荐阅读
-- [金刚号](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
-- [金刚1.0金刚号梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚1.0金刚号梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚号](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
