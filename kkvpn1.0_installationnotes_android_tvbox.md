@@ -42,4 +42,4 @@
 
 
 #### 推荐阅读
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚梯](https://github.com/a2zitpro.io/web/blob/master/dlb.md)
