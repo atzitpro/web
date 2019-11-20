@@ -13,7 +13,7 @@ b、从[ 注册邮箱 ]的收件箱中找回
 
 - 每一个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)都对应着一封<font color="black"> 派号通知单邮件 </font>
 - 在这封邮件里，包含[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)及[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/parametersofkkid.md)
-- 在[金刚号](https://github.com/a2zitpro/web/blob/master/kkid.md)派出的同时，<font color="black"> 派号通知单邮件 </font>即已发到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/)
+- 在[金刚号](https://github.com/a2zitpro/web/blob/master/kkid.md)派出的同时，<font color="black"> 派号通知单邮件 </font>即已发到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)
 - 该邮件十分重要，应妥善保管
 
 c、给客服发邮件
