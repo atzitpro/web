@@ -16,7 +16,7 @@
 
   - [涉及金刚号]()
     - [金刚号](https://github.com/a2zitpro/web/blob/master/kkid.md)
-    - [金刚号的长相](https://a2zitpro.github.io/web/kkidform)
+    - [金刚号的长相](https://github.com/a2zitpro/web/blob/master/kkidform)
     - [金刚号与设备的关系](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&device)
     - [金刚号与流量的关系](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkid&kkdatatraffic)
     - [万能金刚号](https://a2zitpro.github.io/web/multipurposekkid)
