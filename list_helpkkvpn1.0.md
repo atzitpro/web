@@ -1,6 +1,6 @@
 #### 金刚梯>
 
-### [金刚1.0金刚号梯](https://a2zitpro.github.io/web/kkproducts1.0)
+### [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0)
 
 #### 1、概念与术语
 #### A、涉及金刚网
