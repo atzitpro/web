@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚1.0金刚号梯帮助>金刚号>
+#### 金刚梯>金刚帮助>金刚1.0金刚号梯>金刚号>
 ### 金刚号
 
 [<font color="Red"> 金刚号 </font>](https://github.com/a2zitpro/web/blob/master/kkid.md)是：
