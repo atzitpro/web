@@ -5,8 +5,7 @@
 - [概览](https://github.com/a2zitpro/web/blob/master/kkproducts2.0.md)
 - [产品与安装](https://github.com/a2zitpro/web/blob/master/list_kkproducts2.0.md)
 - 概念与术语
-
-#### 1、概念与术语
+- 操作与实务
 
 #### 推荐阅读
 
