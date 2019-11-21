@@ -2,16 +2,16 @@
 ### 翻墙ABC
 - [什么是“墙”？](https://github.com/a2zitpro/web/blob/master/whatisthewallintheInternet.md)
 - [什么是翻墙？](https://github.com/a2zitpro/web/blob/master/whatisovertheGFW.md)
-- [什么是VPN？](https://a2zitpro.github.io/web/whatisvpn)
-- [什么是VPS？](https://a2zitpro.github.io/web/whatisvps)
-- [什么是代理服务器？](https://a2zitpro.github.io/web/whatisproxy)
-- [VPN与代理服务器的区别？](https://a2zitpro.github.io/web/whatisthedifferencebetweenaVPNandaproxyserver)
+- [什么是VPN？](https://github.com/a2zitpro/web/blob/master/whatisvpn.md)
+- [什么是VPS？](https://github.com/a2zitpro/web/blob/master/whatisvps.md)
+- [什么是代理服务器？](https://github.com/a2zitpro/web/blob/master/whatisproxy.md)
+- [VPN与代理服务器的区别？](https://github.com/a2zitpro/web/blob/master/whatisthedifferencebetweenaVPNandaproxyserver.md)
 
 
 #### 推荐阅读
 
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
-- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofvpn)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚2.0app梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn2.0.md)
+- [翻墙ABC](https://github.com/a2zitpro/web/blob/master/list_abcofvpn.md)
