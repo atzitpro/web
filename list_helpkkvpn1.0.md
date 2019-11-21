@@ -1,7 +1,8 @@
 #### 金刚梯>
 
-#### [金刚1.0金刚号梯 说明](https://github.com/a2zitpro/web/blob/master/kkproducts1.0.md)
-#### [金刚1.0金刚号梯 产品与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
+### 金刚1.0金刚号梯
+- [轮廓](https://github.com/a2zitpro/web/blob/master/kkproducts1.0.md)
+- [产品与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
 
 #### 1、概念与术语
 #### A、涉及金刚网
