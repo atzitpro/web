@@ -13,5 +13,5 @@
 #### 推荐阅读
 
 - [金刚号](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
-- [金刚1.0金刚号梯](https://github/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
