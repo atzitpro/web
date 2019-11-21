@@ -2,16 +2,16 @@
 
 答：共有以下<font color="Red"> 获得方式 </font>：
 
-- 当您在[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)[ 注册 ](https://a2zitpro.github.io/web/在金刚网注册)后，[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)会自动派送您第1个[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)
-  - 该号是[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)
-  - 其上捆绑30GB [ 大宗流量 ](https://a2zitpro.github.io/web/大宗流量)包
-  - 该包是[ 免费流量 ](https://a2zitpro.github.io/web/免费流量)包
-  - 该[ 流量包有效期 ](https://a2zitpro.github.io/web/流量包有效期)1个月
-- [ 连通 ](https://a2zitpro.github.io/web/主号和副号的用途)[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)，登录[ 金刚网 ](https://a2zitpro.github.io/web/金刚中文网)，在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/)里购买[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)
-- 给客服发邮件，客服将视具体情况决定是否派送您[ 金刚号 ](https://a2zitpro.github.io/web/金刚号)
+- 当您在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)[ 注册 ](https://github.com/a2zitpro.com/web/blob/master/reginkksitecn.md)后，[ 金刚网 ](https://github.com/a2zitpro.com/web/blob/master/kksitecn.md)会自动派送您第1个[ 金刚号 ](https://github.com/a2zitpro.com/web/blob/master/kkid.md)
+  - 该号是[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multypurposekkid.md)
+  - 其上捆绑30GB [ 大宗流量 ](https://github.com/a2zitpro/web/blob/master/bulkkkdatatraffic.md)包
+  - 该包是[ 免费流量 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree)包
+  - 该[ 流量包有效期 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackagevalidityperiod.md)1个月
+- [ 连通 ](https://github.com/a2zitpro/web/blob/master/usageofkkid)[ 金刚号 ](https://github.com/a2zitpro.com/web/blob/master/kkid.md)，登录[ 金刚网 ](https://github.com/a2zitpro.com/web/blob/master/kksitecn.md)，在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/)里购买[ 金刚号 ](https://github.com/a2zitpro.com/web/blob/master/kkid.md)
+- 给客服发邮件，客服将视具体情况决定是否派送您[ 金刚号 ](https://github.com/a2zitpro.com/web/blob/master/kkid.md)
 
 #### 推荐阅读
 
-- [关于金刚号等](https://a2zitpro.github.io/web/列表-金刚号及相关问题)
-- [关于金刚1.0金刚号梯等](https://a2zitpro.github.io/web/列表-关于金刚1.0配置金刚号型翻墙梯及相关问题)
-- [问题与解答](https://a2zitpro.github.io/web/列表-问题与解答)
+- [金刚号](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
+- [金刚1.0金刚号梯](https://github/a2zitpro.com/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
