@@ -8,5 +8,5 @@
 #### 推荐阅读
 - [金刚账户](https://github.com/a2zitpro/web/blob/master/kkaccount.md)
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/list_kkuser.md)
-- [金刚1.0金刚号梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚梯](https://github/a2zitpro.com/web/blob/master/dlb.md)
+- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚梯](https://github.com/a2zitpro.com/web/blob/master/dlb.md)
