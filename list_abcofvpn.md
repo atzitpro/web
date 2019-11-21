@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>
 ### 翻墙ABC
-- [什么是“墙”？](https://a2zitpro.github.io/web/whatisthewallintheInternet)
-- [什么是翻墙？](https://a2zitpro.github.io/web/whatisovertheGFW)
+- [什么是“墙”？](https://github.com/a2zitpro/web/blob/master/whatisthewallintheInternet.md)
+- [什么是翻墙？](https://github.com/a2zitpro/web/blob/master/whatisovertheGFW.md)
 - [什么是VPN？](https://a2zitpro.github.io/web/whatisvpn)
 - [什么是VPS？](https://a2zitpro.github.io/web/whatisvps)
 - [什么是代理服务器？](https://a2zitpro.github.io/web/whatisproxy)
