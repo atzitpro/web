@@ -1,4 +1,4 @@
-#### 金刚梯>金刚1.0金刚号梯帮助>金刚用户>
+#### 金刚梯>金刚1.0金刚号梯>金刚用户>
 ### 金刚账户
 - 每一位使用[ 金刚1.0金刚号梯 ]()的[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)《[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)一览表》中都被登记为唯一的一行
 - 该行登记就是该[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)在[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)的<font color="Red"> 金刚账户 </font>。它是[ 金刚VPN产品 ](https://a2zitpro.github.io/web/kkproducts)与[ 金刚VPN服务 ](https://a2zitpro.github.io/web/kkservices)的使用者作为[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)的凭据
@@ -10,5 +10,5 @@
 
 #### 推荐阅读
 - [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
