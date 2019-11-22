@@ -1,6 +1,5 @@
 #### 金刚梯>金刚帮助>金刚公司>金刚网>
 ### 用户名和密码
-答：
 - 所谓<font color="Red"> 用户名 </font>：
   - 是指您登录[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)时所需的<font color="Red"> 用户名 </font>，而非当您在安卓手机（或其他设备）上填入[ 金刚号 ](https://a2zitpro.github.io/web/kkid)等时所遇到的<font color="Black"> 用户名 </font>
   - 即您的[ 注册邮箱 ](https://a2zitpro.github.io/web/emailaddressforregonkksitecn)名
