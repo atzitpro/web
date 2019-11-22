@@ -25,8 +25,9 @@
   - 确保用的是最新版app，[下载页面](https://github.com/a2zitpro/web/blob/master/dl.md)里有最新客户端信息
   - 如果以上方法都没能解决问题，重启手机重试
   - 还有问题？在app帮助页面上联系客服，这会把您手机信息连同出错代码一起发给客服，有助分析解决问题
-- 过一会儿就断了 
+- 过一会儿不用就断了 
   - 在手机电池管理里，把金刚置为不要自动清除出内存，每次升级后需要重做
+  - 金刚在手机网络切断再恢复时能自动重连
 
 #### 请<font color="Red"> 连通金刚梯翻墙出来 </font>[（获取安卓金刚app梯）](https://github.com/a2zitpro/web/blob/master/dl.md)，再下载以下免费app
 - [谷歌浏览器 Chrome](https://github.com/a2zitpro/web/blob/master/downloadchrome.md)
