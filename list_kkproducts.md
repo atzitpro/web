@@ -8,7 +8,7 @@
 
   - 苹果手机 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_ios_iphone.md) [ 安装说明 ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_ios_iphone.md)
   - 苹果平板 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_ios_ipad.md) [ 安装说明 ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_ios_ipad.md)
-  - 苹果电脑 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_macos.md) [ 安装说明 ](https://https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_macos.md)
+  - 苹果电脑 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_macos.md) [ 安装说明 ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_macos.md)
 
   - Windows [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_win.md) [安装说明](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_win.md)<br><br>
 
