@@ -12,7 +12,7 @@
 
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
+- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚2.0app梯](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
 - [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
 - [金刚用户与金刚网的关系](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkuser&kksitecn)
