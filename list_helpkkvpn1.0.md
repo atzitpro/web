@@ -5,7 +5,7 @@
 - [产品与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
 
 - [术语 金刚网类]()
- - [金刚网](https://github.com/a2zitpro/web/blob/master/kksitecn)
+  - [金刚网](https://github.com/a2zitpro/web/blob/master/kksitecn)
   - [金刚用户](https://github.com/a2zitpro/web/blob/master/kkuser)
   - [金刚用户与金刚网的关系](https://github.com/a2zitpro/web/blob/master/mappingrelationshipbetweenkkuser&kksitecn)
   - [金刚账户](https://github.com/a2zitpro/web/blob/master/kkaccount)
