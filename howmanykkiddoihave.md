@@ -8,7 +8,7 @@
 - 查名下[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)
   - 在 [ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/) 下，列明您当前持有的全部[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)
 - 查剩余流量
-  - 在每个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)的右侧，列明其上捆绑的流量包截止北京时间今天3:00许包内剩余流量
+  - 在每个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)的右侧，列明其上捆绑的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)截止北京时间今天3:00许包内剩余流量
 
 #### 推荐阅读
 
