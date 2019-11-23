@@ -116,5 +116,5 @@
 
 
 #### 推荐阅读
-- [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/list_kkproducts)
-- [问题与解答](https://github.com/a2zitpro/web/blob/master/dlb)
+- [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/list_kkproducts.md)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
