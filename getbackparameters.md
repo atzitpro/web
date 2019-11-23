@@ -5,7 +5,7 @@
 
 a、从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)找回
 
-- [ 连通 ](https://github.com/a2zitpro/web/blob/master/usageofkkid.md)您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)翻墙出来一一因为您即将访问的[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)永远被墙
+- [ 连通 ](https://github.com/a2zitpro/web/blob/master/useofkkid.md)您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)翻墙出来一一因为您即将访问的[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)永远被墙
 - 登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)
 - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，点击您想找回其[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/parametersofkkid.md)的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，在新的一页里，标题<font color="black"> 配置信息 </font>之下列明[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/parametersofkkid.md)
 
@@ -23,7 +23,7 @@ c、给客服发邮件
 
 
 #### 推荐阅读
-- [金刚号](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
-- [金刚1.0金刚号梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚号](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
