@@ -1,7 +1,7 @@
 #### 金刚梯>金刚1.0帮助>金刚用户>
 ### 在金刚网注册
 
-答：注册方式：
+注册方式：
 
 - 您可以扫他人散发的[ 邀请二维码 ](https://a2zitpro.github.io/web/)在[ 金刚中文网 ](https://a2zitpro.github.io/web/kksitecn)注册
 - 您也可以点击他人散发的[ 邀请链接 ](https://a2zitpro.github.io/web/)在[ 金刚中文网 ](https://a2zitpro.github.io/web/kksitecn)注册
