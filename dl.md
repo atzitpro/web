@@ -41,7 +41,7 @@
 - [点击获取 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
 
 #### 三、帮助
-- [帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 
 #### 四、联系客服
 - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
