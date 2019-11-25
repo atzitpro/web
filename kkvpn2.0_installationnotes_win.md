@@ -9,14 +9,14 @@
   - HTTPS/SSL VPN
 
 - 《安装说明》
-- <font color="black">安装</font>
+- <strong>安装</strong>
     - 在下载文件夹内，点击安装包，开始安装
 ![Image](安装001B.png)
     - 每遇类似如上画面，点击下一步，直到完成安装
     - 完成安装，将在PC桌面生成如下图标：
 ![Image](icons8-softether-vpn-50-1.png)
 
-- <font color="black">配置</font>
+- <strong>配置</strong>
     - 点击桌面图标：
 ![Image](icons8-softether-vpn-50-1.png)
     - 弹出如下窗口：
@@ -33,13 +33,13 @@
     - 点击 确定，完成配置，窗口关闭，弹出如下窗口：
 ![Image](配置005A.png)
 
-- <font color="black">连接</font>
+- <strong>连接</strong>
     - 双击 金刚SSL VPN 或 右击，选 连接
     - 金刚SSL开始尝试连通
     - 当 状态 从 离线 改变为 已连接 时，说明 金刚SSL连接成功，可自由上网
 ![Image](配置005.png)
 
-- 日常使用
+-  <strong>日常使用</strong>
     - 连通 金刚SSL VPN
     - 点击桌面图标：
 ![Image](icons8-softether-vpn-50-1.png)
@@ -51,7 +51,7 @@
     - 当 状态 从 离线 改变为 已连接 时，说明 金刚SSL 连接成功，可自由上网
 ![Image](配置005.png)
 
-- <font color="black">切断 </font>
+-  <strong>切断</strong>
     - 右击下图中的 金刚SSL VPN
     - 在下拉菜单中选 断开，则切断连接
 ![Image](配置005A.png)
