@@ -1,5 +1,5 @@
 #### 金刚梯>金刚帮助>金刚2.0app梯>
-### 金刚VPN产品 - 金刚2.0app梯
+### 产品获取与安装
 
   - 安卓手机 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_phone.md)[ 安装说明   ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_android_phone.md)
   - 安卓平板 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_pad.md)[ 安装说明     ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_android_pad.md)
