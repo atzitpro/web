@@ -1,11 +1,6 @@
 #### 金刚梯>金刚帮助>金刚1.0 金刚号梯>
 ### 产品获取
 #### 适用于 Win10
-
-#### 特色
-  - [ 一拖九 ](https://a2zitpro.github.io/web/onefornine)：一号在手，全家自由
-  - [ 万能号 ](https://a2zitpro.github.io/web/multipurposekkid)：一号万能，多机通用
-
   
 #### 特色
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/onefornine.md)：一号在手，全家自由
