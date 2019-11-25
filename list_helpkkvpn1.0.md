@@ -2,7 +2,7 @@
 
 ### 金刚1.0金刚号梯
 - [概览](https://github.com/a2zitpro/web/blob/master/kkproducts1.0.md)
-- [产品与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
+- [产品获取与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
 
 - [术语 金刚网类]()
   - [金刚网](https://github.com/a2zitpro/web/blob/master/kksitecn.md)
