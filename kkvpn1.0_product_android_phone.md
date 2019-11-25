@@ -11,7 +11,7 @@
 #### 获取
 - 如果您从未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)注册，则请[ 点击此处 ](https://github.com/a2zitpro/web/blob/master/l2_reg.md)，提交您的电子邮箱
   - 将在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)注册
-  - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)将为您派送第1个[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/注册邮箱)，同时派送到 [ 金刚网>菜单>我的金刚 ](https://atozitpro.net/zh/my-account/)下
+  - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)将为您派送第1个[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)，同时派送到 [ 金刚网>菜单>我的金刚 ](https://atozitpro.net/zh/my-account/)下
 - 否则，您必然是[ 金刚 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)的在册[ 用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)，且您至少持有1个[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid.md)
   - 请按照《派号通知单》将该号正确配入您的手机，或按照[《配置说明》](https://a2zitpro.github.io/web/配置说明)将该号正确配入相应设备，即可[ 连通 ](https://github.com/a2zitpro/web/blob/master/useofkkid.md)翻墙
 
