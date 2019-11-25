@@ -9,6 +9,7 @@
   - HTTPS/SSL VPN
 
 - 《安装说明》
+
 - <strong>安装</strong>
     - 在下载文件夹内，点击安装包，开始安装
 ![Image](安装001B.png)
@@ -34,12 +35,14 @@
 ![Image](配置005A.png)
 
 - <strong>连接</strong>
+
     - 双击 金刚SSL VPN 或 右击，选 连接
     - 金刚SSL开始尝试连通
     - 当 状态 从 离线 改变为 已连接 时，说明 金刚SSL连接成功，可自由上网
 ![Image](配置005.png)
 
--  <strong>日常使用</strong>
+-  <strong>使用</strong>
+
     - 连通 金刚SSL VPN
     - 点击桌面图标：
 ![Image](icons8-softether-vpn-50-1.png)
