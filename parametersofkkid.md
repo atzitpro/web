@@ -8,7 +8,7 @@
   - 服务器：形如 atz12.softether.net
   - 密钥：mft 一一所有[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)均使用该密钥
 
-- 您需按照针对不同设备的[ 《配置说明》 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0)，把[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)和<font color="Red"> 配套参数 </font>[ 正确送入 ](https://github.com/a2zitpro/web/blob/master/configurationconsiderations.md)您的设备，方可连通翻墙
+- 您需按照针对不同设备的[ 《配置说明》 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)，把[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)和<font color="Red"> 配套参数 </font>[ 正确送入 ](https://github.com/a2zitpro/web/blob/master/configurationconsiderations.md)您的设备，方可连通翻墙
 
 #### 推荐阅读
 
