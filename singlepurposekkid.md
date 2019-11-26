@@ -4,7 +4,7 @@
 - 在[ 金刚网>菜单>商店 ](https://atozitpro.net/shop)里：
   - 所有<font color="Red"> 普通金刚号 </font>均属SSL型
   - 所有[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)均属L2型
-- 适用设备：<font color="Red"> 普通金刚号 </font>仅可用于Windows+[ SSL型客户端 ](https://github.com/a2zitpro/web/blob/master/获取SSL型客户端)环境
+- 适用设备：<font color="Red"> 普通金刚号 </font>仅可用于Windows+[ SSL型客户端 ](https://github.com/a2zitpro/web/blob/master/getSSLclientapp.md)环境
 
 #### 推荐阅读
 
