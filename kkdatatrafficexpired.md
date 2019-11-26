@@ -7,6 +7,6 @@
 
 #### 推荐阅读
 
-- [金刚流量](https://a2zitpro.github.io/web/kkdatatraffic)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚流量](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)
