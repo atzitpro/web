@@ -1,5 +1,5 @@
 #### 金刚梯>金刚帮助>
-### 关于积分
+### 积分类
 
 - [什么是积分？](https://a2zitpro.github.io/web/kkpoints)
 - [积分有什么用？](https://a2zitpro.github.io/web/useofkkpoints)
@@ -17,9 +17,9 @@
 
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
+- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚2.0app梯](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
 
-- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferee)
-- [金刚号](https://a2zitpro.github.io/web/list_kkid)
-- [金刚流量](https://a2zitpro.github.io/web/list_kkdatatraffic)
+- [金刚推荐人类](https://a2zitpro.github.io/web/list_kkreferee)
+- [金刚号类](https://a2zitpro.github.io/web/list_kkid)
+- [金刚流量类](https://a2zitpro.github.io/web/list_kkdatatraffic)
