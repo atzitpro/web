@@ -1,7 +1,7 @@
 ### 问：我如何知道流量过期了？
 答：有2种方法供您识别：
 
-- 方法1：在[ 金刚网 ](https://github.com/a2zitpro.com/web/blob/master/kksitecn.md)查:
+- 方法1：在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)查:
 
   - [ 连通 ](https://a2zitpro.github.io/web/usageofkkid)您的[ 金刚号 ](https://a2zitpro.github.io/web/kkid)翻墙出来
   - 登录[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)
