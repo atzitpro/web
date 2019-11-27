@@ -1,4 +1,4 @@
-##### 金刚梯>金刚帮助>金刚1.0金刚号梯帮助>金刚号>
+##### 金刚梯>金刚帮助>金刚公司类>金刚1.0金刚号梯>金刚号类>
 ### 续费
 - 所谓续费是指
   - 捆绑在[ 金刚号 ]()上的<>当前在用流量包<>已[ 过期 ]()
@@ -14,5 +14,5 @@
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚公司类](https://a2zitpro.github.io/web/list_a2zitpro.md)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
 - [金刚号类](https://a2zitpro.github.io/web/list_kkid)
