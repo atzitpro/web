@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>
+###### 金刚梯>金刚帮助>
 
 ### 金刚1.0金刚号梯
 - [概览](https://github.com/a2zitpro/web/blob/master/kkproducts1.0.md)
