@@ -11,8 +11,8 @@
 
 #### 推荐阅读
 
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚公司类](https://a2zitpro.github.io/web/list_a2zitpro.md)
-- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚号类](https://a2zitpro.github.io/web/list_kkid)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
+- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚号类](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
