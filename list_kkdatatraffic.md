@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>
+##### 金刚梯>金刚帮助>
 ### 金刚流量类
 #### 术语与常识
 - [金刚流量](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)
