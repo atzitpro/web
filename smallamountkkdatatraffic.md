@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>金刚流量类>
 ### 小额流量
 
-[ 金刚 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)把<1GB的流量叫小额流量
+[ 金刚 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)把<1GB的[ 流量 ]()叫小额流量
 
 #### 推荐阅读
 - [金刚流量类](https://github.com/a2zitpro/web/blob/master/list_kkdatatraffic.md)
