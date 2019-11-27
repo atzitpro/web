@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚公司>
+#### 金刚梯>金刚帮助>金刚公司类>
 ### 金刚VPN产品与VPN服务的价值
 
 - 使用金刚VPN产品和VPN服务：
@@ -11,8 +11,4 @@
 
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚2.0app梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn2.0.md)
-- [金刚公司](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
-- [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/valueofkkproducts&services.md)
-
+- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
