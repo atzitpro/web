@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚流量>
+#### 金刚梯>金刚帮助>金刚流量类>
 ### 金刚免费流量
 
 - 据现行政策，[金刚公司 ](https://a2zitpro.github.io/web/a2zitpro)提供以下<font color="Red"> 免费流量 </font>：
@@ -13,8 +13,7 @@
   - 新注册[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)的第1个[ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid) 一一 一次性供30GB<font color="Red"> 免费流量 </font>，有效期1个月
 
 #### 推荐阅读
-- [金刚流量](https://a2zitpro.github.io/web/list_kkdatatraffic)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
 
-
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚流量类](https://github.com/a2zitpro/web/blob/master/list_kkdatatraffic.md)
