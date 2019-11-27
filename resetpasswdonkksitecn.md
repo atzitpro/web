@@ -1,4 +1,4 @@
-###### 金刚梯>金刚1.0金刚号梯帮助>金刚用户>
+###### 金刚梯>金刚1.0金刚号梯>金刚用户>
 ### 问：什么是重置密码？
 
 答：<font color="Red"> 重置密码 </font>即变更密码
@@ -11,5 +11,6 @@
 
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
 - [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚用户](https://github.com/a2zitpro/web/blob/master/list_kkuser.md)
+- [金刚用户类](https://github.com/a2zitpro/web/blob/master/list_kkuser.md)
