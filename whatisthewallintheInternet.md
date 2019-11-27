@@ -13,6 +13,6 @@
 
 
 #### 推荐阅读
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [翻墙ABC](https://a2zitpro.github.io/web/list_abcofvpn)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [翻墙ABC](https://github.com/a2zitpro/web/blob/master/list_abcofvpn.md)
