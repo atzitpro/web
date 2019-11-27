@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚公司类>
+###### 金刚梯>金刚帮助>金刚公司类>
 ### 金刚公司
 
 - [<font color="Red"> 金刚公司 </font>](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)是一间依照美国法律设立，并合法存续于美国的信息技术公司
