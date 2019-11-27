@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>金刚公司类>
 ### 金刚中文网 
 
-- [<font color="Red"> 金刚中文网 </font>](https://github.com/a2zitpro/web/blob/master/kksitecn.md)网址：atozitpro.net/zh/
+- [<font color="Red"> 金刚中文网 </font>](https://github.com/a2zitpro/web/blob/master/kksitecn.md)网址：[atozitpro.net/zh/](https://www.atozitpro.net/zh/)
 - 在[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)发布的中文文档中亦简称[ 金刚网 、官网 ](https://www.atozitpro.net/zh/)
 - 是[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)旗下网站之一
 - 是为帮助讲汉语、写中文的全球华人群体使用[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts.md)和[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)、助力其[ 安全上网 ](https://github.com/a2zitpro/web/blob/master/valueofkkproducts&services.md)而设立的网站
