@@ -1,6 +1,6 @@
 #### 金刚梯>金刚帮助>
 ### 金刚流量类
-
+- 术语
 - [什么是金刚流量？](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)
 - [什么是金刚流量包？](https://a2zitpro.github.io/web/kkdatatrafficpackage)
 - [金刚提供免费流量吗？](https://a2zitpro.github.io/web/kkdatatrafficfree)
@@ -25,7 +25,7 @@
 - [什么是小额流量?](https://a2zitpro.github.io/web/smallamountkkdatatraffic)
 - [线下购买](https://a2zitpro.github.io/web/offlinepurchasedatatraffic)
 
-
+- 操作
 
 
 
