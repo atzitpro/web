@@ -11,5 +11,5 @@
 
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_kkvpn.md)
+- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
 - [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
