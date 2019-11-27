@@ -62,7 +62,7 @@
   - [如何改变我在金刚网的登录密码？]()
   - [我想把我在金刚网的注册邮箱改变为另一个邮箱，可以吗？]()
 
-  - [操作 金刚号类]()
+- [操作 金刚号类]()
     - [如何获得金刚号？](https://github.com/a2zitpro/web/blob/master/getkkid.md)
     - [如何获得副号？](https://github.com/a2zitpro/web/blob/master/getauxiliarykkid.md)
     - [如何获得c9开头的金刚号？](https://github.com/a2zitpro/web/blob/master//getkkidstartingwithc9.md)
