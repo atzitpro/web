@@ -1,5 +1,5 @@
-#### 金刚梯>金刚帮助>金刚公司类
-### 金刚网类
+##### 金刚梯>金刚帮助>金刚公司类>
+### 金刚中文网类
 
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/kksitecn.md)
 - [注册邮箱](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)
