@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>
+###### 金刚梯>金刚帮助>
 
 ### 金刚2.0app梯
 - [概览](https://github.com/a2zitpro/web/blob/master/kkproducts2.0.md)
