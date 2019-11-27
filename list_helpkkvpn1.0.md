@@ -82,8 +82,7 @@
     - [如何获取与普通金刚号（c9开头）配套使用的SSL型客户端？](https://github.com/a2zitpro/web/blob/master/getSSLclientapp.md)
 
 
-
-  - [操作 流量类]()
+- [操作 流量类]()
     - [我刚买完流量，为何又收到续费提醒邮件？](https://github.com/a2zitpro/web/blob/master/刚买流量又被提醒续费)
     - [如何为我的金刚号购买下一期流量？]()
     - [我想改按月为按年购买流量，该怎么操作？]()
@@ -103,7 +102,7 @@
     - [哪些情景属于 即买即用？](https://github.com/a2zitpro/web/blob/master/哪些情景属于即买即用)
     - [哪些情景属于 预购下一期流量？](https://github.com/a2zitpro/web/blob/master/哪些情景属于预购下一期流量)
 
-  - [操作 积分类]()
+- [操作 积分类]()
     - [如何查询我有多少积分？]()
     - [有人扫我散发的二维码并用短命邮箱注册成功，他注册成功我所赚积分仍然有效，对吗？](https://github.com/a2zitpro/web/blob/master/短命邮箱注册之奖励积分)
     - [金刚是如何回购积分的？](https://github.com/a2zitpro/web/blob/master/buybackpoints.md)
