@@ -6,7 +6,7 @@
   - [ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md) 一一 每天供应[ 小额 ](https://github.com/a2zitpro/web/blob/master/smallamountkkdatatraffic.md)<font color="Red"> 免费流量 </font>，次日清零再供
     - 供应前提
       - 当其上捆绑的[ 大宗流量 ](https://github.com/a2zitpro/web/blob/master/bulkkkdatatraffic.md)包[ 过期 ](https://github.com/a2zitpro/web/blob/master/流量过期)时
-      - 当其上捆绑的[ 大宗流量 ](https://a2zitpro.github.io/web/bulkkkdatatraffic)包包内[ 流量提前耗尽 ](https://github.com/a2zitpro/web/blob/master/流量提前耗尽)时
+      - 当其上捆绑的[ 大宗流量 ](https://a2zitpro.github.io/web/bulkkkdatatraffic)包包内[ 流量提前耗尽 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficisexhaustedearly.md)时
       - 当其上捆绑的[ 小额 ](https://github.com/a2zitpro/web/blob/master/smallamountkkdatatraffic.md)<font color="Red"> 免费流量 </font>包被清零时
     - 供应时刻
       - 北京时间每日3:00开始为[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)充[ 小额 ](https://github.com/a2zitpro/web/blob/master/smallamountkkdatatraffic.md)<font color="Red"> 免费流量 </font>
