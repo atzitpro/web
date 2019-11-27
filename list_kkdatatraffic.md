@@ -9,7 +9,7 @@
 - [金刚流量包有效期的起算时刻](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackagevalidityperiodstarttime.md)
 - [流量提前耗尽](https://github.com/a2zitpro/web/blob/master/kkdatatrafficisexhaustedearly.md)
 - [流量过期](https://github.com/a2zitpro/web/blob/master/kkdatatrafficexpired.md)
-- [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://github.com/a2zitpro/web/blob/master/reasonsfordistinguishingbetweenkkdatatrafficexpiration&earlyexhaustion.md)
+- [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://github.com/a2zitpro/web/blob/master/distinguishingexpiration&exhaustion.md)
 - [有人扫我散发的二维码并用短命邮箱注册成功，我因他注册成功所赚积分仍然有效，对吗？](https://github.com/a2zitpro/web/blob/master/短命邮箱注册之奖励积分)
 - [我刚买完流量，为何又收到续费提醒邮件？](https://github.com/a2zitpro/web/blob/master/刚买流量又被提醒续费)
 - [哪些情景属于 即买即用？](https://github.com/a2zitpro/web/blob/master/哪些情景属于即买即用)
