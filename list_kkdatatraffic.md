@@ -1,7 +1,7 @@
 #### 金刚梯>金刚帮助>
 ### 金刚流量类
 
-- [什么是金刚流量？](https://a2zitpro.github.io/web/kkdatatraffic)
+- [什么是金刚流量？](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)
 - [什么是金刚流量包？](https://a2zitpro.github.io/web/kkdatatrafficpackage)
 - [金刚提供免费流量吗？](https://a2zitpro.github.io/web/kkdatatrafficfree)
 - [流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/kkdatatrafficsize)
@@ -76,5 +76,5 @@
 
 - [金刚梯](https://a2zitpro.github.io/web/dlb)
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚2.0app梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
+- [金刚1.0金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
+- [金刚2.0app梯](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
