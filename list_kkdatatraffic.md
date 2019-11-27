@@ -1,16 +1,16 @@
 #### 金刚梯>金刚帮助>
 ### 金刚流量类
 - 术语
-- [什么是金刚流量？](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)
-- [什么是金刚流量包？](https://a2zitpro.github.io/web/kkdatatrafficpackage)
-- [金刚提供免费流量吗？](https://a2zitpro.github.io/web/kkdatatrafficfree)
-- [流量包尺寸共有哪几种？](https://a2zitpro.github.io/web/kkdatatrafficsize)
-- [流量包有效期有哪几种？](https://a2zitpro.github.io/web/kkdatatrafficvalidityperiod)
+- [金刚流量](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)
+- [金刚流量包](https://a2zitpro.github.io/web/kkdatatrafficpackage)
+- [金刚免费流量](https://a2zitpro.github.io/web/kkdatatrafficfree)
+- [流量包尺寸](https://a2zitpro.github.io/web/kkdatatrafficsize)
+- [流量包有效期](https://a2zitpro.github.io/web/kkdatatrafficvalidityperiod)
 - [如何查询我的某个金刚号还是剩多少流量？](https://a2zitpro.github.io/web/howmanykkiddoihave)
 - [流量包的有效期从何时开始起算？](https://a2zitpro.github.io/web/kkdatatrafficpakagevalidityperiodstarttime)
-- [什么是流量提前耗尽？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
+- [流量提前耗尽](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearly)
 - [我如何知道流量提前耗尽了？](https://a2zitpro.github.io/web/kkdatatrafficisexhaustedearlyidentify)
-- [什么是流量过期？](https://a2zitpro.github.io/web/kkdatatrafficexpired)
+- [流量过期](https://a2zitpro.github.io/web/kkdatatrafficexpired)
 - [我如何知道流量过期了？](https://a2zitpro.github.io/web/kkdatatrafficexpiredidentify)
 - [为何一定要区分<font color="Red"> 流量提前耗尽 </font>与<font color="Red"> 流量过期 </font>？](https://a2zitpro.github.io/web/reasonsfordistinguishingbetweenkkdatatrafficexpiration&earlyexhaustion)
 - [流量提前耗尽后我该怎么办？](https://a2zitpro.github.io/web/)
@@ -21,8 +21,8 @@
 - [哪些情景属于 即买即用？](https://a2zitpro.github.io/web/哪些情景属于即买即用)
 - [哪些情景属于 预购下一期流量？](https://a2zitpro.github.io/web/哪些情景属于预购下一期流量)
 - [流量包过期后，包内剩余流量还可以用吗？](https://a2zitpro.github.io/web/流量包过期后剩余流量还可以用吗)
-- [什么是大宗流量?](https://a2zitpro.github.io/web/bulkkkdatatraffic)
-- [什么是小额流量?](https://a2zitpro.github.io/web/smallamountkkdatatraffic)
+- [大宗流量](https://a2zitpro.github.io/web/bulkkkdatatraffic)
+- [小额流量](https://a2zitpro.github.io/web/smallamountkkdatatraffic)
 - [线下购买](https://a2zitpro.github.io/web/offlinepurchasedatatraffic)
 
 - 操作
