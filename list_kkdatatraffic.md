@@ -1,5 +1,5 @@
-#### 金刚梯>金刚帮助
-### 金刚流量
+#### 金刚梯>金刚帮助>
+### 金刚流量类
 
 - [什么是金刚流量？](https://a2zitpro.github.io/web/kkdatatraffic)
 - [什么是金刚流量包？](https://a2zitpro.github.io/web/kkdatatrafficpackage)
