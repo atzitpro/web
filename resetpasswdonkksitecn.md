@@ -1,7 +1,7 @@
 ###### 金刚梯>金刚1.0金刚号梯>金刚用户>
 ### 问：什么是重置密码？
 
-答：<font color="Red"> 重置密码 </font>即变更密码
+答：<font color="Red"> 重置密码 </font>即变更登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)的密码
 - 当<font color="Red"> 重置密码 </font>时，不必先登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)，在未登录状态下即可<font color="Red"> 重置密码 </font>
 - 当<font color="Red"> 重置密码 </font>时，不必录入原密码
 - 忘记原密码后，只要记得[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)，即可通过<font color="Red"> 重置密码 </font>登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)
