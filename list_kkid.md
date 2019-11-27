@@ -1,6 +1,19 @@
 #### 金刚梯>金刚1.0帮助>
 ### 金刚号
 
+  - [金刚号](https://github.com/a2zitpro/web/blob/master/kkid.md)
+  - [金刚号的长相](https://github.com/a2zitpro/web/blob/master/kkidform.md)
+  - [金刚号与设备的关系](https://github.com/a2zitpro/web/blob/master/mappingrelationshipbetweenkkid&device.md)
+  - [金刚号与流量的关系](https://github.com/a2zitpro/web/blob/master/mappingrelationshipbetweenkkid&kkdatatraffic.md)
+  - [万能金刚号](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)
+  - [普通金刚号](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)
+  - [金刚号的配套参数及配置方法](https://github.com/a2zitpro/web/blob/master/parametersofkkid.md)
+  - [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/kkidvalidity.md)
+  - [主号](https://github.com/a2zitpro/web/blob/master/mainkkid.md) 
+  - [副号](https://github.com/a2zitpro/web/blob/master/auxiliarykkid.md)
+  - [主号、副号的用途](https://github.com/a2zitpro/web/blob/master/useofkkid.md) 
+  - [<font color="Red"> 一拖九 </font>](https://github.com/a2zitpro/web/blob/master/onefornine.md)
+  - [金刚号的价格](https://github.com/a2zitpro/web/blob/master/kkidprice.md)
 
 
 #### 推荐阅读
