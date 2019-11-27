@@ -20,7 +20,7 @@
   - [金刚号与流量的关系](https://github.com/a2zitpro/web/blob/master/mappingrelationshipbetweenkkid&kkdatatraffic.md)
   - [万能金刚号](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)
   - [普通金刚号](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)
-  - [金刚号的配套参数及使用方法](https://github.com/a2zitpro/web/blob/master/parametersofkkid.md)
+  - [金刚号的配套参数及配置方法](https://github.com/a2zitpro/web/blob/master/parametersofkkid.md)
   - [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/kkidvalidity.md)
   - [主号](https://github.com/a2zitpro/web/blob/master/mainkkid.md) 
   - [副号](https://github.com/a2zitpro/web/blob/master/auxiliarykkid.md)
