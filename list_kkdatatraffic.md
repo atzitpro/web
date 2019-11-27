@@ -5,7 +5,7 @@
 - [金刚流量包](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackage.md)
 - [金刚免费流量](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)
 - [流量包尺寸](https://github.com/a2zitpro/web/blob/master/kkdatatrafficsize.md)
-- [流量包有效期](https://github.com/a2zitpro/web/blob/master/kkdatatrafficvalidityperiod.md)
+- [流量包有效期](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackagevalidityperiod.md)
 - [如何查询我的某个金刚号还是剩多少流量？](https://github.com/a2zitpro/web/blob/master/howmanykkiddoihave.md)
 - [流量包的有效期从何时开始起算？](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpakagevalidityperiodstarttime.md)
 - [流量提前耗尽](https://github.com/a2zitpro/web/blob/master/kkdatatrafficisexhaustedearly.md)
