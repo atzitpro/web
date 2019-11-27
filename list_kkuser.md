@@ -1,6 +1,6 @@
-#### 金刚梯>金刚帮助>
+##### 金刚梯>金刚帮助>
 
-### 关于金刚用户
+### 金刚用户类
 - [何谓金刚用户？](https://a2zitpro.github.io/web/kkuser)
 - [如何成为金刚用户？](https://a2zitpro.github.io/web/tobekkuser)
 - [从未使用过金刚，我该如何开始？](https://a2zitpro.github.io/web/tobekkuser)
