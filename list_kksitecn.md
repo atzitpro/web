@@ -9,7 +9,7 @@
 - [初始密码]()
 - []()
 - []()
-- []()
+- [重置密码]()
 #### 推荐阅读
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
