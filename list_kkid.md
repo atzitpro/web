@@ -1,4 +1,4 @@
-#### 金刚梯>金刚1.0帮助>
+#### 金刚梯>金刚1.0金刚号梯>
 ### 金刚号
 
   - [金刚号](https://github.com/a2zitpro/web/blob/master/kkid.md)
