@@ -1,3 +1,4 @@
+#### 金刚梯>金刚帮助>金刚公司>金刚1.0金刚号梯>金刚号类>
 ### 主号
 - [<font color="Red"> 主号 </font>](https://a2zitpro.github.io/web/mainkkid)是[ 副号 ](https://a2zitpro.github.io/web/auxiliarykkid)的相对称谓
 - [ 金刚 ](https://a2zitpro.github.io/web/a2zitpro)把具有以下特征的[ 金刚号 ](https://a2zitpro.github.io/web/kkid)叫<font color="Black">主号</font>：
