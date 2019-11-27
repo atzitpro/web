@@ -1,6 +1,6 @@
 #### 金刚梯>金刚帮助>
 ### 金刚流量类
-- 术语与常识
+#### 术语与常识
 - [金刚流量](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)
 - [金刚流量包](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackage.md)
 - [金刚免费流量](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)
@@ -18,7 +18,8 @@
 - [大宗流量](https://github.com/a2zitpro/web/blob/master/bulkkkdatatraffic.md)
 - [小额流量](https://github.com/a2zitpro/web/blob/master/smallamountkkdatatraffic.md)
 
-- 操作与实务
+
+#### 操作与实务
 - [如何查询我的某个金刚号还是剩多少流量？](https://github.com/a2zitpro/web/blob/master/howmanykkiddoihave.md)
 - [我如何知道流量提前耗尽了？](https://github.com/a2zitpro/web/blob/master/kkdatatrafficisexhaustedearlyidentify.md)
 - [我如何知道流量过期了？](https://github.com/a2zitpro/web/blob/master/kkdatatrafficexpiredidentify.md)
