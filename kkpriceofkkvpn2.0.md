@@ -1,8 +1,8 @@
-#### 金刚梯>金刚帮助>金刚梯价格>
+###### 金刚梯>金刚帮助>金刚梯价格>
 ### 问：金刚2.0安卓app梯的价格？
 答：仍在免费公测期，尚无价格
 
 #### 推荐阅读
-- [金刚梯价格](https://a2zitpro.github.io/web/list_kkprice)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚梯价格](https://github.com/a2zitpro/web/blob/master/list_kkprice.md)
