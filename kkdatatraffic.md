@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚流量类>
+###### 金刚梯>金刚帮助>金刚流量类>
 ### 金刚流量
 - [<font color="red"> 金刚流量 </font>](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)的实质是：经由[ 金刚 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)服务器为[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)供应的数字化信息量。
 - [<font color="red"> 金刚流量 </font>](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)同时也是：
