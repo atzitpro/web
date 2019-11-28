@@ -18,11 +18,12 @@
 
 
 #### 半年包
-- 06<font color="White">AAAA</font>流量<font color="White"> AAAA </font>价格
-- A.<font color="White">AAA</font>180GB<font color="White"> AA </font>$15.00
-- B.<font color="White">AAA</font>540GB<font color="White"> AA </font>$22.50 
-- C.<font color="White">AA</font>1800GB<font color="White"> AA </font>$46.00
-- D.<font color="White">A</font>18000GB<font color="White"> A </font>$117.50
+| 序号 |流量 |价格 | 
+| ----------- | ----------- |  ----------- |
+| A. | 180GB | $15.00 |
+| B. | 540GB | $22.50 |
+| C. | 1800GB |$46.00 |
+| D. | 18000GB|$117.50 |
 
 
 #### 年包
