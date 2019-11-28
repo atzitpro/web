@@ -27,11 +27,13 @@
 
 
 #### 年包
-- 12<font color="White">AAAA</font>流量<font color="White"> AAAA </font>价格
-- A.<font color="White">AAA</font>360GB<font color="White"> AA </font>$27.00
-- B.<font color="White">AA</font>1080GB<font color="White"> AA </font>$40.00 
-- C.<font color="White">AA</font>3600GB<font color="White"> AA </font>$82.00
-- D.<font color="White">A</font>36000GB<font color="White"> A </font>$212.00
+#### 半年包
+| 序号 |流量 |价格 | 
+| ----------- | ----------- |  ----------- |
+| A. | 360GB | $27.00 |
+| B. | 1080GB | $40.00 |
+| C. | 3600GB $82.00 |
+| D. | 36000GB|$212.00 |
 
 
 
