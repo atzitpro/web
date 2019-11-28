@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚1.0金刚号梯>金刚号类>
+###### 金刚梯>金刚帮助>金刚1.0金刚号梯>金刚号类>
 ### 普通金刚号
 所谓[<font color="Red"> 普通金刚号 </font>](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)是相对[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)的称谓，即除[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)之外的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)都是<font color="Red"> 普通金刚号 </font>
 - 外形特征：<font color="Red"> 普通金刚号 </font>以c9开头
