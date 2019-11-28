@@ -4,7 +4,7 @@
 - [概览](https://github.com/a2zitpro/web/blob/master/kkproducts1.0.md)
 - [产品获取与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
 
-- [术语 金刚网类]()
+- [术语 金刚网类](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
   - [金刚网](https://github.com/a2zitpro/web/blob/master/kksitecn.md)
   - [金刚用户](https://github.com/a2zitpro/web/blob/master/kkuser.md)
   - [金刚用户与金刚网的关系](https://github.com/a2zitpro/web/blob/master/mappingrelationshipbetweenkkuser&kksitecn.md)
@@ -13,7 +13,7 @@
   - [登录金刚网的密码](https://github.com/a2zitpro/web/blob/master/kkusername&passwdonkksitecn.md)
   - [登录金刚网所需的初始密码](https://github.com/a2zitpro/web/blob/master/initialpasswdforloginkksitecn.md)
 
-- [术语 金刚号类]()
+- [术语 金刚号类](https://github.com/a2zitpro/web/blob/master/)
   - [金刚号](https://github.com/a2zitpro/web/blob/master/kkid.md)
   - [金刚号的长相](https://github.com/a2zitpro/web/blob/master/kkidform.md)
   - [金刚号与设备的关系](https://github.com/a2zitpro/web/blob/master/mappingrelationshipbetweenkkid&device.md)
@@ -53,7 +53,7 @@
   - [积分交易所](https://github.com/a2zitpro/web/blob/master/kkpointexchange.md)
 
 
-- [操作 金刚网类]()
+- [操作 金刚网类](https://github.com/a2zitpro/web/blob/master/)
   - [忘记了登录金刚网的密码，我该怎么办？](https://github.com/a2zitpro/web/blob/master/forgettenpasswdonkksite.md)
   - [忘记了在金刚网的注册邮箱，我该怎么办？](https://github.com/a2zitpro/web/blob/master/forgettenregemailaddress.md)
   - [如何在金刚网注册？](https://github.com/a2zitpro/web/blob/master/reginkksitecn.md)
@@ -62,7 +62,7 @@
   - [如何改变我在金刚网的登录密码？]()
   - [我想把我在金刚网的注册邮箱改变为另一个邮箱，可以吗？]()
 
-- [操作 金刚号类]()
+- [操作 金刚号类](https://github.com/a2zitpro/web/blob/master/)
     - [如何获得金刚号？](https://github.com/a2zitpro/web/blob/master/getkkid.md)
     - [如何获得副号？](https://github.com/a2zitpro/web/blob/master/getauxiliarykkid.md)
     - [如何获得c9开头的金刚号？](https://github.com/a2zitpro/web/blob/master//getkkidstartingwithc9.md)
@@ -102,7 +102,7 @@
     - [哪些情景属于 即买即用？](https://github.com/a2zitpro/web/blob/master/哪些情景属于即买即用)
     - [哪些情景属于 预购下一期流量？](https://github.com/a2zitpro/web/blob/master/哪些情景属于预购下一期流量)
 
-- [操作 积分类]()
+- [操作 积分类](https://github.com/a2zitpro/web/blob/master/)
     - [如何查询我有多少积分？]()
     - [有人扫我散发的二维码并用短命邮箱注册成功，他注册成功我所赚积分仍然有效，对吗？](https://github.com/a2zitpro/web/blob/master/短命邮箱注册之奖励积分)
     - [金刚是如何回购积分的？](https://github.com/a2zitpro/web/blob/master/buybackpoints.md)
