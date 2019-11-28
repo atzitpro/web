@@ -35,8 +35,7 @@
 #### 推荐阅读
 
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_elpkkvpn.md)
+- [金刚产品与服务] https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)
 - [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
 - [金刚1.0金刚号梯 产品获取与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
-- [金刚2.0app梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn2.0.md)
-- [金刚2.0app梯产品获取与安装](https://github.com/a2zitpro/web/blob/master/list_kkproducts2.0.md)
