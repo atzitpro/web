@@ -13,7 +13,7 @@
 
 ### 安卓新朋友？[点此获取金刚客户端](https://github.com/a2zitpro/web/blob/master/dlb.md)  
 ### 苹果新朋友？[点此免费注册](https://myfasttrack.org/midman/testfm.php)
-* 注册后，金刚网自动给您派送免费试用翻墙[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)+30GB免费流量（流量有效期1个月）<br>
+* 注册后，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)自动给您派送免费试用翻墙[ 万能金刚号 ](https://a2zitpro.github.io/web/万能金刚号)+30GB免费流量（流量有效期1个月）<br>
 * **免费试用1个月**，试用满意、且欲继续使用，再购买下期流量<br>
 * 注册即获200点积分
 * 扫朋友码注册？多得20%流量
