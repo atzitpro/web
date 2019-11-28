@@ -1,4 +1,4 @@
-###### 金刚梯>金刚帮助>金刚公司类>金刚1.0金刚号梯>
+###### 金刚梯>金刚帮助>金刚公司类>金刚1.0金刚号梯>产品获取与配置>
 ### 金刚号梯报错信息、原因、处置措施
 
 
@@ -36,4 +36,4 @@
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 - [金刚公司](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
 - [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚中文网](https://github.com/a2zitpro/web/blob/master/kksitecn.md)
+- [金刚号梯产品获取与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
