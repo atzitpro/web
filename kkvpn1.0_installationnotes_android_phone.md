@@ -33,7 +33,6 @@
 - 如果连接失败，则请参阅[ 《金刚L2型报错信息、原因及处置》](https://github.com/a2zitpro/web/blob/master/errormessageofL2.md)
 
 #### 推荐阅读
-
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_elpkkvpn.md)
 - [金刚产品与服务](https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)
