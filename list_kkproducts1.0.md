@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚1.0金刚号梯>
+###### 金刚梯>金刚帮助>金刚1.0金刚号梯>
 ### 产品获取 与 配置
 
 - 安卓手机 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn1.0_product_android_phone.md) [配置说明](https://github.com/a2zitpro/web/blob/master/kkvpn1.0_installationnotes_android_phone.md)
