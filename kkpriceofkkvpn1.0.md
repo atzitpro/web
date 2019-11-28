@@ -8,8 +8,10 @@
 
 
 #### 月包
-- 01<font color="White">AAAA</font>流量<font color="White"> AAAA </font>价格
-- A.<font color="White">AAAA</font>30GB<font color="White"> AAA </font>$3.00
+
+| 序号 |流量 |价格 | 
+| ----------- | ----------- |  ----------- |
+A.30GB $3.00
 - B.<font color="White">AAAA</font>90GB<font color="White"> AAA </font>$4.50
 - C.<font color="White">AAA</font>300GB<font color="White"> AAA </font>$9.20
 - D.<font color="White">AA</font>3000GB<font color="White"> AA </font>$23.50
