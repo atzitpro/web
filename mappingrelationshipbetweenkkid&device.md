@@ -3,9 +3,9 @@
 
 答：
 
-- [ 普通金刚号 ](https://a2zitpro.github.io/web/singlepurposekkid)仅可用于Windows+SSL客户端环境，不可用于其他设备
-- [ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)可用于[主流智能设备](https://a2zitpro.github.io/web/list_kkproducts1.0)
-- [ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)可按[ 一拖九 ](https://a2zitpro.github.io/web/onefornine)方式使用
+- [ 普通金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)仅可用于Windows+SSL客户端环境，不可用于其他设备
+- [ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)可用于[主流智能设备](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
+- [ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)可按[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/onefornine.md)方式使用
 
 #### 推荐阅读
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
