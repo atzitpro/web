@@ -22,7 +22,6 @@
 
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [金刚1.0金刚号梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚2.0app梯帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn2.0.md)
+- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [金刚2.0app梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn2.0.md)
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/list_kkuser.md)
-- [解除金刚用户身份](https://github.com/a2zitpro/web/blob/master/dismisskkuseridentity.md)
