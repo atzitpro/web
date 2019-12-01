@@ -1,4 +1,4 @@
-###### 金刚梯>金刚1.0金刚号梯帮助>金刚号>
+###### 金刚梯>金刚帮助>金刚公司>金刚1.0金刚号梯>术语 金刚号类>
 ### 一拖九
 所谓一拖九是指：
 - 北京时间2019.06.01 0:00:00之前，1个[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)可配入[ 多部设备 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)，这些设备共享该[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)内流量；但同一时刻只有1部设备能连通，多部设备不可同时连通
