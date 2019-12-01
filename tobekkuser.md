@@ -1,4 +1,4 @@
-###### 金刚梯>金刚帮助>金刚用户>
+###### 金刚梯>金刚帮助>金刚用户类>
 ### 成为金刚用户
 
 使用[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts.md)和[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)即成为[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)
