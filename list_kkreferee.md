@@ -1,10 +1,10 @@
 ###### 金刚梯>金刚帮助>金刚伙伴>
 ### 金刚推荐人
 
-- [什么叫金刚推荐人？](https://a2zitpro.github.io/web/kkreferee)
-- [金刚推荐人能得到啥回报？](https://a2zitpro.github.io/web/rewardforkkreferee)
-- [什么样的人才有资格作金刚推荐人？](https://a2zitpro.github.io/web/qualificationofkkreferee)
-- [金刚推荐人如何推荐金刚给新人？](https://a2zitpro.github.io/web/workingmethodsofkkreferee)
+- [什么叫金刚推荐人？](https://github.com/a2zitpro/web/blob/master/kkreferee.md)
+- [金刚推荐人能得到啥回报？](https://github.com/a2zitpro/web/blob/master/rewardforkkreferee.md)
+- [什么样的人才有资格作金刚推荐人？](https://github.com/a2zitpro/web/blob/master/qualificationofkkreferee.md)
+- [金刚推荐人如何推荐金刚给新人？](https://github.com/a2zitpro/web/blob/master/workingmethodsofkkreferee.md)
 
 
 
