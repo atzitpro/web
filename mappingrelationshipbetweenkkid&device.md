@@ -8,8 +8,7 @@
 - [ 万能金刚号 ](https://a2zitpro.github.io/web/multipurposekkid)可按[ 一拖九 ](https://a2zitpro.github.io/web/onefornine)方式使用
 
 #### 推荐阅读
-
-- [术语 金刚号类](https://a2zitpro.github.io/web/list_kkid)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
+- [术语 金刚号类](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
