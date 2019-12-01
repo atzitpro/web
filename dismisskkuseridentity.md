@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚用户>
+###### 金刚梯>金刚帮助>金刚用户>
 ### 解除金刚用户身份
 
 - 解除[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)身份即解除[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)的[ 合约 ](https://github.com/a2zitpro/web/blob/master/Endusercontract.md)
