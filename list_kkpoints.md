@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>
+###### 金刚梯>金刚帮助>
 ### 积分类
 
 - [什么是积分？](https://a2zitpro.github.io/web/kkpoints)
