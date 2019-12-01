@@ -1,9 +1,6 @@
 ###### 金刚梯>金刚帮助>金刚伙伴>金刚推荐人>
 ### 金刚推荐人
-凡分享[ 金刚产品 ](https://a2zitpro.github.io/web/kkproducts)与[ 金刚服务 ](https://a2zitpro.github.io/web/kkservices)给其他人的[ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)都是<font color="Red"> 金刚推荐人 </font>。
-
-#### 推荐阅读
-- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferee)
+凡分享[ 金刚产品 ](https://github.com/a2zitpro/web/blob/master/kkproducts.md)与[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)给其他人的[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser)都是<font color="Red"> 金刚推荐人 </font>。
 
 #### 推荐阅读
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
