@@ -1,5 +1,5 @@
 ###### 金刚梯>金刚帮助>金刚伙伴>
-### 金刚推荐人
+### 金刚推荐人类
 
 - [什么叫金刚推荐人？](https://github.com/a2zitpro/web/blob/master/kkreferee.md)
 - [金刚推荐人能得到啥回报？](https://github.com/a2zitpro/web/blob/master/rewardforkkreferee.md)
