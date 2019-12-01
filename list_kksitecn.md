@@ -3,7 +3,7 @@
 
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/kksitecn.md)
 - [注册邮箱](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)
-- [金刚账户]()
+- [金刚账户](https://github.com/a2zitpro/web/blob/master/kkaccount.md)
 - [用户名]()
 - [密码]()
 - [初始密码]()
