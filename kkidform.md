@@ -1,4 +1,4 @@
-###### 金刚梯>金刚1.0金刚号梯>金刚号类>
+###### 金刚梯>金刚1.0金刚号梯>术语 金刚号类>
 ### 金刚号的长相
 
 
@@ -12,4 +12,4 @@
 
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚号类](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
+- [术语 金刚号类](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
