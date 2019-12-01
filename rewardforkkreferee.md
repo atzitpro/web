@@ -1,4 +1,4 @@
-#### 金刚梯>金刚帮助>金刚伙伴>金刚推荐人>
+###### 金刚梯>金刚帮助>金刚伙伴>金刚推荐人>
 ### 金刚推荐人的回报
 
 - [ 金刚推荐人 ](https://a2zitpro.github.io/web/kkreferee)的<font color="Red">回报</font>是：
