@@ -1,8 +1,8 @@
 ###### 金刚梯>金刚帮助>
 ### 金刚伙伴
 
-- [金刚推荐人](https://a2zitpro.github.io/web/list_kkreferee)
-- [金刚广告商](https://a2zitpro.github.io/web/list_kkadvertiser)
+- [金刚推荐人](https://github.com/a2zitpro/web/blob/master/list_kkreferee.md)
+- [金刚广告商](https://github.com/a2zitpro/web/blob/master/list_kkadvertiser.md)
 
 #### 推荐阅读
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
