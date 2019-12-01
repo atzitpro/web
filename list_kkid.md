@@ -1,5 +1,5 @@
 ###### 金刚梯>金刚1.0金刚号梯>
-### 金刚号类
+### 术语 金刚号类
 
   - [金刚号](https://github.com/a2zitpro/web/blob/master/kkid.md)
   - [金刚号的长相](https://github.com/a2zitpro/web/blob/master/kkidform.md)
