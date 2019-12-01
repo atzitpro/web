@@ -1,4 +1,4 @@
-###### 金刚梯>金刚帮助>金刚用户>
+###### 金刚梯>金刚帮助>金刚用户类>
 ### 金刚用户与金刚网的关系
 
 [ 金刚用户 ](https://a2zitpro.github.io/web/kkuser)与[ 金刚网 ](https://a2zitpro.github.io/web/kksitecn)的关系如下：
@@ -14,5 +14,4 @@
 - [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
 - [金刚1.0金刚号梯](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
 - [金刚2.0app梯](https://a2zitpro.github.io/web/list_helpkkvpn2.0)
-- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
-- [金刚用户与金刚网的关系](https://a2zitpro.github.io/web/mappingrelationshipbetweenkkuser&kksitecn)
+- [金刚用户类](https://a2zitpro.github.io/web/list_kkuser)
