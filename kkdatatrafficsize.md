@@ -6,6 +6,7 @@
 - 收费[ 流量包 ](https://a2zitpro.github.io/web/kkdatatrafficpackage)[ 共12种尺寸 ](https://a2zitpro.github.io/web/kkpriceofkkvpn1.0)
 
 #### 推荐阅读
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
-- [金刚流量类](https://a2zitpro.github.io/web/list_kkdatatraffic)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚流量类](https://github.com/a2zitpro/web/blob/master/list_kkdatatraffic.md)
 
