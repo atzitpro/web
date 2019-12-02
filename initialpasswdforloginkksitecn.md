@@ -7,9 +7,8 @@
 - 建议您尽快据《派号通知单》邮件，配好、[ 连通 ](https://github.com/a2zitpro/web/blob/master/useofkkid.md)[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，进而立即[ 重置密码 ](https://github.com/a2zitpro/web/blob/master/resetpasswdonkksitecn.md)，将<font color="Red"> 初始密码 </font>变更为易记的密码
 
 
-
 #### 推荐阅读
-
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [金刚用户](https://github.com/a2zitpro/web/blob/master/list_kkuser.md)
+- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
+- [金刚网类](https://github.com/a2zitpro/web/blob/master/list_kksitecn.md)
