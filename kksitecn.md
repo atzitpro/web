@@ -8,7 +8,6 @@
 - 尤其是为帮助那些被剥夺了自由获取公开信息权利的人们自由上网而设立的中文网站。
 
 #### 推荐阅读
-
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 - [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
