@@ -11,6 +11,7 @@
       - 半年
       - 年
 
+-  [金刚2.0金刚号梯](https://github.com/a2zitpro/web/blob/master/kkproducts2.0.md)[<font color="red"> 流量包有效期 </font>](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackagevalidityperiod.md)待定
 
 
 #### 推荐阅读
