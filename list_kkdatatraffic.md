@@ -4,7 +4,7 @@
 - [金刚流量](https://github.com/a2zitpro/web/blob/master/kkdatatraffic.md)
 - [金刚流量包](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackage.md)
 - [金刚免费流量](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)
-- [金刚收费流量](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)
+- [金刚1.0金刚号梯收费流量](https://github.com/a2zitpro/web/blob/master/kkpriceofkkvpn1.0.md)
 - [金刚流量包尺寸](https://github.com/a2zitpro/web/blob/master/kkdatatrafficsize.md)
 - [金刚流量包有效期](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackagevalidityperiod.md)
 - [金刚流量包有效期的起算时刻](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackagevalidityperiodstarttime.md)
