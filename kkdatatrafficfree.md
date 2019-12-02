@@ -13,7 +13,6 @@
   - 新注册[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)的第1个[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md) 一一 一次性供30GB<font color="Red"> 免费流量 </font>，有效期1个月
 
 #### 推荐阅读
-
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 - [金刚流量类](https://github.com/a2zitpro/web/blob/master/list_kkdatatraffic.md)
