@@ -1,4 +1,4 @@
-###### 金刚梯>金刚1.0金刚号梯>金刚用户>
+###### 金刚梯>金刚1.0金刚号梯>金刚用户>金刚中文网类>
 ### 金刚账户
 - 每一位使用[ 金刚1.0金刚号梯 ](https://github.com/a2zitpro/web/blob/master/kkproducts1.0.md)的[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)《[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)一览表》中都被登记为唯一的一行
 - 该行登记就是该[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)的<font color="Red"> 金刚账户 </font>
@@ -14,3 +14,4 @@
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 - [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/list_kkuser.md)
+- [金刚中文网类](https://github.com/a2zitpro/web/blob/master/list_kksitecn.md)
