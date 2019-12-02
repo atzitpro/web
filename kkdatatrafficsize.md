@@ -1,4 +1,4 @@
-###### 金刚梯>金刚流量类>
+###### 金刚梯>金刚帮助>金刚流量类>
 ### 流量包尺寸
 
 - [ 金刚1.0金刚号梯 ](https://github.com/a2zitpro/web/blob/master/kkproducts1.0.md)的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficpackage.md)尺寸共有15种，其中：
