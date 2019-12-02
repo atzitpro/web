@@ -7,7 +7,6 @@
   - 为给<font color="Black"> 当前在用流量包 </font><font color="Red"> 弥补流量 </font>而购买的流量包，其有效期的开始、结束之时刻，</font><font color="Red"> 与当前在用流量包完全相同</font>
 
 #### 推荐阅读
-- [金刚流量](https://a2zitpro.github.io/web/list_kkdatatraffic)
-- [金刚1.0金刚号梯帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚帮助](https://a2zitpro.github.io/web/list_helpkkvpn)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [金刚流量类](https://github.com/a2zitpro/web/blob/master/list_kkdatatraffic.md)
