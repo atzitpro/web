@@ -7,9 +7,8 @@
 - [用户名](https://github.com/a2zitpro/web/blob/master/kkusername&passwdonkksitecn.md)
 - [密码](https://github.com/a2zitpro/web/blob/master/kkusername&passwdonkksitecn.md)
 - [初始密码](https://github.com/a2zitpro/web/blob/master/initialpasswdforloginkksitecn.md)
-- []()
-- []()
 - [重置密码](https://github.com/a2zitpro/web/blob/master/resetpasswdonkksitecn.md)
+
 #### 推荐阅读
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
