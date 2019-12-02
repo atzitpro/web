@@ -6,7 +6,7 @@
 - [金刚账户](https://github.com/a2zitpro/web/blob/master/kkaccount.md)
 - [用户名](https://github.com/a2zitpro/web/blob/master/kkusername&passwdonkksitecn.md)
 - [密码](https://github.com/a2zitpro/web/blob/master/kkusername&passwdonkksitecn.md)
-- [初始密码]()
+- [初始密码](https://github.com/a2zitpro/web/blob/master/initialpasswdforloginkksitecn.md)
 - []()
 - []()
 - [重置密码](https://github.com/a2zitpro/web/blob/master/resetpasswdonkksitecn.md)
