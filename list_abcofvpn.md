@@ -7,7 +7,7 @@
 - [什么是VPS？](https://github.com/a2zitpro/web/blob/master/whatisvps.md)
 - [什么是代理服务器？](https://github.com/a2zitpro/web/blob/master/whatisproxy.md)
 - [VPN与代理服务器的区别？](https://github.com/a2zitpro/web/blob/master/whatisdifferenceVPN&proxy.md)
-- [一款优秀的翻墙梯应具备哪些特征？]()
+- [一款优秀的翻墙梯应具备哪些特征？](https://github.com/a2zitpro/web/blob/master/characteristicsofanexcellentladder.md)
 
 #### 推荐阅读
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
