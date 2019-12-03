@@ -112,7 +112,8 @@ B、流量合算一一剩余流量毎月不清零，直到满12个月时才清�
 9、这是一种临时救急方式，公司并不倡导，而且随时会被公司叫停，望您努力走官网购买渠道。
 
 谢谢！
+
 #### 推荐阅读
-- [金刚流量](https://github.com/a2zitpro/web/blob/master/list_kkdatatraffic.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master//list_helpkkvpn.md)
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
+- [金刚帮助](https://github.com/a2zitpro/web/blob/master//list_helpkkvpn.md)
+- [金刚流量](https://github.com/a2zitpro/web/blob/master/list_kkdatatraffic.md)
