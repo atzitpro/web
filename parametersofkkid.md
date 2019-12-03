@@ -16,4 +16,4 @@
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 - [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
 - [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚号类](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
+- [术语 金刚号类](https://github.com/a2zitpro/web/blob/master/list_kkid.md)
