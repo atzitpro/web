@@ -2,6 +2,12 @@
 
 ### 优秀云梯应当具备的特征
 
+- 快
+
+- 密
+
+- 寿
+
 
 #### 推荐阅读
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
