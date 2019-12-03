@@ -1,4 +1,4 @@
-###### 金刚梯>金刚帮助>金刚2.0app梯
+###### 金刚梯>金刚帮助>金刚公司类>金刚2.0app梯
 ### 概览
 
 - [<font color="red"> 金刚2.0app梯 </font>](https://github.com/a2zitpro/web/blob/master/kkproducts2.0.md)是一系列金刚梯的总称
