@@ -1,4 +1,4 @@
-###### 金刚梯>金刚公司类>金刚1.0金刚号梯>术语 金刚号类>
+###### 金刚梯>金刚帮助>金刚公司类>金刚1.0金刚号梯>术语 金刚号类>
 ### 万能金刚号的配套参数及配置方法
 
 - 每一个[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)都有以下<font color="Red"> 配套参数 </font>
