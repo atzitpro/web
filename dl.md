@@ -7,7 +7,7 @@
 - 带您穿越长城、给您全息资讯
 - 覆盖[ 主流智能设备 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)、全方位VPN护航
 - 视频流畅、画质清晰
-- 基于美国法律的[ 用户信息和用户隐私保护 ](https://github.com/a2zitpro/web/blob/master/)
+- 基于美国法律的[ 用户信息和用户隐私保护 ](https://github.com/a2zitpro/web/blob/master/Endusercontract.md)
 
 #### 一. 金刚2.0 App梯
 1、适用于 安卓手机/安卓平板/安卓机顶盒
