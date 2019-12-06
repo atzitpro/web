@@ -3,13 +3,13 @@
 ![image](l-w-s-athird.png)
 ### 金刚1.0配置金刚号型翻墙梯
 
-####  金刚公司精心打造
-####     带您穿越长城
-####     给您全息资讯
-
-* **高速** 视频流畅且清晰<br>
-* **方便** 不用下载App 四条参数就搞定<br>
-* 适用安卓、苹果和Windows <br>
+- [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)精心打造
+- 带您穿越[ 长城 ](https://github.com/a2zitpro/web/blob/master/list_abcofvpn.md)、给您全息资讯
+- 覆盖[ 主流智能设备 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)、全方位VPN护航
+- 视频流畅、画质清晰
+- 基于美国法律的[ 用户信息和用户隐私保护 ](https://github.com/a2zitpro/web/blob/master/Endusercontract.md)
+- 不用下载App 四条参数就搞定<br>
+- 适用安卓、苹果和Windows <br>
 
 ### 安卓新朋友？[点此获取金刚客户端](https://github.com/a2zitpro/web/blob/master/dlb.md)  
 ### 苹果新朋友？[点此免费注册](https://myfasttrack.org/midman/testfm.php)
