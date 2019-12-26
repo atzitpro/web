@@ -7,5 +7,6 @@ kkapp v2.5.1，看看闪退故障是否已排除。
 
 请免梯点击以下链接下载安装：
 
+https://bitbucket.org/kk64/public/downloads/app-test.apk
 
 谢谢！
