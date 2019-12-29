@@ -8,7 +8,7 @@
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
 
-- [aaa]()
+- [金刚1代产品概览]()
 - [aaa]()
 - [aaa]()
 - [aaa]()
