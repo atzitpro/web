@@ -13,5 +13,8 @@
 - 在苹果手机里，填入<font color="Red"> 金刚号 </font>的位置叫<font color="Black"> 帐户 </font>：<br>
 ![image](24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)<br>
 
-#### 推荐阅读
+#### 返回到
+
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
 
