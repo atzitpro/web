@@ -7,5 +7,7 @@
 #### 返回到
 - [A000 玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
 - [A001 获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/GetLadder.md)
+- [A001-02-02 安卓平板 AnPad](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/Android/Pad/Pad.md)
+
 
 
