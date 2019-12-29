@@ -3,12 +3,12 @@
 
 #### 第 001 课 获取第一架金刚梯
 
-- 如果您从未使用过金刚梯，为获取第一架金刚梯，请点[ 获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/GetLadder.md)。
+- 如果您想获取1架金刚梯，请点击[ 获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/GetLadder.md)。
 
-#### 第 002 课 获取第一架金刚梯
+#### 第 002 课 为您的金刚梯续命
 
 
-- 如果您正在使用过金刚梯，为给您的金刚梯续命，请点[ 这里]()。
+- 如果您想为给您的金刚梯续命，请点[ 这里]()。
 
 #### 返回到：
 - [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
