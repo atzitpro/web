@@ -1,7 +1,7 @@
-###### 金刚帮助 免梯版>
+###### 玩转金刚 免梯版>
 
 
-### 获取金刚梯
+### 001 获取金刚梯
 
 请依据您的设备在以下条目中选择：
 
@@ -18,4 +18,4 @@
 - [Windows系列]()
 
 #### 返回到
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
