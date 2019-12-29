@@ -9,7 +9,7 @@
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
 
 - [金刚1代产品概览]()
-- [aaa]()
+- [金刚2代产品概览]()
 - [aaa]()
 - [aaa]()
 - [aaa]()
