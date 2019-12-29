@@ -2,7 +2,7 @@
 
 ### 苹果手机 iPhone
 
-- [金刚第2代产品 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/GetLadder.md)
+- [金刚第2代产品 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/Apple/iPhone/LadderApp.md)
 - [金刚第1代产品 金刚号梯]()
 
 
