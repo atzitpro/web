@@ -1,4 +1,4 @@
-
+###### 玩转金刚>金刚字典>
 ### 金刚VPN产品
 - 金刚2.0 app梯
 
@@ -29,5 +29,9 @@
   - Win7  [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn1.0_product_win7.md) [配置说明](https://github.com/a2zitpro/web/blob/master/kkvpn1.0_installationnotes_win7.md)
   - Win10 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn1.0_product_win10.md) [配置说明](https://github.com/a2zitpro/web/blob/master/kkvpn1.0_installationnotes_win10.md)
 
+#### 返回到
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
 
-#### 推荐阅读
+
+
