@@ -9,3 +9,4 @@
 
 #### 返回到
 - [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/GetLadder.md)
