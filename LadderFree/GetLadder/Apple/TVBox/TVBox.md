@@ -3,8 +3,9 @@
 
 ### 苹果电视机顶盒 AppleTVBox
 
-- [金刚第2代产品 金刚app梯]()
-- [金刚第1代产品 金刚号梯]()
+- [金刚第2代产品 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/Apple/TVBox/LadderApp.md)
+- [金刚第1代产品 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/Apple/TVBox/LadderKKID.md)
+
 
 
 #### 返回到
