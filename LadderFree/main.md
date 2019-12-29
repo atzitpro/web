@@ -10,5 +10,9 @@
 
 - 如果您想为给您的金刚梯续命，请点[ 这里]()。
 
+#### 金刚字典
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+
+
 #### 返回到：
 - [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
