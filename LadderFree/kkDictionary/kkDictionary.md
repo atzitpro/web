@@ -14,7 +14,7 @@
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
 - [万能金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/multipurposekkid.md)
 
-- [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
+- [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 
 
 
