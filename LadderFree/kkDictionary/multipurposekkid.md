@@ -1,4 +1,4 @@
-
+###### 玩转金刚>金刚字典>
 
 ### 万能金刚号
 所谓[<font color="Red"> 万能金刚号 </font>](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)是相对[ 普通金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)的称谓，即除[ 普通金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)之外的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)都是<font color="Red"> 万能金刚号 </font>
@@ -11,3 +11,11 @@
   - 全球视频资讯，无论何时何地，均可信手拈来
   - 视频既能播放于可移动的手机、平板、PC，又能播放于不可移动的TV
   - 让仅会使用遥控器的父辈们也很播放观看全球视频资讯
+
+
+#### 返回到
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+
+
+
