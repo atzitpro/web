@@ -5,7 +5,10 @@
 
 - 如果您想获取金刚梯，请点击[ 获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/GetLadder.md)。
 
-#### 第 002 课 为金刚梯续命
+#### 第 002 课 配置金刚梯
+
+
+#### 第 003 课 续命金刚梯
 
 
 - 如果您想为给您的金刚梯续命，请点[ 这里]()。
