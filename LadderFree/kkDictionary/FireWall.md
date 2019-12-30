@@ -1,5 +1,4 @@
-###### 金刚梯>金刚帮助>金刚公类>金刚产品与服务>
-###### 金刚梯>金刚帮助>翻墙ABC
+###### 玩转金刚>金刚字典>
 
 
 ### 网络防火墙
@@ -12,9 +11,7 @@
 - 第二类是：某些政权为阻止其国民从国际互联网获得公开信息、自由上网而密秘设置的<font color="Red"> 网络防火墙 </font>
   - 凡属被这种网络防火墙所困的自然人、公司（或非公司组织）均可与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)签约，使用[ 金刚产品 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts.md)与[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)
 
-#### 推荐阅读
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
-- [金刚产品与服务](https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)
-- [翻墙ABC](https://github.com/a2zitpro/web/blob/master/list_abcofvpn.md)
+#### 返回到
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+
