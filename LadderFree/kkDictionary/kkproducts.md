@@ -1,8 +1,8 @@
 ###### 玩转金刚>金刚字典>
 ### 金刚VPN产品
-- 金刚2代 app梯
+- 金刚2代产品 app梯
 
-  - [概览](https://github.com/a2zitpro/web/blob/master/kkproducts2.0.md)
+  - [概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG2Overview.md)
 
   - 安卓手机 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_phone.md)[ 安装说明   ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_android_phone.md)
   - 安卓平板 [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_pad.md)[ 安装说明     ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_android_pad.md)
@@ -14,7 +14,7 @@
 
   - Windows [产品获取](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_win.md) [安装说明](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_win.md)<br><br>
 
-- 金刚1代 金刚号梯
+- 金刚1代产品 金刚号梯
 
   - [概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
 
