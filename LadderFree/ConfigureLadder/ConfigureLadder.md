@@ -6,7 +6,8 @@
 - 请据您的设备在以下项目中选择
 - 在您获取金刚梯的同时，适用于部分设备的《配置说明》已经送达您邮箱，您可据此配置您的金刚梯
 - 在已送达您的《配置说明》中，如果未包含您的设备，请在下表中寻找您的设备，进而获取该设备的《配置说明》
-- 每个万能金刚号都能够[一号多机地使用]()
+- 每个万能金刚号都能够[一号多机地使用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+
 #### 苹果类
 - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/Apple/iPhone/iPhone.md)
 - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/GetLadder/Apple/iPad/iPad.md)
