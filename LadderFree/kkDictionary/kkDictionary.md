@@ -9,10 +9,11 @@
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
 
-- [金刚1代产品概览]()
-- [金刚2代产品概览]()
-- [普通金刚号]()
-- [万能金刚号]()
+- [金刚1代产品概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
+- [金刚2代产品概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
+- [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
+- [万能金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
+
 
 
 #### 返回到
