@@ -26,7 +26,7 @@
 
 
 #### 金刚字典
-- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/Dictionary/Dictionary.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
 
 
 #### 返回到
