@@ -17,7 +17,7 @@
 - [金刚号的形态](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KkLadder.md)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkuser.md)
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
