@@ -1,7 +1,7 @@
 
 ###### 玩转金刚梯>金刚字典>
 
-### 配置金刚号
+### 配置金刚梯
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
