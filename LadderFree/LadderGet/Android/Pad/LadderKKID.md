@@ -6,7 +6,7 @@
 ，则请：
   - 点击[ 这里 ](，提交您的私人邮箱
     - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将自动帮您完成在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)的[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
-    - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将自动为您派送第1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)到：
+    - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将自动为您派送第1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md) 及将该梯用于安卓手机、苹果手机的《配置说明》到：
       - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)
       - 同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下
     - 请到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)收取《派号通知单》邮件，并按照其指引，将[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)及[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsparameters.md)[ 正确送入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)您的手机即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
