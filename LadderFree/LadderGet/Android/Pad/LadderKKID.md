@@ -1,6 +1,6 @@
 ###### A000 玩转金刚梯 免梯阅读版>第A001课 金刚梯获取>安卓平板 Pad>
 
-### 金刚第1代产品----金刚号梯
+### 金刚第1代产品一一金刚号梯
 
 - 如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
 ，则请：
