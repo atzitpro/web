@@ -3,8 +3,8 @@
 
 - [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/valueofkkproducts&kkservices.md)
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-- [金刚1代产品概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
-- [金刚2代产品概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG2Overview.md)
+- [金刚1代产品 金刚号梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
+- [金刚2代产品 app梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG2Overview.md)
 - [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkproducts.md)
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkservices.md)
 - [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/valueofkkproducts&kkservices.md)
@@ -17,6 +17,7 @@
 - [金刚号的形态](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)
+- [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KkLadder.md)
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkuser.md)
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
@@ -37,7 +38,6 @@
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KkLadder.md)
 
 
 
