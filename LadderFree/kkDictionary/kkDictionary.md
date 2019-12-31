@@ -34,8 +34,8 @@
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
 - [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 
