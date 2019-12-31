@@ -1,3 +1,4 @@
+###### 玩转金刚梯>金刚字典>
 
 ### 配置金刚号时需注意事项
 
@@ -7,3 +8,9 @@
   - 每个参数的中间、两端，切勿录入空格
 - 多个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)配入同一部手机（或其他设备）时
   - 用[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)替代<font color="Black"> AAA金刚 </font>填入<font color="Red"> 名称 </font>或<font color="Red"> 描述 </font>处，以避免冲突
+
+
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+
