@@ -9,7 +9,7 @@
 - 如果您已经在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](，则请：
   - 1、连通您的[金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)，搭起[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)，[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)出来
   - 2、点击[ 这里 ](https://www.atozitpro.net/zh/login/)，登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
-  - 3、点击[ 这里 ](，在 金刚网>菜单>商店 购买[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
+  - 3、点击[ 这里 ](，在[ 金刚网>菜单>商店 ]里购买[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
 
 
 
