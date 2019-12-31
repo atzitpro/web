@@ -1,5 +1,4 @@
-#### 金刚梯>金刚1.0帮助>金刚用户>
-### 在金刚网注册
+###### 玩转金刚梯>金刚字典>
 
 注册方式：
 
@@ -8,7 +7,9 @@
 - 您还可以直接[ 点击此处 ](https://a2zitpro.github.io/web/l2_reg)在[ 金刚中文网 ](https://a2zitpro.github.io/web/kksitecn)注册
 
 
-#### 推荐阅读
-- [金刚用户](https://a2zitpro.github.io/web/list_kkuser)
-- [金刚1.0帮助](https://a2zitpro.github.io/web/list_helpkkvpn1.0)
-- [金刚梯](https://a2zitpro.github.io/web/dlb)
+
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+
+
