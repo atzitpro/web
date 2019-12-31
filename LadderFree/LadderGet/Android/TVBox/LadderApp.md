@@ -7,7 +7,7 @@
 #### 返回到
 - [A000 玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
 - [A001 获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/LadderGet.md)
-- [A001-02-03 安卓机顶盒 AnPad](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/TVBox/TVBox.md)
+- [A001-2-3 安卓机顶盒 AnPad](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/TVBox/TVBox.md)
 
 
 
