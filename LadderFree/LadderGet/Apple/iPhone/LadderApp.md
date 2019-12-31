@@ -2,7 +2,7 @@
 
 #### 金刚第2代产品一一金刚app梯
 
-- 已发布
+- 待发布
 
 #### 返回到
 - [A000 玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
