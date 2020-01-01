@@ -3,8 +3,8 @@
 
 ### Windows 
 
-- [金刚号梯在Win7上的配置 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win7/Win7.md)
-- [金刚号梯在Win10上的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win10/Win10.md)
+- [1、金刚号梯在Win7上的配置 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win7/Win7.md)
+- [2、金刚号梯在Win10上的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win10/Win10.md)
 
 
 
