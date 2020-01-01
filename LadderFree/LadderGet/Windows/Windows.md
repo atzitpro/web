@@ -3,7 +3,7 @@
 ### Windows 
 
 - [金刚第1.5代产品 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Windows/LadderApp.md)
-- [金刚第1代产品 金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Windows/Win7/LadderKKID.md)
+- [金刚第1代产品 金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Windows/LadderKKID.md)
 
 
 
