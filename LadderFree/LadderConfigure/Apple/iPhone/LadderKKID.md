@@ -6,6 +6,6 @@
 
 #### 返回到
 - [A000 玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
-- [A001 配置金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfig/LadderConfig.md)
-- [A002-1-1 苹果手机 iPhone](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfig/Apple/iPhone/iPhone.md)
+- [A001 配置金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
+- [A002-1-1 苹果手机 iPhone](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPhone/iPhone.md)
 
