@@ -9,7 +9,7 @@
 #### 返回到
 - [A000 玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
 - [A001 获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/LadderGet.md)
-- [A00131 Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Windows/Windows.md)
+- [A0013 Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Windows/Windows.md)
 
 
 
