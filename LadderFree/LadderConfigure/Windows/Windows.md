@@ -4,10 +4,10 @@
 
 ### 31、Windows 
 
-- [金刚App梯配置说明]()
-- 金刚号梯配置说明
-  - [1、金刚号梯在Win7上的配置 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win7/Win7.md)
-  - [2、金刚号梯在Win10上的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win10/Win10.md)
+- [1、金刚App梯]()
+- 2、金刚号梯
+  - [1、Win7 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win7/Win7.md)
+  - [2、Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win10/Win10.md)
 
 
 
