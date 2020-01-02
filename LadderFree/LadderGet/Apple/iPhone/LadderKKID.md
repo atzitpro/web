@@ -1,19 +1,18 @@
-###### A000 玩转金刚梯 免梯阅读版>
-#### 第A001课 获取金刚梯>
+###### 玩转金刚梯 免梯阅读版>
+#### 第1课 获取金刚梯>
 #### 111、苹果手机 iPhone>
 
 ### 1112、金刚号梯
 
-- 如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
-，则请：
+- 如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)，则请：
   - 点击[ 这里 ](，提交您的私人邮箱
     - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将自动帮您完成在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)的[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
     - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将自动把第1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md) 和该梯
-      - 在安卓手机上的《配置说明》
-      - 在苹果手机上的《配置说明》
-    - 派送到：
-      - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)
-      - 同时送达专属于您的[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)之下
+        - 在安卓手机上的《配置说明》
+        - 在苹果手机上的《配置说明》
+      - 派送到：
+        - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)
+        - 同时送达专属于您的[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)之下
     - 请到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)收取《派号通知单》邮件
     - 按《派号通知单》中《配置说明》的指引，将[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)（包括[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)及[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsparameters.md)）[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)您的手机后，[ 搭梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)完成，即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
     - 如果您不打算将该[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)配入手机，或在配入手机的同时，用[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)的方式将其配入其他设备使用，则请阅读[ 第A002课 配置金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
@@ -21,11 +20,11 @@
 - 如果您已经在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册：](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
   - 在您[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功的同时：
     - 第1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)及该梯
-      - 在安卓手机上的《配置说明》
-      - 在苹果手机上的《配置说明》
-    - 巳被派送到：
-      - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)
-      - 同时送达专属于您的[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)之下
+        - 在安卓手机上的《配置说明》
+        - 在苹果手机上的《配置说明》
+      - 巳被派送到：
+        - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)
+        - 同时送达专属于您的[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)之下
     - 请到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)收取《派号通知单》邮件
     - 按《派号通知单》中《配置说明》的指引，将[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)（包括[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)及[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsparameters.md)）[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)您的手机后，[ 搭梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)完成，即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
     - 如果您不打算将该[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)配入手机，或在配入手机的同时，用[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)的方式将其配入其他设备使用，则请阅读[ 第A002课 配置金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
