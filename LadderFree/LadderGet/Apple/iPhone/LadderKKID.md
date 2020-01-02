@@ -20,7 +20,10 @@
   - 给[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[   发邮件 ](mailto:cs@a2zit.us)，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将代您注册，并为您派送[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)到前述位置
 - 如果您已经在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册：](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
   - 在您[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功的同时：
-    - 第1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)及该梯在安卓手机、苹果手机上的《配置说明》巳被派送到：
+    - 第1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)及该梯
+      - 在安卓手机上的《配置说明》
+      - 在苹果手机上的《配置说明》
+    - 巳被派送到：
       - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)
       - 同时送达专属于您的[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)之下
     - 请到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)收取《派号通知单》邮件
