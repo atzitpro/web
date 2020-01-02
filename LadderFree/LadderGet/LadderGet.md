@@ -3,7 +3,7 @@
 
 ### 第A001课 获取金刚梯
 
-请据您的设备在以下项目中选择：
+请据您打算用于翻墙的设备在以下项目中选择：
 
 #### 11、苹果类
 - [111、苹果手机  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/iPhone/iPhone.md)
