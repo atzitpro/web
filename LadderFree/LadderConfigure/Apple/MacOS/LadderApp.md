@@ -4,7 +4,7 @@
 
 - 金刚App梯勿须配置
 - 下载安装App，连通运行即可
-- 适用于苹果平板的金刚app稍晚发布
+- 适用于苹果电脑MacOS的金刚app稍晚发布
 
 #### 返回到
 - [A000 玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
