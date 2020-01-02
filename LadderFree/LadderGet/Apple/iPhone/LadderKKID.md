@@ -2,7 +2,7 @@
 #### 第A001课 获取金刚梯>
 #### 111、苹果手机 iPhone>
 
-### 金刚第1代产品一一金刚号梯
+### 金刚号梯
 
 - 如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
 ，则请：
