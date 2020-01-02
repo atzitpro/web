@@ -7,7 +7,7 @@
 #### 返回到
 - [A000 玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
 - [A002 配置金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
-- [A002-1-4 苹果机顶盒 iTVBox](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/TVBox/TVBox.md)
+- [A002-14 苹果机顶盒 iTVBox](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/TVBox/TVBox.md)
 
 
 
