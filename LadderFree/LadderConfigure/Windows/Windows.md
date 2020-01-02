@@ -6,8 +6,8 @@
 
 - [1、金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/LadderApp.md)
 - 2、金刚号梯
-  - [1、Win7 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win7/LadderKKID.md)
-  - [2、Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win10/LadderKKID.md)
+  - [21、Win7 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win7/LadderKKID.md)
+  - [22、Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Win10/LadderKKID.md)
 
 
 
