@@ -2,8 +2,8 @@
 
 
 ### 13、苹果电脑 MacOS
-- [金刚第2代产品 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/MacOS/LadderApp.md)
-- [金刚第1代产品 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/MacOS/LadderKKID.md)
+- [1、金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/MacOS/LadderApp.md)
+- [2、金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/MacOS/LadderKKID.md)
 
 
 #### 返回到
