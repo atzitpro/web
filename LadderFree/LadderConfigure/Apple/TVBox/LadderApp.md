@@ -8,7 +8,7 @@
 #### 返回到
 - [A000 玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
 - [A002 配置金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
-- [A002-1-3 苹果电脑 MacOS](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/MacOS/MacOS.md)
+- [A002-1-4 苹果机顶盒 iTVBox](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/TVBox/TVBox.md)
 
 
 
