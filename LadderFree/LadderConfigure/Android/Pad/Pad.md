@@ -2,8 +2,8 @@
 #### 第A002课 配置金刚梯>
 
 ### 22、安卓平板
-- [1、金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPad/LadderApp.md)
-- [2、金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPad/LadderKKID.md)
+- [1、金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Pad/LadderApp.md)
+- [2、金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Pad/LadderKKID.md)
 
 
 #### 返回到
