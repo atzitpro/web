@@ -15,7 +15,7 @@
 - 获取
 
   - 金刚号
-    - 如果您已有[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，则请忽略此条
+    - 如果您已有[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，则请忽略金刚号条目及该条目以下内容
     - 如果您尚无[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，则请用手机：
       - [ 连通 ](https://github.com/a2zitpro/web/blob/master/usageofkkid.md)您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)翻墙出来
       - 在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/) 里花0元购买、捆绑[ 免费流量包 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)
