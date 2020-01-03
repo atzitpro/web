@@ -16,21 +16,21 @@
 - 现在，请在以下列表中选择您打算用来[ 翻墙 ]()的设备并点击，以便学习如何为该设备上的金刚梯续命
 
 #### 31、苹果类
-- [311、苹果手机  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPhone/iPhone.md)
-- [312、苹果平板  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPad/iPad.md)
-- [313、苹果电脑  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/MacOS/MacOS.md)
-- [314、苹果机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/TVBox/TVBox.md)
+- [311、苹果手机  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderLifeExtension/Apple/iPhone/iPhone.md)
+- [312、苹果平板  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderLifeExtension/Apple/iPad/iPad.md)
+- [313、苹果电脑  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderLifeExtension/Apple/MacOS/MacOS.md)
+- [314、苹果机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderLifeExtension/Apple/TVBox/TVBox.md)
 
 #### 32、安卓类
 
-- [321、安卓类手机](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Phone/Phone.md)
-- [322、安卓类平板](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Pad/Pad.md)
-- [323、安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/TVBox/TVBox.md)
+- [321、安卓类手机](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderLifeExtension/Android/Phone/Phone.md)
+- [322、安卓类平板](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderLifeExtension/Android/Pad/Pad.md)
+- [323、安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderLifeExtension/Android/TVBox/TVBox.md)
 
 
 #### 33、Windows类
 
-- [33、Windows系列](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Windows.md)
+- [33、Windows系列](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderLifeExtension/Windows/Windows.md)
 
 
 
