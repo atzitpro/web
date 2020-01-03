@@ -15,7 +15,7 @@
 - 获取
 
   - 金刚号
-    - 如果您已有[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，则请忽略金刚号条目及该条目以下内容
+    - 如果您已有[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，则请忽略金刚号条目及该条目下所有内容
     - 如果您尚无[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，则请用手机：
       - 则请给金刚网[ 发邮件 ](mailto:cs@a2zit.us)
       - 金刚网将把其上捆绑小额免费流量包的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)派送到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)，同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account)下
