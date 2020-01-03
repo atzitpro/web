@@ -23,7 +23,7 @@
 
 #### 23、Windows类
 
-- [231、Windows系列](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Windows.md)
+- [23、Windows系列](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Windows/Windows.md)
 
 
 
