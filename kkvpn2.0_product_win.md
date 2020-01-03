@@ -15,11 +15,11 @@
 - 获取
 
   - 金刚号
-    - 如果您已有[ c9开头金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)，则请忽略此条
-    - 如果您尚无[ c9开头金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)，则请用手机：
+    - 如果您已有[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，则请忽略此条
+    - 如果您尚无[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)，则请用手机：
       - [ 连通 ](https://github.com/a2zitpro/web/blob/master/usageofkkid.md)您的[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)翻墙出来
-      - 在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/) 里花$0元购买SSL型、捆绑[ 免费流量包 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)的[ c9开头金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)
-      - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)将把[ c9开头金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)派送到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)，同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account)下
+      - 在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/) 里花0元购买、捆绑[ 免费流量包 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)
+      - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)将把[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)派送到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)，同时送达[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account)下
   - 客户端
     - 下载SSL客户端安装包[ 请点击此处 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) 
     - [ 客户端安装 ](https://github.com/a2zitpro/web/blob/master/kkvpn2.0_installationnotes_win.md)
