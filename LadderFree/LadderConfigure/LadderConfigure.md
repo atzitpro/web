@@ -14,7 +14,7 @@
 - [213、苹果电脑  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/MacOS/MacOS.md)
 - [214、苹果机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/TVBox/TVBox.md)
 
-#### 2、安卓类
+#### 22、安卓类
 
 - [221、安卓类手机](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Phone/Phone.md)
 - [222、安卓类平板](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Pad/Pad.md)
