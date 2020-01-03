@@ -11,6 +11,6 @@
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
 - [第2课 配置金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
-- [211 苹果手机 iPhone](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPhone/iPhone.md)
+- [211、苹果手机 iPhone](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPhone/iPhone.md)
 
 
