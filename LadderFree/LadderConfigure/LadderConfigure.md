@@ -3,7 +3,7 @@
 
 ### 第2课 配置金刚梯
 - 在开始学习这一课之前，您应当已经获得了一架金刚梯
-- 该金刚梯可能是金刚app梯，也可能是金刚号梯
+- 该金刚梯可以是金刚app梯，也可以是金刚号梯
 - 这架金刚梯将是您学习、实践这一课的素材
 - 如果您尚未获得金刚梯，请重温[ 第1课 获取金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/LadderGet.md)并实践，直到获得金刚梯
 - 现在请据您打算用来翻墙的设备在以下项目中选择：
@@ -33,4 +33,4 @@
 
 
 #### 返回到
-- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
