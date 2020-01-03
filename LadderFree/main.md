@@ -4,7 +4,7 @@
 - [第 A001 课 获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/LadderGet.md)
 - [第 A002 课 配置金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
 - [第 A003 课 续命金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree//.md)
-
+- [第 A004 课 积分当钱花]
 #### 金刚字典
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
 
