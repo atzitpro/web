@@ -2,7 +2,7 @@
 
 
 ### 第3课 续命金刚梯
-- 在开始学习这一课之前
+- 在开始学习本课程之前
   - 您应当已经获得了一架[ 金刚梯 ]()
   - 您应当能够利用这架[ 金刚梯 ]()[ 翻墙 ]()出来了望自由世界
   - 如果您仍无法使用[ 金刚梯 ]()翻墙，请重温[ 第2课 获取金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)并实践，直到能够使用[ 金刚梯 ]()
