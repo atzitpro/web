@@ -16,9 +16,9 @@
 
 #### 2、安卓类
 
-- [221、安卓手机](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Phone/Phone.md)
-- [222、安卓平板](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Pad/Pad.md)
-- [223、安卓机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/TVBox/TVBox.md)
+- [221、安卓类手机](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Phone/Phone.md)
+- [222、安卓类平板](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/Pad/Pad.md)
+- [223、安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Android/TVBox/TVBox.md)
 
 
 #### 23、Windows类
