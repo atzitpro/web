@@ -2,7 +2,7 @@
 
 ### 万能金刚号梯
 
-- 一架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)中的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)如果不以c9开头，则该[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)即为<strong> 万能金刚号梯 </strong>
+- 一架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)中的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)如果不是以c9开头，则该[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)即为<strong> 万能金刚号梯 </strong>
 - 同1架<strong> 万能金刚号梯 </strong>可被配入：
   - 不限数量的苹果系列设备
   - 不限数量的安卓系列设备
