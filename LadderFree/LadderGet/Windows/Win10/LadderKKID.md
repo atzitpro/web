@@ -1,4 +1,8 @@
+###### 玩转金刚梯 免梯阅读版>
+#### 第1课 获取金刚梯>
+#### 1322、Windows>Win10
 
+### 1322、金刚号梯
 
 - 什么是[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)？
 - 什么是[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)？
@@ -36,3 +40,9 @@
     - 由于[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)永远被墙，所以您必须先[ 搭好 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)现有[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)，翻出墙来，然后才能访问、登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
     - 点击[ 这里 ](https://www.atozitpro.net/zh/login/)，登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
     - 点击[ 这里 ](https://www.atozitpro.net/zh/shop/)，在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/)里获取更多[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
+
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [第1课  获取金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/LadderGet.md)
+- [13、Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Windows/Windows.md)
+
