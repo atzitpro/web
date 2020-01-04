@@ -2,7 +2,7 @@
 
 ### 金刚号梯
 
-- 所谓[ 金刚号梯 ]()是指：
+- 所谓<strong> 金刚号梯 </strong>是指：
   - 由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/atozitpro.md)研发、销售的一款[ VPN产品 ]()
   - 该产品由一组共4条参数构成
   - 这组参数是：
@@ -14,13 +14,13 @@
   - 苹果类设备
   - 安卓类设备
   - Windows 类设备
-- [ 金刚号梯 ]()共分为两类
+- <strong> 金刚号梯 </strong>共分为两类
   - [ 万能金刚号梯 ]()
   - [ 普通金刚号梯 ]()
 
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
-- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
 
