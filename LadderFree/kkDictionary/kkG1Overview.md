@@ -1,6 +1,6 @@
 ###### 玩转金刚梯>金刚字典>
 
-### 金刚1代产品 金刚号梯 概览
+### 金刚号梯 概览
 
 - 金刚号梯 是一款通用[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)的称谓
 - 其产品形态是由4条参数构成的[ 一套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsparameters.md)
