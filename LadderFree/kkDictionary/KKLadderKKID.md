@@ -3,7 +3,7 @@
 ### 金刚号梯
 
 - 所谓[ 金刚号梯 ]()是指：
-  - 由[ 金刚公司 ]()研发、销售的一款[ VPN产品 ]()
+  - 由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/atozitpro.md)研发、销售的一款[ VPN产品 ]()
   - 该产品由一组共4条参数构成
   - 这组参数是：
     - [ 金刚号 ]()     比如：c57124983
