@@ -4,7 +4,7 @@
 
 ### 1112、金刚号梯
 
-- 如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)，则请阅读：
+- 如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)，则请阅读以下内容并照做：
   - 在提交您的私人邮箱后
     - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将自动帮您完成在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)的[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
     - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将自动把第1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md) 和该梯
@@ -18,7 +18,7 @@
     - 如果您不打算将该[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)配入手机，或在配入手机的同时，用[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)的方式将其配入其他设备使用，则请阅读[ 第2课 配置金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
     - 现在，请[<strong>点击此处，提交邮箱</strong>]()，然后登入您的邮箱，收取金刚邮件
   - 给[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[   发邮件 ](mailto:cs@a2zit.us)，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将代您注册，并为您派送[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)到前述位置
-- 如果您已经在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册：](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
+- 如果您已经在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)，则请阅读以下内容并照做：
   - 在您[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功的同时：
     - 第1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)及该梯
       - 在安卓手机上的《配置说明》
