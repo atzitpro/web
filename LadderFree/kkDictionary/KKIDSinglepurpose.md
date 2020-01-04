@@ -5,7 +5,7 @@
 - 外形特征：<Strong> 普通金刚号 </Strong>以c9开头
 - 在[ 金刚网>菜单>商店 ](https://atozitpro.net/shop)里：
   - 所有<Strong> 普通金刚号 </Strong>均属SSL型
-  - 所有[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)均属L2型
+  - 所有[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)均属L2型
 - 适用设备：<Strong> 普通金刚号 </Strong>仅可用于Windows+[ SSL型客户端 ](https://github.com/a2zitpro/web/blob/master/getSSLclientapp.md)环境
 
 #### 返回到
