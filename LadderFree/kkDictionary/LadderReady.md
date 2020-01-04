@@ -1,9 +1,9 @@
 ###### 玩转金刚梯>金刚字典>
 
 ### 搭梯
-- 所谓搭梯是指启动运行VPN产品，[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)成功
-- 对[ 金刚产品金刚app梯 ]()而言，所谓搭梯是指启动运行金刚app客户端软件，使安装并运行金刚app的当前设备整体处于[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)状态
-- 对[ 金刚产品金刚号梯   ]()而言，所谓搭梯是指[ 连通金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)，使配置并[ 连通金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)的当前设备整体处于[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)状态
+- 所谓<Strong>搭梯</Strong>是指启动运行VPN产品，[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)成功
+- 对[ 金刚app梯 ]()而言，所谓<Strong>搭梯</Strong是指启动运行金刚app客户端软件，使安装并运行金刚app的设备整体处于[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)成功状态
+- 对[ 金刚号梯  ]()而言，所谓<Strong>搭梯</Strong是指[ 连通金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)，使[ 连通金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)的设备整体处于[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)成功状态
 
 
 #### 返回到
