@@ -40,8 +40,9 @@
 - [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 
 
-
-
+- [金刚号梯](
+- [万能金刚号梯](
+- [普通金刚号梯](
 
 
 #### 返回到
