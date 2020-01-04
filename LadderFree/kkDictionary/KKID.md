@@ -8,7 +8,7 @@
 - [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)提供[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)的管道
 - 其作用和价值类似于手机电话号码
 - 金刚号的形态
-  - 字母c开头，后接5～10位阿拉伯数字
+  - 以字母c开头，后接5～10位阿拉伯数字
   - 比如： c57314692 即是一个金刚号
 - <strong> 金刚号 </strong> 分为:
   - [ 普通金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)
