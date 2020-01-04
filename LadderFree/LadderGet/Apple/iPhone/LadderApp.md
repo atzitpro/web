@@ -4,7 +4,7 @@
 ### 1111、金刚app梯
 
 - 什么是[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)？
-- 待发布
+- 稍晚发布
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
