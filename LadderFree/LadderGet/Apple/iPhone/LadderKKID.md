@@ -17,7 +17,7 @@
     - 该邮件十分重要，未来您会反复用到，故请妥善保管
     - 按《派号通知单》中《配置说明》的指引，将该[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)您的手机后，[ 搭梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)完成，即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
     - 由于每一架[ 万能金刚号梯 ]()均可用[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)的方式使用，因此，在将该[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)配入手机的同时，您还可以将其配入其他设备使用。配置方法请阅读[ 第2课 配置金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
-    - 现在，请[<strong>点击此处</strong>]()，提交您的私人邮箱，然后登入邮箱，收取金刚邮件
+    - 现在，请[ <strong><font color="Red">点击此处</font></strong>]()，提交您的私人邮箱，然后登入邮箱，收取金刚邮件
   - 给[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[   发邮件 ](mailto:cs@a2zit.us)，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)将代您注册，并为您派送[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)到前述位置
 - 如果您已经在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)，则请阅读以下内容并照做：
   - 在您[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功的同时：
