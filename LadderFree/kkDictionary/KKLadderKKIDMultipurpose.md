@@ -8,7 +8,7 @@
   - 不限数量的安卓系列设备
   - 不限数量的 Windows 系列设备
 - 使配入该梯的设备具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
-
+- <strong> 万能金刚号梯 </strong>可被以[ 一拖九 ]()的方式使用
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
