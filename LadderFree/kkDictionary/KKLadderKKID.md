@@ -6,7 +6,7 @@
   - 由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/atozitpro.md)研发、销售的一款[ VPN产品 ]()
   - 该产品由一组共4条参数构成
   - 这组参数是：
-    - [ 金刚号 ]()     比如：c57124983
+    - [ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)     比如：c57124983
     - [ 金刚密码 ]()   比如：12345678
     - [ 服务器 ]()     比如：atz57.softerher.net
     - [ 预共享密钥 ]()  比如：mft
@@ -15,8 +15,8 @@
   - 安卓类设备
   - Windows 类设备
 - <strong> 金刚号梯 </strong>共分为两类
-  - [ 万能金刚号梯 ]()
-  - [ 普通金刚号梯 ]()
+  - [ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/atozitpro.md)
+  - [ 普通金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/atozitpro.md)
 
 
 #### 返回到
