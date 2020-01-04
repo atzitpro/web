@@ -2,9 +2,9 @@
 #### 第1课 获取金刚梯>
 #### 113、苹果电脑 MacOS>
 
-### 1131、金刚app梯
+### 1131、金刚App梯
 
-- 什么是[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)？
+- 什么是[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)？
 - 稍晚发布
 
 
