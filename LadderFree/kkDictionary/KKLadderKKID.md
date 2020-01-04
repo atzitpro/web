@@ -11,9 +11,13 @@
     - 服务器     比如：atz57.softerher.net
     - 预共享密钥  比如：mft
 - 把这套参数按照《配置说明》[ 正确配入 ]()以下设备之一，该设备即可[翻墙]()：
-    - 苹果系列设备
-    - 安卓系列设备
-    - Windows 系列设备
+  - 苹果系列设备
+  - 安卓系列设备
+  - Windows 系列设备
+- 金刚号梯共分为两类
+  - 万能金刚号梯
+  - 普通金刚号梯
+
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
