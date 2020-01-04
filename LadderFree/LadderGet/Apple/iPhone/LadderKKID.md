@@ -15,9 +15,9 @@
       - 在安卓手机上的《配置说明》
       - 在苹果手机上的《配置说明》
       - 派送到：
-        - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKkSiteZh.md)
+        - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
         - 同时送达专属于您的[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)之下
-    - 请到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKkSiteZh.md)收取《派号通知单》邮件。
+    - 请到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)收取《派号通知单》邮件。
     - <strong>该邮件十分重要，未来您会反复用到，故请妥善保管</strong>
     - 按《派号通知单》中《配置说明》的指引，将该[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)您的手机后，[ 搭梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)完成，即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
     - 由于每一架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)均可用[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)的方式使用，因此，在将该[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)配入手机的同时，您还可以将其配入其他设备使用。配置方法请阅读[ 第2课 配置金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/LadderConfigure.md)
