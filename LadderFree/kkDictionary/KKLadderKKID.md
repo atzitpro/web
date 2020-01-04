@@ -16,7 +16,7 @@
   - Windows 类设备
 - <strong> 金刚号梯 </strong>共分为两类
   - [ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
-  - [ 普通金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/atozitpro.md)
+  - [ 普通金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
 
 
 #### 返回到
