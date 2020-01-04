@@ -4,7 +4,7 @@
 
 所谓<strong> 金刚号 </strong>是：
 
-- [ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)使用[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)的凭证
+- [ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)使用[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)的凭证
 - [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)提供[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)的管道
 - 其作用和价值类似于手机电话号码
 - 金刚号的形态
