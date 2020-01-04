@@ -3,7 +3,7 @@
 #### 111、苹果手机 iPhone>
 ### 1111、金刚app梯
 
-- [金刚app梯](
+- [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
 - 待发布
 
 #### 返回到
