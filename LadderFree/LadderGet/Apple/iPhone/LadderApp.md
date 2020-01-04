@@ -1,9 +1,9 @@
 ###### 玩转金刚梯 免梯阅读版>
 #### 第1课 获取金刚梯>
 #### 111、苹果手机 iPhone>
-### 1111、金刚app梯
+### 1111、金刚App梯
 
-- 什么是[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)？
+- 什么是[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)？
 - 稍晚发布
 
 #### 返回到
