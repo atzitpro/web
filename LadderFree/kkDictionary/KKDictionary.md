@@ -2,7 +2,9 @@
 ### 金刚字典
 
 - [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/valueofkkproducts&kkservices.md)
+- [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+- [副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [金刚1代产品 金刚号梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
 - [金刚2代产品 app梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG2Overview.md)
 - [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkproducts.md)
@@ -21,6 +23,7 @@
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkuser.md)
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
+- [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
 - [普通金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
 - [万能金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/multipurposekkid.md)
@@ -31,16 +34,13 @@
 - [金刚流量的获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [注册](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
 - [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
 - [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKksitezh.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
-- [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 
 
 - [金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderApp.md)
