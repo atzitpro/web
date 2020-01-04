@@ -2,7 +2,7 @@
 
 ### 金刚号
 
-所谓[<font color="Red"> 金刚号 </font>](https://github.com/a2zitpro/web/blob/master/kkid.md)是：
+所谓[<font color="Black"> 金刚号 </font>](https://github.com/a2zitpro/web/blob/master/kkid.md)是：
 
 - [ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)使用[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)的凭证
 - [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/kkuser.md)提供[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)的管道
