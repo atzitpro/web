@@ -1,4 +1,8 @@
+###### A000 玩转金刚梯 免梯阅读版>
+#### 第A001课 获取金刚梯>
+#### 1321、Windows>Win7
 
+### 1321、金刚号梯
 
 - 什么是[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)？
 - 什么是[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)？
