@@ -3,7 +3,7 @@
 
 ### 122、安卓平板
 
-- [1221、金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/Pad/LadderApp.md)
+- [1221、金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/Pad/LadderApp.md)
 - [1222、金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/Pad/LadderKKID.md)
 
 
