@@ -48,6 +48,7 @@
     - 再在机顶盒的U口里插入鼠标
     - 用鼠标在UPX浏览器网址栏内输入网址：
       https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk
+      或
 
     - 下载金刚App一一后续安装和打开步骤与安装方法1完全相同
 
