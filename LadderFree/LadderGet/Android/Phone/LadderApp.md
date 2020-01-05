@@ -2,9 +2,9 @@
 #### 第1课 获取金刚梯>
 #### 121、安卓手机 Phone>
 
-### 1211、金刚app梯
+### 1211、金刚App梯
 
-- 请[ 点击此处下载 ]()
+- 请[点击此处下载安装]()
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
