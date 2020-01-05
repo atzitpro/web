@@ -3,7 +3,7 @@
 
 ### 121、安卓手机
 
-- [1211、金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/Phone/LadderApp.md)
+- [1211、金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/Phone/LadderApp.md)
 - [1212、金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/Phone/LadderKKID.md)
 
 
