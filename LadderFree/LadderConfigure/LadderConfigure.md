@@ -2,7 +2,7 @@
 
 
 ### 第2课 配置金刚梯
-- 在开始学习这一课之前，您应当已经获得了一架[ 金刚梯 ]()
+- 在开始学习这一课之前，您应当已经获得了一架[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
 - 该[ 金刚梯 ]()将是您学习、实践这一课所必需的素材
 - 如果您尚未获得[ 金刚梯 ]()，请重温[ 第1课 获取金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/LadderGet.md)并实践，直到获得[ 金刚梯 ]()
 - 您获得的[ 金刚梯 ]()可以是：
