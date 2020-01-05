@@ -7,6 +7,7 @@
 - 请点击下载金刚App:
   - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
   - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
+
 - 当点击以上链接无法下载时，请：
   - 长按链接
   - 复制链接网址
