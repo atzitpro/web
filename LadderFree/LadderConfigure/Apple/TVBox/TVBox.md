@@ -3,7 +3,7 @@
 
 
 ### 214、苹果机顶盒 iTVBox
-- [2141、金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/TVBox/LadderApp.md)
+- [2141、金刚App梯 稍晚发布](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/TVBox/LadderApp.md)
 - [2142、金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/TVBox/LadderKKID.md)
 
 
