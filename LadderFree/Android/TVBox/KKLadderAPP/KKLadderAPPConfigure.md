@@ -49,13 +49,3 @@
     - 用鼠标在UPX浏览器网址栏内输入网址：https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_tvbox.md
     - 下载金刚2.0安卓客户端一一后续安装和打开步骤与安装方法1完全相同
 
-
-
-#### 推荐阅读
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
-- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚2.0app梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn2.0.md)
-- [金刚2.0app梯产品获取与安装](https://github.com/a2zitpro/web/blob/master/list_kkproducts2.0.md)
-
