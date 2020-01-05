@@ -3,7 +3,7 @@
 
 ### 112、苹果平板
 
-- [1121、金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/iPad/LadderApp.md)
+- [1121、金刚App梯 稍晚发布](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/iPad/LadderApp.md)
 - [1122、金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/iPad/LadderKKID.md)
 
 
