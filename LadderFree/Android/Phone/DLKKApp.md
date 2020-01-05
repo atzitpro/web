@@ -7,7 +7,7 @@
   - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
   - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
 - ⚠️<font color="red">微信用户</font>：
-  - 点右上角 <strong> ... </strong>
+  - 点右上角 <strong> ••• </strong>
   - 再选<strong> 在浏览器中打开 </strong>
   - 然后选默认浏览器或指定另一个浏览器
   - 点击以上链接即可下载
