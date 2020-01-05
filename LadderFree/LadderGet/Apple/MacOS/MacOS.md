@@ -3,7 +3,7 @@
 
 ### 113、苹果电脑 MacOS
 
-- [1131、金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/MacOS/LadderApp.md)
+- [1131、金刚App梯 稍晚发布](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/MacOS/LadderApp.md)
 - [1132、金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/MacOS/LadderKKID.md)
 
 
