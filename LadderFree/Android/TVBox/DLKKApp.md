@@ -1,3 +1,26 @@
+###### 玩转金刚梯
+#### 23、安卓类机顶盒
+### 金刚App梯下载
+
+- 请确保您当前所持的设备为Windows+PC
+- 请点击下载金刚App:
+  - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
+  - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
+- 当点击以上链接无法下载时，请：
+  - 长按链接
+  - 复制链接网址
+  - 将其粘贴到您信任的安全浏览器比如Chrome地址栏中
+  - 再点<strong> 前往 </strong>下载
+
+#### 返回到
+[金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+
+
+
+
+
+
+
 #### 安卓类机顶盒
 ### 金刚App梯下载
 
