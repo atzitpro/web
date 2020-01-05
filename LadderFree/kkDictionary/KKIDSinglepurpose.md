@@ -2,7 +2,7 @@
 
 ### 普通金刚号
 - 所谓<Strong> 普通金刚号 </Strong>是相对[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)的称谓，即除[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)之外的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)都是<Strong> 普通金刚号 </Strong>
-- 外形特征：<Strong> 普通金刚号 </Strong>以c9开头
+- 形态特征：<Strong> 普通金刚号 </Strong>以c9开头
 - 在[ 金刚网>菜单>商店 ](https://atozitpro.net/shop)里：
   - 所有<Strong> 普通金刚号 </Strong>均属SSL型
   - 所有[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)均属L2型
