@@ -1,4 +1,4 @@
-#### Windows
+#### Win10
 ### 金刚App梯下载
 
 - 请确保您当前所持的设备为Windows
