@@ -5,4 +5,4 @@
 - 请 [点击此处下载金刚App]()
 
 #### 返回到
-[金刚梯](https://github.com/web/blob/master/A.md)
+[金刚梯](https://github.com/web/blob/master/LadderFree/A.md)
