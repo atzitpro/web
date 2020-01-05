@@ -12,7 +12,7 @@
 
 - <strong>安装</strong>
     - 在下载文件夹内，点击安装包，开始安装
-![Image](安装001B.png)
+![Image](https://github.com/web/blob/master/安装001B.png)
     - 每遇类似如上画面，点击下一步，直到完成安装
     - 完成安装，将在PC桌面生成如下图标：
 ![Image](icons8-softether-vpn-50-1.png)
