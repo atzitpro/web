@@ -2,7 +2,7 @@
 #### 第2课 配置金刚梯>
 
 ### 212、苹果平板
-- [2121、金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPad/LadderApp.md)
+- [2121、金刚App梯 稍晚发布](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPad/LadderApp.md)
 - [2122、金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPad/LadderKKID.md)
 
 
