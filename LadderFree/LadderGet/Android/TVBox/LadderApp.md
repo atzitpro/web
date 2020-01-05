@@ -3,9 +3,9 @@
 #### 安卓机顶盒 TVBox>
 
 
-### 1231、金刚app梯
+### 1231、金刚App梯
 
-- 已发布
+- 请[点击此处下载安装]()
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
