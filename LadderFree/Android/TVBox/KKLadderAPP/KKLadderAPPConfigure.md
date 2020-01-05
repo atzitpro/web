@@ -23,7 +23,7 @@
   - 安装方法1
     - 在Windows+PC环境下
       - 从PC磁盘复制金刚App安装包到U盘
-        - 如果金刚App安装包尚未下载到PC磁盘，则请[点击此处下载](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md)
+      - 如果金刚App安装包尚未下载到PC磁盘，则请[点击此处下载](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md)
       - 把U盘插入小米安卓机顶盒U口，电视机则显示检测到新的USB设备
       - 用机顶盒遥控器
         - 在打开和取消两个按钮中，选择并点击打开按钮，即可打开U盘
