@@ -23,7 +23,7 @@
 - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkuser.md)
-- [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kksitezh.md)
+- [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
 - [普通金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
