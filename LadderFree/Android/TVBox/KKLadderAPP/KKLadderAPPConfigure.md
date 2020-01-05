@@ -46,7 +46,7 @@
     - 把U盘插入机顶盒U口
     - 把UPX浏览器安装到机顶盒
     - 再在机顶盒的U口里插入鼠标
-    - 用鼠标在UPX浏览器网址栏内输入网址：https://github.com/a2zitpro/web/blob/master/kkvpn2.0_product_android_tvbox.md
+    - 用鼠标在UPX浏览器网址栏内输入网址：https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md
     - 下载金刚2.0安卓客户端一一后续安装和打开步骤与安装方法1完全相同
 
 #### 返回到
