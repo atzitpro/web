@@ -2,7 +2,7 @@
 #### 第2课 配置金刚梯>
 
 ### 211、苹果手机
-- [2111、金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPhone/LadderApp.md)
+- [2111、金刚App梯 稍晚发布](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPhone/LadderApp.md)
 - [2112、金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderConfigure/Apple/iPhone/LadderKKID.md)
 
 
