@@ -2,7 +2,7 @@
 #### 23、安卓类机顶盒
 ### 下载 金刚App梯
 
-- 如果您在用Windows+PC访问本页面
+- 1、如果您当下在用Windows+PC阅读
   - 请点击以下链接下载金刚App安装包：
     - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
     - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
@@ -13,17 +13,29 @@
     - 将其粘贴到您信任的安全浏览器比如Chrome地址栏中
     - 再点<strong> 前往 </strong>下载
 
-  - 下载完成后，请[ 点击此处安装配置](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPConfigure.md)
+  - 下载完成后，请[ 点击此处，安装配置](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPConfigure.md)
+  - 忽略2
 
-- 如果您在用手机访问本页面
-  - 请先后长按以下链接，复制链接网址，粘贴到您的邮件正文里，把该邮件发送给您自己
+- 2、如果您当下在用手机阅读，请按以下步骤操作
+  - 请长按以下链接，复制以下下载链接网址，粘贴到您的邮件正文里
     - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
+  - 请长按以下链接，复制以下下载链接网址，粘贴到您的邮件正文里
     - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
+  - 把该邮件发送给您自己
 
-  - 请改用您的Windows+PC
+  - 请用 Windows+PC 操作以下步骤
     - 登入您的邮箱
-    - 收取刚才您发给自己的邮件
+    - 收取刚才您发送给自己的邮件
     - 点击邮件中的两个链接之一下载金刚App梯到您的PC磁盘
+
+  - 若点击上述链接无法下载，则请：
+    - 长按链接
+    - 复制链接网址
+    - 将其粘贴到您信任的安全浏览器比如Chrome地址栏中
+    - 再点<strong> 前往 </strong>下载
+
+  - 下载完成后，请用手机[ 点击此处，安装配置](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPConfigure.md)
+
  
 
 #### 返回到
