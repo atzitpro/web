@@ -15,7 +15,7 @@
   - [ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)
 - 在安卓手机里，填入<strong> 金刚号 </strong>的位置叫<strong> 用户名 </strong> <br>
 ![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)
-- 在苹果手机里，<strong> 金刚号 </strong>的位置叫<strong>  帐户 </strong> <br>
+- 在苹果手机里，填入<strong> 金刚号 </strong>的位置叫<strong>  帐户 </strong> <br>
 ![image](https://github.com/a2zitpro/web/blob/master/24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
 
 #### 返回到
