@@ -12,7 +12,7 @@
   - 将其粘贴到您信任的安全浏览器比如Chrome地址栏中
   - 再点<strong> 前往 </strong>下载
 
-- 下载完成后，请[点击此处安装配置]()
+- 下载完成后，请[ 点击此处安装配置]()
 
 #### 返回到
 [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
