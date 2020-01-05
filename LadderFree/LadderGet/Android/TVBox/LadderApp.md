@@ -5,7 +5,7 @@
 
 ### 1231、金刚App梯
 
-- 请[点击此处下载安装]()
+- 请[ 点击此处下载安装 ]()
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
