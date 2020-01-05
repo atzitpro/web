@@ -2,7 +2,10 @@
 
 ### 一拖九
 所谓<strong> 一拖九 </strong>是指：
-- 同1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDIDMultipurpose.md)可配入[ 多部设备 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)，同一时刻最多允许9部设备连通，这些设备共享该[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)内流量
+- 同1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDIDMultipurpose.md)可被配入[ 多部设备 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
+- 凡被配入[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDIDMultipurpose.md)的设备均具有[ 翻墙 ]([ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md))的本领
+- 同一时刻最多允许9部配入[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDIDMultipurpose.md)的设备[ 翻墙 ]([ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md))
+- 这些设备共享该[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDIDMultipurpose.md)内流量
 - 这种使用方法被简称为<strong> 一拖九 </strong>；<strong> 一拖九 </strong>可让您一梯在手，全家自由
 
 #### 重要提醒
