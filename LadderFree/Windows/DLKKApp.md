@@ -9,7 +9,7 @@
       - [ 登录 ](https://www.atozitpro.net/zh/login/)[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)，在 [ 金刚网>菜单>商店 ](https://atozitpro.net/shop) 购买[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
     - 如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
       - [ 去金刚网注册 ]()
-      - [ 注册 ]成功后您将获得一枚[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
+      - [ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功后您将获得一枚[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
       - 转做2
 
 - 2、请确保您当前所持的设备为Windows
