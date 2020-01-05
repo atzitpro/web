@@ -3,7 +3,7 @@
 
 ### 123、安卓类机顶盒
 
-- [1231、金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/TVBox/LadderApp.md)
+- [1231、金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/TVBox/LadderApp.md)
 - [1232、金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Android/TVBox/LadderKKID.md)
 
 
