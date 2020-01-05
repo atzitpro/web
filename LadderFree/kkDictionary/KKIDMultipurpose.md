@@ -3,7 +3,7 @@
 ### 万能金刚号
 
 - 所谓<Strong> 万能金刚号 </Strong>是相对[ 普通金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)的称谓，即除[ 普通金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)之外的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)都是<Strong> 万能金刚号 </Strong>
-- 外形特征：<Strong> 万能金刚号 </Strong>非c9开头
+- 形态特征：<Strong> 万能金刚号 </Strong>非c9开头
 - 在[ 金刚网>菜单>商店 ](https://atozitpro.net/shop)里：
   - 所有<Strong> 万能金刚号 </Strong >均属于L2型
   - 所有[ 普通金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)均属于SSL型
