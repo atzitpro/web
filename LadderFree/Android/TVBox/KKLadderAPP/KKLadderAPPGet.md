@@ -17,11 +17,12 @@
   - 忽略2
 
 - 2、如果您当下在用手机阅读，请按以下步骤操作
+  - 起草一封新邮件，收件人、发件人都是您自己
   - 长按以下链接，复制链接网址，粘贴到您的邮件正文里
     - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
   - 长按以下链接，复制链接网址，粘贴到您的邮件正文里
     - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
-  - 把该邮件发送给您自己
+  - 发送该邮件
 
   - 改用 Windows+PC 按以下步骤操作
     - 登入您的邮箱
