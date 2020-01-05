@@ -20,7 +20,7 @@
   - 设备连接
     - 把小米安卓机顶盒与电视机相连，电视机将成为机顶盒的显示屏
     - 用机顶盒遥控器 或 用连接在机顶盒U口上的鼠标器操纵机顶盒，操作过程和结果均显示在电视机上
-  - 安装方法1
+  - <strong> 安装方法1 </strong>
     - 在Windows+PC环境下
       - 从PC磁盘复制金刚App安装包到U盘
       - 如果金刚App安装包尚未下载到PC磁盘，则请[点击此处下载](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md)
@@ -38,7 +38,8 @@
         - 千万不要按遥控器的退出键，否则KKVpn连接将断开
         - 打开浏览器或youtube客户端，将可以搜索、播放您感兴趣的任何内容
 
-  - 安装方法2：直接在机顶盒上安装UPX浏览器
+  - <strong> 安装方法2 </strong>：
+    - 直接在机顶盒上安装UPX浏览器
     - UPX浏览器不必翻墙即可下载
     - UPX浏览器是一款自带翻墙功能的浏览器
     - 在Windows+PC环境下，下载UPX浏览器安卓安装包apk
@@ -53,7 +54,7 @@
       或
 
       https://bitbucket.org/kk64/public/downloads/app-prod-release.apk
-    - 下载金刚App一一后续安装和打开步骤与安装方法1完全相同
+    - 下载金刚App一一后续安装和打开步骤与<strong> 安装方法1 </strong>完全相同
 
 #### 返回到
 [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
