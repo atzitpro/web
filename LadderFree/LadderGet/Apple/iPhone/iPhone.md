@@ -3,7 +3,7 @@
 
 ### 111、苹果手机
 
-- [1111、金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/iPhone/LadderApp.md)
+- [1111、金刚App梯 稍晚发布](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/iPhone/LadderApp.md)
 - [1112、金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/iPhone/LadderKKID.md)
 
 
