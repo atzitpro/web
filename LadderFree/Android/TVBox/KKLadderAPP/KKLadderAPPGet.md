@@ -17,13 +17,13 @@
   - 忽略2
 
 - 2、如果您当下在用手机阅读，请按以下步骤操作
-  - 请长按以下链接，复制以下下载链接网址，粘贴到您的邮件正文里
+  - 长按以下链接，复制链接网址，粘贴到您的邮件正文里
     - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
-  - 请长按以下链接，复制以下下载链接网址，粘贴到您的邮件正文里
+  - 长按以下链接，复制链接网址，粘贴到您的邮件正文里
     - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
   - 把该邮件发送给您自己
 
-  - 请用 Windows+PC 操作以下步骤
+  - 改用 Windows+PC 按以下步骤操作
     - 登入您的邮箱
     - 收取刚才您发送给自己的邮件
     - 点击邮件中的两个链接之一下载金刚App梯到您的PC磁盘
