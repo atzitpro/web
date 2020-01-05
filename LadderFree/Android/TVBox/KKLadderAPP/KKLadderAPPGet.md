@@ -3,9 +3,9 @@
 ### 下载 金刚App梯
 
 - 请用手机访问本页面
-  - 请先后长按
-  - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
-  - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
+  - 请先后长按以下链接
+    - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
+    - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
   - 复制链接网址，粘贴到您的邮件正文里，把该邮件发送给您自己
 
 - 请用您的Windows+PC
