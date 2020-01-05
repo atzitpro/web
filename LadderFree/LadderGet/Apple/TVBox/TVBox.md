@@ -3,7 +3,7 @@
 
 ### 114、苹果机顶盒
 
-- [1141、金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/TVBox/LadderApp.md)
+- [1141、金刚App梯 稍晚发布](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/TVBox/LadderApp.md)
 - [1142、金刚号梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/LadderGet/Apple/TVBox/LadderKKID.md)
 
 
