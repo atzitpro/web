@@ -9,7 +9,7 @@
   - 不限数量的 Windows 系列设备
 - 使配入该梯的设备具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
 - <strong> 万能金刚号梯 </strong>可被以[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)的方式使用
-
+- 配入同一架金刚号梯的多部设备共享该梯内流量
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
