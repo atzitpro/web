@@ -8,5 +8,5 @@
 - 尤其是为帮助那些被剥夺了获取公开信息权利的人们自由上网而设立的中文网站。
 
 #### 返回到
-- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
