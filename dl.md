@@ -9,7 +9,7 @@
 - 视频流畅、画质清晰
 - 基于美国法律的[ 用户信息和用户隐私保护 ](https://github.com/a2zitpro/web/blob/master/Endusercontract.md)
 
-#### 一. 金刚2.0 App梯
+#### 一. 金刚第2代产品 App梯
 1、适用于 安卓手机/安卓平板/安卓机顶盒
 
   - 特色
@@ -37,7 +37,7 @@
   - 获取
     - 在PC+Windows环境中，点击链接，下载、安装[ SSL客户端 ](https://github.com/a2zitpro/web/blob/master/win.md)，查看[《配置说明》](https://github.com/a2zitpro/web/blob/master/win.md)
 
-#### 二. 金刚1.0金刚号梯
+#### 二. 金刚第2代产品 金刚号梯
 - [点击获取 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
 
 #### 三、帮助
