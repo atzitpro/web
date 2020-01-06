@@ -2,6 +2,10 @@
 #### Windows
 ### 下载 金刚App梯
 
+- <strong>版权声明</strong>
+  - 该App软件由筑波大学研发
+  - 后台支撑由金刚公司提供
+
 - 在Windows上使用金刚App梯，必须与[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)配合使用
 - 1、获取[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 如果您已有[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)，则请忽略以下，转做2
