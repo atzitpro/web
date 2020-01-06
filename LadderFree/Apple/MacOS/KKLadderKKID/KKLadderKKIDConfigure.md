@@ -7,7 +7,7 @@
   - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)：一梯万能，多机通用
  
 #### 配置说明
-在苹果电脑上配置金刚梯与在苹果手机上配置类似，关键是以下几点：
+在苹果电脑上配置金刚号梯与在苹果手机上配置类似，关键是以下几点：
 
 类型：<font color="Red"> IPSec上的L2TP </font>
 选择：通过VPN连接发送所有流量
