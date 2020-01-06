@@ -1,15 +1,13 @@
 ###### 玩转金刚梯
-#### 32、Win10
-### 32、安装说明
+#### Win10
+### 《安装配置说明》
 - 适用于 Windows
 
-- 特色
+- <strong>特色</strong>
   - 一键翻墙
   - 安全高速  
   - 流量免费
   - HTTPS/SSL VPN
-
-- 《安装说明》
 
 - <strong>安装</strong>
     - 在下载文件夹内，点击安装包，开始安装
@@ -28,18 +26,18 @@
     - 在窗口右击，选 新VPN连接设置，弹出如下窗口：
 ![Image](https://github.com/a2zitpro/web/blob/master/配置003B.png)
 
-    - 在该窗口中按照以下规则填写：
+    - 在以上窗口中按如下规则填写：
       - 红色内容：按照上图内容原样填入
-      - 绿色内容：按照购买的内容填入
+      - 绿色内容：按照购买的内容一字不差地填入
       - 其余内容：保持原状
     - 点击 确定，完成配置，窗口关闭，弹出如下窗口：
 ![Image](https://github.com/a2zitpro/web/blob/master/配置005A.png)
 
 - <strong>连接</strong>
-
     - 双击 金刚SSL VPN 或 右击，选 连接
     - 金刚SSL开始尝试连通
     - 当 状态 从 离线 改变为 已连接 时，说明 金刚SSL连接成功，可自由上网
+
 ![Image](https://github.com/a2zitpro/web/blob/master/配置005.png)
 
 -  <strong>使用</strong>
