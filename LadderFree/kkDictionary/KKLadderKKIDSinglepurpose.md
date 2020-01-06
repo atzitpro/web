@@ -6,7 +6,7 @@
 - <strong> 普通金刚号梯 </strong>只可用于Windows+SSL客户端环境，不可用于其他环境
 
 #### 返回到
-- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
 
