@@ -10,8 +10,18 @@
 ![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 - 点开手机主屏上的<strong> 设置 </strong>, 在<strong> 设置 </strong>下，设法找到<strong> VPN </strong>
 - 因采用安卓的手机厂商为数众多，<strong> 设置 </strong>下的条目五花八门，因此，金刚无法用统一的名词、术语做精准描述。现仅以 ViVO 手机为主叙述
-- 常见的是在<strong> 设置 </strong>下有<strong> 更多设置 </strong>或<strong> 更多网络设置 </strong>或<strong> 虚拟网络设置 </strong>或<strong> 其他无线连接 </strong>等条目。其下又有<strong> VPN </strong>或<strong> VPN设置 </strong>
-- 点开<strong> VPN </strong>或<strong> VPN设置 </strong>条目，此时，某些品牌的手机会强制机主录入开机密码
+- 常见的是在<strong> 设置 </strong>下有：
+  - <strong> 更多设置 </strong>或
+  - <strong> 更多网络设置 </strong>或
+  - <strong> 虚拟网络设置 </strong>或
+  - <strong> 其他无线连接 </strong>
+- 等条目。其下又有：
+  - <strong> VPN </strong>或
+  - <strong> VPN设置 </strong>
+- 点开
+  - <strong> VPN </strong>或
+  - <strong> VPN设置 </strong>
+- 条目，此时，某些品牌的手机会强制机主录入开机密码
 - 在<strong> VPN屏 </strong>下方，点<strong> 添加VPN配置••• </strong>或<strong> 添加VPN网络 </strong>或<strong> + </strong>号，弹出<strong> 添加VPN网络屏 </strong>
 - 在<strong> 添加VPN网络屏 </strong>内点<strong> 类型 </strong>所在的行
 - 在<strong> 类型 </strong>的 6 个选项中：选<strong> L2…/IPSec PSK </strong>
