@@ -1,6 +1,6 @@
 ###### 玩转金刚梯
-#### 
-巳经注册
+#### 已注
+### 获取金刚梯
 
   - 在您[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功的同时：
     - 第1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)及该梯
