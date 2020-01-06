@@ -9,7 +9,7 @@
 #### 配置说明
 ![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 - 点开手机主屏上的<strong> 设置 </strong>, 在<strong> 设置 </strong>下，设法找到<strong> VPN </strong>
-- 因采用安卓的手机厂商为数众多，<strong> 设置 </strong>下的条目五花八门，因此，金刚无法用统一的名词、术语做精准描述。现仅以 ViVO 手机为主叙述
+- 因采用安卓的手机、平板厂商为数众多，<strong> 设置 </strong>下的条目五花八门，因此，金刚无法用统一的名词、术语做精准描述。现仅以 ViVO 手机为主叙述
 - 常见的是在<strong> 设置 </strong>下有：
   - <strong> 更多设置 </strong>或
   - <strong> 更多网络设置 </strong>或
@@ -21,7 +21,7 @@
 - 点开
   - <strong> VPN </strong>或
   - <strong> VPN设置 </strong>
-- 条目，此时，某些品牌的手机会强制机主录入开机密码
+- 条目，此时，某些品牌的手机、平板会强制机主录入开机密码
 - 在<strong> VPN屏 </strong>下方，点
   - <strong> 添加VPN配置••• </strong>或
   - <strong> 添加VPN网络 </strong>或
@@ -39,7 +39,7 @@
 - 应勾选<strong> 记住用户名和密码 </strong>（有的安卓手机该项叫<strong> 保存用户信息 </strong>）
 - 点屏幕右上角的<strong> 完成 </strong>，退出<strong> 添加VPN网络屏 </strong>或<strong> 添加配置屏</strong>，到达<strong> VPN屏</strong>
 - 当<strong> 完成 </strong>为灰色、不可点击时，点屏幕左上角的<strong> 取消 </strong>，从<strong> 金刚号填空屏 </strong>，到达<strong> VPN屏</strong>
-- 在<strong> VPN屏</strong>，如果手机上已经安装了多个VPN工具，则应确保</strong> 蓝色的勾 </strong>打在<strong> 金刚号 </strong>一行的左侧，而不可打在其他VPN工具上
+- 在<strong> VPN屏</strong>，如果手机、平板上已经安装了多个VPN工具，则应确保</strong> 蓝色的勾 </strong>打在<strong> 金刚号 </strong>一行的左侧，而不可打在其他VPN工具上
 - 在<strong> VPN屏</strong>，打开<strong> VPN开关</strong>，开始连接金刚
 - 如果屏幕顶端出现<strong> 带框VPN </strong>图标 或<strong> 钥匙 </strong>图标时，则表示<strong> 金刚连接成功</strong>，即可自由上网
 - 下载谷歌浏览器 Chrome 和 YouTube 视频播放器
