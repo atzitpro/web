@@ -20,3 +20,7 @@
   - <strong>方式2：</strong>
     - 给[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)[   发邮件 ](mailto:cs@a2zit.us)，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)将代您注册，并为您派送[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)到前述位置
 
+
+
+#### 返回到
+- [获取金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderKKID/KKLadderKKIDGet.md)
