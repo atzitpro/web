@@ -1,4 +1,7 @@
-尚未注册
+###### 玩转金刚梯 免梯阅读版
+#### 安卓手机
+#### 将注
+### 获取金刚号梯
 
   - <strong>方式1：</strong>
     - 向[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)提交您的私人邮箱
