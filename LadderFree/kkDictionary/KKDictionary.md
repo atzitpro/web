@@ -11,7 +11,7 @@
 - [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkproducts.md)
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkservices.md)
 - [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/valueofkkproducts&kkservices.md)
-- [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/atozitpro.md)
+- [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号的配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
