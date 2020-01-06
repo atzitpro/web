@@ -6,9 +6,14 @@
   - 该App软件由筑波大学研发
   - 后台支撑由金刚公司提供
 
-- 适用于 Windows
 
-- 特色
+- <strong>适用于</strong>
+
+  - Windows
+
+- <strong>特色</strong>
+
+
   - 一键翻墙
   - 安全高速  
   - 流量免费
