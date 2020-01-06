@@ -1,5 +1,5 @@
 ###### 玩转金刚梯 免梯阅读版
-### 金刚号梯报错信息及对策
+### 金刚号梯报错、原因、对策
 
 
 | 报错信息 | 原因 | 处置措施 | 
@@ -28,12 +28,3 @@
 |服务器未响应C|金刚被墙|一般会在3~8分钟内恢复服务 |  
 |服务器未响应C|金刚被墙|极端情况需要2小时 |  
 
-
-
-#### 推荐阅读
-
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [金刚公司](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
-- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚号梯产品获取与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
