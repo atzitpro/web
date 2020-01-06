@@ -17,4 +17,4 @@
 
 
 #### 返回到
-- [获取金刚号梯]()
+- [获取金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderKKID/KKLadderKKIDGet.md)
