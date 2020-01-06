@@ -38,10 +38,8 @@
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [注册 动词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
 - [注册 名词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
-
-- [注册 动词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
-
 - [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
 - [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
