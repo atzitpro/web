@@ -43,19 +43,8 @@
 
 4、状态显示已连接，屏幕顶部网路图标处 开始计时，则表示 金刚连接成功，即可自由上网。
 
-- 如果连接失败，则请参阅[ 《金刚L2型报错信息、原因及处置》](https://github.com/a2zitpro/web/blob/master/errormessageofL2.md)
+- 如果连接失败，则请参阅[ 《金刚号梯报错、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
 
-
-    
-
-
-
-#### 推荐阅读
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_elpkkvpn.md)
-- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
-- [金刚产品与服务](https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)
-- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚号梯产品获取与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
-
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
