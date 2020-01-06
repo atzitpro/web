@@ -1,6 +1,6 @@
-###### 金刚梯>金刚帮助>金刚1.0金刚号梯>
-### 配置说明
-#### 适用于 苹果手机iPhone
+###### 玩转金刚梯 免梯阅读版>
+#### 苹果手机iPhone >
+### 《金刚号梯配置说明》
 
 #### 特色
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/onefornine.md)：一号在手，全家自由
@@ -28,12 +28,3 @@
 
     
 
-
-
-#### 推荐阅读
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_elpkkvpn.md)
-- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
-- [金刚产品与服务](https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)
-- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚号梯产品获取与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
