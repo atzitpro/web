@@ -1,6 +1,6 @@
 ###### 玩转金刚梯 免梯阅读版>
-### 配置说明
-#### 适用于 Win7
+#### Win7
+### 《金刚号梯配置说明》
 
 #### 特色
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/onefornine.md)：一号在手，全家自由
@@ -39,4 +39,6 @@
 
 总之，您需要在 网络设置 里找到 设置新的网络连接，创建一个VPN连接，然后按照以上叙述，把<font color="Green"> 绿色内容 </font>与<font color="Red"> 红色内容 </font>填入正确的位置，或按照 <font color="Red"> 红色内容 </font>做正确的选择。
     
+#### 返回到
+[玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 
