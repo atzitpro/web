@@ -11,6 +11,6 @@
 的公司（或非公司组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司设立的[ 网络防火墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)，完成身份认证，进而访问公司内部网
 
 #### 返回到
-- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
-- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
