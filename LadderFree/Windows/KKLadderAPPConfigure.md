@@ -53,7 +53,6 @@
 
 -  <strong>使用</strong>
 
-    - 连通 金刚SSL VPN
     - 点击桌面图标：
 ![Image](https://github.com/a2zitpro/web/blob/master/icons8-softether-vpn-50-1.png)
     - 弹出如下窗口：
