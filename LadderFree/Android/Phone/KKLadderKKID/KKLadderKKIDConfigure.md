@@ -7,7 +7,7 @@
   - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)：一梯万能，多机通用
  
 #### 配置说明
-![image](B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
+![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 - 点开手机主屏上的 设置, 在 设置 下，设法找到VPN
 - 因采用安卓的手机厂商为数众多，设置 下的条目五花八门，因此，金刚无法用统一的名词、术语做精准描述。现仅以 ViVO 手机为主叙述
 - 常见的是在 设置 下有 更多设置 或 更多网络设置 或 虚拟网络设置 或 其他无线连接 等条目。其下又有 VPN 或 VPN设置
