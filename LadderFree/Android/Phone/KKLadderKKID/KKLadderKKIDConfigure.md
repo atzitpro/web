@@ -4,7 +4,7 @@
 
 #### 特色
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)：一梯在手，全家自由
-  - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/KKLadderKKIDMultipurpose.md)：一梯万能，多机通用
+  - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)：一梯万能，多机通用
  
 #### 配置说明
 ![image](B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
