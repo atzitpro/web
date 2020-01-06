@@ -41,6 +41,7 @@
       - 红色内容：按照上图内容原样填入
       - 绿色内容：按照购买的内容一字不差地填入
       - 其余内容：保持原状
+    - 若尚未购买绿色内容，请[ 点此前往购买 ](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/KKLadderAPPGet.md)
     - 点击 确定，完成配置，窗口关闭，弹出如下窗口：
 ![Image](https://github.com/a2zitpro/web/blob/master/配置005A.png)
 
