@@ -22,7 +22,11 @@
   - <strong> VPN </strong>或
   - <strong> VPN设置 </strong>
 - 条目，此时，某些品牌的手机会强制机主录入开机密码
-- 在<strong> VPN屏 </strong>下方，点<strong> 添加VPN配置••• </strong>或<strong> 添加VPN网络 </strong>或<strong> + </strong>号，弹出<strong> 添加VPN网络屏 </strong>
+- 在<strong> VPN屏 </strong>下方，点
+  - <strong> 添加VPN配置••• </strong>或
+  - <strong> 添加VPN网络 </strong>或
+  - <strong> + </strong>号
+- 弹出<strong> 添加VPN网络屏 </strong>
 - 在<strong> 添加VPN网络屏 </strong>内点<strong> 类型 </strong>所在的行
 - 在<strong> 类型 </strong>的 6 个选项中：选<strong> L2…/IPSec PSK </strong>
 - 在<strong> 名称 </strong>处填入：<strong> 金刚号 </strong>
