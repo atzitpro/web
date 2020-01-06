@@ -1,7 +1,7 @@
 ###### 玩转金刚梯 免梯阅读版
 #### 安卓手类机
 #### 已注
-### 获取金刚号梯
+### 一拖九式使用金刚号梯
 
   - 在您[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功的同时：
     - 第1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)及该梯
