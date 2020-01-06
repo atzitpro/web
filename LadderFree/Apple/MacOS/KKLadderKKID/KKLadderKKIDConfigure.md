@@ -4,7 +4,7 @@
 
 #### 特色
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)：一梯在手，全家自由
-  - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)：一梯万能，多机通用
+  - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)：一梯万能，多机通用
  
 #### 配置说明
 在苹果电脑上配置金刚梯与在苹果手机上配置类似，关键是以下几点：
