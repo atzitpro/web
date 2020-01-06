@@ -36,6 +36,7 @@
 - [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
 
 - [金刚流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [金刚流量充入](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficCharge.md)
 - [金刚流量的获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
@@ -47,7 +48,6 @@
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [流量充入](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
