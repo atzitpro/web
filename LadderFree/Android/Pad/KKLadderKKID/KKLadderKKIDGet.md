@@ -1,6 +1,5 @@
 ###### 玩转金刚梯 免梯阅读版>
 #### 安卓平板>
-
 ### 获取金刚号梯
 
 - 什么是[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)？
