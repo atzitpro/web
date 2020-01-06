@@ -7,7 +7,7 @@
   - [ 万能号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)：一号万能，多机通用
  
 #### 配置说明
-在苹果电脑上配置金刚与在苹果手机上配置类似，关键是下面几点：
+在苹果电脑上配置金刚梯与在苹果手机上配置类似，关键是以下几点：
 
 类型：<font color="Red"> IPSec上的L2TP </font>
 选择：通过VPN连接发送所有流量
