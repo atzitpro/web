@@ -20,7 +20,12 @@
     - 提交您的私人邮箱，然后登入邮箱，收取金刚网给您的邮件</strong>
 
   - <strong>方式2：</strong>
-    - 给[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)[   发邮件 ](mailto:cs@a2zit.us)，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)将代您注册，并为您派送[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)到前述位置
+
+    - 请给[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
+
+      - [<strong>发邮件</strong>](mailto:cs@a2zit.us)
+
+    - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)将代您注册，并为您派送[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)到前述位置
 
 
 
