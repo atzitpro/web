@@ -5,7 +5,7 @@
 
 |设备|App梯|金刚号梯 |
 |----------- |  ----------- | ----------- | 
-| 安卓类手机|[下载](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderAPP/KKLadderAPPGet.md)|<br>[1、获取](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderKKID/KKLadderKKIDGet.md)<br>[2、配置]()<br>[3、充流量]()<br>[4、找回]()<br>|
+| 安卓类手机|[下载](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderAPP/KKLadderAPPGet.md)|<br>[1、获取](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderKKID/KKLadderKKIDGet.md)<br>[2、配置]()<br>[3、充流量]()<br>[4、找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDirectionary/KKLadderAPPGetBack.md)<br>|
 | 安卓类平板|[下载](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Pad/KKLadderAPP/KKLadderAPPGet.md)|<br>[1、获取](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Pad/KKLadderKKID/KKLadderKKIDGet.md)<br>[2、配置]()<br>[3、充流量]()<br>[4、找回]()<br>|
 | 安卓类机顶盒|[1、下载](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md)<br><br>[2、安装](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPConfigure.md)|<br>[1、获取]()<br><br>[2、配置]()<br>[3、充流量]()<br>[4、找回]()<br>|
 | Windows|[1、获取](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/KKLadderAPPGet.md)<br><br>[2、安装](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/KKLadderAPPConfigure.md)|<br>[1、获取]()<br>[2、配置]()<br>[3、充流量]()<br>[4、找回]()<br>|
