@@ -16,4 +16,4 @@
 | 苹果电脑|稍晚发布|[1、获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)<br>[2、配置]()<br>[3、充流量]()<br>[4、找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)<br>|
 | 苹果机顶盒|稍晚发布|[1、获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)<br>[2、配置]()<br>[3、充流量]()<br>[4、找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)<br>|
 
-2、[金刚字典]()
+2、[金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
