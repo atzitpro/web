@@ -1,6 +1,6 @@
 ###### 玩转金刚梯 免梯阅读版
 #### 安卓手类机
-### 获取更多金刚号梯
+### 获取金刚号梯
 
 - 什么是[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)？
 - 什么是[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)？
