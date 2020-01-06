@@ -6,7 +6,7 @@
   - 在《金刚网用户一览表》中创建了全新的一行，该行中记录了该用户的某些信息，以区别于其他用户
 
 #### 返回到
-- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
 
 
