@@ -1,7 +1,7 @@
 ###### 玩转金刚>
 ### 金刚字典
 
-- [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/valueofkkproducts&kkservices.md)
+- [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 - [副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
