@@ -50,4 +50,4 @@
 
 
 #### 返回到
-- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
