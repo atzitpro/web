@@ -1,5 +1,4 @@
-###### 玩转金刚梯 免梯阅读版
-#### 安卓手类机
+###### 玩转金刚梯>金刚字典>
 ### 获取金刚号梯
 
 - 1、如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)，则请
