@@ -1,9 +1,9 @@
 ###### 玩转金刚梯
-#### 22、安卓类平板
+#### 安卓类平板
 ### 下载 金刚App梯
 
 - 请确保您当前所持的设备为安卓类平板
-- 请点击下载金刚App:
+- 请点击下载金刚App梯:
   - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
   - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
 - ⚠️ <strong> 微信用户 </strong>：
