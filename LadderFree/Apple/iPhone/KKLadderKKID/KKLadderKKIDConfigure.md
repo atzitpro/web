@@ -7,7 +7,7 @@
   - [ 万能号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)：一号万能，多机通用
  
 #### 配置说明
-![image](24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
+![image](https://github.com/a2zitpro/web/blob/master/24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
 - 点开手机主屏上的 设置 > 通用 > VPN > 添加VPN配置… 弹出上图
 - 在 类型 的 IKEv2、IPsec、L2TP 三个选项中：选<font color="Red"> L2TP </font>
 - 在 描述 处填入：<font color="Red"> AAA金刚 </font>
