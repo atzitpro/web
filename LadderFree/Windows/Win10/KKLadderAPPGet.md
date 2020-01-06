@@ -1,6 +1,6 @@
 ###### 玩转金刚梯
-#### 32、Win10
-### 32、下载 金刚App梯
+#### Win10
+### 下载 金刚App梯
 - 在Windows上使用金刚App梯，必须与[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)配合使用
 - 1、获取[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 如果您已有[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)，则请忽略以下，转做2
@@ -15,7 +15,7 @@
 - 2、请确保您当前所持的设备为Windows
   - 请[ 点击此处下载金刚App梯 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)
 
-- 3、请[安装配置金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderAPPConfigure.md)
+- 3、请[ 安装配置金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderAPPConfigure.md)
 
 
 
