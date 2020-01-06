@@ -6,7 +6,8 @@
   - 该App软件由筑波大学研发
   - 后台支撑由金刚公司提供
 
-- 适用于 Windows
+- <strong>适用于</strong>
+  - Windows
 
 - <strong>特色</strong>
   - 一键翻墙
@@ -47,7 +48,6 @@
 
 -  <strong>使用</strong>
 
-    - 连通 金刚SSL VPN
     - 点击桌面图标：
 ![Image](https://github.com/a2zitpro/web/blob/master/icons8-softether-vpn-50-1.png)
     - 弹出如下窗口：
