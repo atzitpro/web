@@ -13,7 +13,7 @@
       - [ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功后您将获得一枚[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
       - 转做2
 
-- 2、请确保您当前所持的设备为Windows
+- 2、请确保您当前所用设备为Windows
   - 请[ 点击此处下载金刚App梯 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)
 
 - 3、请[ 安装配置金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/KKLadderAPPConfigure.md)
