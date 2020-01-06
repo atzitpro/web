@@ -1,7 +1,7 @@
 ###### 玩转金刚>金刚字典>
 ### 金刚公司
 
-- [ 金刚公司 kkitpro ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)是一间依照美国法律设立，并合法存续于美国的信息技术公司
+- <strong>金刚公司 kkITPro </strong>是一间依照美国法律设立，并合法存续于美国的信息技术公司
 - 其主营业务之一是帮助全球互联网用户[ 安全上网 ](https://github.com/a2zitpro/web/blob/master/valueofkkproducts&services.md)
 
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/kksitecn.md)：[atozitpro.net/zh/](https://www.atozitpro.net/zh/)
