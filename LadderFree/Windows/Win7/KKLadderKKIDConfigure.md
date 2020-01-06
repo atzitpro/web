@@ -32,7 +32,7 @@
 23. 在 连接 AAA金刚 窗口，输入登录的用户名，即<font color="Green"> 金刚号 </font> 
 24. 在 连接 AAA金刚 窗口，输入登录的密码，即<font color="Green"> 金刚密码 </font> 
 25. 单击 连接，连接成功后，即可自由上网
-26. 如果连接失败，则请参阅[ 金刚号梯报错、原因、对策 ]()
+26. 如果连接失败，则请参阅[ 金刚号梯报错、原因、对策 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
 
 不同版本的 Windows 设置会有所不同。
