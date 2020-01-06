@@ -1,4 +1,5 @@
-
+###### 玩转金刚梯
+#### 
 巳经注册
 
   - 在您[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)成功的同时：
