@@ -2,6 +2,9 @@
 #### Win10
 ### 《安装配置说明》
 - 适用于 Windows
+- <strong>版权声明</strong>
+  - 该App软件由筑波大学研发
+  - 后台支撑由金刚公司提供
 
 - <strong>特色</strong>
   - 一键翻墙
