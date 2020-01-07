@@ -6,6 +6,8 @@
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 - [副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
 - [积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
+- [积分获取]()
+- [积分用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsUsage.md)
 - [金刚1代产品 金刚号梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
 - [金刚2代产品 金刚app梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG2Overview.md)
 - [金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
@@ -56,9 +58,6 @@
 - [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
 - [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 
-
-- [积分用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsUsage.md)
-- [积分获取]()
 - [金刚推荐人]()
 - [金刚广告商]()
 
