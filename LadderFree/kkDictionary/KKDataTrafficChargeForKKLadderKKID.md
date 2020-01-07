@@ -10,6 +10,7 @@
   - [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
   - [发邮件给客服](mailto:cs@a2zit.us)索要中转用户二维码
 
-#### 返回到
-- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 
+#### 返回到
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
