@@ -11,7 +11,7 @@
   - [发邮件给客服 ](mailto:cs@a2zit.us)索要代转款老用户二维码
   - 请付款给走通官网支付的老用户。
   - 请截支付完成屏给客服一一十分重要一一并请永久保留此截屏。
-  - 请告诉客服流量充入哪个号一一如果您只有一个[主号]()，则请忽略此条。
+  - 请告诉客服流量充入哪个号一一如果您只有一个[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)，则请忽略此条。
   - 客服将在5分钟之内为您办妥。
   - 之后[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)再找老用户收款。
   - [ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)不提供退费服务，请试用满意后再购买。
