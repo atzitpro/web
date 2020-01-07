@@ -1,6 +1,6 @@
 ###### 玩转金刚>金刚字典>
 ### 副号
-[ 金刚 ]()把具有以下特征的[ 金刚号 ]()叫<Strong> 副号 </Strong >：
+[ 金刚 ]()把具有以下特征的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)叫<Strong> 副号 </Strong >：
 - 非c9开头
 - 其上捆绑免费[ 小额流量 ]()包
 - 同一时间您只可持有1个
