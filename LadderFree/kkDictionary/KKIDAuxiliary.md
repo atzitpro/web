@@ -1,5 +1,5 @@
 ###### 玩转金刚>金刚字典>
-### 金刚号 的 副号
+### 金刚副号
 [ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)把具有以下特征的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)叫<Strong> 副号 </Strong >：
 - 非c9开头
 - 其上捆绑免费[ 小额流量 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficSmallAmount.md)包
