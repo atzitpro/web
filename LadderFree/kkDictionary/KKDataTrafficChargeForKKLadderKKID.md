@@ -4,7 +4,7 @@
 - 从金刚网自助充流量
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - 登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
-  - 在[ 金刚网>菜单>我的金刚 ]()下，点选择拟充入流的的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
+  - 在[ 金刚网>菜单>我的金刚 ]()下，选择拟充入流的的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 
 - 客服帮助充流量
   - [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
