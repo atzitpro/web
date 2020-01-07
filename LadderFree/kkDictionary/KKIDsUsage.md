@@ -16,7 +16,7 @@
     - 而不必等到次日、利用[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)[ 次日的免费流量 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)连通[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)为[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)购买流量
 
 - 金刚<strong> 强列建议 </strong >您：
-  - 平时应至少持有两个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)
+  - 平时应至少持有两个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 或[ 一主 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)、[ 一副 ]()
   - 或两个[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
 - 配置时应[ 注意事项 ](https://github.com/a2zitpro/web/blob/master/configurationconsiderations.md)
