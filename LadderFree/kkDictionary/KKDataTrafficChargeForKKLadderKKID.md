@@ -2,7 +2,7 @@
 ### 为金刚号梯充流量
 
 - 从金刚网自助充流量
-  - [ 搭起]()[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
+  - [ 搭好]()[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - 登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
   - 在[ 金刚网>菜单>我的金刚 ]()下，点选择拟充入流的的[ 金刚号 ]()
   - 
