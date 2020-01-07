@@ -17,10 +17,9 @@
 - [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 - [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
+- [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
 - [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
-- [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
-- [金刚主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [金刚号的配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
@@ -47,6 +46,8 @@
 
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
+- [金刚主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
+- [金刚主号、金刚副号的用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
 - [普通金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
@@ -56,7 +57,6 @@
 - [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
 
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
-- [主副号用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
 - [注册 动词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
 - [注册 名词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
 - [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
