@@ -3,7 +3,7 @@
 - <strong> 金刚流量 </strong >的实质是：
   - 经由[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)服务器为[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)供应的数字化信息量。
 - <strong> 金刚流量 </strong >同时也是：
-  - [ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)度量为您提供服务的尺度
+  - [ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)度量为[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供服务的尺度
   - [ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)收取费用的依据
 - 计量单位：B（即字节）、KB、MB、GB、TB等
 - 换算关系：
