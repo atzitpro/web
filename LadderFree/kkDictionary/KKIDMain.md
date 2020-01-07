@@ -9,3 +9,7 @@
   - 同一时间您可持有多个这种[ 金刚号 ](https://a2zitpro.github.io/web/kkid)
   - 连通后供您播放视频
   - 使用频率高
+
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
