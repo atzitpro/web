@@ -56,7 +56,7 @@
 - [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 
 
-- [积分]()
+- [积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
 - [积分的用途]()
 - [积分的获取]()
 - [金刚推荐人]()
