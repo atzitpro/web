@@ -6,8 +6,17 @@
   - [ 登录 ]()[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
   - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，选择拟充入流量的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 如果该[ 金刚号 ]()的右侧显示按钮<strong> 续费 </strong>，则表明捆绑在该[ 金刚号 ]()上的[ 流量包 ]()已过期
-    - 点击 按钮<strong> 续费 </strong>，金刚网将引导您再购买一个新的流量包
-    - 该[ 流量包 ]的[ 尺寸 ]、[ 有效期长度 ]与刚刚过期的[ 流量包 ]相同，[ 有效期开始 ]()于购买成功之时
+    - 点击 按钮<strong> 续费 </strong>
+    - [金刚网]()将引导您购买一个新的[流量包]()
+    - 该[ 流量包 ]()的[ 尺寸 ]()、[ 有效期长度 ]()与刚刚过期的[ 流量包 ]()相同，[ 有效期开始 ]()于购买成功之时
+  - 如果该[ 金刚号 ]()的右侧<strong> 剩余流量 </strong>项下显示0，则表明捆绑在该[ 金刚号 ]()上的[ 流量包 ]()已提前耗尽
+    - 点击该[ 金刚号 ]()，在新的一页里寻找并点击按钮<strong> 充流量/延长期限 </strong>
+    - 在弹出的的商品列表中选择比刚刚耗尽的流量包大一级的流量包
+    - [金刚网]()将引导您完成该[流量包]()的购买
+
+
+
+
 
 - 让客服帮助您充流量
   - [ 金刚号梯流量价格 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
