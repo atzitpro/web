@@ -28,3 +28,6 @@
 |服务器未响应C|金刚被墙|一般会在3~8分钟内恢复服务 |  
 |服务器未响应C|金刚被墙|极端情况需要2小时 |  
 
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
