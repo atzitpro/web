@@ -4,8 +4,8 @@
 ### 主号、副号的用途
 - [ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)用途
   - 用于连通后翻墙出来访问被墙的
-  - [ google ](https://google.com)搜索新闻
-  - [ YouTube ](https://youtube.com)播放视频等
+    - [ google ](https://google.com)搜索新闻
+    - [ YouTube ](https://youtube.com)播放视频等
 - [ 副号 ](https://github.com/a2zitpro/web/blob/master/auxiliarykkid.md)用途
   - 当[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
     - [ 流量提前耗尽 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficisexhaustedearly.md)或
