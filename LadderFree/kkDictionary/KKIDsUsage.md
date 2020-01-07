@@ -19,7 +19,7 @@
   - 平时应至少持有两个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 或[ 一主 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)、[ 一副 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
   - 或两个[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
-- 配置时应[ 注意事项 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKKID.md)
+- 配置时应[ 注意事项 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
 
 #### 返回到
