@@ -12,6 +12,6 @@
   - 凡属被这种网络防火墙所困的自然人、公司（或非公司组织）均可与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)签约，使用[ 金刚产品 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts.md)与[ 金刚服务 ](https://github.com/a2zitpro/web/blob/master/kkservices.md)
 
 #### 返回到
-- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
-- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
