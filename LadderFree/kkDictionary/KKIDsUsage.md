@@ -9,7 +9,7 @@
 - [ 金刚副号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)的用途
   - 当[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
     - [ 流量提前耗尽 ](/kkdatatrafficisexhaustedearly.md)或
-    - [ 流量过期 ](/KKDataTrafficExpired.md)时，
+    - [ 流量过期 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpired.md)时
   - 可立即连通[ 金刚副号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)出来
     - 登录永远被墙的[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
     - 为[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)购买[ 流量 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
