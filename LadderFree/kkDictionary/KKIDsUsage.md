@@ -12,7 +12,7 @@
     - [ 流量过期 ](/kkdatatrafficexpired.md)时，
   - 可立即连通[ 金刚副号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)出来
     - 登录永远被墙的[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
-    - 为[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)购买[ 流量 ]()
+    - 为[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)购买[ 流量 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
     - 而不必等到次日、利用[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)次日的[ 免费流量 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)连通[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)为[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)购买[ 流量 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
 
 - [ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)<strong> 强列建议 </strong >您：
