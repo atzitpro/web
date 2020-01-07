@@ -14,6 +14,7 @@
 - [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
+- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [金刚号的配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
 - [金刚号的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号的形态](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
@@ -25,7 +26,17 @@
 - [金刚号梯获取更多](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetMore.md)
 
 - [金刚号梯找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
+
+- [金刚流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
+- [金刚流量充入 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficChargeForKKLadderKKID.md)
+- [金刚流量的获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [金刚流量价格 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [金刚流量价格 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
+
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
+
+- [金刚小额流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficSmallAmount.md)
+
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
 - [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
@@ -35,12 +46,6 @@
 - [万能金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
 - [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
 
-- [金刚小额流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficSmallAmount.md)
-
-- [金刚流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
-- [金刚流量充入 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficChargeForKKLadderKKID.md)
-- [金刚流量的获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 - [主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
 - [主副号的用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
@@ -49,8 +54,6 @@
 - [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
 - [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [金刚流量价格 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [金刚流量价格 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
