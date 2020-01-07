@@ -7,7 +7,7 @@
 - [副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
 - [金刚1代产品 金刚号梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
 - [金刚2代产品 金刚app梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG2Overview.md)
-- [金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderApp.md)
+- [金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
 - [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkproducts.md)
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkservices.md)
 - [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/valueofkkproducts&kkservices.md)
