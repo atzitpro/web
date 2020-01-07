@@ -21,11 +21,11 @@
 - [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
 - [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-- [金刚号梯报错、原因、对策](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
-- [金刚号梯获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)
-- [金刚号梯获取更多](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetMore.md)
+- [金刚号梯 报错、原因、对策](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
+- [金刚号梯 获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)
+- [金刚号梯 获取更多](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetMore.md)
 
-- [金刚号梯找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
+- [金刚号梯 找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
 
 - [金刚流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
 - [金刚流量充入 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficChargeForKKLadderKKID.md)
