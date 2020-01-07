@@ -40,6 +40,9 @@
 
 - [金刚流量过期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpired.md)
 
+- [金刚流量提前耗尽(https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedEarly.md)
+
+
 - [金刚流量获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
 - [金刚流量价格 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [金刚流量价格 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
