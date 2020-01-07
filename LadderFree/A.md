@@ -1,7 +1,7 @@
 ###### 玩转金刚梯
 
 
-1、金刚梯
+### 金刚梯
 
 |设备|App梯|金刚号梯 |
 |----------- |  ----------- | ----------- | 
@@ -16,4 +16,6 @@
 | 苹果电脑|稍晚发布|[1、获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)<br>[2、配置](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/KKLadderKKIDConfigure.md)<br>[3、充流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficCharge.md)<br>[4、找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)<br>|
 | 苹果机顶盒|稍晚发布|[1、获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)<br>[2、配置](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/TVBox/KKLadderKKID/KKLadderKKIDConfigure.md)<br>[3、充流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficCharge.md)<br>[4、找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)<br>|
 
-2、[金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
+#### 返回到
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
