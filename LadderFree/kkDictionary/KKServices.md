@@ -8,6 +8,6 @@
 不包括[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)的其它服务
 
 #### 返回到
-- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
-- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkDictionary.md)
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
