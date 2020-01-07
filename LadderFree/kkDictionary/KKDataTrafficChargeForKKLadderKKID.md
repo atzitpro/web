@@ -8,7 +8,7 @@
   - 
 - 客服帮助充流量
   - [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
-  - [发邮件给客服](mailto:cs@a2zit.us)索要代转款用户二维码
+  - [发邮件给客服 ](mailto:cs@a2zit.us)索要代转款用户二维码
 
 
 #### 返回到
