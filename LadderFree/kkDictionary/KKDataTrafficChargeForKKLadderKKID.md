@@ -5,16 +5,16 @@
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - [ 登录 ]()[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
   - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，选择拟充入流量的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
-  - 如果该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的右侧显示按钮<strong> 续费 </strong>，则表明捆绑在该[ 金刚号 ]()上的[ 流量包 ]()已过期
+  - 如果该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的右侧显示按钮<strong> 续费 </strong>，则表明捆绑在该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)上的[ 流量包 ]()已过期
     - 点击 按钮<strong> 续费 </strong>
-    - [金刚网]()将引导您购买一个新的[流量包]()
+    - [ 金刚网 ]()将引导您购买一个新的[流量包]()
     - 该[ 流量包 ]()的[ 尺寸 ]()、[ 有效期长度 ]()与刚刚过期的[ 流量包 ]()相同，[ 有效期开始 ]()于购买成功之时
-    - 完成购买，您的[ 金刚号 ]()将立即可以连通
-  - 如果该[ 金刚号 ]()的右侧<strong> 剩余流量 </strong>项下显示0，则表明捆绑在该[ 金刚号 ]()上的[ 流量包 ]()已提前耗尽
-    - 点击该[ 金刚号 ]()，在新的一页里寻找并点击按钮<strong> 充流量/延长期限 </strong>
+    - 完成购买，您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)将立即可以连通
+  - 如果该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的右侧<strong> 剩余流量 </strong>项下显示0，则表明捆绑在该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)上的[ 流量包 ]()已提前耗尽
+    - 点击该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)，在新的一页里寻找并点击按钮<strong> 充流量/延长期限 </strong>
     - 在弹出的的商品列表中选择比刚刚耗尽的[ 流量包尺寸 ]()大一级的[ 流量包 ]()
-    - [金刚网]()将引导您完成该[流量包]()的购买
-    - 完成购买，您的[ 金刚号 ]()将立即可以连通
+    - [ 金刚网 ]()将引导您完成该[流量包]()的购买
+    - 完成购买，您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)将立即可以连通
 
 
 
