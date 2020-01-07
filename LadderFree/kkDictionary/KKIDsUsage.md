@@ -13,9 +13,9 @@
   - 可立即连通[ 金刚副号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)[ 翻墙 ]()出来
     - 登录永远被墙的[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
     - 为[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)购买[ 流量 ]()
-    - 而不必等到次日、利用[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)次日的[ 免费流量 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)连通[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)为[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)购买流量
+    - 而不必等到次日、利用[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)次日的[ 免费流量 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficfree.md)连通[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)为[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)购买[ 流量 ]()
 
-- 金刚<strong> 强列建议 </strong >您：
+- [ 金刚 ]()<strong> 强列建议 </strong >您：
   - 平时应至少持有两个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 或[ 一主 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)、[ 一副 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
   - 或两个[ 金刚主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
