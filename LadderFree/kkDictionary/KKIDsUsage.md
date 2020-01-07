@@ -17,7 +17,7 @@
 
 - 金刚<strong> 强列建议 </strong >您：
   - 平时应至少持有两个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)
-  - 或[ 一主 ](https://github.com/a2zitpro/web/blob/master/mainkkid.md)、[ 一副 ](https://github.com/a2zitpro/web/blob/master/auxiliarykkid.md)
+  - 或[ 一主 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)、[ 一副 ]()
   - 或两个[ 主号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
 - 配置时应[ 注意事项 ](https://github.com/a2zitpro/web/blob/master/configurationconsiderations.md)
 
