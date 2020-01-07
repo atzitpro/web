@@ -41,7 +41,7 @@
 - [金刚流量价格 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
 - [金刚流量价格 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
 - [金刚流量 小额流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficSmallAmount.md)
-- [金刚流量 大宗额流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficBulk.md)
+- [金刚流量 大宗流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficBulk.md)
 
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
 
