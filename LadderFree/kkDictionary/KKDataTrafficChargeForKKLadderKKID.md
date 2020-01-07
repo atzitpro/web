@@ -20,7 +20,7 @@
 
 
 
-- 让客服帮助您充流量
+- 让客服帮您充流量
   - [ 金刚号梯流量价格 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
   - [发邮件给客服 ](mailto:cs@a2zit.us)索要代转款老用户二维码
   - 请付款给走通官网支付的老用户。
