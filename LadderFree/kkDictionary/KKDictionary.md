@@ -6,6 +6,7 @@
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 - [积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
 - [积分获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsToEarn.md)
+- [积分有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsExpiration.md)
 - [积分用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsUsage.md)
 - [积分与美元兑换比例](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsForUSD.md)
 
