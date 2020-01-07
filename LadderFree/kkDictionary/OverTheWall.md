@@ -5,6 +5,6 @@
 - 自维基百科：“翻墙”也被引申为突破网络审查、浏览中国大陆境外被屏蔽的网站或使用服务的行为。
 
 #### 返回到
-- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/main.md)
-- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/KKDictionary/KKDictionary.md)
 
