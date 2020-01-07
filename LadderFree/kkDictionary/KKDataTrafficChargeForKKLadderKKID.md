@@ -6,9 +6,20 @@
   - 登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
   - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，选择拟充入流的的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 
-- 客服帮助充流量
+- 让客服帮助您充流量
   - [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
-  - [发邮件给客服 ](mailto:cs@a2zit.us)索要代转款用户二维码
+  - [发邮件给客服 ](mailto:cs@a2zit.us)索要代转款老用户二维码
+  - 请付款给走通官网支付的老用户。
+  - 请截支付完成屏给客服一一十分重要一一并请永久保留此截屏。
+  - 请告诉客服流量充入哪个号一一如果您只有一个[主号]()，则请忽略此条。
+  - 客服将在5分钟之内为您办妥。
+  - 之后[金刚]()再找老用户收款。
+  - [金刚]()不提供退费服务，请试用满意后再购买。
+  - 下次购买仍需首先发邮件给客服索要二维码，而不可向本次给您的二维码直接付款，否则，如果给您造成损失，恕[金刚]()概不负责。背后的原因是：今天愿意帮[金刚]做转付的老用户，明天就有可能改变主意而不愿再帮[金刚]()。
+  - 这是一种临时救急方式，[ 金刚公司 ]()并不倡导，而且随时会被公司叫停，望您努力走官网购买渠道。
+
+谢谢！
+
 
 
 #### 返回到
