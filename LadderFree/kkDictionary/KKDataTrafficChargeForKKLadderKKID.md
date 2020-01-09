@@ -1,5 +1,5 @@
 ###### 玩转金刚梯 免梯阅读版>
-### 一、为金刚号梯充流量
+### 为金刚号梯充流量
 
 1、从金刚网自助充流量
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
