@@ -14,6 +14,14 @@
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 - [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 
+#### 金刚用户类
+
+- [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
+- [注册 动词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
+- [注册 名词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
+- [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
+- [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
+
 
 
 #### 积分类
@@ -83,13 +91,7 @@
 - [金刚流量 大宗流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficBulk.md)
 
 
-- [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
-
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
-- [注册 动词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
-- [注册 名词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
-- [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
-- [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 
 #### 金刚伙伴
 - [金刚推荐人]()
