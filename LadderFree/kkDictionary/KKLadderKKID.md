@@ -8,7 +8,7 @@
   - [ 金刚密码 ]()   比如：12345678
   - [ 服务器 ]()     比如：atz57.softether.net
   - [ 预共享密钥 ]()  比如：mft
-- 把这套参数按照《配置说明》[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)下列设备之一，该设备即具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)本领，而勿需在您的设备上下载、安装金刚的任何客户端软件：
+- 把这套参数按照《配置说明》[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)下列设备之一，该设备即具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)本领，而勿需在您的设备上下载、安装金刚的任何客户端软件：
   - 苹果类设备
   - 安卓类设备
   - Windows 类设备
