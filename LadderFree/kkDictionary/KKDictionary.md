@@ -60,8 +60,7 @@
 - [万能金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
 
-- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
-- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
 - [金刚号的配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
 - [金刚号的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
 - [金刚号的形态](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
