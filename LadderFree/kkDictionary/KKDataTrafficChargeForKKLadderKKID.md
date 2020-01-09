@@ -1,6 +1,10 @@
 ###### 玩转金刚梯 免梯阅读版>
 ### 为金刚号梯充流量
 
+朋友，您好！
+
+感谢信任与支持！
+
 1、从金刚网自助充流量
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - [ 登录 ](https://www.atozitpro.net/zh/login/)[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
@@ -15,9 +19,6 @@
     - 在弹出的的商品列表中选择比刚刚耗尽的[ 流量包尺寸 ]()大一级的[ 流量包 ]()
     - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)将引导您完成该[ 流量包 ]()的购买
     - 完成购买，您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)将立即可以翻墙
-
-
-
 
 
 2、让客服帮您充流量
@@ -36,7 +37,7 @@
 |高级 |月包|300|9.20|<strong>65.55</strong>|
 |高级 |半年包|1800|46.00|<strong>327.74</strong>|
 |高级 |年包|3600|83.00|<strong>591.36</strong>|
-|超级|月包|3000|23.50|<strong> 167.43</strong>|
+|超级 |月包|3000|23.50|<strong> 167.43</strong>|
 |超级 |半年包|18000|117.50|<strong>837.17</strong>|
 |超级 |年包|36000|212.00|<strong>1510.46</strong>|
 
