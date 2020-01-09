@@ -9,7 +9,7 @@
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - [ 登录 ](https://www.atozitpro.net/zh/login/)[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
   - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，选择拟充入流量的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
-  - 如果该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的右侧显示按钮<strong> 续费 </strong>，则表明捆绑在该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)上的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)已[ 过期 ]()
+  - 如果该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的右侧显示按钮<strong> 续费 </strong>，则表明捆绑在该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)上的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)已[ 过期 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpired.md)
     - 点击 按钮<strong> 续费 </strong>
     - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)将引导您购买一个新的[流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)
     - 该[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)的[ 尺寸 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)、[ 有效期长度 ]()与刚刚过期的[ 流量包 ]()相同，[ 有效期开始 ]()于购买成功之时
