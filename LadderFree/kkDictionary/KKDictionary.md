@@ -86,7 +86,7 @@
 - [金刚流量 小额流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficSmallAmount.md)
 - [金刚流量 大宗流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficBulk.md)
 - [金刚免费流量包]()
-- [金刚收费流量包]()
+- [金刚收费流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageToll.md)
 
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 
