@@ -50,8 +50,8 @@
 
 - [金刚流量包有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)
 
+- [金刚流量包有效期开始时刻](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)
 
-金刚流量包有效期开始时刻
 
 - [金刚流量获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
 - [金刚流量价格 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
