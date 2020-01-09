@@ -1,10 +1,12 @@
 ###### 玩转金刚>
 ### 金刚字典
 
-#### 金刚ABC
+#### 翻墙ABC
 - [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+
+#### 金刚ABC
 
 #### 积分类
 - [积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
