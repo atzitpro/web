@@ -7,6 +7,7 @@
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 
 #### 金刚ABC
+- [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
 
 #### 积分类
 - [积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
@@ -23,7 +24,6 @@
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 - [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
-- [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
