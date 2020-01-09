@@ -26,13 +26,6 @@
 - [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 - [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
-- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
-- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
-- [金刚号的配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
-- [金刚号的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
-- [金刚号的形态](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
-- [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
-- [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
 - [金刚号梯 报错、原因、对策](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 - [金刚号梯 获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)
@@ -48,6 +41,14 @@
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
 - [万能金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
+
+- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
+- [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
+- [金刚号的配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
+- [金刚号的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
+- [金刚号的形态](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
+- [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
+- [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
 
 
