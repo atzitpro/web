@@ -72,14 +72,12 @@
 #### 流量类
 - [金刚流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
 - [金刚流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)
+- [金刚流量包尺寸](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)
+- [金刚流量包有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)
 - [金刚流量充入 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficChargeForKKLadderKKID.md)
 - [金刚流量充入 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficChargeForKKLadderAPP.md)
 - [金刚流量过期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpired.md)
 - [金刚流量提前耗尽](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedEarly.md)
-
-- [金刚流量包尺寸](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)
-
-- [金刚流量包有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)
 
 - [金刚流量包有效期开始时刻](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)
 
