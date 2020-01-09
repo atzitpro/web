@@ -39,6 +39,7 @@
 
 - [金刚号梯 找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
 
+#### 金刚号类
 
 #### 流量类
 - [金刚流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
