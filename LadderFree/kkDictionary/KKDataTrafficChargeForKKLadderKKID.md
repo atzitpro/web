@@ -1,5 +1,5 @@
 ###### 玩转金刚梯 免梯阅读版>
-### 为金刚号梯充流量
+### 一、为金刚号梯充流量
 
 1、从金刚网自助充流量
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
@@ -40,8 +40,6 @@
 |超级 |半年包|18000|117.50|<strong>837.17</strong>|
 |超级 |年包|36000|212.00|<strong>1510.46</strong>|
 
-
-
   - [发邮件给客服 ](mailto:cs@a2zit.us)索要代转款老用户的收款二维码
   - 请付款给走通官网支付的老用户。
   - 请截支付完成屏给客服一一十分重要，请永久保留此截屏。
@@ -51,6 +49,10 @@
   - [ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)不提供退费服务，请试用满意后再购买。
   - 下次购买仍需首先发邮件给客服索要二维码，而不可向本次给您的二维码直接付款，否则，如果给您造成损失，恕[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)概不负责。背后的原因是：今天愿意帮[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)做转付的老用户，明天就有可能改变主意而不愿再帮[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)。
   - 这是一种临时救急方式，[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)并不倡导，而且随时会被[ 公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)叫停，望您努力走[ 官网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)购买渠道。
+
+### 二、为金刚App梯充流量
+
+当前免费公测中，不必购买流量
 
 谢谢！
 
