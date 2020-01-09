@@ -52,13 +52,13 @@
 
 
 #### 金刚号类
-- [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
 - [金刚主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
+- [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
 - [金刚主号、金刚副号的用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
-- [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
 - [万能金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
+- [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkidsusage.md)
 
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkid.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
