@@ -5,6 +5,7 @@
 - [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+- [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
 
 #### 金刚ABC
 - [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
@@ -19,8 +20,6 @@
 - [积分用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsUsage.md)
 - [积分与美元兑换比例](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsForUSD.md)
 - [推荐朋友荐积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnPoints.md)
-
-
 
 
 
@@ -85,7 +84,6 @@
 
 
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
-- [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
 
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 - [注册 动词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
