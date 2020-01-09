@@ -1,7 +1,7 @@
 ###### 玩转金刚梯 免梯阅读版>
 ### 为金刚号梯充流量
 
-- 从金刚网自助充流量
+- 1、从金刚网自助充流量
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - [ 登录 ](https://www.atozitpro.net/zh/login/)[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
   - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，选择拟充入流量的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
@@ -20,8 +20,26 @@
 
 
 
-- 让客服帮您充流量
-  - [<strong> 点此阅读《金刚号梯流量价格》</strong> ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
+- 2、让客服帮您充流量
+  - <strong>《金刚号梯流量价格》</strong> 
+
+|级别|有效期|流量GB|价格USD|价格RMB|
+|------| ------| ------| ------|------| 
+|初级|月包|30|3.00|21.37|
+|初级 |半年包|180|15.00|106.87| 
+|初级 |年包|360|27.00|192.37| 
+|中级 |月包|90|4.50|32.06|
+|中级 |半年包|540|22.50|169.31|
+|中级 |年包|1080|40.00|284.99|
+|高级 |月包|300|9.20|65.55|
+|高级 |半年包|1800|46.00|327.74|
+|高级 |年包|3600|83.00|591.36|
+|超级|月包|3000|23.50|167.43|
+|超级 |半年包|18000|117.50|837.17|
+|超级 |年包|36000|212.00|1510.46|
+
+
+
   - [发邮件给客服 ](mailto:cs@a2zit.us)索要代转款老用户二维码
   - 请付款给走通官网支付的老用户。
   - 请截支付完成屏给客服一一十分重要一一并请永久保留此截屏。
