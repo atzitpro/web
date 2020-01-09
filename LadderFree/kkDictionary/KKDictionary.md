@@ -14,11 +14,12 @@
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 - [金刚VPN产品与VPN服务的价值](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [《金刚公司与金刚用户就使用金刚VPN产品和金刚VPN服务合约》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEndusercontract.md)
+
 #### 金刚用户类
 
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
-- [注册 动词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
-- [注册 名词](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
+- [注册流程](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
+- [注册](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
 - [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
 - [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 
