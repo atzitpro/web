@@ -2,7 +2,7 @@
 
 ### 金刚号梯
 
-- <strong> 金刚号梯 </strong>是由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/atozitpro.md)研发、销售的一款[ VPN产品 ]()
+- <strong> 金刚号梯 </strong>是由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)研发、销售的一款[ VPN产品 ]()
 - <strong> 金刚号梯 </strong>由一组共4条参数构成，这组参数是：
   - [ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)     比如：c57124983
   - [ 金刚密码 ]()   比如：12345678
