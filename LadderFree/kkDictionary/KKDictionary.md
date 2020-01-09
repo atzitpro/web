@@ -50,7 +50,6 @@
 
 - [金刚流量包有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)
 
-金刚流量包有效期
 
 金刚流量包有效期开始时刻
 
