@@ -2,7 +2,7 @@
 ### 金刚字典
 
 #### 翻墙ABC
-- [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
+- [安全上网v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 - [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
