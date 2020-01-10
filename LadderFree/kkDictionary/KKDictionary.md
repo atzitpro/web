@@ -96,8 +96,8 @@
 - [金刚广告商邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLinkFromAdvertiser.md)
 
 - [金刚推荐人](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKReferrer.md)
-- [金刚推荐人邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLinkFromReferrer.md)
-- [金刚推荐人邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
+- [金刚推荐人邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCodeFromReferrer.md)
+- [金刚推荐人邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLinkFromReferrer.md)
 
 - [金刚邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCode.md)
 - [金刚邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLink.md)
