@@ -26,7 +26,7 @@
 
 
 #### 积分类
-- [积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
+- [积分v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
 - [积分获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsToEarn.md)
 - [积分有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsExpiration.md)
 - [积分用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsUsage.md)
