@@ -17,7 +17,7 @@
 
 #### 金刚用户类
 
-- [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
+- [金刚用户v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
 - [注册](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
 - [注册方式](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
 - [注册流程](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
