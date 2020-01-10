@@ -5,7 +5,7 @@
 - [安全上网v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 - [翻墙v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-- [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
+- [网络防火墙v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
 
 #### 金刚ABC
 - [金刚公司v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
