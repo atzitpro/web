@@ -99,8 +99,8 @@
 - [金刚推荐人邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 - [金刚推荐人邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 
-- [金刚邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
-- [金刚邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
+- [金刚邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCode.md)
+- [金刚邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLink.md)
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
