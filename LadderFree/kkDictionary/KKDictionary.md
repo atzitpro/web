@@ -10,7 +10,7 @@
 #### 金刚ABC
 - [金刚公司v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
 - [金刚中文网v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
-- [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚VPN产品v](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 - [金刚VPN产品与VPN服务的价值v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [《金刚公司与金刚用户就使用金刚VPN产品和金刚VPN服务合约》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEndusercontract.md)
