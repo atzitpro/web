@@ -49,7 +49,7 @@ Lafayette, CO 80026, USA
 
 3、将帮助金刚用户突破第三方设立的网络防火墙，使其在Internet上畅行无阻，自由上网；
 
-4、将加密金刚用户与其所访问的目标网站之间、金刚用户xx传输的全部往来信息，使第三方即使采用当今最先进的技术也无法嗅探、无法破译，从而保护用户的隐私和安全；
+4、将加密[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)与其所访问的目标网站之间、[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)使用墙外社交媒体时所传输的全部往来信息，使第三方即使采用当今最先进的技术也无法破译，从而保护[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)的隐私和安全
  
 5、将帮助金刚的公司（或非公司组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的网络防火墙，完成身份认证，进而访问公司内部网。
 
