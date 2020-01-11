@@ -14,7 +14,7 @@
 
 - 凡扫该码的朋友
   - 如果该码由[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)获取，将被引导到[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)注册，并获取[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
-  - 如果该码由[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)从[ 金刚App梯 ]()内获取，将被引导到[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的下载页面，获取[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
+  - 如果该码由[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)从[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)内获取，将被引导到[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的下载页面，获取[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
 
 
 
