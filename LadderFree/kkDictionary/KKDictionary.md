@@ -21,7 +21,7 @@
 - [注册v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
 - [注册渠道v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
 - [注册流程v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
-- [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
+- [注册邮箱v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 
 
 
