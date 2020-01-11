@@ -1,8 +1,8 @@
 ###### 玩转金刚梯>金刚字典>
 ### 金刚伙伴
-- 所谓<Strong> 金刚伙伴 </Strong>是指分享[ 金刚 ]()给新人，获取某种报酬的[ 金刚 ]()合作者
+- 所谓<Strong> 金刚伙伴 </Strong>是指分享[ 金刚梯 ]()给新人，获取某种报酬的[ 金刚 ]()合作者
 - <Strong> 金刚伙伴 </Strong>共两类
-  - [ 金刚广告商 ]()
+  - [ 金刚广告商 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAdvertiser.md)
   - [ 金刚推荐人 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKReferrer.md)
 
 #### 返回到
