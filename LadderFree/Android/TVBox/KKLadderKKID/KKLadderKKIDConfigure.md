@@ -41,10 +41,5 @@
     - 打开浏览器或者youtube客户端，即可自由上网
 
 
-#### 推荐阅读
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_elpkkvpn.md)
-- [金刚公司类](https://github.com/a2zitpro/web/blob/master/list_a2zitpro.md)
-- [金刚产品与服务](https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)
-- [金刚1.0金刚号梯](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn1.0.md)
-- [金刚号梯产品获取与配置](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
