@@ -2,7 +2,7 @@
 ### 金刚邀请二维码
 
 - 所谓<Strong> 金刚邀请二维码 </Strong >是指：
-  - 由[ 金刚合作伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)散发的一种邀请新人使用[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)的二维码
+  - 由[ 金刚合作伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)散发的一种邀请新人使用[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)的二维码
 
 - <Strong> 金刚邀请二维码 </Strong >的种类
   - 由[ 金刚广告商 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAdvertiser.md)散发的<Strong> 金刚邀请二维码 </Strong>分两类
