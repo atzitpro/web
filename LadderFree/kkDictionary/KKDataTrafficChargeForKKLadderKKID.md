@@ -5,7 +5,7 @@
 
 感谢信任与支持！
 
-1、从金刚网自助充流量
+1、从[ 金刚网 ]()自助充流量
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - [ 登录 ](https://www.atozitpro.net/zh/login/)[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
   - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，选择拟充入流量的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
@@ -23,7 +23,7 @@
 
 2、让客服帮您充流量
 
-- 如果从金刚网自助充流量有困难，您可以让金刚客服帮您充流量
+- 如果从[ 金刚网 ]()自助充流量有困难，您可以让金刚客服帮您充流量
 
   - <strong>《金刚号梯流量价格》</strong> 
 
