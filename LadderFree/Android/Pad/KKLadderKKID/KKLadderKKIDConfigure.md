@@ -6,7 +6,7 @@
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)：一梯在手，全家自由
   - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)：一梯万能，多机通用
  
-#### 配置说明
+#### 配置
 ![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 - 点开手机、平板主屏上的<strong> 设置 </strong>, 在<strong> 设置 </strong>下，设法找到<strong> VPN </strong>
 - 因采用安卓的手机、平板厂商为数众多，<strong> 设置 </strong>下的条目五花八门，因此，金刚无法用统一的名词、术语做精准描述。现仅以 ViVO 手机为主叙述
