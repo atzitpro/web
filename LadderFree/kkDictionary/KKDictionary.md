@@ -47,7 +47,7 @@
 
 - [金刚号梯 找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
 - [普通金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
-- [万能金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
+- [万能金刚号梯v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
 
 
 
