@@ -18,25 +18,25 @@
   - 操纵工具
     - 机顶盒遥控器
   - 配置步骤
-    - 打开机顶盒
-    - 找到系统应用
-    - 进入系统应用
-    - 打开其中的设置
-    - 打开设置里面的更多选项
-    - 打开更多选项里面的VPN选项
-    - 选中右上角的“+”，点击进入
-    - 在名称处输入 AAA金刚 或 金刚号
-    - 在类型处选择 L2TP/IPSec PSK
-    - 在L2TP密钥处及IPSec标识符处 保持空白
-    - 在IPSec预共享密钥处填入 mft
-    - 点击保存按钮
-    - 选择并点击 AAA金刚 或 金刚号
+    - 打开<strong> 机顶盒 </strong>
+    - 找到<strong> 系统应用 </strong>
+    - 进入<strong> 系统应用 </strong>
+    - 打开其中的</strong> 设置 </strong>
+    - 打开<strong> 设置 </strong>里的<strong> 更多选项 </strong>
+    - 打开<strong> 更多选项 </strong>里的<strong> VPN </strong>选项
+    - 选中右上角的<strong> + </strong>，点击<strong> 进入</strong> 
+    - 在<strong>名称</strong>处输入<strong> AAA金刚 </strong>或<strong> 金刚号</strong>
+    - 在<strong>类型</strong>处选择<strong> L2TP/IPSec PSK </strong>
+    - 在<strong> L2TP密钥处及IPSec标识符</strong>处<strong> 保持空白</strong>
+    - 在<strong> IPSec预共享密钥处</strong>填入<strong> mft </strong>
+    - 点击<strong> 保存 </strong>按钮
+    - 选择并点击<strong> AAA金刚 </strong>或 <strong>金刚号</strong>
     - 在弹出的对话框里
-      - 用户名 处填入 金刚号
-      - 密码 处填入 金刚密码
-      - 选择记住用户名和密码
-    - 点击连接按钮，机顶盒自动进行VPN连接
-    - 连接成功后显示：已连接 表明翻墙成功
+      - <strong>用户名</strong> 处填入 <strong>金刚号</strong>
+      - <strong>密码</strong> 处填入 <strong>金刚密码</strong>
+      - 勾选<strong>记住用户名和密码</strong>
+    - 点击<strong>连接</strong>按钮，机顶盒自动进行VPN连接
+    - 连接成功后显示<strong>已连接</strong>，表明翻墙成功
     - 回到机顶盒的主界面
     - 打开浏览器或者youtube客户端，即可自由上网
 
