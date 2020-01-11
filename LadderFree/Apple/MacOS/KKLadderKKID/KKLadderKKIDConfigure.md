@@ -6,7 +6,10 @@
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)：一梯在手，全家自由
   - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)：一梯万能，多机通用
  
-#### 配置说明
+#### 配置
+
+- 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+
 - 在苹果电脑上配置金刚号梯与在苹果手机上配置类似
 
 - 类型：IPSec上的L2TP
