@@ -18,7 +18,7 @@
     - 微信
     - QQ
     - 邮件
-  - 等方式分享
+  - 等分享
 
 #### 返回到
 - [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
