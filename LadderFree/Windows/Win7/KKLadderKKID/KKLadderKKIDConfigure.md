@@ -6,7 +6,10 @@
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)：一梯在手，全家自由
   - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)：一梯万能，多机通用
  
-#### 配置说明
+#### 配置
+
+- 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+
 1. 打开 控制面板，运行 网络和共享中心
 2. 选择 设置新的连接或网络，在弹窗 设置连接或网络 中，选中 连接到工作区
 3. 单击 下一步，在窗口 连接到工作区 中，选择 否，创建新连接
