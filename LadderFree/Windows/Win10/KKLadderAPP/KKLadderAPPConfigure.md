@@ -20,6 +20,7 @@
 ![Image](https://github.com/a2zitpro/web/blob/master/icons8-softether-vpn-50-1.png)
 
 #### <strong>配置</strong>
+- 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 - 点击桌面图标：
 ![Image](https://github.com/a2zitpro/web/blob/master/icons8-softether-vpn-50-1.png)
 - 弹出如下窗口：
