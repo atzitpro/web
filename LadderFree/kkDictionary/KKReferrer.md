@@ -11,7 +11,7 @@
 - 成为<Strong> 金刚推荐人 </Strong> ：
   - 每一位[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)同时也是<strong> 金刚推荐人 </strong>
 
-- 分享方法
+- <Strong> 金刚推荐人 </Strong>分享方法
   - <strong> 金刚推荐人 </strong>请按[ 分享金刚梯赚取积分的方法 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)分享
 
 
