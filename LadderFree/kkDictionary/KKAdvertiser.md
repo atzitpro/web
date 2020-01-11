@@ -12,7 +12,7 @@
   - 需到[ 金刚网>菜单>金刚广告商 ](https://www.atozitpro.net/zh/affiliate-home/)之下注册，获得<Strong> 金刚广告商 </Strong>身份，进而获取分享工具：
     - [金刚广告商邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCodeFromAdvertiser.md)
     - [金刚广告商邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLinkFromAdvertiser.md)
-  - 需从[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)中的<Strong> 分享 </Strong>之下获取分享工具：
+  - 需从[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)中的<Strong> 分享 </Strong>之下获取分享工具（尚未投产）：
     - [金刚广告商邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCodeFromAdvertiser.md)
     - [金刚广告商邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLinkFromAdvertiser.md)
 
