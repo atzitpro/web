@@ -9,7 +9,6 @@
 - [VPN与代理服务器的区别？](https://github.com/a2zitpro/web/blob/master/whatisdifferenceVPN&proxy.md)
 - [一款优秀的翻墙梯应具备哪些特征？](https://github.com/a2zitpro/web/blob/master/characteristicsofanexcellentladder.md)
 
-#### 推荐阅读
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [翻墙ABC](https://github.com/a2zitpro/web/blob/master/list_abcofvpn.md)
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
