@@ -7,7 +7,7 @@
   - [ 一拖九 ](https://github.com/a2zitpro/web/blob/master/onefornine.md)：一号在手，全家自由
   - [ 万能号 ](https://github.com/a2zitpro/web/blob/master/multipurposekkid.md)：一号万能，多机通用
  
-- 《配置说明》
+- 配置
     
   - 鸣谢：该《配置说明》由金刚之友西归道人探索撰写、无尝奉献，为千千万万只能使用遥控器的中老年朋友自由上网、获取全球资讯开劈了一条康庄大道，功德无量。金刚特向朋友西归道人致以诚挚的谢意！
   - 机顶盒品牌型号
