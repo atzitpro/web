@@ -12,9 +12,9 @@
     - 从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)获取并散发的<Strong> 金刚邀请链接 </Strong >
     - 从[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的<Strong> 分享 </Strong>下获取并散发的<Strong> 金刚邀请链接 </Strong >
 
-- 凡点击该链接的朋友
-  - 如果该链接由[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)获取，将被引导到[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)注册，并获取[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
-  - 如果该链接由[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)从[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)内获取，将被引导到[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的下载页面，获取[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
+- 点击该链接
+  - 如果该链接由[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)获取，新人将被引导到[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)注册，并获取[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
+  - 如果该链接由[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)从[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)内获取，新人将被引导到[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的下载页面，获取[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
 
 
 #### 返回到
