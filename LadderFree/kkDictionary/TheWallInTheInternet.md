@@ -7,8 +7,8 @@
 
 - 英文中的“墙”一一GFW
   - GFW是Great Firewall的缩写
-  - GFW最早出现在（以下[ ]里的内容来自维基百科）[2002年5月17日Charles R. Smith所写的一篇关于中国网络审查的文章《The Great Firewall of China》，取与 Great Wall（长城）相谐的效果，简写为Great Firewall，缩写GFW。]
-  - [随着使用的拓广，中文“墙”和英文“GFW”有时也被用作动词，网友所说的“被墙”即指网站内容被防火长城所屏蔽或者指服务器的通讯被封阻]
+  - 维基百科：GFW最早出现在2002年5月17日Charles R. Smith所写的一篇关于中国网络审查的文章《The Great Firewall of China》，取与 Great Wall（长城）相谐的效果，简写为Great Firewall，缩写GFW。
+  - 维基百科：随着使用的拓广，中文“墙”和英文“GFW”有时也被用作动词，网友所说的“被墙”即指网站内容被防火长城所屏蔽或者指服务器的通讯被封阻
   - Great Wall的功能是抵御外敌入侵；而GFW之类的功能是封堵国民，阻止国民自由获取公开信息
 
 
