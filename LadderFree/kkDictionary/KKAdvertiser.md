@@ -9,6 +9,9 @@
   - 需从[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)中的<Strong> 分享 </Strong>之下获取分享工具：
     - [金刚广告商邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCodeFromAdvertiser.md)
     - [金刚广告商邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLinkFromAdvertiser.md)
+- 分享
+  - 
+
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
