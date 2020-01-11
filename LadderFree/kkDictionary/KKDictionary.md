@@ -88,7 +88,7 @@
 - [金刚免费流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageFree.md)
 - [金刚收费流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageToll.md)
 
-- [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
+- [一拖九v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 
 #### 金刚伙伴
 - [金刚伙伴](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)
