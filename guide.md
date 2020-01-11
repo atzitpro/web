@@ -37,6 +37,6 @@
 - [脸书 FaceBook app](https://github.com/a2zitpro/web/blob/master/downloadfacebookapp.md)
 
 #### 推荐阅读
-- [获取金刚2.0 app梯](https://github.com/a2zitpro/web/blob/master/dl.md)
-- [获取金刚1.0 金刚号梯](https://github.com/a2zitpro/web/blob/master/金刚产品-金刚1.0金刚号梯.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/dl.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/金刚产品-金刚1.0金刚号梯.md)
 - [墙外软件商店](https://github.com/a2zitpro/web/blob/master/appstores.md)
