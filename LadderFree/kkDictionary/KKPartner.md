@@ -3,7 +3,7 @@
 - 所谓<Strong> 金刚伙伴 </Strong>是指分享[ 金刚 ]()给新人，获取某种报酬的[ 金刚 ]()合作者
 - <Strong> 金刚伙伴 </Strong>共两类
   - [ 金刚广告商 ]()
-  - [ 金刚推荐人 ]()
+  - [ 金刚推荐人 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKReferrer.md)
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
