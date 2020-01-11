@@ -10,6 +10,9 @@
 #### 配置
     
   - 鸣谢：该《配置说明》由金刚之友西归道人探索撰写、无尝奉献，为千千万万只能使用遥控器的中老年朋友自由上网、获取全球资讯开劈了一条康庄大道，功德无量。金刚特向朋友西归道人致以诚挚的谢意！
+
+  - 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+
   - 机顶盒品牌型号
     - 小米机顶盒3增强版
   - 机顶盒操作系统
