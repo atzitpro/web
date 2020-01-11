@@ -2,7 +2,7 @@
 ### 金刚推荐人
 
 - 所谓<strong> 金刚推荐人 </strong>是指
-  - 分享[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)给他人、使他人成为[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)、自己赚取[ 积分 ]()的[ 金刚伙伴 ]()
+  - 分享[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)给他人、使他人成为[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)、自己赚取[ 积分 ]()的[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)
   - 每一位[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)同时也是<strong> 金刚推荐人 </strong>
   - <strong> 金刚推荐人 </strong>[ 赚取积分的方法 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)
 
