@@ -1,5 +1,5 @@
 ###### 玩转金刚梯>金刚字典>
-### 操作系统 Oprating System
+### 操作系统 英文：Oprating System 缩写：OS
 
 
 #### 返回到
