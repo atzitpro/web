@@ -37,11 +37,11 @@
     - 在弹出的对话框里
       - <strong>用户名</strong> 处填入 <strong>金刚号</strong>
       - <strong>密码</strong> 处填入 <strong>金刚密码</strong>
-      - 勾选<strong>记住用户名和密码</strong>
-    - 点击<strong>连接</strong>按钮，机顶盒自动进行VPN连接
-    - 连接成功后显示<strong>已连接</strong>，表明翻墙成功
+      - 勾选<strong> 记住用户名和密码 </strong>
+    - 点击<strong> 连接 </strong>按钮，机顶盒自动进行VPN连接
+    - 连接成功后显示<strong> 已连接 </strong>，表明翻墙成功
     - 回到机顶盒的主界面
-    - 打开浏览器或者youtube客户端，即可自由上网
+    - 打开浏览器或者Youtube客户端，即可自由上网
 
 
 #### 返回到
