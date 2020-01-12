@@ -30,7 +30,7 @@
     - 选中右上角的<strong> + </strong>，点击<strong> 进入</strong> 
     - 在<strong> 名称 </strong>处输入<strong> AAA金刚 </strong>或<strong> 金刚号</strong>
     - 在<strong> 类型 </strong>处选择<strong> L2TP/IPSec PSK </strong>
-    - 在<strong> L2TP密钥处及IPSec标识符</strong>处<strong> 保持空白 </strong>
+    - 在<strong> L2TP密钥及IPSec标识符 </strong>处<strong> 保持空白 </strong>
     - 在<strong> IPSec预共享密钥 </strong>处填入<strong> mft </strong>
     - 点击<strong> 保存 </strong>按钮
     - 选择并点击<strong> AAA金刚 </strong>或 <strong>金刚号</strong>
