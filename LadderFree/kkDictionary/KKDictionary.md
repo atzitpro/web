@@ -18,7 +18,7 @@
 - [《金刚公司与金刚用户就使用金刚VPN产品和金刚VPN服务合约》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEnduserContract.md)
 
 #### 设备ABC
-- [安卓类手机]()
+- [安卓类手机](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/AndroidPhone.md)
 - [安卓类平板]()
 - [安卓类机顶盒]()
 - [苹果手机]()
