@@ -1,5 +1,5 @@
 ###### 玩转金刚梯>金刚字典>
-### 操作系统 Opration System
+### 操作系统 Oprating System
 
 
 #### 返回到
