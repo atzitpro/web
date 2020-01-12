@@ -25,16 +25,18 @@
 - 如果金刚App安装包尚未下载到PC磁盘，则请[ 点击此处下载 ](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md)
 - 把U盘插入小米安卓机顶盒U口，电视机则显示检测到新的USB设备
 - 用机顶盒遥控器
-  - 在打开和取消两个按钮中，选择并点击打开按钮，即可打开U盘
-  - 从U盘里找刚刚从PC磁盘上复制而来的金刚安卓客户端安装包
+  - 在<strong> 打开 </strong>和<strong> 取消 </strong>两个按钮中，选择并点击<strong> 打开 </strong>按钮，即可打开U盘
+  - 从U盘里找刚刚从PC磁盘上复制而来的金刚安卓App安装包
   - 选中该安装包
-  - 按中间的OK键，开始安装
-  - 安装完毕，打开刚才安装的KKVpn
-  - 在KKVpn里选择美国加州线路或香港线路
-  - 点击连接
-  - 连接成功后，打开机顶盒的主界面
-  - 让KKVpn在后台运行
-  - 千万不要按遥控器的退出键，否则KKVpn连接将断开
+  - 按遥控器中间的<strong> OK </strong>键，开始安装
+  - 安装完毕，打开刚才安装的金刚安卓App
+  - 在金刚安卓App里选择
+    - 美国加州线路 或
+    - 香港线路
+  - 点击<strong> 连接 </strong>
+  - 连接成功后，打开机顶盒的<strong> 主界面 </strong>
+  - 让金刚安卓App在后台运行
+  - 千万不要按遥控器的<strong> 退出 </strong>键，否则金刚安卓App的连接将断开
   - 打开浏览器或youtube客户端，将可以搜索、播放您感兴趣的任何内容
 
 #### <strong> 安装方法2 </strong>：
@@ -53,7 +55,7 @@ https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk
 或
 
 https://bitbucket.org/kk64/public/downloads/app-prod-release.apk
-- 下载金刚App一一后续安装和打开步骤与<strong> 安装方法1 </strong>完全相同
+- 下载金刚安卓App一一后续安装和打开步骤与<strong> 安装方法1 </strong>完全相同
 
 #### 返回到
 [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
