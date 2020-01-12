@@ -3,11 +3,11 @@
 ### 配置金刚号注意事项
 
 - 将单个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)配入手机（或其他设备）时
-  - 务必逐字录入，切勿复制粘贴
-  - 凡字母、数字、标点，必须在英文模式下录入，切勿在中文全角模式下录入
-  - 每个参数的中间、两端，切勿录入空格
+  - 务必逐字录入，<strong>切勿复制粘贴</strong>
+  - 凡字母、数字、标点，必须在<strong> 英文模式 </strong>下录入，切勿在中文全角模式下录入
+  - 每个参数的中间、两端，<strong>切勿录入空格</strong>
 - 将多个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)配入同一部手机（或其他设备）时
-  - 用[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)替代<font color="Black"> AAA金刚 </font>填入<font color="Red"> 名称 </font>或<font color="Red"> 描述 </font>处，以避免冲突
+  - 用[<strong> 金刚号 </strong>](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)替代<strong> AAA金刚 </strong>填入<strong> 名称 </strong>或<strong> 描述 </strong>处，以避免冲突
 
 
 #### 返回到
