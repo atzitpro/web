@@ -24,7 +24,7 @@
     - 打开<strong> 机顶盒 </strong>
     - 找到<strong> 系统应用 </strong>
     - 进入<strong> 系统应用 </strong>
-    - 打开其中的</strong> 设置 </strong>
+    - 打开其中的<strong> 设置 </strong>
     - 打开<strong> 设置 </strong>里的<strong> 更多选项 </strong>
     - 打开<strong> 更多选项 </strong>里的<strong> VPN </strong>选项
     - 选中右上角的<strong> + </strong>，点击<strong> 进入</strong> 
