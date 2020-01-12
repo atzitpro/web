@@ -28,15 +28,15 @@
     - 打开<strong> 设置 </strong>里的<strong> 更多选项 </strong>
     - 打开<strong> 更多选项 </strong>里的<strong> VPN </strong>选项
     - 选中右上角的<strong> + </strong>，点击<strong> 进入</strong> 
-    - 在<strong>名称</strong>处输入<strong> AAA金刚 </strong>或<strong> 金刚号</strong>
-    - 在<strong>类型</strong>处选择<strong> L2TP/IPSec PSK </strong>
-    - 在<strong> L2TP密钥处及IPSec标识符</strong>处<strong> 保持空白</strong>
-    - 在<strong> IPSec预共享密钥处</strong>填入<strong> mft </strong>
+    - 在<strong> 名称 </strong>处输入<strong> AAA金刚 </strong>或<strong> 金刚号</strong>
+    - 在<strong> 类型 </strong>处选择<strong> L2TP/IPSec PSK </strong>
+    - 在<strong> L2TP密钥处及IPSec标识符</strong>处<strong> 保持空白 </strong>
+    - 在<strong> IPSec预共享密钥 </strong>处填入<strong> mft </strong>
     - 点击<strong> 保存 </strong>按钮
     - 选择并点击<strong> AAA金刚 </strong>或 <strong>金刚号</strong>
     - 在弹出的对话框里
-      - <strong>用户名</strong> 处填入 <strong>金刚号</strong>
-      - <strong>密码</strong> 处填入 <strong>金刚密码</strong>
+      - <strong> 用户名 </strong> 处填入 <strong> 金刚号 </strong>
+      - <strong> 密码 </strong> 处填入 <strong> 金刚密码 </strong>
       - 勾选<strong> 记住用户名和密码 </strong>
     - 点击<strong> 连接 </strong>按钮，机顶盒自动进行VPN连接
     - 连接成功后显示<strong> 已连接 </strong>，表明翻墙成功
