@@ -17,6 +17,19 @@
 - [金刚VPN产品与VPN服务的价值v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [《金刚公司与金刚用户就使用金刚VPN产品和金刚VPN服务合约》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEnduserContract.md)
 
+#### 设备ABC
+- [安卓类手机]()
+- [安卓类平板]()
+- [安卓类机顶盒]()
+- [苹果手机]()
+- [苹果平板]()
+- [苹果电脑]()
+- [苹果机顶盒]()
+- [安卓类手机]()
+- [Windows]()
+- [Win7]()
+- [Win10]()
+
 #### 金刚用户类
 
 - [金刚用户v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
