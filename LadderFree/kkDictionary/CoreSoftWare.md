@@ -1,6 +1,6 @@
 ###### 玩转金刚梯>金刚字典>
 ### 核心软件
-- 所谓智能设备中的 <strong> 核心软件 </strong>是指赋于智能设备智慧的最重要、最关键的软件。
+- 所谓智能设备中的 <strong> 核心软件 </strong>是指赋于智能设备智慧的最重要、最关键的软件
 - <strong> 核心软件 </strong>的专业名称叫[ 操作系统 或 作业系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS.md)
 -  [ 操作系统  ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS.md)是一部智能设备上所有[ 应用软件 ]()（比如社交媒体类软件、游戏类软件等）的基石
 
