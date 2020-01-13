@@ -6,7 +6,13 @@
 |设备|操作系统|
 | --------| --------|
 |个人电脑PC|Windows|
-|苹果电脑P|MacOS|
+|个人电脑PC|Linux|
+|苹果电脑|MacOS|
+|苹果手机|iOS|
+|苹果平板|iOS|
+|安卓手机|Android|
+|安卓平板|Android|
+|安卓机顶盒|Android|
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
