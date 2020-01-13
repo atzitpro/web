@@ -29,7 +29,7 @@
 - [Windows]()
 - [Win7]()
 - [Win10]()
-- [操作系统]()
+- [操作系统](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS.md)
 - [安卓操作系统]()
 - [苹果操作系统iOS]()
 - [苹果操作系统MacOS]()
