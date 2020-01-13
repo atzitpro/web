@@ -23,7 +23,7 @@
 
 2、让客服帮您充流量
 
-- 如果从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)自助充流量有困难，您可以让金刚客服帮您购买并充入流量
+- 如果从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)自助充流量有困难，您可让金刚客服帮您购买并充入流量
 
   - <strong>《金刚号梯流量价格》</strong> 
 
