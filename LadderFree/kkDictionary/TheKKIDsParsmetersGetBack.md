@@ -1,5 +1,6 @@
+###### 玩转金刚梯>金刚字典>
 
-### 找回金刚号的配套参数
+### 如何找回金刚号的配套参数？
 
 可用以下3种方式找回：
 
@@ -20,5 +21,11 @@ c、给客服发邮件
 
 - 客服将帮您找回
 - 需要时间成本一一客服将在24小时内回复您
+
+
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
+
 
 
