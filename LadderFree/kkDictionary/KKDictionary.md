@@ -30,11 +30,11 @@
 - [Win7]()
 - [Win10]()
 - [操作系统](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS.md)
-- [安卓操作系统](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_Android.md)
-- [苹果操作系统iOS]()
-- [苹果操作系统MacOS]()
+- [安卓操作系统 Android OS](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_Android.md)
+- [苹果操作系统 iOS]()
+- [苹果操作系统 MacOS]()
 - [核心软件](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/CoreSoftWare.md)
-- [开源操作系统](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/CoreSoftWare.md)
+- [开源操作系统](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_OpenSourceOS.md)
 
 
 #### 金刚用户类
