@@ -12,7 +12,6 @@
 #### 金刚ABC
 - [金刚公司v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
 - [金刚中文网v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
-- [如何找回登录金刚网的密码？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ThePassWordAtKKSitezhGetBack.md)
 - [金刚VPN产品v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
 - [金刚VPN服务v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 - [金刚VPN产品与VPN服务的价值v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
@@ -125,6 +124,10 @@
 
 - [金刚邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCode.md)
 - [金刚邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLink.md)
+
+#### “找回”类
+- [如何找回登录金刚网的密码？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ThePassWordAtKKSitezhGetBack.md)
+
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
