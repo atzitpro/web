@@ -6,14 +6,14 @@
 
 |设备|操作系统|开源|厂商|
 | --------| --------|  --------|   --------|
-|个人电脑PC|Windows|否
-|个人电脑PC|Linux|
-|苹果电脑|MacOS|
-|苹果手机|iOS|
-|苹果平板|iOS|
-|安卓手机|Android|
-|安卓平板|Android|
-|安卓机顶盒|Android|
+|个人电脑PC|Windows|否|美国微款
+|个人电脑PC|Linux|是||
+|苹果电脑|MacOS|否|美国苹果|
+|苹果手机|iOS|否|美国苹果|
+|苹果平板|iOS|否|美国苹果|
+|安卓手机|Android|是|美国谷歌|
+|安卓平板|Android|是|美国谷歌|
+|安卓机顶盒|Android|是|美国谷歌|
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
