@@ -34,7 +34,7 @@
 - [苹果操作系统 iOS]()
 - [苹果操作系统 MacOS]()
 - [核心软件](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/CoreSoftWare.md)
-- [开源操作系统](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_OpenSourceOS.md)
+- [开源操作系统 OpenSourceOS](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_OpenSourceOS.md)
 
 
 #### 金刚用户类
