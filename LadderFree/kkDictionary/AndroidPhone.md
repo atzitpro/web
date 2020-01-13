@@ -1,7 +1,7 @@
 ###### 玩转金刚梯>金刚字典>
 ### 安卓类手机
 
-- 所谓<strong> 安卓类手机 </strong> 是指其[ 核心软件 ]()釆用[ 安卓操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_Android.md)的那一类手机
+- 所谓<strong> 安卓类手机 </strong> 是指其[ 核心软件 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/CoreSoftWare.md)釆用[ 安卓操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_Android.md)的那一类手机
 - <strong> 安卓 </strong>并不是一个手机品牌，而是一个[ 操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS.md)的品牌
 - <strong> 安卓 </strong>隶属于美国谷歌公司，是一个[ 开源操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_OpenSourceOS.md)
 - 多个品牌的手机都釆用了[ 安卓操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_Android.md)，比如三星、华为、小米等手机均釆用[ 安卓操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_Android.md)
