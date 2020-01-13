@@ -1,5 +1,5 @@
 ###### 玩转金刚梯>金刚字典>
-### 安卓类手机
+### 安卓类机顶盒
 
 - 所谓<strong> 安卓类手机 </strong> 是指其[ 核心软件 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/CoreSoftWare.md)釆用[ 安卓操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_Android.md)的那一类手机
 - <strong> 安卓 </strong>并不是一个手机品牌，而是一个[ 操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS.md)的品牌
