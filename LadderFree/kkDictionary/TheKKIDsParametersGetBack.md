@@ -10,7 +10,7 @@ a、从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDi
 - 登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
 - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，点击您想找回其[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)，在新的一页里，标题<font color="black"> 配置信息 </font>之下列明[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
 
-b、从[ 注册邮箱 ]的收件箱中找回
+b、从[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)的收件箱中找回
 
 - 每一个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)都对应着一封<font color="black"> 派号通知单邮件 </font>
 - 在这封邮件里，包含[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)及[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
