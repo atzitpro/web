@@ -28,11 +28,11 @@ Lafayette, CO 80026, USA
 
 二、本合约所涉及的卖方产品和服务
 
-1、本合约仅涉及卖方的[ VPN产品 ]()和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)。
+1、本合约仅涉及卖方的[ 金刚VPN产品 ]()和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)。
 
 2、目前在售的[ 金刚VPN产品 ]()和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
 
-- 金刚第2代产品 [ 金刚app梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
+- 金刚第2代产品 [ 金刚App梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
 - 金刚第1代产品 [ 金刚号梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
