@@ -15,7 +15,7 @@
     - 微信
     - QQ
     - 邮件
-  - 等分享
+  - 等分享，即可实现<strong> 推荐朋友赚积分 </strong>的目标
 
 #### 返回到
 - [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
