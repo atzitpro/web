@@ -36,7 +36,7 @@ Lafayette, CO 80026, USA
 
 - 金刚第1代产品 [ 金刚号梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
-3、[ 金刚公司 ]()的所有[ VPN产品 ]()均免费供应；[ 金刚公司 ]()仅对经由[ 金刚VPN产品 ]()向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)收费。
+3、卖方的所有[ VPN产品 ]()均免费供应；卖方仅对经由[ 金刚VPN产品 ]()向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)收费。
 
 
 三、卖方产品和服务的价值
