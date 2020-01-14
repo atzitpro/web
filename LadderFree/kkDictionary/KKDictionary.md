@@ -23,7 +23,7 @@
 - [安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/AndroidTVBox.md)
 - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_iPhone.md)
 - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_iPad.md)
-- [苹果电脑]()
+- [苹果电脑](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_MacOS.md)
 - [苹果机顶盒]()
 - [安卓类手机]()
 - [Windows]()
