@@ -1,7 +1,7 @@
 ###### 玩转金刚梯>金刚字典>
 ### Win10 操作系统
 
-- 所谓<strong> Win10 </strong>是[ Windows ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Windows.md)的一个版本
+- 所谓<strong> Win10 </strong>是[ Windows ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Windows.md)诸多版本中的一个版本
 - <strong> Win10 </strong> 是仅可安装在个人电脑(即PC)上的[ 操作系统 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS.md)
 - <strong> Win10 </strong> 是美国微软公司的产品
 
