@@ -1,8 +1,8 @@
 ###### 玩转金刚梯
-#### 安卓类平板
+#### Linux类机顶盒
 ### 下载 金刚App梯
 
-- 请确保您当前所持的设备为安卓类平板
+- 请确保您当前所持的设备为Linux类机顶盒
 - 请点击下载金刚App梯:
   - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
   - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
