@@ -34,7 +34,7 @@ Lafayette, CO 80026, USA
 
 - 金刚第2代产品 [ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
-- 金刚第1代产品 [ 金刚号梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
+- 金刚第1代产品 [ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
 3、卖方的所有[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)均免费供应；卖方仅对经由[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)收费。
 
@@ -122,7 +122,7 @@ Lafayette, CO 80026, USA
 
 A、自然人用户
 
-a、使用金刚第1代产品[ 金刚号梯 ]()的用户解除合约时：
+a、使用金刚第1代产品[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)的用户解除合约时：
 
 给金刚客服邮箱发送邮件“解除合约”，则启动合约解除流程
 
