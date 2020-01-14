@@ -24,8 +24,7 @@
 - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_iPhone.md)
 - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_iPad.md)
 - [苹果电脑](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_MacOS.md)
-- [苹果机顶盒]()
-- [安卓类手机]()
+- [苹果机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_TVBox.md)
 - [Windows]()
 - [Win7]()
 - [Win10]()
@@ -35,6 +34,7 @@
 - [苹果操作系统 MacOS]()
 - [核心软件](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/CoreSoftWare.md)
 - [开源操作系统 OpenSourceOS](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_OpenSourceOS.md)
+- [闭源操作系统 OpenSourceOS](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_SourceOS.md)
 
 
 #### 金刚用户类
