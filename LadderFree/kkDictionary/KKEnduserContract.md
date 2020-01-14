@@ -28,20 +28,20 @@ Lafayette, CO 80026, USA
 
 二、本合约所涉及的卖方产品和服务
 
-1、本合约仅涉及卖方的[ VPN产品 ]()和[ VPN服务 ]()。
+1、本合约仅涉及卖方的[ VPN产品 ]()和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)。
 
-2、目前在售的[ 金刚VPN产品 ]()和[ VPN服务 ]()：
+2、目前在售的[ 金刚VPN产品 ]()和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
 
-- 金刚第2代产品 [ 金刚app梯 ]()及[ 金刚VPN服务 ]()
+- 金刚第2代产品 [ 金刚app梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
-- 金刚第1代产品 [ 金刚号梯 ]()及[ 金刚VPN服务 ]()
+- 金刚第1代产品 [ 金刚号梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
 3、[ 金刚公司 ]()的所有[ VPN产品 ]()均免费供应；[ 金刚公司 ]()仅对经由[ 金刚VPN产品 ]()向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ]()收费。
 
 
 三、卖方产品和服务的价值
 
-使用[ 金刚VPN产品 ]()和[ 金刚VPN服务 ]()：
+使用[ 金刚VPN产品 ]()和[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
 
 1、将帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)隐藏、保护其IP地址、地理位置等个人隐私信息，使其所访问的网站（不包括地图类网站）无法捕获上述信息；
 
