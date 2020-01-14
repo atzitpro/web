@@ -25,7 +25,7 @@
 - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_iPad.md)
 - [苹果电脑](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_MacOS.md)
 - [苹果机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Apple_TVBox.md)
-- [Windows]()
+- [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_Windows.md)
 - [Win7]()
 - [Win10]()
 - [操作系统](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS.md)
