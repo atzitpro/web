@@ -32,7 +32,7 @@ Lafayette, CO 80026, USA
 
 2、目前在售的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
 
-- 金刚第2代产品 [ 金刚App梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
+- 金刚第2代产品 [ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
 - 金刚第1代产品 [ 金刚号梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
@@ -122,11 +122,11 @@ Lafayette, CO 80026, USA
 
 A、自然人用户
 
-a、使用金刚第1代产品金刚号梯的用户解除合约时：
+a、使用金刚第1代产品[ 金刚号梯 ]()的用户解除合约时：
 
 给金刚客服邮箱发送邮件“解除合约”，则启动合约解除流程
 
-b、使用金刚第2代产品金刚App梯的用户解除合约时：
+b、使用金刚第2代产品[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的用户解除合约时：
 
 卸载金刚客户端即意味着解除合约
 
