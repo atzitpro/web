@@ -28,20 +28,20 @@ Lafayette, CO 80026, USA
 
 二、本合约所涉及的卖方产品和服务
 
-1、本合约仅涉及卖方的[ 金刚VPN产品 ]()和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)。
+1、本合约仅涉及卖方的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)。
 
-2、目前在售的[ 金刚VPN产品 ]()和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
+2、目前在售的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
 
 - 金刚第2代产品 [ 金刚App梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
 - 金刚第1代产品 [ 金刚号梯 ]()及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
-3、卖方的所有[ 金刚VPN产品 ]()均免费供应；卖方仅对经由[ 金刚VPN产品 ]()向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)收费。
+3、卖方的所有[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)均免费供应；卖方仅对经由[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)收费。
 
 
 三、卖方产品和服务的价值
 
-使用[ 金刚VPN产品 ]()和[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
+使用[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
 
 1、将帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)隐藏、保护其IP地址、地理位置等个人隐私信息，使其所访问的网站（不包括地图类网站）无法捕获上述信息；
 
@@ -51,7 +51,7 @@ Lafayette, CO 80026, USA
 
 4、将加密[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)与其所访问的目标网站之间、[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)使用墙外社交媒体时所传输的全部往来信息，使第三方即使采用当今最先进的技术也无法破译，从而保护[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)的隐私和安全
  
-5、将帮助[ 金刚 ]()的公司（或非公司组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的[ 网络防火墙 ]()，完成身份认证，进而访问公司内部网。
+5、将帮助卖方的公司（或非公司组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的[ 网络防火墙 ]()，完成身份认证，进而访问公司内部网。
 
 
 四、合法与合规
