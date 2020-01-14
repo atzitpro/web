@@ -53,7 +53,7 @@
 - [积分有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsExpiration.md)
 - [积分用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsUsage.md)
 - [积分与美元兑换比例](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsForUSD.md)
-- [推荐朋友荐积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)
+- [推荐朋友荐积分v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)
 
 
 
