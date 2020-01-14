@@ -3,11 +3,21 @@
 ![image](l-w-s-athird.png)
 
 ## 翻墙神器金刚梯
-- [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)精心打造
-- 带您穿越[ 长城 ](https://github.com/a2zitpro/web/blob/master/list_abcofvpn.md)、给您全息资讯
-- 覆盖[ 主流智能设备 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts&services.md)、全方位VPN护航
+- [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)精心打造
+- 带您穿越[ 长城 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheWallInTheInternet.md)、给您全息资讯
+- 覆盖[ 主流智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)、全方位VPN护航
 - 视频流畅、画质清晰
-- 基于美国法律的[ 用户信息和用户隐私保护 ](https://github.com/a2zitpro/web/blob/master/Endusercontract.md)
+- 基于美国法律的[ 用户信息和用户隐私保护 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEnduserContract.md)
+- 两代方案，供您选择
+  - 第2代 
+    - 下载安装app 
+    - 易用好用
+    - 当前仅支持安卓和Windows
+    - 免费公测中
+  - 第1代 
+    - 配置即可 无需app 
+    - 适用于所有主流智能设备
+    - 免费、收费均有，老少咸宜，丰俭由您
 
 #### 一. 金刚第2代产品 App梯
 1、适用于 安卓手机/安卓平板/安卓机顶盒
@@ -37,12 +47,11 @@
   - 获取
     - 在PC+Windows环境中，点击链接，下载、安装[ SSL客户端 ](https://github.com/a2zitpro/web/blob/master/win.md)，查看[《配置说明》](https://github.com/a2zitpro/web/blob/master/win.md)
 
-#### 二. 金刚第1代产品 金刚号梯 配置即可 不需app 适用面广
-- [点击获取 ](https://github.com/a2zitpro/web/blob/master/list_kkproducts1.0.md)
+#### 二. 金刚第1代产品 金刚号梯 配置即可 适用面广 无需app
+- [点击获取 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 
 #### 三、帮助
 - [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
 
 #### 四、联系客服
 - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
-
