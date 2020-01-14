@@ -2,7 +2,7 @@
 ### 获取积分方式
 
 - 共有以下获取[ 积分 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)方式
-  - <strong>方式1 </strong>:[ 推荐朋友荐积分 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)每推荐成功1位，立即、自动奖您积分150点
+  - <strong>方式1 </strong>:[ 推荐朋友荐积分 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)每推荐成功1位，立即、自动、分步奖您积分150点
   - <strong>方式2 </strong>:从[ 金刚网>商店 ](https://www.atozitpro.net/zh/shop/)购买积分 具有钞票放大器的功效，比如花$100买到的积分在金刚网可能值$120或更多
   - <strong>方式3 </strong>:从[ 金刚积分交易所 ]()购买打折出售的[ 积分 ]()，再用积分购买流量，比用金钱购买[ 流量 ]()更划算
   - <strong>方式4 </strong>:实资购买[ 流量 ]()，获消费美元金额10%的积分
