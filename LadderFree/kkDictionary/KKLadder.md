@@ -8,7 +8,7 @@
 - <strong> 金刚梯 </strong>分为两类：
   - [金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - [金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-- 两类<strong> 金刚梯 </strong>可用于苹果、安卓、Windows、Linux四大类[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- 两类<strong> 金刚梯 </strong>可用于苹果、安卓、Windows、Linux 四大类[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 
 
 #### 返回到
