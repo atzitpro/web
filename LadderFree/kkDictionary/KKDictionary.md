@@ -63,7 +63,7 @@
 - [积分与美元兑换比例](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsForUSD.md)
 - [推荐朋友荐积分v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)
 - [积分交易所]()
-- [积分账户]()
+- [积分账户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsAccount.md)
 
 #### 金刚梯
 - [金刚1代产品 金刚号梯 概览](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkG1Overview.md)
