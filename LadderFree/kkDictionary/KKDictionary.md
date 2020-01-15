@@ -53,7 +53,7 @@
 - [注册流程v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
 - [注册邮箱v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 - [金刚用户身份的解除](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUserContractTermination.md)
-- [金刚账户]()
+- [金刚账户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAccount.md)
 
 #### 积分类
 - [积分v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
