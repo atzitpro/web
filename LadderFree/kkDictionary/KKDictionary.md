@@ -88,7 +88,7 @@
 - [金刚号的形态](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
 - [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
 - [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
-
+- [金刚密码]()
 
 
 #### 流量类
