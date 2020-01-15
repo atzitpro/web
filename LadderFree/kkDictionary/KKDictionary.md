@@ -130,7 +130,7 @@
 - [如何找回金刚号的配套参数？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheKKIDsParametersGetBack.md)
 
 #### “如果操作”类
-- [变更金刚密码，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDPassWordChange.md)
+- [变更金刚密码，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWordChange.md)
 
 
 #### 返回到
