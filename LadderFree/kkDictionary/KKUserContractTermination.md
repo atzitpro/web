@@ -15,7 +15,7 @@
   - 该用户在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)的[ 金刚账户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAccount.md)将注销
   - 该用户的[ 金刚账户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAccount.md)下的所有[ 金刚号 ]()将注销
   - 该用户的[ 金刚账户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAccount.md)下的所有剩余流量将注销
-  - 该用户的[ 金刚账户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAccount.md)下的所有[ 积分 ]()将注销
+  - 该用户的[ 金刚账户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAccount.md)下的所有[ 积分 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)将注销
   - [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)不因该用户与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)解除[ 合约 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEnduserContract.md)而放弃对其个人信息和个人隐私的保护
 
 
