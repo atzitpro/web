@@ -7,7 +7,7 @@
   - 由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)发起的解除[ 合约 ]()
     - 因[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)明显、直接违反[ 合约 ]()条款的言行导致解除[ 合约 ]()
     - [ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)的言行虽未明显、直接违 反[ 合约 ]()条款，但其言行的后果损害了[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)声誉及利益时，[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)有主动与其解除[ 合约 ]()的权利
-    - [ 金刚公司 ]()发起解除[ 合约 ]()的方式之一是：永久停用该用户的[ 金刚账户 ]()
+    - [ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)发起解除[ 合约 ]()的方式之一是：永久停用该用户的[ 金刚账户 ]()
 
 - 合约解除后：
 
