@@ -132,7 +132,7 @@
 
 - [金刚邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCode.md)
 - [金刚邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLink.md)
-
+- [被推荐人]()
 #### “如何找回”类
 - [如何找回登录金刚网的密码？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ThePassWordAtKKSitezhGetBack.md)
 - [如何找回金刚号的配套参数？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheKKIDsParametersGetBack.md)
