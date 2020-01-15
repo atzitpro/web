@@ -7,7 +7,7 @@
 -  <strong> 金刚账户 </strong >的主要组成部分：
   - [ 用户名 ]()项内保存的是[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)注册时提交的电子邮箱
   - [ 密码 ]()项内保存的是[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)时所需密码的密文
-  - [ 金刚号 ]()、[ 积分 ]()、[ 被推荐人 ]()等全部挂在<strong> 金刚账户 </strong>之下
+  - [ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)、[ 积分 ]()、[ 被推荐人 ]()等全部挂在<strong> 金刚账户 </strong>之下
 - 每次登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)，都需正确录入该邮箱和密码
 
 #### 返回到
