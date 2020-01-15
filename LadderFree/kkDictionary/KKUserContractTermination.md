@@ -1,9 +1,9 @@
 ###### 玩转金刚梯>金刚字典>
 ### 解除金刚用户身份
 
-- 解除[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)身份即解除[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)的[ 合约 ]()
+- 解除[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)身份即解除[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)的[ 合约 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEnduserContract.md)
   - 由[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)发起的解除[ 合约 ]()
-    - 当[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)需要与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)解除[ 合约 ]()时，[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)只需来邮说：<font color="Black">解除合约</font>，则[ 合约 ]()立即解除
+    - 当[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)需要与[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)解除[ 合约 ]()时，[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)只需来邮说：<strong>解除合约</strong>，则[ 合约 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEnduserContract.md)立即解除
   - 由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)发起的解除[ 合约 ]()
     - 因[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)明显、直接违反[ 合约 ]()条款的言行导致解除[ 合约 ]()
     - [ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)的言行虽未明显、直接违 反[ 合约 ]()条款，但其言行的后果损害了[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)声誉及利益时，[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)有主动与其解除[ 合约 ]()的权利
