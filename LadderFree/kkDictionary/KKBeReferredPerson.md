@@ -1,10 +1,10 @@
 ###### 玩转金刚梯>金刚字典>
 ### 被推荐人
-- 所谓<font color="Red"> 被推荐人 </font>是指经由:
-  - 扫描您的[ 邀请二维码 ](https://github.com/a2zitpro/web/blob/master/邀请二维码-推荐人) 或
-  - 点击您的[ 邀请链接 ](https://github.com/a2zitpro/web/blob/master/邀请链接-推荐人)
+- 所谓<strong> 被推荐人 </strong >是指经由:
+  - 扫描[ 金刚广告商 ]()或[ 金刚推荐人 ]()散发的[ 邀请二维码 ]() 或
+  - 点击[ 金刚广告商 ]()或[ 金刚推荐人 ]()散发的[ 邀请链接 ]()
 
-到达[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)并[ 注册 ](https://github.com/a2zitpro/web/blob/master/l2_reg.md)成功的[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master//kkuser.md)
+到达[ 金刚网 ]()并[ 注册 ](https://github.com/a2zitpro/web/blob/master/l2_reg.md)成功的[ 金刚用户 ]()
 
 
 #### 返回到
