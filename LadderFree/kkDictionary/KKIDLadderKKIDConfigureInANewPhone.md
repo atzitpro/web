@@ -4,7 +4,7 @@
 
 - 第1步：[找回金刚号及配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheKKIDsParametersGetBack.md)
 
-- 第2步：找回配置说明
+- 第2步：[找回配置说明]()
 
 - 第3步：配入新手机
   - 将[ 金刚号 ]()及[ 配套参数 ]()严格按照原样逐字[ 正确录入 ]()手机
