@@ -2,7 +2,7 @@
 ### 换了新手机，如何找回金刚号并配入？
 分3步走：
 
-第1步：找回[ 金刚号及配套参数 ]()
+第1步：[找回金刚号及配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheKKIDsParametersGetBack.md)
 
 第2步：找回配置说明
 
