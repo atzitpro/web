@@ -14,7 +14,7 @@ b、从[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/k
 
 - 每一个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)都对应着一封<font color="black"> 派号通知单邮件 </font>
 - 在这封邮件里，包含[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)及[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
-- 在[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)派出的同时，<font color="black"> 派号通知单邮件 </font>即已发送到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
+- 在[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)派出的同时，<strong> 派号通知单邮件 </strong >即已发送到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 - 该邮件十分重要，应妥善保管
 - 在您的注册邮箱里，搜索关键字<strong> 派号通知单 </strong>，即可搜到所有[ 金刚号 ]()及其[ 配套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
 
