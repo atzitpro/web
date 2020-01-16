@@ -141,7 +141,7 @@
 - [变更金刚密码，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWordChange.md)
 
 #### “可以吗”类
-- [可以用短命邮箱在金刚网注册吗？]()
+- [可以用短命邮箱在金刚网注册吗？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DisposableMailbox.md)
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
