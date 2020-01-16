@@ -1,5 +1,5 @@
 ###### 玩转金刚梯>金刚字典>
-### 换了新手机，如何找回金刚号并配入？
+### 想把金刚号配入新手机，如何操作？
 分3步走：
 
 - 第1步：[找回金刚号及配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheKKIDsParametersGetBack.md)
