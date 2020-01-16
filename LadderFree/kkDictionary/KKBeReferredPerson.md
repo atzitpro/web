@@ -4,7 +4,7 @@
   - 扫描[ 金刚广告商 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAdvertiser.md)或[ 金刚推荐人 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKReferrer.md)散发的[ 邀请二维码 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCode.md) 或
   - 点击[ 金刚广告商 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAdvertiser.md)或[ 金刚推荐人 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKReferrer.md)散发的[ 邀请链接 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLink.md)
 
-- 到达[ 金刚网 ]()并[ 注册 ](https://github.com/a2zitpro/web/blob/master/l2_reg.md)成功的[ 金刚用户 ]()
+- 到达[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)并[ 注册 ](https://github.com/a2zitpro/web/blob/master/l2_reg.md)成功的[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
 
 
 #### 返回到
