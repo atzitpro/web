@@ -1,3 +1,4 @@
+###### 玩转金刚梯>金刚字典>
 ### 如何获得金刚号？
 
 - 共有以下<strong> 获得方式 </strong>：
@@ -9,3 +10,9 @@
   - 该[ 流量包有效期 ]()1个月
 - [ 连通 ]()[ 金刚号 ]()，登录[ 金刚网 ]()，在[ 金刚网>菜单>商店 ](https://www.atozitpro.net/zh/shop/)里购买[ 金刚号 ]()
 - 给客服发邮件，客服将视具体情况决定是否派送您[ 金刚号 ]()
+
+
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
+
