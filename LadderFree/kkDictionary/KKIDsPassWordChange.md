@@ -5,7 +5,7 @@
 
 - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)当前不提供修改[ 金刚密码 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)的功能
 - 建议您保护好您的[ 金刚密码 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)
-- [ 金刚密码 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)泄露后，您需[发邮件](mailto:cs@a2zit.us)告知客服。[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)为您所能做的是
+- [ 金刚密码 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)泄露后，您需[ 发邮件 ](mailto:cs@a2zit.us)告知客服。[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)为您所能做的是
   - 注销该[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
   - 按与该梯剩余有效期和剩余流量大致相当的原则，重派您一架[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
 - 从[ 金刚密码 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)泄露到[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)被注销之间，巳经造成的损失需要您承担
