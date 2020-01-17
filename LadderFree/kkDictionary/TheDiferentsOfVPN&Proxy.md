@@ -19,10 +19,8 @@
   - 采用代理方式的著名翻墙软件有SS/SSR(Shadowsocks、ShadowsocksR)
 
 - 代理服务器方式的短板
-  - 
 
 - VPN的工作原理
-  - 
 
 
 
