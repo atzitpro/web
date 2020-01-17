@@ -2,7 +2,7 @@
 
 ### 一拖九
 - 所谓<strong> 一拖九 </strong>是指：
-  - 同1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)可被同时配入不限数量的、金刚列明的智能设备
+  - 同1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)可被同时配入不限数量的、金刚列明的[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
   - 凡被配入[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)的设备均具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
   - 最多允许9部配入同1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)的设备可同时[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
   - 这些设备共享该[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)内流量
