@@ -1,5 +1,5 @@
 ###### 玩转金刚梯>金刚字典>
-### 流量包有效期起算时刻
+### 流量包有效期开始时刻
 
 - 分以下3种情况：
   - 凡属[ 即买即用 ](https://a2zitpro.github.io/web/justuseitwhenbuyit)的流量包，其有效期从<font color="Red"> 购买成功之时 </font>开始起算
