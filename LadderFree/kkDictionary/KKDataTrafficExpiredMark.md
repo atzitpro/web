@@ -1,3 +1,4 @@
+###### 玩转金刚梯>金刚字典>
 ### 想知道流量是否过期，如果操作？
 - 有2种方法供您识别：
   - 方法1：在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)查:
@@ -7,5 +8,10 @@
 
   - 方法2：在您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)里查:
     - 当一个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)的[ 流量过期 ](https://github.com/a2zitpro/web/blob/master/kkdatatrafficexpired.md)后，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/kksitecn.md)会自动发续费订单邮件到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/emailaddressforregonkksitecn.md)提醒您
+
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
+
 
 
