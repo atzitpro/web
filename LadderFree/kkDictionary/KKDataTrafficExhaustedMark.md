@@ -6,10 +6,10 @@
 
 - [ 连通 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)出来
 - 登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
-- 在 [ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，如果[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的<strong> 剩余流量 </strong > 为 <strong> 0 </strong>，则表明捆绑在该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)上的流量包内的[ 流量已提前耗尽 ]()
+- 在 [ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，如果[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的<strong> 剩余流量 </strong > 为 <strong> 0 </strong>，则表明捆绑在该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)上的流量包内的[ 流量已提前耗尽 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedEarly.md)
 
 #### 方法2：在您的注册邮箱里查:
-- 当一个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的[ 流量提前耗尽 ]()时，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)会自动发邮件到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)提醒您
+- 当一个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的[ 流量提前耗尽 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedEarly.md)时，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)会自动发邮件到您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)提醒您
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
