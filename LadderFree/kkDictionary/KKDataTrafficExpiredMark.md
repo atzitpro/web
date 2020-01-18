@@ -1,9 +1,9 @@
 ###### 玩转金刚梯>金刚字典>
 ### 想知道流量是否过期，如果操作？
 - 有2种方法供您识别流量是否过期
-  - 方法1：在[ 金刚网 ]()查:
+  - 方法1：在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)查:
     - [ 连通 ]()您的[ 金刚号 ]()翻墙出来
-    - 登录[ 金刚网 ]()
+    - 登录[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
     - 在 [ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，如果[ 金刚号 ]()的<strong> 剩余流量 </strong > 为 <strong> 待续费 </strong>，则表明该[ 金刚号 ]()的[ 流量 ]()已过期
 
   - 方法2：在您的[ 注册邮箱 ]()里查:
