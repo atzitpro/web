@@ -141,7 +141,7 @@
 - [获取副号，该如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliaryGet.md)
 - [想把金刚号配入新手机，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDLadderKKIDConfigureInANewPhone.md)
 - [想知道流量是否过期，如何操作？]()
-- [想知道流量是否提前耗尽，如何操作？]()
+- [想知道流量是否提前耗尽，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedMark.md)
 
 #### “可以吗”类
 - [可以用短命邮箱在金刚网注册吗？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DisposableMailbox.md)
