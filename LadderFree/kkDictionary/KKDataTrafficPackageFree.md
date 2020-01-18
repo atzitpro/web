@@ -3,8 +3,8 @@
 - 所谓<strong> 金刚免费流量包 </strong >是指：
   - [ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)向 [ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)赠送的、[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)不必花费
     - [ 积分 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)或
-    - 金钱
-  - 购买即可获得的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)
+    - 金钱 购买
+  - 即可获得的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)
 
 - 据现行政策，[金刚公司 ](https://github.com/a2zitpro/web/blob/master/a2zitpro.md)提供以下<font color="Red"> 免费流量 </font>：
   - [ 普通金刚号 ](https://github.com/a2zitpro/web/blob/master/singlepurposekkid.md)+Windows+[ SSL客户端 ](https://github.com/a2zitpro/web/blob/master/getSSLclientapp.md) 一一 无上限供应<font color="Red"> 免费流量 </font>
