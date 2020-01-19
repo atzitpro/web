@@ -3,7 +3,7 @@
 ### 放弃金刚号
 
 
-- 金刚网会[ 自动回收 ](https://a2zitpro.github.io/web/kkidrecycling)
+- 金刚网会[ 自动回收 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDRecycling.md)
 - 发邮件给客服
   - 客服将帮您注销
   - 需要时间成本一一客服将在24小时内回复您
