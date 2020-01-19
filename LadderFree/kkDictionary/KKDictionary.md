@@ -19,7 +19,7 @@
 - [金刚公司v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
 - [金刚中文网v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
 - [金刚中文网 登录用户名](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZhsUserName.md)
-- [金刚中文网 登录密码]()
+- [金刚中文网 登录密码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZhsPasswd.md)
 - [金刚中文网 登录初始密码]()
 - [金刚VPN产品v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
 - [金刚VPN服务v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
