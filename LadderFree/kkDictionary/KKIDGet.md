@@ -1,7 +1,7 @@
 ###### 玩转金刚梯>金刚字典>
-### 如何获得金刚号？
+### 获得金刚号
 
-- 共有以下<strong> 获得方式 </strong>：
+#### 共有3种<strong> 获得方式 </strong>：
 
 - 当您在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)[ 注册 ]()后，[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)将自动派送您第1个[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - 该号是[ 万能金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
