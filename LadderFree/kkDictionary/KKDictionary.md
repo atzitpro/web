@@ -8,7 +8,7 @@
 - [搭梯v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 - [翻墙v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 - [网络防火墙v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
-- [什么是VPN？](https://github.com/a2zitpro/web/blob/master/whatisvpn.md)
+- [什么是VPN？]()
 - [什么是VPS？]()
 - [什么是代理服务器？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Proxy.md)
 - [VPN与代理服务器的区别？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheDiferenceOfVPN%26Proxy.md)
