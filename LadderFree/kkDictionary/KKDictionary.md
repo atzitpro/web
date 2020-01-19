@@ -106,7 +106,10 @@
 - [金刚流量充入 金刚号梯   ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficChargeForKKLadderKKID.md)
 - [金刚流量充入 金刚App梯  ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficChargeForKKLadderAPP.md)
 - [金刚流量过期           ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpired.md)
+- [金刚流量过期的识别      ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpiredMark.md)
+
 - [金刚流量提前耗尽       ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhausted.md)
+- [金刚流量提前耗尽的识别  ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedMark.md)
 
 - [金刚流量获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/.md)
 - [金刚流量价格 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/onefornine.md)
