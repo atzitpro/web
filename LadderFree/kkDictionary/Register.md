@@ -1,5 +1,6 @@
 ###### 玩转金刚梯>金刚字典>
-### 注册并获取第1架金刚号梯
+### 注册流程
+#### 注册并获取第1架金刚号梯
 
   - <strong>方式1：</strong>
     - 向[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)提交您的私人邮箱
