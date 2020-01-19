@@ -1,10 +1,9 @@
-###### 金刚梯>金刚帮助>翻墻ABC>
+###### 玩转金刚梯>金刚字典>
+
 ### 问：什么是VPS？
 答：VPS是...
 
 
-#### 推荐阅读
-- [金刚梯](https://github.com/a2zitpro/web/blob/master/dlb.md)
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
-- [翻墙ABC](https://github.com/a2zitpro/web/blob/master/list_abcofvpn.md)
-
+#### 返回到
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
