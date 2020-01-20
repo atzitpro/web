@@ -9,7 +9,6 @@
 #### 配置
 ![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 
-
 - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
 - 点开手机、平板主屏上的<strong> 设置 </strong>, 在<strong> 设置 </strong>下，设法找到<strong> VPN </strong>
