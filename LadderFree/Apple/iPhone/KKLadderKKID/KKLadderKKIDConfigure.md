@@ -11,7 +11,7 @@
 
 - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
-- 点开手机主屏上的 设置 > 通用 > VPN > 添加VPN配置… 弹出上图
+- 点开手机主屏上的<strong> 设置>通用>VPN>添加VPN配置… </strong>弹出上图
 - 在 类型 的 IKEv2、IPsec、L2TP 三个选项中：选<font color="Red"> L2TP </font>
 - 在 描述 处填入：<font color="Red"> AAA金刚 </font>
 - 在 服务器 处填入：<font color="Red"> atz 开头的串 </font>
