@@ -9,7 +9,7 @@
   - 百万字节（MB）
   - 十亿字节（GB）
   - 万亿字节（TB）
-- 每个字节的流量相当于从[ 金刚 ]()服务器传输一个英文字母给[ 金刚用户 ]()
+- 每个字节的流量相当于从[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)服务器传输一个英文字母给[ 金刚用户 ]()
 - 各计数单位之间的换算关系如下
   - 1KB=1024B
   - 1MB=1024KB
