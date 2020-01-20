@@ -12,19 +12,19 @@
 - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
 - 点开手机主屏上的<strong> 设置>通用>VPN>添加VPN配置… </strong>弹出上图
-- 在 类型 的 IKEv2、IPsec、L2TP 三个选项中：选<font color="Red"> L2TP </font>
-- 在 描述 处填入：<font color="Red"> AAA金刚 </font>
-- 在 服务器 处填入：<font color="Red"> atz 开头的串 </font>
-- 在 账户 处填入：<font color="Green"> 金刚号 </font>
-- RSASecurID 开关：关闭
-- 在 密码 处填入：<font color="Green"> 金刚密码 </font>
-- 在 密钥 处填入：<font color="Red"> mft </font>
-- 发送所有流量 开关：打开
-- 在 代理 的 关闭、手动、自动 三个选项中：选 关闭
-- 点击右上角的 完成
-- 如果已安装多个 VPN 工具，则应勾选刚刚创建的<font color="Red"> AAA金刚 </font>，确保 蓝色的勾 打在<font color="Red"> AAA金刚 </font>的左侧，不可打在其他VPN工具上
-- 状态开关：打开，开始连接金刚
-- 屏幕顶端出现 带框VPN 图标，表示 金刚连接成功，可自由上网
+- 在<strong>类型 </strong>的<strong> IKEv2、IPsec、L2TP </strong>三个选项中：选<strong> L2TP </strong>
+- 在<strong> 描述 </strong>处填入：<strong> AAA金刚 </strong> 或 <strong> 金刚号 </strong>
+- 在<strong> 服务器 </strong>处填入：<strong> atz 开头的串 </strong>
+- 在<strong> 账户 <strong>处填入：<strong> 金刚号 </strong>
+- <strong>RSASecurID </strong>开关：<strong> 关闭 </strong>
+- 在<strong> 密码 <strong>处填入：<strong> 金刚密码 </strong>
+- 在<strong> 密钥 </strong>处填入：<strong> mft </strong>
+- <strong>发送所有流量 </strong>开关：<strong> 打开 </strong>
+- 在<strong> 代理 </strong>的<strong> 关闭、手动、自动 </strong>三个选项中：选<strong> 关闭 </strong>
+- 点击右上角的<strong> 完成 </strong>
+- 如果已安装多个 VPN 工具，则应勾选刚刚创建的<strong> AAA金刚 </strong>或<strong> 金刚号 </strong>，确保 蓝色的勾 打在<strong> AAA金刚 </strong>的左侧，不可打在其他VPN工具上
+- <strong>状态 </strong>开关：<strong>打开</strong>，开始连接金刚
+- 屏幕顶端出现<strong> 带框VPN </strong>图标，表示 <strong>金刚连接成功</strong>，可自由上网
 - 下载谷歌浏览器 Chrome 和 YouTube 视频播放器
 - 在金刚保持连接的状态下，在谷歌浏览器内录入网址 google.com，然后搜索您感兴趣的任何内容，或在 YouTube 视频播放器里搜索您感兴趣的任何内容
 - 如果连接失败，则请参阅[ 《金刚号梯报错、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
