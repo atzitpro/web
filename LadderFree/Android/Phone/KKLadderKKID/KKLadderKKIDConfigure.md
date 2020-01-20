@@ -9,7 +9,7 @@
 #### 配置
 ![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 
-- 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+- 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
 - 点开手机主屏上的<strong> 设置 </strong>, 在<strong> 设置 </strong>下，设法找到<strong> VPN </strong>
 - 因采用安卓的手机厂商为数众多，<strong> 设置 </strong>下的条目五花八门，因此，金刚无法用统一的名词、术语做精准描述。现仅以 ViVO 手机为主叙述
