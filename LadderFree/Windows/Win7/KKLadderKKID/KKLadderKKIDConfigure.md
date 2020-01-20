@@ -8,7 +8,7 @@
  
 #### 配置
 
-- 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+- 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
 1. 打开 控制面板，运行 网络和共享中心
 2. 选择 设置新的连接或网络，在弹窗 设置连接或网络 中，选中 连接到工作区
@@ -43,6 +43,7 @@
 总之，您需要在 网络设置 里找到 设置新的网络连接，创建一个VPN连接，然后按照以上叙述，把<font color="Green"> 绿色内容 </font>与<font color="Red"> 红色内容 </font>填入正确的位置，或按照 <font color="Red"> 红色内容 </font>做正确的选择。
     
 #### 返回到
-[玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
 
