@@ -1,6 +1,6 @@
 ###### 玩转金刚梯>金刚字典>
 ### 金刚流量
-- 所谓<strong> 金刚流量 </strong>是指经由[ 金刚 ]()服务器向[ 金刚用户 ]()供应的数字化信量
+- 所谓<strong> 金刚流量 </strong>是指经由[ 金刚 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)服务器向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)供应的数字化信量
 - 是衡量金刚向用户提供服务的尺度
 - 是金刚收取服务费用的依据
 - 流量的计数单位是字节（B）、千节字（KB）、百万字节（MB）、十亿字节（GB）、万亿字节（TB）
