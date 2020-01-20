@@ -8,6 +8,8 @@
  
 #### 配置说明
 
+- 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+
 1. 点击电脑左下角 Windows 图标 > 设置图标 > 网络和Internet > 网络和共享中心 > 设置新的连接或网络 > 连接到工作区
 2. 点击 下一步 > 使用我的 Internet 连接VPN
 3. 在 Internet地址 处填入：<font color="Red">atz开头的串</font>
