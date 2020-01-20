@@ -89,7 +89,7 @@
 - [金刚主号、金刚副号的用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
 - [普通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/singlepurposekkid.md)
 - [万能金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
-- [金刚号卖什么价？]()
+- [金刚号卖什么价？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPrice.md)
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
 - [金刚号获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDGet.md)
 - [c9开头金刚号获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDWithC9Get.md)
