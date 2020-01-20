@@ -21,7 +21,7 @@
 
 #### <strong>配置</strong>
 
-- 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+- 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 - 点击桌面图标：
 
 ![Image](https://github.com/a2zitpro/web/blob/master/icons8-softether-vpn-50-1.png)
@@ -65,5 +65,6 @@
 ![Image](https://github.com/a2zitpro/web/blob/master/配置005A.png)
 
 #### 返回到
-[玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
