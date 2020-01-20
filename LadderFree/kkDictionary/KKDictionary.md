@@ -153,6 +153,6 @@
 - [想获得c9开头金刚号，该如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDWithC9Get.md)
 #### “可以吗”类
 - [可以用短命邮箱在金刚网注册吗？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DisposableMailbox.md)
-- [我可以用多个邮箱在金刚网注册多个金刚账户吗？]()
+- [我可以用多个邮箱在金刚网注册多个金刚账户吗？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegisterAtKKSiteZhWithMultiEmailAddress.md)
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
