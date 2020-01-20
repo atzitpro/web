@@ -138,6 +138,8 @@
 - [金刚邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLink.md)
 - [被推荐人]()
 #### “如何找回”类
+
+- [如何找回在金刚网的注册邮箱？]()
 - [如何找回、变更登录金刚网的密码？v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ThePassWordAtKKSitezhGetBack.md)
 - [如何找回金刚号的配套参数？v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheKKIDsParametersGetBack.md)
 
