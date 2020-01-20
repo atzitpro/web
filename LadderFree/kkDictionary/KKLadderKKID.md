@@ -2,20 +2,15 @@
 
 ### 金刚号梯
 
-- <strong> 金刚号梯 </strong>是由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)研发、销售的一款[ VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
-- <strong> 金刚号梯 </strong>由一组共4条参数构成，这组参数是：
-  - [ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)     比如：c57124983
-  - [ 金刚密码 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)   比如：12345678
-  - [ 服务器 ]()     比如：atz57.softether.net
-  - [ 预共享密钥 ]()  比如：mft
-- 把金刚网派送您的这套参数按照《配置说明》[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)下列设备之一，该设备即具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)本领，而勿需在您的设备上下载、安装[ 金刚 ]()或其它品牌的任何客户端软件：
-  - 苹果类设备
-  - 安卓类设备
-  - Windows 类设备
-  - Linux 类设备
+- <strong> 金刚号梯 </strong>是由[ 金刚公司 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)研发、销售的一款[ 金刚梯 ]()的统称
+- 其产品形态是由4条参数构成的[ 一套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
+- 其中最重要的参数是[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)，故名金刚号梯
+- 把[ 金刚网 ]()派送您的[ 这套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)按照《配置说明》[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)下列设备之一，该设备即具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)本领，而勿需在您的设备上下载、安装[ 金刚 ]()或其它品牌的任何客户端软件：
+- [ 金刚用户 ]()只需把[ 这套参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)[ 正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)[ 智能设备](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)，即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 - <strong> 金刚号梯 </strong>共分为两类
   - [ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
   - [ 普通金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
+
 
 
 #### 返回到
