@@ -75,10 +75,10 @@
 - [金刚号梯 报错、原因、对策](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 - [金刚号梯 获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)
 - [金刚号梯 获取更多](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetMore.md)
-
 - [金刚号梯 找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
 - [普通金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
 - [万能金刚号梯v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
+- [一拖九v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 
 
 
@@ -122,8 +122,6 @@
 - [金刚流量 大宗流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficBulk.md)
 - [金刚免费流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageFree.md)
 - [金刚收费流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageToll.md)
-
-- [一拖九v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 
 #### 金刚伙伴
 - [金刚伙伴](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)
