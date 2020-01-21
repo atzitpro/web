@@ -17,7 +17,7 @@
 - 在<strong> 服务器 </strong>处填入：<strong> atz 开头的串 </strong>
 - 在<strong> 账户 <strong>处填入：<strong> 金刚号 </strong>
 - <strong>RSASecurID </strong>开关：<strong> 关闭 </strong>
-- 在<strong> 密码 <strong>处填入：<strong> 金刚密码 </strong>
+- 在<strong> 密码 </strong>处填入：<strong> 金刚密码 </strong>
 - 在<strong> 密钥 </strong>处填入：<strong> mft </strong>
 - <strong>发送所有流量 </strong>开关：<strong> 打开 </strong>
 - 在<strong> 代理 </strong>的<strong> 关闭、手动、自动 </strong>三个选项中：选<strong> 关闭 </strong>
