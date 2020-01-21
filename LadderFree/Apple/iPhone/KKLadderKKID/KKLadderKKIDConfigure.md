@@ -15,7 +15,7 @@
 - 在<strong>类型 </strong>的<strong> IKEv2、IPsec、L2TP </strong>三个选项中：选<strong> L2TP </strong>
 - 在<strong> 描述 </strong>处填入：<strong> AAA金刚 </strong> 或 <strong> 金刚号 </strong>
 - 在<strong> 服务器 </strong>处填入：<strong> atz 开头的串 </strong>
-- 在<strong> 账户 <strong>处填入：<strong> 金刚号 </strong>
+- 在<strong> 账户 </strong>处填入：<strong> 金刚号 </strong>
 - <strong>RSASecurID </strong>开关：<strong> 关闭 </strong>
 - 在<strong> 密码 </strong>处填入：<strong> 金刚密码 </strong>
 - 在<strong> 密钥 </strong>处填入：<strong> mft </strong>
