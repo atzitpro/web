@@ -33,18 +33,18 @@
 
 |级别|有效期|流量GB|价格USD|价格RMB|
 |------| ------| ------| ------|------| 
-|初级|月包|30|3.00|<strong>21.37</strong>|
-|初级 |半年包|180|15.00|<strong>106.87</strong>|
-|初级 |年包|360|27.00|<strong>192.37</strong> | 
-|中级 |月包|90|4.50| <strong>32.06</strong>|
-|中级 |半年包|540|22.50|<strong>169.31</strong>|
-|中级 |年包|1080|40.00|<strong>284.99</strong>
-|高级 |月包|300|9.20|<strong>65.55</strong>|
-|高级 |半年包|1800|46.00|<strong>327.74</strong>|
-|高级 |年包|3600|83.00|<strong>591.36</strong>|
-|超级 |月包|3000|23.50|<strong> 167.43</strong>|
-|超级 |半年包|18000|117.50|<strong>837.17</strong>|
-|超级 |年包|36000|212.00|<strong>1510.46</strong>|
+|初级|月包|<strong>30</strong>|3.00|<strong>21.37</strong>|
+|初级 |半年包|<strong>180</strong> |15.00|<strong>106.87</strong>|
+|初级 |年包|<strong>360</strong>|27.00|<strong>192.37</strong> | 
+|中级 |月包|<strong>90</strong>|4.50| <strong>32.06</strong>|
+|中级 |半年包|<strong>540</strong>|22.50|<strong>169.31</strong>|
+|中级 |年包|<strong>1080</strong>|40.00|<strong>284.99</strong>
+|高级 |月包|<strong>300</strong>|9.20|<strong>65.55</strong>|
+|高级 |半年包|<strong>1800</strong>|46.00|<strong>327.74</strong>|
+|高级 |年包|<strong>3600</strong>|83.00|<strong>591.36</strong>|
+|超级 |月包|<strong>3000</strong>|23.50|<strong> 167.43</strong>|
+|超级 |半年包|<strong>18000</strong>|117.50|<strong>837.17</strong>|
+|超级 |年包|<strong>36000</strong>|212.00|<strong>1510.46</strong>|
 
   - [发邮件给客服 ](mailto:cs@a2zit.us)索要代转款老用户的收款二维码
   - 请付款给已走通官网购买的老用户。
