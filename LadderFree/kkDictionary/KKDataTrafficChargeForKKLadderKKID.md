@@ -5,17 +5,17 @@
 
 感谢信任与支持！
 
-1、从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)自助充流量
+#### 1、从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)自助充流量
   - [ 搭好](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - [ 登录 ](https://www.atozitpro.net/zh/login/)[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
   - 在[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，选择拟充入流量的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
-#### 流量过期
+#### A、流量过期
   - 如果该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的右侧显示按钮<strong> 续费 </strong>，则表明捆绑在该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)上的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)已[ 过期 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpired.md)
     - 点击 按钮<strong> 续费 </strong>
     - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)将引导您购买一个新的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)
     - 该[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)的[ 尺寸 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)、[ 有效期长度 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageExpiretion.md)与刚刚过期的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)相同，[ 有效期开始 ]()于购买成功之时
     - 完成购买，您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)将立即可以[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-#### 流量提前耗尽
+#### B、流量提前耗尽
   - 如果该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)的右侧<strong> 剩余流量 </strong>项下显示0，则表明捆绑在该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)上的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)内[ 流量 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)已[ 提前耗尽 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedEarly.md)
     - 点击该[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)，在新的一页里寻找并点击按钮<strong> 充流量/延长期限 </strong>
     - 在弹出的的商品列表中选择比刚刚耗尽的[ 流量包尺寸 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageSize.md)大一级的[ 流量包 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackage.md)
@@ -23,7 +23,7 @@
     - 完成购买，您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)将立即可以[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 
 
-2、让客服帮您充流量
+#### 2、让客服帮您充流量
 
 - 如果从[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)自助充流量有困难，您可让金刚客服帮您购买并充入流量
 
