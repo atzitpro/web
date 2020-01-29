@@ -149,7 +149,7 @@
 - [想知道流量是否过期，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpiredMark.md)
 - [想知道流量是否提前耗尽，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedMark.md)
 - [想获得c9开头金刚号，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDWithC9Get.md)
-- [推荐朋友赚积分，如何操作？]()
+- [推荐朋友赚积分，如何操作？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)
 
 #### “可以吗”类
 - [可用短命邮箱在金刚网注册吗？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DisposableMailbox.md)
