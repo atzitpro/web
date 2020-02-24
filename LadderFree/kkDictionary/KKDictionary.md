@@ -65,6 +65,7 @@
 - [推荐朋友荐积分v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)
 - [积分交易所v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsExchange.md)
 - [积分账户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsAccount.md)
+- [积分价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsPrice.md)
 
 #### 金刚梯
 - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
