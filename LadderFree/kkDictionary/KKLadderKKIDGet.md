@@ -3,7 +3,7 @@
 
 - 1、如果您尚未在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)[ 注册 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)，则请
 
-  - [<strong> 点击这里 </strong>](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Register.md)
+  - [<strong> 点击这里 </strong>](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegisterDIY.md)
 
   - 阅读并照做，将获得第1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
 
