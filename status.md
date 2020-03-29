@@ -10,7 +10,7 @@
 | 2.金刚Windows app梯| <font color="White">正常</font> | 
 | 3.只需配置的L2型金刚号梯| <font color="White">正常</font> | 
  
-### 系统升级 - 已经完成
+### 系统升级
 #### 1、升级内容
 - 金刚app梯（安卓）升级到v2.6 
 - L2型金刚号梯服务器软件升级
