@@ -8,5 +8,5 @@
   - 在微信群、微信朋友圈、QQ群里散发、张贴您的分享二维码、分享链接的方式来分享
   - 在墙外社交媒体推特、脸书上来分享
 
-#### [在推特上的分享攻略]()
+#### [在推特上的分享攻略](web/LadderMust/Help/KKShareStrategyOnTwitter/KKShareStrategyOnTwitter.md)
 
