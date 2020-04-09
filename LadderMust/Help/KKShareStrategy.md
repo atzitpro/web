@@ -10,5 +10,5 @@
 
 #### [1、分享攻略-推特](https://a2zitpro.github.io/web/LadderMust/Help/KKShareStrategyOnTwitter/KKShareStrategyOnTwitter)
 #### [2、分享攻略-微信 <font color='Red'>征集中</font>]()
-#### [2、分享攻略-险书 <font color='Red'>征集中</font>]()
+#### [3、分享攻略-险书 <font color='Red'>征集中</font>]()
 
