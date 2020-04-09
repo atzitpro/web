@@ -9,6 +9,6 @@
   - 在墙外社交媒体推特、脸书上来分享
 
 #### [1、分享攻略-推特](https://a2zitpro.github.io/web/LadderMust/Help/KKShareStrategyOnTwitter/KKShareStrategyOnTwitter)
-#### [2、分享攻略-微信 征集中]()
-#### [2、分享攻略-险书 征集中]()
+#### [2、分享攻略-微信 <font color='Red'>征集中</font>]()
+#### [2、分享攻略-险书 <font color='Red'>征集中</font>]()
 
