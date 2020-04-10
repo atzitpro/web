@@ -1,6 +1,6 @@
 ## 玩转金刚
 
-### [省钱技法]()
+#### [省钱技法](https://a2zitpro.github.io/web/LadderMust/Help/skill/skill)
 
 ### 分享攻略
 - 获得用户比赚到金钱对金刚更重要
