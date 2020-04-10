@@ -29,7 +29,7 @@
   - 在手机电池管理里，把金刚置为不要自动清除出内存，每次升级后需要重做
   - 金刚在手机网络切断再恢复时能自动重连
 
-#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>[（获取安卓金刚app梯）](https://github.com/a2zitpro/web/blob/master/dl.md)，再下载以下免费app
+#### 请<font color="Red"> 连通金刚梯翻墙出来 </font>[（获取安卓金刚app梯）](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)，再下载以下免费app
 - [谷歌浏览器 Chrome](https://github.com/a2zitpro/web/blob/master/downloadchrome.md)
 - [谷歌视频播放器 YouTube app](https://github.com/a2zitpro/web/blob/master/downloadyoutubeapp.md)
 - [谷歌软件商店 google play app](https://github.com/a2zitpro/web/blob/master/downloadgoogleplayapp.md)
