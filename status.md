@@ -10,7 +10,7 @@
 | 2.金刚Windows app梯| <font color="White">正常</font> | 
 | 3.只需配置的L2型金刚号梯| <font color="White">正常</font> | 
  
-[下载最新版金刚安卓App下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
+[最新版金刚安卓App下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
   
 ### L2金刚号梯后台
 - 被墙的频率
