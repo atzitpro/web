@@ -51,7 +51,8 @@
 - [点击获取 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 
 #### 三、帮助
-- [金刚帮助](https://github.com/a2zitpro/web/blob/master/list_helpkkvpn.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
 #### 四、联系客服
 - 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
