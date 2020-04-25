@@ -22,7 +22,7 @@
   - 换一条线路重试
   - 换Wi-Fi网路重试
   - 等一会儿再试
-  - 确保用的是最新版app，[下载页面](https://github.com/a2zitpro/web/blob/master/dl.md)里有最新客户端信息
+  - 确保用的是最新版app，[下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)里有最新客户端信息
   - 如果以上方法都没能解决问题，重启手机重试
   - 还有问题？在app帮助页面上联系客服，这会把您手机信息连同出错代码一起发给客服，有助分析解决问题
 - 过一会儿不用就断了 
