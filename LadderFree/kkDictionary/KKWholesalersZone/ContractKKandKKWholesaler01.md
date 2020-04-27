@@ -16,19 +16,25 @@
 6、合约订立后，卖方将在2小时内把与总货值$2,000.00等值的积分200,000点立即打入买方积分账户。
 
 7、交货方式
+
 7.1、交货方式1
+
 由买方自主把其名下的积分转移给买方拓展的新用户，供新用户用积分购买流量。
 
 7.2、交货方式2
+
 卖方按买方要求，分期分批向买方交货。当合约履行至合约有效期最后1个月时，卖方将把剩余商品一次性交付买方。
 
 7.3、延期交货
+
 买方若需卖方延期交货，则买方应在合约结束日之前，提前7个工作日向卖方提出延期交货申请。
 
 8、标的物
+
 本合约标的物仅限于金刚公司的金刚梯，不包含金刚公司的其他商品，比如积分。
 
 9、商品有效期的起算方式
+
 9.1、本合约所涉的 金刚号梯 的有效期从卖方派出时已经激活，并开始计算有效期。
 
 9.2、本合约所涉的 金刚app梯 的有效期从最终用户用积分购买流量后开始计算有效期。
@@ -47,8 +53,8 @@
 
 16、法律遵从：买卖双方确保签订、履行本合约符合各自所在国家或地区的法律。
 
-[附件3、批发商级别](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalerClassification.md)
-[附件1、金刚号梯零售价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
+[附件3、批发商级别](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalerClassification.md) <br>
+[附件1、金刚号梯零售价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md) <br>
 [附件2、金刚app梯零售价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderAPP.md)
 
 
