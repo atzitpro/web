@@ -136,6 +136,8 @@
 - [金刚邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCode.md)
 - [金刚邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLink.md)
 - [被推荐人]()
+
+- [批发商专区]()
 #### “如何找回”类
 
 - [如何找回在金刚网的注册邮箱？v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZhGetBack.md)
