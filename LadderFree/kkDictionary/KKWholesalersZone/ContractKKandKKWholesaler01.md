@@ -1,4 +1,4 @@
-###### 玩转金刚梯>金刚字典>
+###### 玩转金刚梯>金刚字典>金刚批发商专区>
 ### 《金刚公司 与 铂金级 批发商合作合约 》
 卖方：金刚公司
 买方：           
@@ -64,6 +64,4 @@ https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesaler
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
-
-
-
+- [金刚批发商专区](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone.md)
