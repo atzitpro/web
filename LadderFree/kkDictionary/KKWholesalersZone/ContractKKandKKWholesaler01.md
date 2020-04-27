@@ -47,15 +47,9 @@
 
 16、法律遵从：买卖双方确保签订、履行本合约符合各自所在国家或地区的法律。
 
-
-附件1、金刚号梯定价
-https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md
-
-附件2、金刚app梯定价
-https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderAPP.md
-
-附件3、批发商级别
-https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalerClassification.md
+[附件3、批发商级别](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalerClassification.md)
+[附件1、金刚号梯零售价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
+[附件2、金刚app梯零售价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderAPP.md)
 
 
 
