@@ -10,12 +10,12 @@
 | 2.金刚Windows app梯| <font color="White">正常</font> | 
 | 3.只需配置的L2型金刚号梯| <font color="White">正常</font> | 
  
-[最新版金刚安卓App下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
+[最新版金刚安卓app梯下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
 
 ### 20.04.28 北京时间周一凌晨1-5点之间后台VPN服务器系统优化以及配置修改 - 已经完成 
 #### 内容
-- 金刚App梯版本2.5～2.6.6已退役
-- 当前服役的金刚App梯版本：
+- 金刚app梯版本2.5～2.6.6已退役
+- 当前服役的金刚app梯版本：
   - 2.6.7
   - 2.6.8 
 
