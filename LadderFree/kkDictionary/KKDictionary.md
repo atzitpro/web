@@ -81,7 +81,7 @@
 
 
 
-#### 金刚号类
+#### 金刚号梯类
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
 - [金刚主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
 - [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
@@ -100,6 +100,9 @@
 - [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 - [金刚密码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)
 - [金刚号的回收](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDRecycling.md)
+
+#### 金刚app梯类
+
 
 #### 流量类
 - [金刚流量              ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
