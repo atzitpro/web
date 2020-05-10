@@ -8,8 +8,6 @@
  
 #### 配置
 
-![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
-
 - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
 - 在苹果电脑上配置金刚号梯与在苹果手机上配置类似
@@ -43,6 +41,8 @@
   - 在 共享密钥 处填入：mft
   - 点击 好、确认 关闭窗口
   - 在前一窗口点击右下角的 高级，选择 通过VPN连接发送所有流量
+
+![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
 
 - 3、点击 好 回到上一窗口，点 连接，开始连接金刚。
 
