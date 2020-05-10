@@ -40,7 +40,6 @@
   - 在 密码 处填入：金刚密码
   - 在 共享密钥 处填入：mft
   - 点击 好、确认 关闭窗口
-  - 在前一窗口点击右下角的 高级，选择 通过VPN连接发送所有流量
 
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
 
