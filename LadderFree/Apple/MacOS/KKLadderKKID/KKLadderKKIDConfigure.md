@@ -32,8 +32,6 @@
 
 - 苹果计算机配置屏幕2
 
-![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
-
   - 在 服务器地址 处填入：<font color="Red"> atz开头的串 </font>
   - 在 账户名称 处填入：<font color="Green"> 金刚号 </font>
 
@@ -51,6 +49,10 @@
 
 点 高级，弹窗：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
+
+
+![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
+
 照上图勾选。
 
 - 点 连接，开始连接金刚。
