@@ -27,12 +27,12 @@
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/559239BC-39C0-4940-89B0-3E5FE837F055.png)
   - 在 <strong>服务器地址</strong>处填入：派号通知单里的atz开头的串 
   - 在 <strong>账户名称</strong> 处填入：派号通知单里的金刚号
-- 点击 鉴定设置，弹窗：
+- 点击 <strong>鉴定设置</strong>，弹窗：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
-  - 在 密码 处填入：派号通知单里的金刚密码
-  - 在 共享密钥 处填入：mft
-  - 点击 好、确认 关闭窗口
-- 点击 好 回到上一窗口
+  - 在 <strong>密码</strong>处填入：派号通知单里的金刚密码
+  - 在 <strong>共享密钥</strong>处填入：mft
+  - 点击 <strong> 好、确认 </strong>关闭窗口
+- 点击 <strong> 好 </strong>回到上一窗口
 - 点 高级，弹窗：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/A6F969F0-F85B-4E2D-8CDB-5B5E895DCD38.jpeg)
   - 照上图勾选
