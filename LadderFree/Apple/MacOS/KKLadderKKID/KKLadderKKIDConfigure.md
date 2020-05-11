@@ -38,8 +38,10 @@
   - 在 账户名称 处填入：<font color="Green"> 金刚号 </font>
   - 点击 鉴定设置，弹窗：
 
-
 - 苹果计算机配置屏幕3
+![image]()
+
+
 
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
 
