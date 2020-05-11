@@ -16,10 +16,10 @@
 
 - 点击 设置>网络，再点 创建一个新服务：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/217915F1-5B28-49AE-9A0F-E7ECCC1C6EBB.png)
-  - 接口：选VPN<br>
+  - 接口：选VPN
   - 类型：选 IPSec上的L2TP
-  - 在 服务名称 处填入<font color="Red"> AAA金刚 </font><br>
-  - 点击 创建<br>
+  - 服务名称：填入 AAA金刚 金刚号
+  - 点击 创建
 - 下一窗口填 服务器地址 和 账户名称：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/559239BC-39C0-4940-89B0-3E5FE837F055.png)
   - 在 服务器地址 处填入：<font color="Red"> atz开头的串 </font>
@@ -33,9 +33,9 @@
 - 点击 好 回到上一窗口
 - 点 高级，弹窗：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/A6F969F0-F85B-4E2D-8CDB-5B5E895DCD38.jpeg)
-  - 照上图勾选。
-- 点 连接，开始连接金刚。
-- 当状态显示已连接、屏幕顶部网路图标处 开始计时，则表示 金刚连接成功，即可自由上网。
+  - 照上图勾选
+- 点 连接，开始连接金刚
+- 当状态显示已连接、屏幕顶部网路图标处 开始计时，则表示 金刚连接成功，即可自由上网
 - 如果连接失败，则请参阅[ 《金刚号梯报错、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
 
