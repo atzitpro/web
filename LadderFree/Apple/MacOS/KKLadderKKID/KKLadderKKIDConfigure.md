@@ -40,7 +40,6 @@
   - 点击 鉴定设置，弹窗：
 
 - 苹果计算机配置屏幕3
-![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
 
 
 
@@ -50,7 +49,13 @@
   - 在 密码 处填入：金刚密码
   - 在 共享密钥 处填入：mft
   - 点击 好、确认 关闭窗口
-- 3、点击 好 回到上一窗口，点 连接，开始连接金刚。
+- 3、点击 好 回到上一窗口
+
+点 高级，弹窗：
+![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
+照上图勾选。
+
+- 点 连接，开始连接金刚。
 
 - 4、状态显示已连接，屏幕顶部网路图标处 开始计时，则表示 金刚连接成功，即可自由上网。
 
