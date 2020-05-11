@@ -7,9 +7,15 @@
   - [ 万能梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)：一梯万能，多机通用
  
 #### 配置
-![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 
-- 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+- 预备工作
+  - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+  - 如果您无法看到以下文档中的插图，请先在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)，再用手机阅读该文档
+  - 请准备好<strong> 金刚号</strong> 及<strong> 配套参数 </strong> 以备用
+    - 请在<strong>《派号通知单》</strong>邮件中取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
+    - 或请先在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)，用手机登录官网，在[ 官网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，点击<strong> 金刚号 </strong>，在 <strong> 配置信息 </strong>项下，取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
+
+![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 
 - 点开手机、平板主屏上的<strong> 设置 </strong>, 在<strong> 设置 </strong>下，设法找到<strong> VPN </strong>
 - 因采用安卓的手机、平板厂商为数众多，<strong> 设置 </strong>下的条目五花八门，因此，金刚无法用统一的名词、术语做精准描述。现仅以 ViVO 手机为主叙述
