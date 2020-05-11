@@ -21,11 +21,11 @@
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/217915F1-5B28-49AE-9A0F-E7ECCC1C6EBB.png)
   - 接口：选VPN
   - 类型：选 IPSec上的L2TP
-  - 服务名称：填入 AAA金刚 或 派号通知单里的金刚号
+  - <strong>服务名称</strong>：填入 AAA金刚 或 派号通知单里的金刚号
   - 点击 创建
 - 在以下窗口填 <strong>服务器地址</strong> 和 <strong>账户名称</strong>：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/559239BC-39C0-4940-89B0-3E5FE837F055.png)
-  - 在 <strong>服务器地址</strong>处填入：派号通知单里的atz开头的串 
+  - 在 <strong>服务器地址</strong> 处填入：派号通知单里的atz开头的串 
   - 在 <strong>账户名称</strong> 处填入：派号通知单里的金刚号
 - 点击 <strong>鉴定设置</strong>，弹窗：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
