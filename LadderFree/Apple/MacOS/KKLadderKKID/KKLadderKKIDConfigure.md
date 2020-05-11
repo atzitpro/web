@@ -19,9 +19,9 @@
 
 - 点击 设置>网络，再点 创建一个新服务：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/217915F1-5B28-49AE-9A0F-E7ECCC1C6EBB.png)
-  - 接口：选VPN
-  - 类型：选 IPSec上的L2TP
-  - <strong>服务名称</strong>：填入 AAA金刚 或 派号通知单里的金刚号
+  - <strong>接口</strong>：选VPN
+  - <strong>类型</strong>：选 IPSec上的L2TP
+  - <strong>服务名称</strong>：填入<strong> AAA金刚 </strong>或 派号通知单里的<strong> 金刚号 </strong>
   - 点击 创建
 - 在以下窗口填 <strong>服务器地址</strong> 和 <strong>账户名称</strong>：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/559239BC-39C0-4940-89B0-3E5FE837F055.png)
