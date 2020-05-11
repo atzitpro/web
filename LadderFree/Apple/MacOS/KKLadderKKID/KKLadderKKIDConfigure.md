@@ -10,11 +10,9 @@
 
 - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 
-- 在苹果电脑上配置金刚号梯与在苹果手机上配置类似
-
-- 类型：IPSec上的L2TP
-- 选择：通过VPN连接发送所有流量
-
+- 在苹果电脑上配置金刚号梯与在苹果手机上配置类似，关键是：
+  - 类型：IPSec上的L2TP
+  - 选择：通过VPN连接发送所有流量
 - 参数分散在多个屏幕上
 
 1、进入 设置>网络，点击 创建一个新服务：
