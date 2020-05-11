@@ -20,29 +20,33 @@
 - 1、进入 设置>网络，点击 创建一个新服务：
 
 - 苹果计算机配置屏幕1
+![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/217915F1-5B28-49AE-9A0F-E7ECCC1C6EBB.png)
+
   - 接口：选VPN<br>
   - 类型：选 IPSec上的L2TP
   - 在 服务器名称 处填入<font color="Red"> AAA金刚 </font><br>
   - 点击 创建<br>
 
-![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/217915F1-5B28-49AE-9A0F-E7ECCC1C6EBB.png)
-
      
 - 2、下一窗口填 服务器地址 和 账户名称：
 
 - 苹果计算机配置屏幕2
+
+![image]()
+
   - 在 服务器地址 处填入：<font color="Red"> atz开头的串 </font>
   - 在 账户名称 处填入：<font color="Green"> 金刚号 </font>
   - 点击 鉴定设置，弹窗：
 
 
 - 苹果计算机配置屏幕3
-  - 在 密码 处填入：金刚密码
-  - 在 共享密钥 处填入：mft
-  - 点击 好、确认 关闭窗口
 
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
 
+
+  - 在 密码 处填入：金刚密码
+  - 在 共享密钥 处填入：mft
+  - 点击 好、确认 关闭窗口
 - 3、点击 好 回到上一窗口，点 连接，开始连接金刚。
 
 - 4、状态显示已连接，屏幕顶部网路图标处 开始计时，则表示 金刚连接成功，即可自由上网。
