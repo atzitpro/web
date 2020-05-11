@@ -11,7 +11,7 @@
   - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
   - 请准备好金刚号及配套参数以备用
     - 请在<strong>《派号通知单》</strong>邮件中取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
-    - 如果您已经能翻墙出来，请在 官网>菜单>我的金刚 下，点击金刚号，在 配置信息 项下，取出金刚号、金刚密码、服务器地址、预共享密钥以备用
+    - 如果您已经能翻墙出来，请在<strong> 官网>菜单>我的金刚 </strong>下，点击<strong> 金刚号 </strong>，在 <strong> 配置信息 </strong>项下，取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
   - 在苹果电脑上配置金刚号梯与在苹果手机上配置类似，关键是：
     - 类型：IPSec上的L2TP
     - 选择：通过VPN连接发送所有流量
