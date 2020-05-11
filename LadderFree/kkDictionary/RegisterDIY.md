@@ -16,7 +16,8 @@
     - 按《派号通知单》中《配置说明》的指引，将该[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)[   正确配入 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKkid.md)您的手机后，[ 搭梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)完成，即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
     -  <strong>现在，请：
 
-       - [ 点击此处 ]()
+       - [ 点击此处 ](https://github.com/kk404/k/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md
+)
 
     - 提交您的私人邮箱，然后登入邮箱，收取金刚网给您的邮件并照做，即可成功翻墙</strong>
 
