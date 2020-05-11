@@ -17,7 +17,7 @@
     - 选择：通过VPN连接发送所有流量
   - 参数分散在多个屏幕上
 
-- 点击 设置>网络，再点 创建一个新服务：
+- 点击<strong> 设置>网络 </strong>，再点 <strong> 创建一个新服务 </strong>：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/217915F1-5B28-49AE-9A0F-E7ECCC1C6EBB.png)
   - <strong>接口</strong>：选VPN
   - <strong>类型</strong>：选 IPSec上的L2TP
