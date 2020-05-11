@@ -32,7 +32,7 @@
 
 - 点击 好 回到上一窗口
 - 点 高级，弹窗：
-![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
+![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/A6F969F0-F85B-4E2D-8CDB-5B5E895DCD38.jpeg)
   - 照上图勾选。
 - 点 连接，开始连接金刚。
 - 当状态显示已连接、屏幕顶部网路图标处 开始计时，则表示 金刚连接成功，即可自由上网。
