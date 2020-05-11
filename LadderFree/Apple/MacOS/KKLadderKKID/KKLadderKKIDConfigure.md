@@ -12,7 +12,7 @@
   - 如果您无法看到以下文档中的插图，请先在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)，再用手机阅读该文档
   - 请准备好<strong> 金刚号</strong> 及<strong> 配套参数 </strong> 以备用
     - 请在<strong>《派号通知单》</strong>邮件中取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
-    - 或请先在您的手机上连通<strong> 金刚app梯 </strong>或<strong> 金刚号梯 </strong>，用手机登录官网，在<strong> 官网>菜单>我的金刚 </strong>下，点击<strong> 金刚号 </strong>，在 <strong> 配置信息 </strong>项下，取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以
+    - 或请先在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)，用手机登录官网，在<strong> 官网>菜单>我的金刚 </strong>下，点击<strong> 金刚号 </strong>，在 <strong> 配置信息 </strong>项下，取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以
 
 - 点击<strong> 设置>网络 </strong>，再点 <strong> 创建一个新服务 </strong>：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/217915F1-5B28-49AE-9A0F-E7ECCC1C6EBB.png)
