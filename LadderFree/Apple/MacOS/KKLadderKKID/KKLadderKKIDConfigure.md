@@ -28,8 +28,6 @@
 - 点击 鉴定设置，弹窗：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
   - 在 密码 处填入：金刚密码
-    - 请在《派号通知单》邮件中找
-    - 在 官网>菜单>我的金刚 下，点击金刚号，在配置信息下找
   - 在 共享密钥 处填入：mft
   - 点击 好、确认 关闭窗口
 - 点击 好 回到上一窗口
