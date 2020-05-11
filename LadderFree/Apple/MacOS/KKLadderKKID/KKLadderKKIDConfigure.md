@@ -39,7 +39,7 @@
   - 点击 鉴定设置，弹窗：
 
 - 苹果计算机配置屏幕3
-![image]()
+![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
 
 
 
