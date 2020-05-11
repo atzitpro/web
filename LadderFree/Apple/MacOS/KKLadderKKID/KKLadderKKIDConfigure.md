@@ -32,7 +32,7 @@
 
 - 苹果计算机配置屏幕2
 
-![image]()
+![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/559239BC-39C0-4940-89B0-3E5FE837F055.png)
 
   - 在 服务器地址 处填入：<font color="Red"> atz开头的串 </font>
   - 在 账户名称 处填入：<font color="Green"> 金刚号 </font>
