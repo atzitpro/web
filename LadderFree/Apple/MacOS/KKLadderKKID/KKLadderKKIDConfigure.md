@@ -42,14 +42,16 @@
 
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/559239BC-39C0-4940-89B0-3E5FE837F055.png)
 
+
+![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
+
+
   - 在 密码 处填入：金刚密码
   - 在 共享密钥 处填入：mft
   - 点击 好、确认 关闭窗口
 - 3、点击 好 回到上一窗口
 
 点 高级，弹窗：
-![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
-
 
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/910AFD37-9AB9-4CB6-A20C-C41AA6F81583.png)
 
