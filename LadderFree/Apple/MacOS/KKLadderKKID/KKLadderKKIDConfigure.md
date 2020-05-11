@@ -31,13 +31,13 @@
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/macos-screen3.png)
   - 在<strong> 密码 </strong>处填入：派号通知单里的金刚密码
   - 在<strong> 共享密钥 </strong>处填入：mft
-  - 点击<strong> 好、确认 </strong>关闭窗口
-- 点击<strong> 好 </strong>回到上一窗口
-- 点 高级，弹窗：
+  - 点<strong> 好、确认 </strong>关闭窗口
+- 点<strong> 好 </strong>回到上一窗口
+- 点<strong> 高级 </strong>，弹窗：
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/A6F969F0-F85B-4E2D-8CDB-5B5E895DCD38.jpeg)
   - 照上图勾选
-- 点 连接，开始连接金刚
-- 当状态显示 已连接、屏幕顶部网路图标处 开始计时，则表示 金刚连接成功，即可自由上网
+- 点<strong> 连接 </strong>，开始连接金刚
+- 当状态显示 点<strong> 已连接 </strong>、屏幕顶部网路图标处 点<strong> 开始计时 </strong>，则表示 金刚连接成功，即可自由上网
 - 如果连接失败，则请参阅[ 《金刚号梯报错、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
 
