@@ -3,6 +3,6 @@
     <source src="kkApp2.7.mp4" media="only screen and (min-device-width: 568px)"></source> 
 </video>
 
-Video doesn't work in readme.md mode it'll have to be Github Pages instead: access it in below url:  
+要看视频，先连上金刚翻到墙外，然后点下面连接放视频:  
 
 https://a2zitpro.github.io/web/test
