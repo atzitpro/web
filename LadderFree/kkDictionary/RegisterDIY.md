@@ -9,8 +9,8 @@
       - 安卓类手机上的《配置说明》
       - 苹果手机上的《配置说明》
       - 派送到：
-        - 您的注册邮箱
-        - 金刚网>菜单>我的金刚 下
+        - 您的[ 注册邮箱 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
+        - 同时该梯已送达专属于您的[ 金刚网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)之下
 
 
   - <strong>方式2：</strong>
