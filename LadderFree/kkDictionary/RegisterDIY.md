@@ -8,7 +8,9 @@
 
       - [<strong>发邮件</strong>](mailto:cs@a2zit.us)
 
-    - [ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)将代您注册，并为您派送[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)到前述位置
+    - 金刚客服将代您注册，并为您派送[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)到：
+      - 您的注册邮箱
+      - 金刚网>菜单>我的金刚 下
 
 
   - <strong>方式2：</strong>
