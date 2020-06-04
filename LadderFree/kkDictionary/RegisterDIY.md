@@ -4,7 +4,7 @@
 
   - <strong>方式1：</strong>
 
-    - 请点击 [<strong>这里</strong> ](mailto:cs@a2zit.us)给[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)发邮件，说：我要尝试金刚
+    - 请点击 [<strong>这里</strong> ](mailto:cs@a2zit.us)给金刚客服发邮件，说：我要尝试金刚
     - 金刚客服将代您在金刚网注册，并将第1架[ 万能金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)及其在：
       - 安卓类手机上的《配置说明》
       - 苹果手机上的《配置说明》
