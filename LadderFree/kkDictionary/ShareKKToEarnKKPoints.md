@@ -10,12 +10,7 @@
 - 2、使用[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的朋友请按以下步骤操作：
   - 启动[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 在<Strong> 主窗 </Strong>下方点<Strong> 分享 </Strong>
-  - 再点二维码下方的<Strong> 点击分享 </Strong>
-  - 再选
-    - 微信
-    - QQ
-    - 邮件
-  - 等分享，即可实现<strong> 推荐朋友赚积分 </strong>的目标
+  - 再按其中的指引分享，即可实现<strong> 推荐朋友赚积分 </strong>的目标
 
 #### 返回到
 - [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
