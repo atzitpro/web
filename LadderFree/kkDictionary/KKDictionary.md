@@ -121,6 +121,7 @@
 - [金刚流量 获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageGet.md)
 - [金刚流量 价格 金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderAPP.md)
 - [金刚流量 价格 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md)
+- [金刚流量 价格v2 金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID_V2.md)
 - [金刚流量 小额流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficSmallAmount.md)
 - [金刚流量 大宗流量](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficBulk.md)
 - [金刚免费流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageFree.md)
