@@ -3,7 +3,8 @@
 - 开始执行日期：待定
 - 执行汇率：人民币/美元=7.12482000
 
-- 1、[月包价格表](web/LadderFree/kkDictionary/DTPrice/YearPackagePrice.md)
+- 1、[月包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/MonthPackagePrice.md)
+
 - 流量有效期1个月，自购买成功之时起算
 - 价格打折：零折扣
 
@@ -17,7 +18,8 @@
 |M128   | 128| $15.19| ￥108.21| 
 |M256   | 256| $22.78| ￥162.31| 
 
-- 2、[季包价格表]()
+- 2、[季包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/SeasonPackagePrice.md)
+
 - 流量有效期3个月，自购买成功之时起算
 - 价格打折：在月包价的基础上已打9折
 
@@ -31,7 +33,7 @@
 |S384   |    384| $41.01|  ￥292.16| 
 |S768   |    768| $61.51|  ￥438.24| 
 
-- 3、[年包价格表]()
+- 3、[年包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/YearPackagePrice.md)
 - 流量有效期12个月，自购买成功之时起算
 - 价格打折：在月包价的基础上已打6折
 
