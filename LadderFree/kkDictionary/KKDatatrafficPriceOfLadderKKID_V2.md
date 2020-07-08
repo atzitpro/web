@@ -15,7 +15,9 @@
 <br>
 
 - 3、[年包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/YearPackagePrice.md)
-- 流量有效期12个月，自购买成功之时起算
+- 流量包尺寸：是月包的12倍
+- 流量包有效期长度：12个月
+- 流量包有效期开始于：自购买成功之时
 - 价格打折：在月包价的基础上已打6折
 
 
