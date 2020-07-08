@@ -3,7 +3,7 @@
 - 开始执行日期：待定
 - 执行汇率：人民币/美元=7.12482000
 
-- 1、[月包价格表]()
+- 1、[月包价格表](web/LadderFree/kkDictionary/DTPrice/YearPackagePrice.md)
 - 流量有效期1个月，自购买成功之时起算
 - 价格打折：零折扣
 
