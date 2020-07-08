@@ -5,7 +5,7 @@
 <br>
 
 - 1、[月包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/MonthPackagePrice.md)
-- 流量包尺寸：是月包的3倍
+- 流量包尺寸：见表内所标尺寸
 - 流量包有效期长度：1个月
 - 流量包有效期开始于：购买成功之时
 - 价格打折：零折扣
