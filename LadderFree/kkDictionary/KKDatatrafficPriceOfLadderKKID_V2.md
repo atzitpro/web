@@ -10,7 +10,7 @@
   - 流量包有效期起始时刻
     - 主包开始于购买成功之时
     - 备包开始于接续成功之时
-  - 价格打折：零折扣
+  - 价格优惠：零优惠
 <br>
 
 - 2、[季包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/SeasonPackagePrice.md)
@@ -19,7 +19,7 @@
   - 流量包有效期起始时刻
     - 主包开始于购买成功之时
     - 备包开始于接续成功之时
-  - 价格打折：在月包价的基础上已打9折
+  - 价格优惠：在月包价的基础上已打9折
 <br>
 
 - 3、[年包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/YearPackagePrice.md)
@@ -28,7 +28,7 @@
   - 流量包有效期起始时刻
     - 主包开始于购买成功之时
     - 备包开始于接续成功之时
-  - 价格打折：在月包价的基础上已打6折
+  - 价格优惠：在月包价的基础上已打6折
 
 
 
