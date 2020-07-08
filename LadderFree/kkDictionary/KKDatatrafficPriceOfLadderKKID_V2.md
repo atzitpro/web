@@ -9,11 +9,11 @@
 <br>
 
 - 2、[季包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/SeasonPackagePrice.md)
-  - 价格优惠：在月包价的基础上已打9折
+  - 价格优惠：在同档月包价的基础上已打9折
 <br>
 
 - 3、[年包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/YearPackagePrice.md)
-  - 价格优惠：在月包价的基础上已打6折
+  - 价格优惠：在同档月包价的基础上已打6折
 
 
 
