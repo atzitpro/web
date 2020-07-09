@@ -1,7 +1,11 @@
 ###### 玩转金刚>金刚字典>
 ### 金刚梯流量零售价 V2
+#### 重要告知
 - 开始执行日期：待定
 - 执行汇率：人民币/美元=7.12482000
+- 1GB流量可播放YouTube
+  - 4K视频1小时
+  - 普清视频2～6小时
 <br>
 
 - 1、[月包价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/DTPrice/MonthPackagePrice.md)
