@@ -98,7 +98,7 @@
 - [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDExpiration.md)
 - [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 - [金刚密码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)
-- [金刚号的回收](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDRecycling.md)
+- [金刚号的回收](https://github.com/a2zitpro/web/tree/master/LadderFree/kkDictionary/ToAppAnUser)
 
 #### 金刚app梯类
 - [金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
