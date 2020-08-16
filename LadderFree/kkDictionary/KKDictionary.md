@@ -115,11 +115,11 @@
 - [金刚流量充入 金刚号梯   ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficChargeForKKLadderKKID.md)
 - [金刚流量 过期           ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpired.md)
 - [金刚流量 过期的识别      ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExpiredMark.md)
-
 - [金刚流量 提前耗尽       ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhausted.md)
 - [金刚流量 提前耗尽的识别  ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficExhaustedMark.md)
 - [金刚流量 缺口](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficGap.md)
 - [金刚流量 获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageGet.md)
+- [金刚流量 价格 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPrice.md)
 - [金刚流量 价格 高速金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderAPP.md)
 - [金刚流量 价格 常速金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfNormalSpeedLadderKKID.md)
 - [金刚流量 价格 高速金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfHighSpeedLadderKKID.md)
