@@ -35,7 +35,7 @@
   - 照上图勾选
 - 点<strong> 连接 </strong>，开始连接金刚
 - 当状态显示 <strong> 已连接 </strong>、屏幕顶部网路图标处 点<strong> 开始计时 </strong>，则表示 金刚连接成功，即可自由上网
-- 如果连接失败，则请参阅[ 《金刚号梯报错、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
+- 如果连接失败，则请参阅[ 《金刚号梯报错信息、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
 
 #### 返回到
