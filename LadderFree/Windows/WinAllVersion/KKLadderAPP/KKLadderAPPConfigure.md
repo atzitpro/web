@@ -1,5 +1,5 @@
 ###### 玩转金刚梯
-#### Windows
+### Windows
 ### 《安装配置说明》
 
 #### <strong>版权声明</strong>
