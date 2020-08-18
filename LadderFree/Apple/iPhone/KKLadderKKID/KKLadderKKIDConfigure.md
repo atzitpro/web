@@ -39,7 +39,7 @@
 - <strong>发送所有流量 </strong>开关：<strong> 打开 </strong>
 - 在<strong> 代理 </strong>的<strong> 关闭、手动、自动 </strong>三个选项中：选<strong> 关闭 </strong>
 - 点击右上角的<strong> 完成 </strong>
-- 如果已安装多个 VPN 工具，则应勾选刚刚创建的<strong> A金刚01 </strong>或<strong> A金刚02 </strong>，确保 蓝色的勾 打在<strong> A金刚01 </strong>的左侧，不可打在其他VPN工具上
+- 如果已安装多个 VPN 工具，则应勾选刚刚创建的<strong> A金刚01 </strong>或<strong> A金刚02 </strong>，确保 蓝色的勾 打在<strong> A金刚01 </strong> 或<strong> A金刚02 </strong>的左侧，不可打在其他VPN工具上
 - <strong>状态 </strong>开关：<strong>打开</strong>，开始连接金刚
 - 屏幕顶端出现<strong> 带框VPN </strong>图标，表示 <strong>金刚连接成功</strong>，可自由上网
 - 下载谷歌浏览器 Chrome 和 YouTube 视频播放器
