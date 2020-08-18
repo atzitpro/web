@@ -18,13 +18,13 @@
       - 服务器地址
       - 预共享密钥
     - 或在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-    - 用手机登录[官网](https://www.atozitpro.net/zh/)
-    - 在[ 官网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，点击 金刚号
-    - 在 配置信息 项下，取出以下备用
-      - 金刚号
-      - 金刚密码
-      - 服务器地址
-      - 预共享密钥
+      - 用手机登录[官网](https://www.atozitpro.net/zh/)
+      - 在[ 官网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，点击 金刚号
+      - 在 配置信息 项下，取出以下备用
+        - 金刚号
+        - 金刚密码
+        - 服务器地址
+        - 预共享密钥
 
 ![image](https://github.com/a2zitpro/web/blob/master/24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
 
