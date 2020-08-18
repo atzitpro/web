@@ -17,9 +17,9 @@
 #### <strong>安装</strong>
 - 如果您尚未下载SSL客户端
   - 且当前正在Windows上阅读本配置说明
-    - 则请 点击[ 这里 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)下载SSL客户端
+    - 则请点击[ 这里 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)下载SSL客户端
   - 且当前未在Windows上阅读本配置说明
-    - 则请[ 这里](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)
+    - 则请长按[ 这里 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)
     - 在下拉菜单中点选 <strong>复制链接网址</strong>
 把它粘贴到您新建的一封邮件的正文里
     - 发送给您自己
