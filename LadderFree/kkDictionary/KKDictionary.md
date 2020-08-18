@@ -93,7 +93,7 @@
 - [c9开头金刚号获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDWithC9Get.md)
 - [金刚号的放弃](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDDrop.md)
 - [金刚号的配套参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters.md)
-- [金刚号的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚号的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
 - [金刚号的形态](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsForm.md)
 - [金刚号的有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDExpiration.md)
 - [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
