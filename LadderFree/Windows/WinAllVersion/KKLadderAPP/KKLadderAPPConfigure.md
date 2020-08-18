@@ -15,7 +15,7 @@
 
 
 #### <strong>安装</strong>
-
+- 如果您尚未下载SSL客户端，则请在Windows上点击以下链接下载
 - 在下载文件夹内，点击安装包，开始安装
 
 ![Image](https://github.com/a2zitpro/web/blob/master/安装001B.png)
