@@ -8,7 +8,7 @@
  
 #### 配置
 - 预备工作
-  - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
+  - 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
   - 如果您无法看到以下文档中的插图，请先在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)，再用手机阅读该文档
   - 请准备好 金刚号 及 配套参数 以备用
     - 请在《派号通知》邮件中取出以下备用
@@ -29,15 +29,15 @@
 ![image](https://github.com/a2zitpro/web/blob/master/24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
 
 - 点开手机主屏上的 设置>通用>VPN>添加VPN配置… 弹出上图
-- 在 类型 的 IKEv2、IPsec、L2TP 三个选项中：选 L2TP
+- 在 类型 的 3个选项中：选 L2TP
 - 在 描述 处填入：A金刚01 或 A金刚号02
-- 在 服务器 处填入：
+- 在 服务器 处填入：取自派号通知中的服务器名称
 - 在 账户 处填入：取自派号通知中的金刚号
-- RSASecurID 开关：关闭
+- RSASecurID开关：关闭
 - 在 密码 处填入：取自派号通知中的金刚密码
 - 在 密钥 处填入：取自派号通知中的密钥
-- 发送所有流量 开关：打开
-- 在 代理 的 关闭、手动、自动 3个选项中：选 关闭
+- 发送所有流量开关：打开
+- 在 代理 的 3个选项中：选 关闭
 - 点击右上角的 完成
 - 如果已安装多个 VPN 工具，则应勾选刚刚创建的 A金刚01 或 A金刚02，确保 蓝色的勾 打在 A金刚01 或 A金刚02 的左侧，不可打在其他VPN工具上
 - 状态开关 打开，开始连接金刚
