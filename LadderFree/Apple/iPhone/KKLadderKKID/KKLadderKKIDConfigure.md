@@ -30,16 +30,16 @@
 
 - 点开手机主屏上的<strong> 设置>通用>VPN>添加VPN配置… </strong>弹出上图
 - 在<strong>类型 </strong>的<strong> IKEv2、IPsec、L2TP </strong>三个选项中：选<strong> L2TP </strong>
-- 在<strong> 描述 </strong>处填入：<strong> AAA金刚 </strong> 或 <strong> 金刚号 </strong>
-- 在<strong> 服务器 </strong>处填入：<strong> atz 开头的串 </strong>
-- 在<strong> 账户 </strong>处填入：<strong> 金刚号 </strong>
+- 在<strong> 描述 </strong>处填入：<strong> A金刚01 </strong> 或 <strong> A金刚02 </strong>
+- 在<strong> 服务器 </strong>处填入：<strong> 取自派号通知中的服务器地址 </strong>
+- 在<strong> 账户 </strong>处填入：<strong> 取自派号通知中的金刚号 </strong>
 - <strong>RSASecurID </strong>开关：<strong> 关闭 </strong>
-- 在<strong> 密码 </strong>处填入：<strong> 金刚密码 </strong>
-- 在<strong> 密钥 </strong>处填入：<strong> mft </strong>
+- 在<strong> 密码 </strong>处填入：<strong> 取自派号通知中的金刚密码 </strong>
+- 在<strong> 密钥 </strong>处填入：<strong> 取自派号通知中的密钥 </strong>
 - <strong>发送所有流量 </strong>开关：<strong> 打开 </strong>
 - 在<strong> 代理 </strong>的<strong> 关闭、手动、自动 </strong>三个选项中：选<strong> 关闭 </strong>
 - 点击右上角的<strong> 完成 </strong>
-- 如果已安装多个 VPN 工具，则应勾选刚刚创建的<strong> AAA金刚 </strong>或<strong> 金刚号 </strong>，确保 蓝色的勾 打在<strong> AAA金刚 </strong>的左侧，不可打在其他VPN工具上
+- 如果已安装多个 VPN 工具，则应勾选刚刚创建的<strong> A金刚01 </strong>或<strong> A金刚02 </strong>，确保 蓝色的勾 打在<strong> A金刚01 </strong>的左侧，不可打在其他VPN工具上
 - <strong>状态 </strong>开关：<strong>打开</strong>，开始连接金刚
 - 屏幕顶端出现<strong> 带框VPN </strong>图标，表示 <strong>金刚连接成功</strong>，可自由上网
 - 下载谷歌浏览器 Chrome 和 YouTube 视频播放器
