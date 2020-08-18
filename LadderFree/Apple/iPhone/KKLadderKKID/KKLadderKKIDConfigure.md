@@ -27,6 +27,7 @@
         - 预共享密钥
 
 ![image](https://github.com/a2zitpro/web/blob/master/24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
+![image]()
 
 - 点开手机主屏上的 设置>通用>VPN>添加VPN配置… 弹出上图
 - 在 类型 的3个选项中：选 L2TP
