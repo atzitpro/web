@@ -26,7 +26,6 @@
         - 服务器地址
         - 预共享密钥
 
-![image](https://github.com/a2zitpro/web/blob/master/24491F5B-F762-4C61-AB73-50B2F409CF92.jpeg)
 ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/1F022B4B-2F6B-482D-9A2B-78D2C92FC0BA.jpeg)
 
 - 点开手机主屏上的 设置>通用>VPN>添加VPN配置… 弹出上图
