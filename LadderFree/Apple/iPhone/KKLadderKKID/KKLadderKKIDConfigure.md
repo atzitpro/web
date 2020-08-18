@@ -33,7 +33,7 @@
 - 屏幕顶端出现<strong> 带框VPN </strong>图标，表示 <strong>金刚连接成功</strong>，可自由上网
 - 下载谷歌浏览器 Chrome 和 YouTube 视频播放器
 - 在金刚保持连接的状态下，在谷歌浏览器内录入网址 google.com，然后搜索您感兴趣的任何内容，或在 YouTube 视频播放器里搜索您感兴趣的任何内容
-- 如果连接失败，则请参阅[ 《金刚号梯报错、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
+- 如果连接失败，则请参阅[ 《金刚号梯报错信息、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
 
 #### 返回到
