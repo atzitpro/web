@@ -1,6 +1,6 @@
 ###### 玩转金刚梯>金刚字典>
 ### 金刚号梯在智能设备上的配置说明
-- [苹果手机]()
+- [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/KKLadderKKIDConfigure.md)
 - [苹果平板]()
 - [苹果电脑]()
 - [安卓类手机]()
