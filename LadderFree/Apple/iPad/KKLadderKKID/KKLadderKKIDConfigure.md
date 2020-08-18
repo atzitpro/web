@@ -16,7 +16,7 @@
       - 金刚密码
       - 服务器地址
       - 预共享密钥
-    - 或请先在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
+    - 或在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
       - 用手机登录官网
       - 在[ 官网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下
       - 点击 金刚号
