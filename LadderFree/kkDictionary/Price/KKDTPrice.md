@@ -3,7 +3,6 @@
 - [1、金刚app梯流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfApp.md)
 - [2、金刚号梯高速线路价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel02.md)
 - [3、金刚号梯普通线路价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel01.md)
-- [4、金刚号梯高速/普通线路价格对照表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/CompareSpeedLevel01and02.md)
 
 
 #### 返回到
