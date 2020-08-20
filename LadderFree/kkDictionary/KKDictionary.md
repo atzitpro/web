@@ -73,8 +73,8 @@
 - [金刚号梯 获取更多](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetMore.md)
 - [金刚号梯 找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
 - [普通金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
-- [万能金刚号梯v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
-- [一拖九v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
+- [万能金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
+- [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 
 
 
@@ -99,6 +99,7 @@
 - [金刚密码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)
 - [金刚号的回收](https://github.com/a2zitpro/web/tree/master/LadderFree/kkDictionary/ToAppAnUser)
 - [金刚号梯 报错、原因、对策](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
+
 #### 金刚app梯类
 - [金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
 - [金刚App梯获取](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
