@@ -69,7 +69,6 @@
 
 #### 金刚梯
 - [金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
-- [金刚号梯 报错、原因、对策](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 - [金刚号梯 获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGet.md)
 - [金刚号梯 获取更多](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetMore.md)
 - [金刚号梯 找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
