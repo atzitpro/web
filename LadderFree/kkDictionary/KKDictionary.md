@@ -99,7 +99,7 @@
 - [金刚号配置注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 - [金刚密码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPassWord.md)
 - [金刚号的回收](https://github.com/a2zitpro/web/tree/master/LadderFree/kkDictionary/ToAppAnUser)
-
+- [金刚号梯 报错、原因、对策](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 #### 金刚app梯类
 - [金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
 - [金刚App梯获取](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
