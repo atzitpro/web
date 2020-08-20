@@ -7,7 +7,7 @@
   - 不限数量的苹果系列设备
   - 不限数量的安卓系列设备
   - 不限数量的 Windows 系列设备
-- 使配入该梯的每部设备具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
+- 使配入该梯的每部设备都具有[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
 - 同1架<strong> 万能金刚号梯 </strong>可被用[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)的方式使用
 - 配入同1架[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)的多部设备共享该梯内流量
 
