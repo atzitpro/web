@@ -16,7 +16,7 @@
 
 - 如果您尚未下载SSL客户端
   - 且当前正在Windows上阅读本配置说明
-    - 则请点击[ 这里 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)下载SSL客户端
+    - 请点击此处下载金刚App梯 [下载链接1](https://github.com/a2zitpro/client/releases/download/v4.28/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) / [下载链接2](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)下载SSL客户端
   - 且当前未在Windows上阅读本配置说明
     - 则请长按[ 这里 ](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)
     - 在弹窗中点选 <strong>复制链接网址</strong>
