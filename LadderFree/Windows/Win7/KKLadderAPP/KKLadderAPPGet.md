@@ -20,7 +20,7 @@
 - 2、请确保您当前所持的设备为Windows
   - 请点击此处下载金刚App梯 [下载链接1](https://github.com/a2zitpro/client/releases/download/v4.28/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) / [下载链接2](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)
 
-- 3、请[ 安装配置金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
+- 3、请[ 安装配置金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win7/KKLadderAPP/KKLadderAPPConfigure.md)
 
 
 
