@@ -1,5 +1,5 @@
 ###### 玩转金刚梯>金刚字典>
-### 如果识别流量是否过期？
+### 如何识别流量是否过期？
 - 有2种方法供您识别流量是否过期
 #### 方法1：在[ 金刚网 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)查:
   - [ 连通 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)翻墙出来
