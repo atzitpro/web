@@ -4,10 +4,10 @@
 #### 翻墙ABC
 
 - [国际互联网里的“墙”](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheWallInTheInternet.md)
-- [安全上网v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
-- [搭梯v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
-- [翻墙v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-- [网络防火墙v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
+- [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
+- [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
+- [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+- [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
 - [什么是VPN？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/VPN.md)
 - [什么是VPS？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/VPS.md)
 - [什么是代理服务器？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Proxy.md)
@@ -16,13 +16,13 @@
 
 
 #### 金刚ABC
-- [金刚公司v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
-- [金刚中文网v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
+- [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
+- [金刚中文网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZh.md)
 - [金刚中文网 登录用户名](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZhsUserName.md)
 - [金刚中文网 登录密码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKSiteZhsPasswd.md)
 - [金刚中文网 登录初始密码]()
-- [金刚VPN产品v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
-- [金刚VPN服务v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
+- [金刚VPN产品](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)
+- [金刚VPN服务](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 - [金刚VPN产品与VPN服务的价值v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [《金刚公司与金刚用户就使用金刚VPN产品和金刚VPN服务合约》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKEnduserContract.md)
 
@@ -47,23 +47,22 @@
 
 
 #### 金刚用户类
-
-- [金刚用户v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
-- [注册定义v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
-- [注册渠道v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
-- [自助注册v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegisterDIY.md)
-- [注册邮箱v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
+- [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
+- [注册定义](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
+- [注册渠道](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationWay.md)
+- [自助注册](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegisterDIY.md)
+- [注册邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegistrationEmailaddressAtKKSiteZh.md)
 - [金刚用户身份的解除](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUserContractTermination.md)
 - [金刚账户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAccount.md)
 
 #### 积分类
-- [积分v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
+- [积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)
 - [积分获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsToEarn.md)
 - [积分有效期](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsExpiration.md)
 - [积分用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsUsage.md)
 - [积分与美元兑换比例](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsForUSD.md)
-- [推荐朋友荐积分v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)
-- [积分交易所v](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsExchange.md)
+- [推荐朋友荐积分](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ShareKKToEarnKKPoints.md)
+- [积分交易所](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsExchange.md)
 - [积分账户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsAccount.md)
 - [积分价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPointsPrice.md)
 
