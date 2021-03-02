@@ -84,7 +84,7 @@
 - [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
 - [金刚主号、金刚副号的用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
 - [普通金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)
-- [万能金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
+- [专用金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
 - [金刚号的价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPrice.md)
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
 - [金刚号获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDGet.md)
