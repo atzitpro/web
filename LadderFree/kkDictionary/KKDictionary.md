@@ -100,9 +100,9 @@
 - [金刚号梯 报错、原因、对策](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
 #### 金刚app梯类
-- [金刚App梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
-- [金刚App梯获取](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
-- [金刚App梯V2.8发布](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ToAppAnUser/kkAppAnV2.8Release.md)
+- [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
+- [金刚app梯获取](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
+- [金刚app梯V2.8发布](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ToAppAnUser/kkAppAnV2.8Release.md)
 
 #### 流量类
 - [金刚流量              ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
