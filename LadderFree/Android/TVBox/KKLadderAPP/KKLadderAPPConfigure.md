@@ -1,6 +1,6 @@
 ###### 玩转金刚梯
 #### 安卓机顶盒
-### 《金刚App安装说明》
+### 《金刚app安装说明》
 
 #### 特色
 - 一键翻墙
@@ -21,22 +21,20 @@
   - 用机顶盒遥控器 或 用连接在机顶盒U口上的鼠标器操纵机顶盒，操作过程和结果均显示在电视机上
 
 #### <strong> 安装方法1 </strong>
-- 在Windows+PC环境下，从PC磁盘复制金刚App安装包到U盘
+- 在Windows+PC环境下，从PC磁盘复制金刚app安装包到U盘
 - 如果金刚App安装包尚未下载到PC磁盘，则请[ 点击此处下载 ](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md)
 - 把U盘插入小米安卓机顶盒U口，电视机则显示检测到新的USB设备
 - 用机顶盒遥控器
   - 在<strong> 打开 </strong>和<strong> 取消 </strong>两个按钮中，选择并点击<strong> 打开 </strong>按钮，即可打开U盘
-  - 从U盘里找刚刚从PC磁盘上复制而来的金刚安卓App安装包
+  - 从U盘里找刚刚从PC磁盘上复制而来的金刚安卓app安装包
   - 选中该安装包
   - 按遥控器中间的<strong> OK </strong>键，开始安装
-  - 安装完毕，打开刚才安装的金刚安卓App
-  - 在金刚安卓App里选择
-    - 美国加州线路 或
-    - 香港线路
+  - 安装完毕，打开刚才安装的金刚app
+  - 在金刚安卓app里选择线路
   - 点击<strong> 连接 </strong>
   - 连接成功后，打开机顶盒的<strong> 主界面 </strong>
-  - 让金刚安卓App在后台运行
-  - 千万不要按遥控器的<strong> 退出 </strong>键，否则金刚安卓App的连接将断开
+  - 让金刚app在后台运行
+  - 千万不要按遥控器的<strong> 退出 </strong>键，否则金刚app的连接将断开
   - 打开浏览器或youtube客户端，将可以搜索、播放您感兴趣的任何内容
 
 #### <strong> 安装方法2 </strong>：
