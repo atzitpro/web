@@ -53,7 +53,7 @@ https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk
 或
 
 https://bitbucket.org/kk64/public/downloads/app-prod-release.apk
-- 下载金刚安卓App一一后续安装和打开步骤与<strong> 安装方法1 </strong>完全相同
+- 下载金刚app一一后续安装和打开步骤与<strong> 安装方法1 </strong>完全相同
 
 #### 返回到
 [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
