@@ -1,9 +1,9 @@
 ###### 玩转金刚梯
 #### 安卓类机顶盒
-### 下载 金刚App梯
+### 下载 金刚app梯
 
 - 1、如果您当下在用Windows+PC阅读
-  - 请点击以下链接下载金刚App安装包：
+  - 请点击以下链接下载金刚app安装包：
     - [下载1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
     - [下载2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
 
