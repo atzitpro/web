@@ -49,7 +49,7 @@
 - 用鼠标在UPX浏览器网址栏内输入网址：
 cutt.ly/3h2RXJF
 - 下载金刚app
-一 后续安装和打开步骤与<strong> 安装方法1 </strong>完全相同
+- 后续安装和打开步骤与<strong> 安装方法1 </strong>完全相同
 
 #### 返回到
 [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
