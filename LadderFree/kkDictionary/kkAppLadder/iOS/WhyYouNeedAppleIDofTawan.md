@@ -4,7 +4,7 @@
 - 台湾政府至今没有要求苹果公司将苹果云iCloud中保存的用户个人信息向台湾政府或其指定的某一间台湾公司开放
 
 ##### 获取云梯——如金刚梯——等商品
-- 获取您当前Apple ID所在苹果软件商店App Store中所缺少的应用软件，如云梯类工具
+- 获取您当前Apple ID所在苹果软件商店App Store中所缺少的应用软件，如金刚梯类工具
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
