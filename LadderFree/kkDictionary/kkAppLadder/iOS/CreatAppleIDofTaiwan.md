@@ -15,7 +15,7 @@
   - 打开如下图所示的通讯录等开关，点击标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/2BE307FA-728D-49AA-B176-75F1A62588A6.jpeg)
   - 点击如下图所示标红处，将退出登录状态
-  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8BA56A14-319A-43F7-BDEA-A5D95A38AFFE.jpeg)
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8BA56A14-319A-43F7-BDEA-A5D95A38AFFE.
 
 - <strong>创建隶属于台湾区的Apple ID</strong>
 
@@ -29,7 +29,9 @@
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/635AAE38-490A-4D9D-B8D1-0B84FC646EC2.jpeg)
   - 姓名填昵称，年满18岁。<strong>标红处是关键<strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/60F23630-029A-4004-8628-A8FD5B16278B.jpeg)
-  -
+  -jpeg)
+  - 向上滑动，填入B邮箱扮演Apple ID的角色，密码是B邮箱作为Apple ID的密码，未必里登入B邮箱的密码。<strong>标红处是关键<strong>
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/60F23630-029A-4004-8628-A8FD5B16278B.jpeg)
 
   - 
   - 
