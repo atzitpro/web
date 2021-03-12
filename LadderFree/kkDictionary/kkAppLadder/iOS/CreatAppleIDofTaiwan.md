@@ -69,7 +69,7 @@
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8EB969DF-CFC3-464E-8DAB-5170DF375C1E.jpeg)
   - 下图标红处照原样填写
   - 点击下一页
-  - ![image](
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/6EEED7E2-76BD-4B6B-B6DB-FA956842DCAC.jpeg)
 
   - ![image](
 
