@@ -1,5 +1,6 @@
 ### 创建台湾区 Apple ID
 
+#### 从当前Apple ID的登录状态中退出
 - [AppleID?]()
 - [AppleID?]()
 - [AppleID？]()
