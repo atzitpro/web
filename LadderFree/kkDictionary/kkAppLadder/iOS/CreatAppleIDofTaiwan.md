@@ -96,10 +96,12 @@
   - 录入Apple ID（B邮箱）的密码
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/81663793-7E64-4E29-B595-BAE739F4645F.jpeg)
+
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/60F07B59-0311-4108-895B-296C1496D268.jpeg)
 
-  - ![image](
+  - 点击下图所示标红处
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/2379DE89-F2AA-4EC1-84AD-22BBF19C5DF0.jpeg)
   - ![image](
 
 
