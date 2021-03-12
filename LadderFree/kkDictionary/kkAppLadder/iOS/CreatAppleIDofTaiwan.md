@@ -72,7 +72,7 @@
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/6EEED7E2-76BD-4B6B-B6DB-FA956842DCAC.jpeg)
   - 至此，B邮箱作为新的Apple ID已在App Store生效
   - 点击下图标红处
-  - ![image](
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/647D0610-58D6-46D1-84C1-C7C06707E1DD.jpeg)
 
   - ![image](
 
