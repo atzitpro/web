@@ -45,7 +45,7 @@
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/F10FE8CD-82D6-442A-B998-6851F2494546.jpeg)
   - 从手机短消息中取出6位验证码填入下图所示处
   - 点击标红处
-  - ![image]()
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/7F761A4D-7D22-44BB-88EA-362FFDD41008.jpeg)
 
   - ![image]()
 
