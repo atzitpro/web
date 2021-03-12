@@ -25,8 +25,8 @@
     - 从未与苹果iCloud、App Store有过关联
   - 关闭手机电源，再重启
   - 在谷歌浏览器或苹果safari浏览器地址栏录入appleid.apple.com再点 前往
-  - 向上滑动直到屏尾，点击标红处
-  - ![image]()
+  - 向上滑动直到屏尾，点击如下图所示标红处
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/635AAE38-490A-4D9D-B8D1-0B84FC646EC2.jpeg)
   -
   - ![image]()
   -
