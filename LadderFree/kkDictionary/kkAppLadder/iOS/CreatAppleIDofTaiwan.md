@@ -103,9 +103,8 @@
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/2379DE89-F2AA-4EC1-84AD-22BBF19C5DF0.jpeg)
   - 录入手机开机密码
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/82BF2097-E890-46D6-B0A0-54BCFF9FC3A1.jpeg)
   - 至此，新Apple ID（B邮箱）已在iCloud生效
-  - ![image](
-
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
