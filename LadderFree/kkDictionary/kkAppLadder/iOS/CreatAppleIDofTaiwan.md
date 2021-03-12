@@ -38,12 +38,13 @@
   - <strong>标红处是关键</strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/4DC3451A-623A-4658-8C0A-7A33AF4C845B.jpeg)
   - 向上滑动，将验证您是自然人还是机器人
-  - 点击下图标红处.将发6位验证码到B邮箱
+  - 点击下图标红处.将发送6位验证码到B邮箱
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/4155452F-CB76-4C7C-A2FD-2E94EC9132EC.jpeg)
   - 从B邮箱取出6位验证码填入下图所示处
-  - 点击标红处
+  - 点击标红处，将发送6位验证码到手机号
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/F10FE8CD-82D6-442A-B998-6851F2494546.jpeg)
-
+  - 从手机短消息中取出6位验证码填入下图所示处
+  - 点击标红处
   - ![image]()
 
   - ![image]()
