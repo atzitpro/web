@@ -19,7 +19,13 @@
 
 - <strong>创建隶属于台湾区的Apple ID</strong>
 
-  -
+  - 准备好B邮箱
+    - 应为全新邮箱
+    - 该邮箱从未被当作AppIe ID使用过
+    - 从未与苹果iCloud、App Store有过关联
+  - 关闭手机电源，重启一次
+  - 在谷歌浏览器或苹果safari浏览器地址栏录入appleid.apple.com再点 前往
+  - 向上滑动直到屏尾，点击标红处
   - ![image]()
   -
   - ![image]()
