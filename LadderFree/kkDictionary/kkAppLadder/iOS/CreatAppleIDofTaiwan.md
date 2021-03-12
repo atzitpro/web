@@ -6,6 +6,10 @@
 - 点击手机桌面上的 <strong>设置</strong>
 - 点击下图标红处
 - ![image]()
+
+
+
+#### 创建台湾区Apple ID
 - [AppleID?]()
 - [AppleID?]()
 - [AppleID？]()
