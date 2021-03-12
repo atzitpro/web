@@ -65,6 +65,7 @@
   - ![image](https://github.com/a2zitpro/web/blob/b390b026c43e446a6dd513778b2eb321baa3313b/LadderFree/kkDictionary/kkAppLadder/iOS/E33A509B-13E6-48FA-8A9B-518799C08AFC.jpeg)
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C00450EC-8C4B-4AD6-856F-FEAD0274BF36.jpeg)
+  - 同意条款，点<strong>下一页</strong>
 
 
 #### 返回到
