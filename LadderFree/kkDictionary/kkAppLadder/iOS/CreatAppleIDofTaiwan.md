@@ -79,7 +79,7 @@
   - 将获得如下结果
   - 请认准标绿处的商标
   - 点击标红处将下载安装金刚梯
-  - ![image](
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/71AF35BE-0DEE-418D-9BF9-EF191DEB4018.jpeg)
   - ![image](
 
   - ![image](
