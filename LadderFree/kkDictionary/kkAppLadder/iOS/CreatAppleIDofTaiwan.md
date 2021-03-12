@@ -67,6 +67,19 @@
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C00450EC-8C4B-4AD6-856F-FEAD0274BF36.jpeg)
   - 同意条款，点<strong>下一页</strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8EB969DF-CFC3-464E-8DAB-5170DF375C1E.jpeg)
+  - 下图标红处照原样填写
+  - 点击下一页
+  - ![image](
+
+  - ![image](
+
+  - ![image](
+
+  - ![image](
+
+  - ![image](
+
+
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
