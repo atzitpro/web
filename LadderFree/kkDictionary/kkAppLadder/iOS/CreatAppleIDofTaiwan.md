@@ -83,7 +83,7 @@
 
 - <strong>让新Apple ID(B邮箱)在iCloud生效</strong>
 
-  - 从手机桌面点击 设置
+  - 从手机桌面点击 <strong>设置</strong>
   - 点击下图标红处
 
 
