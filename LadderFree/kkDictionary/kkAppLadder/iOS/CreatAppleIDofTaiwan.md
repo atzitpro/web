@@ -73,13 +73,21 @@
   - 至此，B邮箱作为新的Apple ID已在App Store生效
   - 点击下图标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/647D0610-58D6-46D1-84C1-C7C06707E1DD.jpeg)
-- <strong>如何下载安装金刚梯</strong>
+- <strong>如何下载安装金刚app梯</strong>
   - 在下图所示标红处录入kkvpn搜索
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/61C3475F-2046-42B1-831C-800AD1E09B1E.jpeg)
   - 将获得如下结果
   - 请认准标绿处的商标
   - 点击标红处将下载安装金刚梯
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/71AF35BE-0DEE-418D-9BF9-EF191DEB4018.jpeg)
+
+- <strong>让新Apple ID(B邮箱)在iCloud生效</strong>
+
+  - 从手机桌面点击 设置
+  - 点击下图标红处
+
+
+
   - ![image](
 
   - ![image](
