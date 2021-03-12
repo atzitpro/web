@@ -58,9 +58,10 @@
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/9DA8D9E6-59BC-40F1-9B75-54D10EDC9A69.jpeg)
   - 在下图所示处录入Apple ID（B邮箱）的密码
-  - 点击下图所示区域之外、手机屏幕右下角的Done 或 完成
+  - 点击下图所示区域之外、手机屏幕右下角的 Done 或 完成
+  - 将发6位验证码到您手机号
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/1EBC29FF-FB26-4C5F-8747-34F27572019B.jpeg)
-
+  - 从手机短消息中取出6位验证码填入下图，将自动转向下一屏
 
 
 
