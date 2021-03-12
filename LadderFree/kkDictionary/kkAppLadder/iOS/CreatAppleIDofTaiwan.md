@@ -1,4 +1,4 @@
-### 创建台湾区 Apple ID
+### 台湾区 Apple ID
 
 - [什么是AppleID?]()
 - [为何需要一个台湾区AppleID?]()
