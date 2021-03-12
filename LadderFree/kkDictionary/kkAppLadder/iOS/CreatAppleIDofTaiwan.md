@@ -1,7 +1,7 @@
 ### 创建台湾区 Apple ID
 
 #### 从当前Apple ID的登录状态中退出
-- 在退出登录状态之前，请牢记您的当前Apple ID及登录密码，以备未来您需要用当前Apple ID登录之需
+- 在退出登录状态之前，请牢记您的当前Apple ID及登录密码，以备将来您需要用当前Apple ID登录之需
 - [AppleID?]()
 - [AppleID?]()
 - [AppleID？]()
