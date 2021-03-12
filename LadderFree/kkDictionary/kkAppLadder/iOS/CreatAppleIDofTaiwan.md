@@ -59,7 +59,7 @@
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/9DA8D9E6-59BC-40F1-9B75-54D10EDC9A69.jpeg)
   - 录入B邮箱作为Apple ID时的密码
   - 点击下图之外手机屏幕右下角的Done 或 完成
-- ![image]()
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/1EBC29FF-FB26-4C5F-8747-34F27572019B.jpeg)
 
 
 
