@@ -93,6 +93,9 @@
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C8F61F96-4F8F-4B30-A1CE-D1B1FFC16EB1.jpeg)
 
+  - 录入B邮箱作为Apple ID的密码
+  - 点击下图标红处
+
   - ![image](
   - ![image](
 
