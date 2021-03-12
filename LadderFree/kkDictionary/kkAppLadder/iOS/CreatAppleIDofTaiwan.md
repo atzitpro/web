@@ -46,7 +46,12 @@
   - 从手机短消息中取出6位验证码填入下图所示处
   - 点击标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/7F761A4D-7D22-44BB-88EA-362FFDD41008.jpeg)
-
+  - 弹出下屏，证明
+    - 创建隶属于台湾区的Apple ID
+    - 您的B邮箱即是您的台湾区Apple ID
+  - ![image](
+  - 切不可点击此屏的蓝色文字退出登上录
+  - 关闭该页面即可
   - ![image]()
 
   - 
