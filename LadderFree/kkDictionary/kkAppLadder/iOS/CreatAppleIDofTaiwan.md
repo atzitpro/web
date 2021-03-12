@@ -15,7 +15,7 @@
   - 打开如下图所示的通讯录等开关，点击标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/2BE307FA-728D-49AA-B176-75F1A62588A6.jpeg)
   - 点击下图标红处将退出登录状态
-  - ![image]()
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8BA56A14-319A-43F7-BDEA-A5D95A38AFFE.jpeg)
 
 - <strong>创建隶属于台湾区的Apple ID</strong>
 
