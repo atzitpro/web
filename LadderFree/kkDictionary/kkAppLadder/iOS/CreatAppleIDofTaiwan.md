@@ -5,7 +5,7 @@
 - 在退出登录状态之前，请牢记您的当前Apple ID及登录密码，以备将来您需要用当前Apple ID登录之需
 - 点击手机桌面上的 <strong>设置</strong>
 - 点击下图标红处
-
+- 图片
 - [AppleID?]()
 - [AppleID?]()
 - [AppleID？]()
