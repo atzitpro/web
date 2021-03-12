@@ -7,6 +7,19 @@
   - 点击手机桌面上的 <strong>设置</strong>
   - 点击下图标红处
   - ![image]()
+  - 向上滑动直到屏尾，点击标红处
+  - ![image]()
+
+  - ![image]()
+
+  - ![image]()
+
+  - ![image]()
+
+  - ![image]()
+
+  - ![image]()
+
 - <strong>创建隶属于台湾区的Apple ID</strong>
 
 
