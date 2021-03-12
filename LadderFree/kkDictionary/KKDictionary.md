@@ -106,7 +106,7 @@
 - [金刚app梯——适用于苹果手机/平板]()
 - [金刚app梯获取](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
 - [金刚app梯V2.8发布](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ToAppAnUser/kkAppAnV2.8Release.md)
-- [创建台湾区Apple ID的方法](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/CreatAppleIDofTaiwan.md)
+- [台湾区Apple ID](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/CreatAppleIDofTaiwan.md)
 
 #### 流量类
 - [金刚流量              ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTraffic.md)
