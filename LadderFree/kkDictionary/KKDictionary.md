@@ -101,6 +101,8 @@
 
 #### 金刚app梯类
 - [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
+- [金刚app梯——适用于安卓手机/平板/机顶盒]()
+- [金刚app梯——适用于苹果手机/平板]()
 - [金刚app梯获取](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
 - [金刚app梯V2.8发布](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ToAppAnUser/kkAppAnV2.8Release.md)
 
