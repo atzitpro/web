@@ -49,7 +49,7 @@
   - 弹出下屏，证明
     - 创建隶属于台湾区的Apple ID
     - 您的B邮箱即是您的台湾区Apple ID
-  - 切不可点击此屏的蓝色文字退出登上录
+  - 切不可点击此屏的蓝色文字退出登录
   - 关闭该页面即可
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C1A8F4C4-F287-47F3-A3C5-BFC8091C607A.jpeg)
 
