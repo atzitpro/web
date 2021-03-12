@@ -53,7 +53,10 @@
   - 关闭该页面即可
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C1A8F4C4-F287-47F3-A3C5-BFC8091C607A.jpeg)
 
-  - 
+ - 作新Apple ID(B邮箱)在App Store生效
+  - 从手机桌面点击App Store
+  - 点击下图标红处
+
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
