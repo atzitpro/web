@@ -86,8 +86,11 @@
   - 从手机桌面点击 <strong>设置</strong>
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/B30637C2-6F5B-42B0-AF6A-7F2A5FF24B58.jpeg)
+
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/9B3320DE-8578-48D6-B7D2-B202F12905EF.jpeg)
+
+  - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C8F61F96-4F8F-4B30-A1CE-D1B1FFC16EB1.jpeg)
 
   - ![image](
