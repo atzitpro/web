@@ -24,12 +24,18 @@
     - 该邮箱从未被当作AppIe ID使用过
     - 从未与苹果iCloud、App Store有过关联
   - 关闭手机电源，再重启
-  - 在谷歌浏览器或苹果safari浏览器地址栏录入appleid.apple.com再点 前往
+  - 在谷歌浏览器或苹果safari浏览器地址栏录入appleid.apple.com再点 <strong>前往</strong>
   - 向上滑动直到屏尾，点击如下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/635AAE38-490A-4D9D-B8D1-0B84FC646EC2.jpeg)
-  - 姓名填昵称，年满18岁。<strong>标红处是关键</strong>
+  - 姓名填昵称
+  - 年满18岁
+  - <strong>标红处是关键</strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/60F23630-029A-4004-8628-A8FD5B16278B.jpeg)
-  - 向上滑动，填入B邮箱扮演Apple ID的角色，密码是B邮箱作为Apple ID的密码，未必里登入B邮箱的密码。<strong>标红处是关键</strong>
+  - 向上滑动
+  - 填入B邮箱，作为新的Apple ID
+  - 密码是B邮箱作为Apple ID的密码
+  - 未必是登入B邮箱的密码
+  - <strong>标红处是关键</strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/4DC3451A-623A-4658-8C0A-7A33AF4C845B.jpeg)
 
   - 
