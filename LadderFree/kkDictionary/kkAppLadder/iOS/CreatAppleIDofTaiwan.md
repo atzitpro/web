@@ -11,7 +11,7 @@
   - 向上滑动直到屏尾，点击如下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/77FC45E4-4E65-4C8B-ACCB-5549971B7A99.jpeg)
   - 在如下图所示的一屏中录入与您的A邮箱作为Apple ID相对应的密码
-  - ![image]()
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/7DD554C9-34B7-4374-8DBB-F18B6A777A46.jpeg)
   - 打开如下图所示的通讯录等开关，点击标红处
   - ![image]()
   - 点击下图标红处将退出登录状态
