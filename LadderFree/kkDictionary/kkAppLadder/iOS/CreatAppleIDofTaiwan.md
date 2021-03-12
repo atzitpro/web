@@ -85,10 +85,7 @@
 
   - 从手机桌面点击 <strong>设置</strong>
   - 点击下图标红处
-
-
-
-  - ![image](
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/B30637C2-6F5B-42B0-AF6A-7F2A5FF24B58.jpeg)
 
   - ![image](
   - ![image](
