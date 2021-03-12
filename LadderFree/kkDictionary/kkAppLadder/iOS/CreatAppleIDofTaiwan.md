@@ -52,7 +52,7 @@
   - ![image](
   - 切不可点击此屏的蓝色文字退出登上录
   - 关闭该页面即可
-  - ![image]()
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C1A8F4C4-F287-47F3-A3C5-BFC8091C607A.jpeg)
 
   - 
 
