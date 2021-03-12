@@ -16,14 +16,14 @@
   - ![image]()
   - 点击下图标红处将退出登录状态
   - ![image]()
-  -
-  - ![image]()
-  -
-  - ![image]()
-  -
+
 - <strong>创建隶属于台湾区的Apple ID</strong>
 
-
+  -
+  - ![image]()
+  -
+  - ![image]()
+  -
 
   - 
   - 
