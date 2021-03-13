@@ -1,4 +1,4 @@
-###### 玩转金刚梯
+###### 玩转金刚
 ### Windows
 ### 《安装配置说明》
 
@@ -8,15 +8,14 @@
 
 #### <strong>特色</strong>
 
-  - 一键翻墙
+  - 一键连接
   - 安全高速  
-  - HTTPS/SSL VPN
 
 
 #### <strong>安装</strong>
 - 如果您尚未下载SSL客户端
   - 且当前正在Windows上阅读本配置说明
-    - 则请点击这里 - 请点击此处下载金刚App梯 [下载链接1](https://github.com/a2zitpro/client/releases/download/v4.28/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) / [下载链接2](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)下载SSL客户端
+    - 则请点击这里 - 请点击此处下载金刚App [下载链接1](https://github.com/a2zitpro/client/releases/download/v4.28/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) / [下载链接2](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)下载SSL客户端
   - 且当前未在Windows上阅读本配置说明
     - 则请长按此处[下载链接1](https://github.com/a2zitpro/client/releases/download/v4.28/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe) / [下载链接2](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.28-9669-beta/softether-vpnclient-v4.28-9669-beta-2018.09.11-windows-x86_x64-intel.exe)
     - 在弹窗中点选 <strong>复制链接网址</strong>
@@ -78,6 +77,6 @@
 ![Image](https://github.com/a2zitpro/web/blob/master/配置005A.png)
 
 #### 返回到
-- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
-- [金刚号梯的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
+- [金刚号的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
