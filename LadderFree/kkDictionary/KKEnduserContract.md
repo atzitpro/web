@@ -33,9 +33,9 @@ Lafayette, CO 80026, USA
 
 2、目前在售的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)：
 
-- 金刚第2代产品 [ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
+- 金刚第2代产品 [ 金刚App ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
-- 金刚第1代产品 [ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
+- 金刚第1代产品 [ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
 
 3、卖方的所有[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)均免费供应；卖方仅对经由[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)收费。
 
@@ -48,9 +48,9 @@ Lafayette, CO 80026, USA
 
 2、将帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)隐藏、保护其所访问的目标网站的域名等信息，使为其提供Internet接入服务的用户本地电话公司及第三方无法捕获上述信息，无法对[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)进行上网行为分析
 
-3、将帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)突破第三方设立的[ 网络防火墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)，使其在Internet上畅行无阻，自由上网；
+3、将帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)突破第三方设立的旨在阻止用户访问某些网站的[ 网络防火墙的限制 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)，使其在Internet上畅行无阻，自由上网；
 
-4、将加密[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)与其所访问的目标网站之间、[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)使用墙外社交媒体时所传输的全部往来信息，使第三方即使采用当今最先进的技术也无法破译，从而保护[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)的隐私和安全
+4、将加密[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)与其所访问的目标网站之间、[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)使用社交媒体时所传输的全部往来信息，使第三方即使采用当今最先进的技术也无法破译，从而保护[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)的隐私和安全
  
 5、将帮助卖方的公司（或非公司组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的[ 网络防火墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)，完成身份认证，进而访问公司内部网。
 
@@ -124,11 +124,11 @@ Lafayette, CO 80026, USA
 
 A、自然人用户
 
-a、使用金刚第1代产品[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)的用户解除合约时：
+a、使用金刚第1代产品[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)的用户解除合约时：
 
 给金刚客服邮箱发送邮件“解除合约”，则启动合约解除流程
 
-b、使用金刚第2代产品[ 金刚App梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的用户解除合约时：
+b、使用金刚第2代产品[ 金刚App ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的用户解除合约时：
 
 卸载金刚客户端即意味着解除合约
 
