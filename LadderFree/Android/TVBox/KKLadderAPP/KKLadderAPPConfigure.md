@@ -22,7 +22,7 @@
 
 #### <strong> 安装方法1 </strong>
 - 在Windows+PC环境下，从PC磁盘复制金刚app安装包到U盘
-- 如果金刚app安装包尚未下载到PC磁盘，则请[ 点击此处(可免梯点击) ](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md) 下载
+- 如果金刚app安装包尚未下载到PC磁盘，则请[ 点击此处(可不连VPN点击) ](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderAPP/KKLadderAPPGet.md) 下载
 - 把U盘插入小米安卓机顶盒U口，电视机则显示检测到新的USB设备
 - 用机顶盒遥控器
   - 在<strong> 打开 </strong>和<strong> 取消 </strong>两个按钮中，选择并点击<strong> 打开 </strong>按钮，即可打开U盘
@@ -39,8 +39,8 @@
 
 #### <strong> 安装方法2 </strong>：
 - 直接在机顶盒上安装UPX浏览器
-- UPX浏览器不必翻墙即可下载
-- UPX浏览器是一款自带翻墙功能的浏览器
+- UPX浏览器不必连VPN即可下载
+- UPX浏览器是一款自带VPN功能的浏览器
 - 在Windows+PC环境下，下载UPX浏览器安卓安装包apk
 - 将UPX浏览器安卓安装包apk复制到U盘
 - 把U盘插入机顶盒U口
