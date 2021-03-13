@@ -1,9 +1,9 @@
-###### 玩转金刚梯
+###### 玩转金刚
 #### 安卓机顶盒
 ### 《金刚app安装说明》
 
 #### 特色
-- 一键翻墙
+- 一键连通
 - 安全高速 
 - 多条线路 
 - 免费公测 
@@ -52,4 +52,4 @@ cutt.ly/3h2RXJF
 - 后续安装、打开步骤与<strong> 安装方法1 </strong>完全相同
 
 #### 返回到
-[玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+[玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
