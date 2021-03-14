@@ -38,15 +38,15 @@
   - <strong>标红处是关键</strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/4DC3451A-623A-4658-8C0A-7A33AF4C845B.jpeg)
   - 向上滑动，将验证您是自然人还是机器人
-  - 点击下图标红处.将发送6位验证码到B邮箱
+  - 点击下图P09标红处.将发送6位验证码到B邮箱
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/4155452F-CB76-4C7C-A2FD-2E94EC9132EC.jpeg)
-  - 从B邮箱取出6位验证码填入下图所示处
+  - 从B邮箱取出6位验证码填入下图P10所示处
   - 点击标红处，将发送6位验证码到手机号
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/F10FE8CD-82D6-442A-B998-6851F2494546.jpeg)
-  - 从手机短消息中取出6位验证码填入下图所示处
+  - 从手机短消息中取出6位验证码填入下图P11所示处
   - 点击标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/7F761A4D-7D22-44BB-88EA-362FFDD41008.jpeg)
-  - 弹出下屏，证明
+  - 弹出下屏P12，证明
     - 创建隶属于台湾区的Apple ID
     - 您的B邮箱即是您的台湾区Apple ID
   - <strong>切不可点击此屏的蓝色文字退出登录</strong>
@@ -55,26 +55,26 @@
 
 - <strong>3、让新Apple ID(B邮箱)在App Store生效</strong>
   - 从手机桌面点击App Store
-  - 点击下图所示标红处
+  - 点击下图P13所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/9DA8D9E6-59BC-40F1-9B75-54D10EDC9A69.jpeg)
-  - 在下图所示处录入Apple ID（B邮箱）的密码
-  - 点击下图所示区域之外、手机屏幕右下角的 Done 或 完成
+  - 在下图P14所示处录入Apple ID（B邮箱）的密码
+  - 点击下图P14所示区域之外、手机屏幕右下角的 Done 或 完成
   - 将发6位验证码到您手机号
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/1EBC29FF-FB26-4C5F-8747-34F27572019B.jpeg)
-  - 从手机短消息中取出6位验证码填入下图，将自动转向下一屏
+  - 从手机短消息中取出6位验证码填入下图P15，将自动转向下一屏
   - ![image](https://github.com/a2zitpro/web/blob/b390b026c43e446a6dd513778b2eb321baa3313b/LadderFree/kkDictionary/kkAppLadder/iOS/E33A509B-13E6-48FA-8A9B-518799C08AFC.jpeg)
-  - 点击下图所示标红处
+  - 点击下图P16所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C00450EC-8C4B-4AD6-856F-FEAD0274BF36.jpeg)
-  - 同意条款，点<strong>下一页</strong>
+  - 同意条款，点<strong>下一页图P17</strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8EB969DF-CFC3-464E-8DAB-5170DF375C1E.jpeg)
-  - 下图标红处照原样填写
+  - 下图P18标红处照原样填写
   - 点击下一页
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/6EEED7E2-76BD-4B6B-B6DB-FA956842DCAC.jpeg)
   - 至此，B邮箱作为新的Apple ID已在App Store生效
-  - 点击下图标红处
+  - 点击下图P19标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/647D0610-58D6-46D1-84C1-C7C06707E1DD.jpeg)
 - <strong>4、下载安装金刚app</strong>
-  - 在下图所示标红处录入kkvpn搜索
+  - 在下图P20所示标红处录入kkvpn搜索
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/61C3475F-2046-42B1-831C-800AD1E09B1E.jpeg)
   - 将获得如下结果
   - 请认准标绿处的商标
