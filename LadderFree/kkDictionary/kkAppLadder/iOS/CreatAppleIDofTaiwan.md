@@ -65,7 +65,7 @@
   - ![image](https://github.com/a2zitpro/web/blob/b390b026c43e446a6dd513778b2eb321baa3313b/LadderFree/kkDictionary/kkAppLadder/iOS/E33A509B-13E6-48FA-8A9B-518799C08AFC.jpeg)
   - 点击如下图P16所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C00450EC-8C4B-4AD6-856F-FEAD0274BF36.jpeg)
-  - 在如下图P17右下标红处打于<strong> 同意条款 </strong>开关，点击如右上所示标红处<strong> 下一页 </strong>
+  - 在如下图P17所示右下标红处打开<strong> 同意条款 </strong>开关，点击右上标红处<strong> 下一页 </strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8EB969DF-CFC3-464E-8DAB-5170DF375C1E.jpeg)
   - 在如下图P18所示矩形标红处照原样填写
   - 点击下一页
