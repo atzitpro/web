@@ -1,7 +1,7 @@
 ##### 关于Apple ID
 ### 创建台湾区 Apple ID
 
-- <strong>从当前Apple ID的登录状态中退出</strong>
+- <strong>1、从当前Apple ID的登录状态中退出</strong>
   - 以下操作全部基于这一假定
     - 您当前Apple ID是您的A邮箱，即您的苹果手机的App Store、iCloud是与您的A邮箱相关联的，且正处于登录状态
   - 在退出登录状态之前，请牢记您的当前Apple ID及登录密码，以备将来您需要用当前Apple ID登录之需
@@ -17,7 +17,7 @@
   - 点击如下图所示标红处，将退出登录状态
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8BA56A14-319A-43F7-BDEA-A5D95A38AFFE.jpeg)
 
-- <strong>创建隶属于台湾区的Apple ID</strong>
+- <strong>2、创建隶属于台湾区的Apple ID</strong>
 
   - 准备好B邮箱
     - B邮箱应为全新邮箱
@@ -53,7 +53,7 @@
   - 关闭该页面即可
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C1A8F4C4-F287-47F3-A3C5-BFC8091C607A.jpeg)
 
-- <strong>让新Apple ID(B邮箱)在App Store生效</strong>
+- <strong>3、让新Apple ID(B邮箱)在App Store生效</strong>
   - 从手机桌面点击App Store
   - 点击下图所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/9DA8D9E6-59BC-40F1-9B75-54D10EDC9A69.jpeg)
@@ -73,7 +73,7 @@
   - 至此，B邮箱作为新的Apple ID已在App Store生效
   - 点击下图标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/647D0610-58D6-46D1-84C1-C7C06707E1DD.jpeg)
-- <strong>如何下载安装金刚app</strong>
+- <strong>4、下载安装金刚app</strong>
   - 在下图所示标红处录入kkvpn搜索
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/61C3475F-2046-42B1-831C-800AD1E09B1E.jpeg)
   - 将获得如下结果
@@ -81,7 +81,7 @@
   - 点击标红处将下载安装金刚
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/71AF35BE-0DEE-418D-9BF9-EF191DEB4018.jpeg)
 
-- <strong>让新Apple ID(B邮箱)在iCloud生效</strong>
+- <strong>5、让新Apple ID(B邮箱)在iCloud生效</strong>
 
   - 从手机桌面点击 <strong>设置</strong>
   - 点击下图所示标红处
