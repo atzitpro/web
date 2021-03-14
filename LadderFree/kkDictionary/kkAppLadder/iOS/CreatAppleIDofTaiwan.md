@@ -65,7 +65,7 @@
   - ![image](https://github.com/a2zitpro/web/blob/b390b026c43e446a6dd513778b2eb321baa3313b/LadderFree/kkDictionary/kkAppLadder/iOS/E33A509B-13E6-48FA-8A9B-518799C08AFC.jpeg)
   - 点击如下图P16所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C00450EC-8C4B-4AD6-856F-FEAD0274BF36.jpeg)
-  - 同意条款，点<strong> 下一页 </strong>图P17
+  - 同意条款，点击如下图P17所示标红处<strong> 下一页 </strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8EB969DF-CFC3-464E-8DAB-5170DF375C1E.jpeg)
   - 在如下图P18所示矩形标红处照原样填写
   - 点击下一页
@@ -102,7 +102,7 @@
 
   - 点击如下图P27所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/2379DE89-F2AA-4EC1-84AD-22BBF19C5DF0.jpeg)
-  - 在如下图P28所示处录入手机开机密码
+  - 在如下图P28所示处录入开机密码
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/82BF2097-E890-46D6-B0A0-54BCFF9FC3A1.jpeg)
   - 至此，新Apple ID（B邮箱）已在iCloud生效
 
