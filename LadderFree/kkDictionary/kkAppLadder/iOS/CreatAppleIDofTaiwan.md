@@ -9,13 +9,13 @@
   - 点击如下图P01所示标红处
   - ![image](/LadderFree/kkDictionary/kkAppLadder/iOS/997559B2-1174-4B8D-9D8D-BFB2723A2731.jpeg)
   - 向上滑动直到屏尾，点击如下图P02所示标红处
-  - ![image](http://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/77FC45E4-4E65-4C8B-ACCB-5549971B7A99.jpeg)
+  - ![image](/LadderFree/kkDictionary/kkAppLadder/iOS/77FC45E4-4E65-4C8B-ACCB-5549971B7A99.jpeg)
   - 在如下图P03所示的一屏中录入与您的A邮箱作为Apple ID相对应的密码
-  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/7DD554C9-34B7-4374-8DBB-F18B6A777A46.jpeg)
+  - ![image](/LadderFree/kkDictionary/kkAppLadder/iOS/7DD554C9-34B7-4374-8DBB-F18B6A777A46.jpeg)
   - 打开如下图P04所示的通讯录等开关，点击标红处
-  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/2BE307FA-728D-49AA-B176-75F1A62588A6.jpeg)
+  - ![image](/LadderFree/kkDictionary/kkAppLadder/iOS/2BE307FA-728D-49AA-B176-75F1A62588A6.jpeg)
   - 点击如下图P05所示标红处，将退出登录状态
-  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8BA56A14-319A-43F7-BDEA-A5D95A38AFFE.jpeg)
+  - ![image](/LadderFree/kkDictionary/kkAppLadder/iOS/8BA56A14-319A-43F7-BDEA-A5D95A38AFFE.jpeg)
 
 - <strong>2、创建隶属于台湾区的Apple ID</strong>
 
