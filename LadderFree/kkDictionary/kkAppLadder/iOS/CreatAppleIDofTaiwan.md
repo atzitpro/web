@@ -84,25 +84,25 @@
 - <strong>5、让新Apple ID(B邮箱)在iCloud生效</strong>
 
   - 从手机桌面点击 <strong>设置</strong>
-  - 点击下图所示标红处
+  - 点击下图P22所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/B30637C2-6F5B-42B0-AF6A-7F2A5FF24B58.jpeg)
 
-  - 点击下图所示标红处
+  - 点击下图P23所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/9B3320DE-8578-48D6-B7D2-B202F12905EF.jpeg)
 
-  - 点击下图所示标红处
+  - 点击下图P24所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C8F61F96-4F8F-4B30-A1CE-D1B1FFC16EB1.jpeg)
 
   - 录入Apple ID（B邮箱）的密码
-  - 点击下图所示标红处
+  - 点击下图P25所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/81663793-7E64-4E29-B595-BAE739F4645F.jpeg)
 
-  - 点击下图所示标红处
+  - 点击下图P26所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/60F07B59-0311-4108-895B-296C1496D268.jpeg)
 
-  - 点击下图所示标红处
+  - 点击下图P27所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/2379DE89-F2AA-4EC1-84AD-22BBF19C5DF0.jpeg)
-  - 录入手机开机密码
+  - 在如下图P28所示处录入手机开机密码
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/82BF2097-E890-46D6-B0A0-54BCFF9FC3A1.jpeg)
   - 至此，新Apple ID（B邮箱）已在iCloud生效
 
