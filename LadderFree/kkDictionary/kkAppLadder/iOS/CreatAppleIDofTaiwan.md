@@ -7,7 +7,7 @@
   - 在退出登录状态之前，请牢记您的当前Apple ID及登录密码，以备将来您需要用当前Apple ID登录之需
   - 点击手机桌面上的 <strong>设置</strong>
   - 点击如下图P01所示标红处
-  - ![image](LadderFree/kkDictionary/kkAppLadder/iOS/997559B2-1174-4B8D-9D8D-BFB2723A2731.jpeg)
+  - ![image](/web/LadderFree/kkDictionary/kkAppLadder/iOS/997559B2-1174-4B8D-9D8D-BFB2723A2731.jpeg)
   - 向上滑动直到屏尾，点击如下图P02所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/77FC45E4-4E65-4C8B-ACCB-5549971B7A99.jpeg)
   - 在如下图P03所示的一屏中录入与您的A邮箱作为Apple ID相对应的密码
