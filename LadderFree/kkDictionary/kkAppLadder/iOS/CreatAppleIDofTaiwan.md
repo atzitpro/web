@@ -27,8 +27,8 @@
   - 在谷歌浏览器或苹果safari浏览器地址栏录入appleid.apple.com再点 <strong>前往</strong>
   - 向上滑动直到屏尾，点击如下图P06所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/635AAE38-490A-4D9D-B8D1-0B84FC646EC2.jpeg)
-  - 在如下图P07所示姓名处填昵称
-  - 年满18岁
+  - 在如下图P07所示姓氏、名称处填昵称
+  - 出生日期处所填应确保年满18岁
   - <strong>标红处是关键</strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/60F23630-029A-4004-8628-A8FD5B16278B.jpeg)
   - 向上滑动
