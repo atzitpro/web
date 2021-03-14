@@ -55,23 +55,23 @@
 
 - <strong>3、让新Apple ID(B邮箱)在App Store生效</strong>
   - 从手机桌面点击App Store
-  - 点击下图P13所示标红处
+  - 点击如下图P13所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/9DA8D9E6-59BC-40F1-9B75-54D10EDC9A69.jpeg)
-  - 在下图P14所示处录入Apple ID（B邮箱）的密码
-  - 点击下图P14所示区域之外、手机屏幕右下角的 Done 或 完成
+  - 在如下图P14所示处录入Apple ID（B邮箱）的密码
+  - 点击如下图P14所示区域之外、手机屏幕右下角的 Done 或 完成
   - 将发6位验证码到您手机号
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/1EBC29FF-FB26-4C5F-8747-34F27572019B.jpeg)
-  - 从手机短消息中取出6位验证码填入下图P15，将自动转向下一屏
+  - 从手机短消息中取出6位验证码填入如下图P15所示处，将自动转向下一屏
   - ![image](https://github.com/a2zitpro/web/blob/b390b026c43e446a6dd513778b2eb321baa3313b/LadderFree/kkDictionary/kkAppLadder/iOS/E33A509B-13E6-48FA-8A9B-518799C08AFC.jpeg)
-  - 点击下图P16所示标红处
+  - 点击如下图P16所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C00450EC-8C4B-4AD6-856F-FEAD0274BF36.jpeg)
   - 同意条款，点<strong> 下一页 </strong>图P17
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8EB969DF-CFC3-464E-8DAB-5170DF375C1E.jpeg)
-  - 下图P18矩形标红处照原样填写
+  - 在如下图P18所示矩形标红处照原样填写
   - 点击下一页
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/6EEED7E2-76BD-4B6B-B6DB-FA956842DCAC.jpeg)
   - 至此，B邮箱作为新的Apple ID已在App Store生效
-  - 点击下图P19标红处
+  - 点击如下图P19所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/647D0610-58D6-46D1-84C1-C7C06707E1DD.jpeg)
 - <strong>4、下载安装金刚app</strong>
   - 在下图P20所示标红处录入kkvpn搜索
@@ -84,23 +84,23 @@
 - <strong>5、让新Apple ID(B邮箱)在iCloud生效</strong>
 
   - 从手机桌面点击 <strong>设置</strong>
-  - 点击下图P22所示标红处
+  - 点击如下图P22所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/B30637C2-6F5B-42B0-AF6A-7F2A5FF24B58.jpeg)
 
-  - 点击下图P23所示标红处
+  - 点击如下图P23所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/9B3320DE-8578-48D6-B7D2-B202F12905EF.jpeg)
 
-  - 点击下图P24所示标红处
+  - 点击如下图P24所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/C8F61F96-4F8F-4B30-A1CE-D1B1FFC16EB1.jpeg)
 
-  - 录入Apple ID（B邮箱）的密码
-  - 点击下图P25所示标红处
+  - 在如下图P25所示<strong> 密码 </strong>处录入Apple ID（B邮箱）的密码
+  - 点击如下图P25所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/81663793-7E64-4E29-B595-BAE739F4645F.jpeg)
 
-  - 点击下图P26所示标红处
+  - 点击如下图P26所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/60F07B59-0311-4108-895B-296C1496D268.jpeg)
 
-  - 点击下图P27所示标红处
+  - 点击如下图P27所示标红处
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/2379DE89-F2AA-4EC1-84AD-22BBF19C5DF0.jpeg)
   - 在如下图P28所示处录入手机开机密码
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/82BF2097-E890-46D6-B0A0-54BCFF9FC3A1.jpeg)
