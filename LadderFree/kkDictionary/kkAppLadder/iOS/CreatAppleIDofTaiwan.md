@@ -76,7 +76,7 @@
 - <strong>4、下载安装金刚app</strong>
   - 在下图P20所示标红处录入kkvpn搜索
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/61C3475F-2046-42B1-831C-800AD1E09B1E.jpeg)
-  - 将获得如下结果
+  - 将获得如下图P21所示结果
   - 请认准标绿处的商标
   - 点击标红处将下载安装金刚
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/71AF35BE-0DEE-418D-9BF9-EF191DEB4018.jpeg)
