@@ -68,7 +68,7 @@
   - 在如下图P17所示右下标红处打开<strong> 同意条款 </strong>开关，点击右上标红处<strong> 下一页 </strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8EB969DF-CFC3-464E-8DAB-5170DF375C1E.jpeg)
   - 在如下图P18所示矩形标红处照原样填写
-  - 点击下一页
+  - 点击右上标红处<strong> 下一页 </strong>
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/6EEED7E2-76BD-4B6B-B6DB-FA956842DCAC.jpeg)
   - 至此，B邮箱作为新的Apple ID已在App Store生效
   - 点击如下图P19所示标红处
