@@ -12,7 +12,7 @@
   - 苹果云从逻辑上分为数朵，如美洲云、欧洲云、台湾云、中国大陆云等。隶属于不同地理区域的苹果用户被划分到不同的云朵中
   - 这些云朵由苹果公司管理，其安全由苹果公司负责
   - 据[维基百科](https://zh.m.wikipedia.org/wiki/ICloud)
-  - [!image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8B92C5F9-A956-4267-AD4D-D0D5CF49C44B.jpeg)
+  - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8B92C5F9-A956-4267-AD4D-D0D5CF49C44B.jpeg)
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
