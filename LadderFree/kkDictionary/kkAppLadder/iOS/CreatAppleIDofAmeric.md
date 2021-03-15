@@ -1,7 +1,7 @@
 ##### 关于Apple ID
-### 如何创建美洲区的Apple ID?
-#### 创建美洲区的Apple ID的方法
-- 请参照[ 创建台湾区的Apple ID ]()的方法做
+### 如何创建美洲区 Apple ID?
+#### 创建美洲区 Apple ID 的方法
+- 请参照[ 创建台湾区 Apple ID ]()的方法做
 - 区别是：在图P07所示标红处选择<strong> 美国 </strong>即可
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
