@@ -11,7 +11,7 @@
   - 当设备丢失时，您可以通过iCloud查找丢失设备所在地理位置；您还可以从iCloud端发出指令让丢失设备每隔一段时间响铃示警、来电不显示预存在通讯录中的联系人姓名等
   - 苹果云按地理区域从逻辑上分为数朵，如美洲云、欧洲云、台湾云、中国大陆云等。隶属于不同地理区域的苹果用户被划分到不同的云朵中
   - 这些云朵由苹果公司管理，其安全由苹果公司负责
-  - 据[ 维基百科 ](https://zh.m.wikipedia.org/wiki/ICloud)iCloud条目、争议项之下记载：依照《中华人民共和国网络安全法》的规定，自2018年2月开始，苹果公司将中国区域的iCloud服务交由位于中国大陆的云上贵州运营
+  - 据[ 维基百科 ](https://zh.m.wikipedia.org/wiki/ICloud)<strong> iCloud </strong>条目、<strong> 争议 </strong>项之下记载：依照《中华人民共和国网络安全法》的规定，自2018年2月开始，苹果公司将中国区域的iCloud服务交由位于中国大陆的云上贵州运营
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8B92C5F9-A956-4267-AD4D-D0D5CF49C44B.jpeg)
 
 - 苹果软件商店 App Store
