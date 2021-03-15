@@ -1,4 +1,5 @@
-![image](l-w-s-athird.png)
+![image](kkLOGO/kkLogoSmall.PNG)
+<!--![image](l-w-s-athird.png) -->
 
 
 ## 金刚梯后台运行状态<br>  
