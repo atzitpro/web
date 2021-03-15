@@ -2,20 +2,20 @@
 <!--![image](l-w-s-athird.png) -->
 
 
-## 金刚梯后台运行状态<br>  
+## 金刚后台运行状态<br>  
 
 
 | 后台 | 状态 | 
 | ----------- | ----------- | 
-| 1. 金刚app梯（安卓） | <font color="green">正常</font>| 
-| 2.金刚Windows app梯| <font color="White">正常</font> | 
-| 3.只需配置的L2型金刚号梯| <font color="White">正常</font> | 
+| 1. 金刚app（安卓） | <font color="green">正常</font>| 
+| 2.金刚Windows app| <font color="White">正常</font> | 
+| 3.只需配置的L2型金刚号| <font color="White">正常</font> | 
  
-[最新版金刚安卓app梯下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
+[最新版金刚安卓app下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
 
 ### 21.03.15 北京时间2:00PM 一台L2型服务器（#53）未能激活自动克隆，手动克隆，服务恢复 
 
-### L2金刚号梯后台
+### L2金刚号后台
 - 被墙的频率
   - 平常 数次/周
   - 敏感期峰值：2次/天。
@@ -85,7 +85,7 @@
   - 金刚app梯（安卓）不受此次升级影响，用户可正常使用该梯。
   - 金刚app梯（安卓）将于从20.03.30开始的两周之内提示用户升级到最新版v2.6，届时请务必选择升级，否则无法连通。
 
-### 安卓App梯-香港线路故障-厂商修复-请用户换用其它线路 - 服务已经恢复
+### 安卓App-香港线路故障-厂商修复-请用户换用其它线路 - 服务已经恢复
 - 20.03.24 北京时间11:25 服务恢复
 - 20.03.23 北京时间22点  故障出现 
 ### L2型#36服务器被墙手动恢复服务
