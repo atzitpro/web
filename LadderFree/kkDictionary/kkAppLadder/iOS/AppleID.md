@@ -17,7 +17,7 @@
 - 苹果软件商店 App Store
   - 苹果公司的 App Store 按地理区域从逻辑上分为数个 App Store
   - 属于不同地理区域的用户，经由 Apple ID 被分配到属于本区域的 App Store 购买应用软件App
-
+  - 苹果公司将 App Store 按地理区域划分为多个的目的之一是为了遵从当地的法律。比如某款软件商品在C区域属违法商品，不得在C区域所属的App Store上架，但它在除C区域之外的其它区域属合法商品，则可在其它区域的 App Store 上架
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
