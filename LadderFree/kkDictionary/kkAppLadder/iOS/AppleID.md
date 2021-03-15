@@ -14,7 +14,7 @@
   - 据[ 维基百科 ](https://zh.m.wikipedia.org/wiki/ICloud)iCloud条目、争议项之下记载：依照《中华人民共和国网络安全法》的规定，自2018年2月开始，苹果公司将中国区域的iCloud服务交由位于中国大陆的云上贵州运营
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8B92C5F9-A956-4267-AD4D-D0D5CF49C44B.jpeg)
 
-- App Sore
+- 苹果软件商店 App Store
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
