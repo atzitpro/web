@@ -15,8 +15,8 @@
   - ![image](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/8B92C5F9-A956-4267-AD4D-D0D5CF49C44B.jpeg)
 
 - 苹果软件商店 App Store
-  - 苹果公司的App Store按地理区域从逻辑上分为数个App Store
-  - 属于不同地理区域的用户，应在属于本区域的 App Store 购买应用软件App
+  - 苹果公司的 App Store 按地理区域从逻辑上分为数个 App Store
+  - 属于不同地理区域的用户，经由 Apple ID 被分配到属于本区域的 App Store 购买应用软件App
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
