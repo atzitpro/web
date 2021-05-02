@@ -37,10 +37,10 @@
 
 |礼包号| 流量有效期（年） |总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|Points| 限售|
 |-----|--|--------|--------|---------|---|---|---|-------| --|
-|P25| <strong> 5 </strong> | <strong> 960 </strong> |192|16| <strong>￥499 </strong> |￥100|￥8| 24300| 1万份|
-|P23| <strong> 3 </strong> | <strong> 576 </strong> |192|16| <strong>￥432 </strong> |￥144|￥12| 14580| 1万份|
-|P22| <strong> 2 </strong> | <strong> 384 </strong> |192|16| <strong>￥366 </strong> |￥183|￥15| 9720| 1万份|
-|P21| <strong> 1 </strong> | <strong> 192 </strong> |192|16| <strong>￥266 </strong> |￥266|￥22|4860| 1万份|
+| <strong> P25 </strong> | <strong> 5 </strong> | <strong> 960 </strong> |192|16| <strong>￥499 </strong> |￥100|￥8| 24300| 1万份|
+| <strong> P23 </strong> | <strong> 3 </strong> | <strong> 576 </strong> |192|16| <strong>￥432 </strong> |￥144|￥12| 14580| 1万份|
+| <strong> P22 </strong> | <strong> 2 </strong> | <strong> 384 </strong> |192|16| <strong>￥366 </strong> |￥183|￥15| 9720| 1万份|
+| <strong> P21 </strong> | <strong> 1 </strong> | <strong> 192 </strong> |192|16| <strong>￥266 </strong> |￥266|￥22|4860| 1万份|
 
 <br>
 
