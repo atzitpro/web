@@ -37,10 +37,10 @@
 
 |礼包号| 流量有效期（年） |总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|Points| 限售|
 |-----|--|--------|--------|---------|---|---|---|-------| --|
-| <strong> P25 </strong> | <strong> 5 </strong> | <strong> 960 </strong> |192|16| <strong>￥499 </strong> |￥100|￥8| 24300| 1万份|
-| <strong> P23 </strong> | <strong> 3 </strong> | <strong> 576 </strong> |192|16| <strong>￥432 </strong> |￥144|￥12| 14580| 1万份|
-| <strong> P22 </strong> | <strong> 2 </strong> | <strong> 384 </strong> |192|16| <strong>￥366 </strong> |￥183|￥15| 9720| 1万份|
-| <strong> P21 </strong> | <strong> 1 </strong> | <strong> 192 </strong> |192|16| <strong>￥266 </strong> |￥266|￥22|4860| 1万份|
+| <strong> P25 </strong> |<strong> 5 </strong> | <strong>960</strong>|192|16|<strong>￥449 </strong>|￥90 |￥7| 24300| 1万份|
+| <strong> P23 </strong> |<strong> 3 </strong> | <strong>576</strong>|192|16|<strong>￥389 </strong>|￥130|￥11| 14580| 1万份|
+| <strong> P22 </strong> |<strong> 2 </strong> | <strong>384</strong>|192|16|<strong>￥329 </strong>|￥165|￥14| 9720| 1万份|
+| <strong> P21 </strong> |<strong> 1 </strong> | <strong>192</strong>|192|16|<strong>￥239 </strong>|￥239|￥20|4860| 1万份|
 
 <br>
 
@@ -48,10 +48,10 @@
 
 |礼包号|流量有效期（年）|总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|Points| 限售|
 |-----|--|-----|-----|-----|-----|----|--|--| --|
-| <strong> P15 </strong>| <strong> 5 </strong>| <strong> 480</strong>|96|8| <strong>￥399 </strong>|￥80	|￥7| 16200| 1万份|
-| <strong> P13 </strong>| <strong> 3 </strong>| <strong> 288</strong>|96|8| <strong>￥346 </strong>|￥115	|￥10| 9720| 1万份|
-| <strong> P12 </strong>| <strong> 2 </strong>| <strong> 192</strong>|96|8| <strong>￥292 </strong>|￥146	|￥12| 6480| 1万份|
-| <strong> P11 </strong>| <strong> 1 </strong>| <strong> 96 </strong>|96|8| <strong>￥212 </strong>|￥212	|￥18| 3240| 1万份|
+| <strong> P15 </strong>| <strong> 5 </strong>| <strong> 480</strong>|96|8| <strong>￥299 </strong>|￥60	|￥5| 16200| 1万份|
+| <strong> P13 </strong>| <strong> 3 </strong>| <strong> 288</strong>|96|8| <strong>￥259 </strong>|￥86	|￥7| 9720| 1万份|
+| <strong> P12 </strong>| <strong> 2 </strong>| <strong> 192</strong>|96|8| <strong>￥219 </strong>|￥110|￥9| 6480| 1万份|
+| <strong> P11 </strong>| <strong> 1 </strong>| <strong> 96 </strong>|96|8| <strong>￥159 </strong>|￥159|￥13| 3240| 1万份|
 
 
 
