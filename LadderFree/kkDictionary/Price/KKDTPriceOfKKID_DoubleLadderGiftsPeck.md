@@ -24,34 +24,34 @@
 
 - 紫铜级双梯礼包
 
-|礼包号| 流量有效期（年） |总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|Points|限售|
+|礼包号| 流量有效期（年） |总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|原价|限售|
 |-----|--|--------|--------|---------|---|----|---|------|-|
-|<strong> P35 </strong> | <strong> 5 </strong> | <strong> 1920 </strong> |384  |32| <strong>￥599</strong>|¥120| ¥10|36450|1万份|
-|<strong> P33 </strong> | <strong> 3 </strong> | <strong> 1152 </strong> |384  |32| <strong>￥519 </strong> |￥173|￥14|21870|1万份|
-|<strong> P32 </strong> | <strong> 2 </strong> | <strong> 768  </strong> |384  |32| <strong>￥439 </strong> |￥220|￥18|14580|1万份|
-|<strong> P31 </strong> | <strong> 1 </strong> | <strong> 384  </strong> |384  |32| <strong>￥319 </strong> |￥319|￥27|7290|1万份|
+|<strong> P35 </strong> | <strong> 5 </strong> | <strong> 1920 </strong> |384  |32| <strong>￥599</strong>|¥120| ¥10|$364.50|1万份|
+|<strong> P33 </strong> | <strong> 3 </strong> | <strong> 1152 </strong> |384  |32| <strong>￥519 </strong> |￥173|￥14|$218.70|1万份|
+|<strong> P32 </strong> | <strong> 2 </strong> | <strong> 768  </strong> |384  |32| <strong>￥439 </strong> |￥220|￥18|$145.80|1万份|
+|<strong> P31 </strong> | <strong> 1 </strong> | <strong> 384  </strong> |384  |32| <strong>￥319 </strong> |￥319|￥27|$72.90|1万份|
 
 <br>
 
 - 赤纲级双梯礼包
 
-|礼包号| 流量有效期（年） |总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|Points| 限售|
+|礼包号| 流量有效期（年） |总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|原价| 限售|
 |-----|--|--------|--------|---------|---|---|---|-------| --|
-| <strong> P25 </strong> |<strong> 5 </strong> | <strong>960</strong>|192|16|<strong>￥449 </strong>|￥90 |￥7| 24300| 1万份|
-| <strong> P23 </strong> |<strong> 3 </strong> | <strong>576</strong>|192|16|<strong>￥389 </strong>|￥130|￥11| 14580| 1万份|
-| <strong> P22 </strong> |<strong> 2 </strong> | <strong>384</strong>|192|16|<strong>￥329 </strong>|￥165|￥14| 9720| 1万份|
-| <strong> P21 </strong> |<strong> 1 </strong> | <strong>192</strong>|192|16|<strong>￥239 </strong>|￥239|￥20|4860| 1万份|
+| <strong> P25 </strong> |<strong> 5 </strong> | <strong>960</strong>|192|16|<strong>￥449 </strong>|￥90 |￥7|$243.00| 1万份|
+| <strong> P23 </strong> |<strong> 3 </strong> | <strong>576</strong>|192|16|<strong>￥389 </strong>|￥130|￥11|$145.80| 1万份|
+| <strong> P22 </strong> |<strong> 2 </strong> | <strong>384</strong>|192|16|<strong>￥329 </strong>|￥165|￥14|$97.20| 1万份|
+| <strong> P21 </strong> |<strong> 1 </strong> | <strong>192</strong>|192|16|<strong>￥239 </strong>|￥239|￥20|$48.60| 1万份|
 
 <br>
 
 - 玄铁级双梯礼包
 
-|礼包号|流量有效期（年）|总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|Points| 限售|
+|礼包号|流量有效期（年）|总额GB/梯|年均GB/梯|月均GB/梯 |总价|年均价|月均价|原价| 限售|
 |-----|--|-----|-----|-----|-----|----|--|--| --|
-| <strong> P15 </strong>| <strong> 5 </strong>| <strong> 480</strong>|96|8| <strong>￥299 </strong>|￥60	|￥5| 16200| 1万份|
-| <strong> P13 </strong>| <strong> 3 </strong>| <strong> 288</strong>|96|8| <strong>￥259 </strong>|￥86	|￥7| 9720| 1万份|
-| <strong> P12 </strong>| <strong> 2 </strong>| <strong> 192</strong>|96|8| <strong>￥219 </strong>|￥110|￥9| 6480| 1万份|
-| <strong> P11 </strong>| <strong> 1 </strong>| <strong> 96 </strong>|96|8| <strong>￥159 </strong>|￥159|￥13| 3240| 1万份|
+| <strong> P15 </strong>| <strong> 5 </strong>| <strong> 480</strong>|96|8| <strong>￥299 </strong>|￥60	|￥5|$162.00| 1万份|
+| <strong> P13 </strong>| <strong> 3 </strong>| <strong> 288</strong>|96|8| <strong>￥259 </strong>|￥86	|￥7|$97.20| 1万份|
+| <strong> P12 </strong>| <strong> 2 </strong>| <strong> 192</strong>|96|8| <strong>￥219 </strong>|￥110|￥9|$64.80| 1万份|
+| <strong> P11 </strong>| <strong> 1 </strong>| <strong> 96 </strong>|96|8| <strong>￥159 </strong>|￥159|￥13|$32.40| 1万份|
 
 
 
