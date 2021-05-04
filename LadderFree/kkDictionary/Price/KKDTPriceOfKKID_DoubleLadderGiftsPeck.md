@@ -29,10 +29,10 @@
 
 |礼包号| 流量有效期（年） |总额GB|年均GB|月均GB|日均GB|现售价|年均现售价|月均现售价|原价|限售|
 |-----|--|--------|--------|---------|---|----|---|------|--|--|
-|<strong> P35 </strong> | <strong> 5 </strong> |<strong>3840</strong>|768|64|<strong>2</strong>|<strong>￥599</strong>|¥120| ¥10|$364.50|1万份|
-|<strong> P33 </strong> | <strong> 3 </strong> |<strong>2304</strong>|768|64|<strong>2</strong>|<strong>￥519</strong>|￥173|￥14|$218.70|1万份|
-|<strong> P32 </strong> | <strong> 2 </strong> |<strong>1536</strong>|768|64|<strong>2</strong>|<strong>￥439</strong>|￥220|￥18|$145.80|1万份|
-|<strong> P31 </strong> | <strong> 1 </strong> |<strong>768 </strong>|768|64|<strong>2</strong>|<strong>￥319</strong>|￥319|￥27|$72.90|1万份|
+|<strong> P35 </strong> | <strong> 5 </strong> |<strong>3840</strong>|768|64|<strong>2</strong>|<strong>￥599</strong>|¥120| ¥10|$364.50|10,000|
+|<strong> P33 </strong> | <strong> 3 </strong> |<strong>2304</strong>|768|64|<strong>2</strong>|<strong>￥519</strong>|￥173|￥14|$218.70|10,000|
+|<strong> P32 </strong> | <strong> 2 </strong> |<strong>1536</strong>|768|64|<strong>2</strong>|<strong>￥439</strong>|￥220|￥18|$145.80|10,000|
+|<strong> P31 </strong> | <strong> 1 </strong> |<strong>768 </strong>|768|64|<strong>2</strong>|<strong>￥319</strong>|￥319|￥27| $72.90|10,000|
 
 <br>
 
