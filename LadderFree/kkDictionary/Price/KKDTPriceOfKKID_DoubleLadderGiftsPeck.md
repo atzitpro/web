@@ -50,7 +50,7 @@
 - <strong>玄铁级双梯礼包</strong>
 
 |礼包号|流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均现售价|月均现售价|原价| 限售|
-|-----|--|-----|-----|-----|-----|----|--|--|--|
+|-----|-------------|------|-----|-----|------|-----|--------|--------|----|----|
 | <strong> P15 </strong>|<strong>5</strong>|<strong>960</strong>|192|16|<strong>0.5</strong>|<strong>￥299</strong>| ￥60| ￥5|$162.00|10,000|
 | <strong> P13 </strong>|<strong>3</strong>|<strong>576</strong>|192|16|<strong>0.5</strong>|<strong>￥259</strong>| ￥86| ￥7| $97.20|10,000|
 | <strong> P12 </strong>|<strong>2</strong>|<strong>384</strong>|192|16|<strong>0.5</strong>|<strong>￥219</strong>|￥110| ￥9| $64.80|10,000|
