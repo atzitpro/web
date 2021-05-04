@@ -40,21 +40,21 @@
 
 |礼包号| 流量有效期（年） |总额GB|年均GB|月均GB|日均GB|现售价|年均现售价|月均现售价|原价|限售（份）|
 |-----|--|--------|--------|---------|---|---|---|-------|--|--|
-|<strong>P25</strong>|<strong>5</strong>|<strong>1920</strong>|384|32| <strong>1</strong>|<strong>￥449 </strong>|￥90 |￥7|$243.00| 1万份|
-|<strong>P23</strong>|<strong>3</strong>|<strong>1152</strong>|384|32| <strong>1</strong>|<strong>￥389 </strong>|￥130|￥11|$145.80| 1万份|
-|<strong>P22</strong>|<strong>2</strong>|<strong> 768</strong>|384|32| <strong>1</strong>|<strong>￥329 </strong>|￥165|￥14|$97.20| 1万份|
-|<strong>P21</strong>|<strong>1</strong>|<strong> 384</strong>|384|32| <strong>1</strong>|<strong>￥239 </strong>|￥239|￥20|$48.60| 1万份|
+|<strong>P25</strong>|<strong>5</strong>|<strong>1920</strong>|384|32| <strong>1</strong>|<strong>￥449 </strong>|￥90 | ￥7|$243.00|10,000|
+|<strong>P23</strong>|<strong>3</strong>|<strong>1152</strong>|384|32| <strong>1</strong>|<strong>￥389 </strong>|￥130|￥11|$145.80|10,000|
+|<strong>P22</strong>|<strong>2</strong>|<strong> 768</strong>|384|32| <strong>1</strong>|<strong>￥329 </strong>|￥165|￥14| $97.20|10,000|
+|<strong>P21</strong>|<strong>1</strong>|<strong> 384</strong>|384|32| <strong>1</strong>|<strong>￥239 </strong>|￥239|￥20| $48.60|10,000|
 
 <br>
 
 - <strong>玄铁级双梯礼包</strong>
 
-|礼包号|流量有效期（年）|总额GB/梯|年均GB/梯|月均GB|日均GB|现售价|年均现售价|月均现售价|原价| 限售|
+|礼包号|流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均现售价|月均现售价|原价| 限售|
 |-----|--|-----|-----|-----|-----|----|--|--| --|
-| <strong> P15 </strong>| <strong> 5 </strong>| <strong> 480</strong>|96|8| <strong>￥299 </strong>|￥60	|￥5|$162.00| 1万份|
-| <strong> P13 </strong>| <strong> 3 </strong>| <strong> 288</strong>|96|8| <strong>￥259 </strong>|￥86	|￥7|$97.20| 1万份|
-| <strong> P12 </strong>| <strong> 2 </strong>| <strong> 192</strong>|96|8| <strong>￥219 </strong>|￥110|￥9|$64.80| 1万份|
-| <strong> P11 </strong>| <strong> 1 </strong>| <strong> 96 </strong>|96|8| <strong>￥159 </strong>|￥159|￥13|$32.40| 1万份|
+| <strong> P15 </strong>|<strong>5</strong>|<strong>480</strong>|96|8|<strong>￥299</strong>| ￥60| ￥5|$162.00|10,000|
+| <strong> P13 </strong>|<strong>3</strong>|<strong>288</strong>|96|8|<strong>￥259</strong>| ￥86| ￥7| $97.20|10,000|
+| <strong> P12 </strong>|<strong>2</strong>|<strong>192</strong>|96|8|<strong>￥219</strong>|￥110| ￥9| $64.80|10,000|
+| <strong> P11 </strong>| <strong>1</strong>|<strong> 96</strong>|96|8|<strong>￥159</strong>|￥159|￥13| $32.40|10,000|
 
 
 
