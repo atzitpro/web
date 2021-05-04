@@ -38,18 +38,18 @@
 
 - <strong>赤纲级双梯礼包</strong>
 
-|礼包号| 流量有效期（年） |总额GB/梯|年均GB/梯|月均GB/梯 |现售价|年均现售价|月均现售价|原价| 限售|
-|-----|--|--------|--------|---------|---|---|---|-------| --|
-| <strong> P25 </strong> |<strong> 5 </strong> | <strong>960</strong>|192|16|<strong>￥449 </strong>|￥90 |￥7|$243.00| 1万份|
-| <strong> P23 </strong> |<strong> 3 </strong> | <strong>576</strong>|192|16|<strong>￥389 </strong>|￥130|￥11|$145.80| 1万份|
-| <strong> P22 </strong> |<strong> 2 </strong> | <strong>384</strong>|192|16|<strong>￥329 </strong>|￥165|￥14|$97.20| 1万份|
-| <strong> P21 </strong> |<strong> 1 </strong> | <strong>192</strong>|192|16|<strong>￥239 </strong>|￥239|￥20|$48.60| 1万份|
+|礼包号| 流量有效期（年） |总额GB|年均GB|月均GB|日均GB|现售价|年均现售价|月均现售价|原价|限售（份）|
+|-----|--|--------|--------|---------|---|---|---|-------|--|--|
+|<strong>P25</strong>|<strong>5</strong>|<strong>1920</strong>|384|32| <strong>1</strong>|<strong>￥449 </strong>|￥90 |￥7|$243.00| 1万份|
+|<strong>P23</strong>|<strong>3</strong>|<strong>1152</strong>|384|32| <strong>1</strong>|<strong>￥389 </strong>|￥130|￥11|$145.80| 1万份|
+|<strong>P22</strong>|<strong>2</strong>|<strong> 768</strong>|384|32| <strong>1</strong>|<strong>￥329 </strong>|￥165|￥14|$97.20| 1万份|
+|<strong>P21</strong>|<strong>1</strong>|<strong> 384</strong>|384|32| <strong>1</strong>|<strong>￥239 </strong>|￥239|￥20|$48.60| 1万份|
 
 <br>
 
 - <strong>玄铁级双梯礼包</strong>
 
-|礼包号|流量有效期（年）|总额GB/梯|年均GB/梯|月均GB/梯 |现售价|年均现售价|月均现售价|原价| 限售|
+|礼包号|流量有效期（年）|总额GB/梯|年均GB/梯|月均GB|日均GB|现售价|年均现售价|月均现售价|原价| 限售|
 |-----|--|-----|-----|-----|-----|----|--|--| --|
 | <strong> P15 </strong>| <strong> 5 </strong>| <strong> 480</strong>|96|8| <strong>￥299 </strong>|￥60	|￥5|$162.00| 1万份|
 | <strong> P13 </strong>| <strong> 3 </strong>| <strong> 288</strong>|96|8| <strong>￥259 </strong>|￥86	|￥7|$97.20| 1万份|
