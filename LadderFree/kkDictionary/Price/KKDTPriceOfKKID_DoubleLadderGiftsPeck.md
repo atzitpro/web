@@ -33,13 +33,11 @@
 |<strong> P33 </strong> |<strong> 3 </strong> |<strong>2304</strong>|768|64|<strong>2</strong>|<strong>￥519</strong>|￥173|￥14|$218.70|10,000|
 |<strong> P32 </strong> |<strong> 2 </strong> |<strong>1536</strong>|768|64|<strong>2</strong>|<strong>￥439</strong>|￥220|￥18|$145.80|10,000|
 |<strong> P31 </strong> |<strong> 1 </strong> |<strong>768 </strong>|768|64|<strong>2</strong>|<strong>￥319</strong>|￥319|￥27| $72.90|10,000|
-
-- 
-  - 说明
-    - P35:月均¥10，日均可播油管普清视频23小时，爽用5年
-    - P33:月均¥14，日均可播油管普清视频23小时，爽用3年
-    - P32:月均¥18，日均可播油管普清视频23小时，爽用2年
-    - P31:月均¥27，日均可播油管普清视频23小时，爽用1年
+- 说明
+  - P35:月均¥10，日均可播油管普清视频23小时，爽用5年
+  - P33:月均¥14，日均可播油管普清视频23小时，爽用3年
+  - P32:月均¥18，日均可播油管普清视频23小时，爽用2年
+  - P31:月均¥27，日均可播油管普清视频23小时，爽用1年
 
 <br>
 
@@ -51,6 +49,12 @@
 |<strong>P23</strong>|<strong>3</strong>|<strong>1152</strong>|384|32| <strong>1</strong>|<strong>￥389 </strong>|￥130|￥11|$145.80|10,000|
 |<strong>P22</strong>|<strong>2</strong>|<strong> 768</strong>|384|32| <strong>1</strong>|<strong>￥329 </strong>|￥165|￥14| $97.20|10,000|
 |<strong>P21</strong>|<strong>1</strong>|<strong> 384</strong>|384|32| <strong>1</strong>|<strong>￥239 </strong>|￥239|￥20| $48.60|10,000|
+
+- 说明
+  - P25:月均¥7，日均可播油管普清视频11小时40，爽用5年
+  - P23:月均¥11，日均可播油管普清视频11小时40，爽用3年
+  - P22:月均¥14，日均可播油管普清视频11小时40，爽用2年
+  - P21:月均¥20，日均可播油管普清视频11小时40，爽用1年
 
 <br>
 
