@@ -7,7 +7,9 @@
 - [3、通用高速金刚号梯流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel02.md)
 <br>
 
-- [U11、个人——高速通用金刚号梯流量价格表 2021.06.01 0:00 生效]()
+以下价格2021.06.01 0:00生效
+
+- [U11、个人——高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11.md)
 - [U12、个人——常速通用金刚号梯流量价格表 2021.06.01 0:00 生效]()
 - [U21、家庭——高速通用金刚号梯流量价格表 2021.06.01 0:00 生效]()
 - [U22、家庭——常速通用金刚号梯流量价格表 2021.06.01 0:00 生效]()
