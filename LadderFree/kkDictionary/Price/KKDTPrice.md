@@ -10,6 +10,11 @@
 以下价格2021.06.01 0:00生效
 
 - [U12、个人——高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11.md)
+- [U12、个人——高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11.md)
+
+
+
+- [U12、个人——高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11.md)
 - [U11、个人——常速通用金刚号梯流量价格表]()
 - [U22、家庭——高速通用金刚号梯流量价格表]()
 - [U21、家庭——常速通用金刚号梯流量价格表]()
