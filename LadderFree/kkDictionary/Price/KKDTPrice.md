@@ -9,8 +9,8 @@
 
 以下价格2021.06.01 0:00生效
 
-- [U12-016 适用于重量级个人用户的高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-016.md)
-- [U12-008 适用于轻量级个人用户的高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-008.md)
+- [U12-016 适用于个人用户的大流量高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-016.md)
+- [U12-008 适用于个人用户的小流量高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-008.md)
 
 - [U11-016 适用于重量级个人用户的常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11-016.md)
 - [U11-008 适用于轻量级个人用户的常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11-008.md)
