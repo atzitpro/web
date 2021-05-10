@@ -15,7 +15,7 @@
 - [U11-008 适用于轻量级个人用户的常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11-008.md)
 - [U11-016 适用于重量级个人用户的常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11-016.md)
 
-- [U22-032 适用于家庭用户的高速通用金刚号梯流量价格表]()
+- [U22-032 适用于家庭用户的高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U22-032.md)
 - [U21-032 适用于家庭用户的常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U21-032.md)
 
 
