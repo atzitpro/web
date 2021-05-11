@@ -7,7 +7,7 @@
 - [3、通用高速金刚号梯流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel02.md)
 <br>
 
-以下价格2021.06.01 0:00生效
+以下价格预计将于2021.06.01 0:00生效
 - 个人用户
   - [U12-016 <strong> 大流量 高速 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-016.md)
   - [U12-008 <strong> 小流量 高速 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-008.md)
