@@ -27,12 +27,12 @@
 
 - <strong>紫铜级双梯礼包</strong>
 
-|礼包号|流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均|月均|原价|限售（个）|
-|-----|------------|-------|--------|---------|---|----|---|------|--|--|
-|<strong> P35 </strong> |<strong> 5 </strong> |<strong>3840</strong>|768|64|<strong>2</strong>|<strong>￥599</strong>|¥120| ¥10|$364.50|10,000|
-|<strong> P33 </strong> |<strong> 3 </strong> |<strong>2304</strong>|768|64|<strong>2</strong>|<strong>￥519</strong>|￥173|￥14|$218.70|10,000|
-|<strong> P32 </strong> |<strong> 2 </strong> |<strong>1536</strong>|768|64|<strong>2</strong>|<strong>￥439</strong>|￥220|￥18|$145.80|10,000|
-|<strong> P31 </strong> |<strong> 1 </strong> |<strong>768 </strong>|768|64|<strong>2</strong>|<strong>￥319</strong>|￥319|￥27| $72.90|10,000|
+|礼包号|流量有效期（年）|总额GB|日均GB|现售价|年均|月均|原价|限售（个）|
+|-----|------------|---------|---|----|---|------|--|--|
+|<strong> P35 |<strong> 5 |<strong>3840|<strong>2|<strong>￥599|¥120| ¥10|$364.50|10,000|
+|<strong> P33 |<strong> 3 |<strong>2304|<strong>2|<strong>￥519|￥173|￥14|$218.70|10,000|
+|<strong> P32 |<strong> 2 |<strong>1536|<strong>2|<strong>￥439|￥220|￥18|$145.80|10,000|
+|<strong> P31 |<strong> 1 |<strong>768 |<strong>2|<strong>￥319|￥319|￥27| $72.90|10,000|
 - 说明
   - P35——日均可播油管普清视频23小时20分钟，爽用5年。现售¥599，月均¥10
   - P33——日均可播油管普清视频23小时20分钟，爽用3年。现售¥519，月均¥14
