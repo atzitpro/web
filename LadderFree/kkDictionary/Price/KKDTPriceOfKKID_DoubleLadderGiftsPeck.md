@@ -46,16 +46,16 @@
 
 |礼包号| 流量有效期（年）|总额GB|日均GB|日均可用|现售价|年均|月均|原价|限售（个）|
 |-----|--|--------|--------|---------|---|-------|--|--|--|
-|<strong>P25</strong>|<strong>5</strong>|<strong>1920</strong>| <strong>1</strong>|700|<strong>￥449 </strong>|￥90 | ￥7|$243.00|10,000|
-|<strong>P23</strong>|<strong>3</strong>|<strong>1152</strong>| <strong>1</strong>|700|<strong>￥389 </strong>|￥130|￥11|$145.80|10,000|
-|<strong>P22</strong>|<strong>2</strong>|<strong> 768</strong>| <strong>1</strong>|700|<strong>￥329 </strong>|￥165|￥14| $97.20|10,000|
-|<strong>P21</strong>|<strong>1</strong>|<strong> 384</strong>| <strong>1</strong>|700|<strong>￥239 </strong>|￥239|￥20| $48.60|10,000|
+|<strong>P25|<strong>5|<strong>1920| <strong>1|700|<strong>¥449 |¥90 | ¥7|$243.00|10,000|
+|<strong>P23|<strong>3|<strong>1152| <strong>1|700|<strong>¥389 |¥130|¥11|$145.80|10,000|
+|<strong>P22|<strong>2|<strong> 768| <strong>1|700|<strong>¥329 |¥165|¥14| $97.20|10,000|
+|<strong>P21|<strong>1|<strong> 384| <strong>1|700|<strong>¥239 |¥239|¥20| $48.60|10,000|
 
 - 说明
-  - P25——爽用5年。现售￥449，月均¥7
-  - P23——爽用3年。现售￥389，月均¥11
-  - P22——爽用2年。现售￥329，月均¥14
-  - P21——爽用1年。现售￥239，月均¥20
+  - P25——爽用5年。现售¥449，月均¥7
+  - P23——爽用3年。现售¥389，月均¥11
+  - P22——爽用2年。现售¥329，月均¥14
+  - P21——爽用1年。现售¥239，月均¥20
 
 <br>
 
