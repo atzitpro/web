@@ -9,10 +9,12 @@
 
 以下价格预计将于2021.06.01 0:00生效
 - 个人用户
-  - [<strong> 大流量 高速 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-016.md)
-  - [<strong> 小流量 高速 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-008.md)
-  - [<strong> 大流量 常速 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11-016.md)
-  - [<strong> 小流量 常速 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11-008.md)
+  - 高速
+    - [<strong> 大流量 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-016.md)
+    - [<strong> 小流量 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-008.md)
+  - 常速
+    - [<strong> 大流量 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11-016.md)
+    - [<strong> 小流量 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U11-008.md)
 - 家庭用户
   - [<strong> 高速 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U22-032.md)
   - [<strong> 常速 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U21-032.md)
