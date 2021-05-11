@@ -27,7 +27,7 @@
 
 - <strong>紫铜级双梯礼包</strong>
 
-|礼包号|流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均现售价|月均现售价|原价|限售（个）|
+|礼包号|流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均|月均|原价|限售（个）|
 |-----|------------|-------|--------|---------|---|----|---|------|--|--|
 |<strong> P35 </strong> |<strong> 5 </strong> |<strong>3840</strong>|768|64|<strong>2</strong>|<strong>￥599</strong>|¥120| ¥10|$364.50|10,000|
 |<strong> P33 </strong> |<strong> 3 </strong> |<strong>2304</strong>|768|64|<strong>2</strong>|<strong>￥519</strong>|￥173|￥14|$218.70|10,000|
@@ -43,7 +43,7 @@
 
 - <strong>赤纲级双梯礼包</strong>
 
-|礼包号| 流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均现售价|月均现售价|原价|限售（个）|
+|礼包号| 流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均|月均|原价|限售（个）|
 |-----|--|--------|--------|---------|---|---|---|-------|--|--|
 |<strong>P25</strong>|<strong>5</strong>|<strong>1920</strong>|384|32| <strong>1</strong>|<strong>￥449 </strong>|￥90 | ￥7|$243.00|10,000|
 |<strong>P23</strong>|<strong>3</strong>|<strong>1152</strong>|384|32| <strong>1</strong>|<strong>￥389 </strong>|￥130|￥11|$145.80|10,000|
@@ -60,7 +60,7 @@
 
 - <strong>玄铁级双梯礼包</strong>
 
-|礼包号|流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均现售价|月均现售价|原价|限售（个）|
+|礼包号|流量有效期（年）|总额GB|年均GB|月均GB|日均GB|现售价|年均|月均|原价|限售（个）|
 |-----|-------------|------|-----|-----|------|-----|--------|--------|----|----|
 | <strong> P15 </strong>|<strong>5</strong>|<strong>960</strong>|192|16|<strong>0.5</strong>|<strong>￥299</strong>| ￥60| ￥5|$162.00|10,000|
 | <strong> P13 </strong>|<strong>3</strong>|<strong>576</strong>|192|16|<strong>0.5</strong>|<strong>￥259</strong>| ￥86| ￥7| $97.20|10,000|
