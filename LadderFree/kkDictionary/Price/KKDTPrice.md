@@ -8,7 +8,15 @@
 <br>
 
 以下价格预计将于2021.06.01 0:00生效
+
+- 金刚钜惠酬宾通用金刚号梯双梯礼包
 - 个人用户
+  - [A类礼包——日均播6小时油管普清视频]()
+  - [B类礼包——日均播3小时油管普清视频]()
+  - [C类礼包——日均播1.5小时油管普清视频]()
+- 家庭用户
+
+
   - 高速
     - [<strong> 大流量 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-016.md)
     - [<strong> 小流量 </strong>通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/U12-008.md)
