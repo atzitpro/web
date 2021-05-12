@@ -1,1 +1,36 @@
+###### 玩转金刚梯>金刚字典>
+
+- 请把手机横过来阅读
+
+- 礼包内容
+  - 商品——高速通用金刚号梯1架
+  - 赠品——常速通用金刚号梯1架（除网速为常速外，其余与商品梯相同）
+
+- 网速
+  - 据金刚实验室测试数据：
+    - 高速通用金刚号梯网速是常速通用金刚号梯的1.5倍
+    - 高速通用金刚号梯网速是通金刚app梯的1.3倍
+
+- 通用金刚号梯
+  - 指该梯可配入无数部以下设备，且其中9部可同时连通
+    - 苹果手机/平板/电脑
+    - 安卓手机/平板/机顶盒/路由器
+    - Windows
+    - Linux
+
+#### C类礼包 日均可用1.5小时 通用金刚号梯流量价格表
+
+|礼包号|有效期(年) |流量 GB |日均可用（分钟）|现售价美元|现售价人民币|年均  |月均  |
+|-----|---------|-------|--------------|------|-------|-----|-----|
+|A1   |1	|48	|92 	 | <strong> $32.40	| <strong>¥227 	 |¥227	|¥19	|																	
+|A2   |2	|96	|92 	 | <strong> $45.36	| <strong>¥318 	 |¥159	|¥13	|																	
+|A3   |3	|144	|92 	 | <strong> $55.08	| <strong>¥386 	 |¥129	|¥11	|																	
+|A5   |5	|240	|92 	 | <strong> $64.80	| <strong>¥454 	 |¥91	|¥8	|																	
+
+#### 返回到
+- [免费安全自由上网 首选可信美制金刚](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
+- [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
+- [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPrice.md)
+
 
