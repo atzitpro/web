@@ -11,9 +11,10 @@
 
 - 金刚钜惠酬宾通用金刚号梯双梯礼包
   - 个人用户
-    - [C类礼包——日均播6小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/C.md)
-    - [B类礼包——日均播3小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/B.md)
+
     - [A类礼包——日均播1.5小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/A.md)
+    - [B类礼包——日均播3小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/B.md)
+    - [C类礼包——日均播6小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/C.md)
   - 家庭用户
     - [D类礼包——日均播12小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/D.md)
   - 公司或非公司组织用户
