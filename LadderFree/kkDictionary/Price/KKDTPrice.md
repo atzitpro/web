@@ -19,8 +19,8 @@
     - [D类礼包——日均播12小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/D.md)
   - 公司或非公司组织用户
     - [E类礼包——日均播24小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/E.md)
-    - [F类礼包——日均播24小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/F.md)
-    - [G类礼包——日均播24小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/G.md)
+    - [F类礼包——日均播48小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/F.md)
+    - [G类礼包——日均播96小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/G.md)
 
 ----------
 以下待定稿
