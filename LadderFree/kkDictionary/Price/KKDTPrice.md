@@ -14,8 +14,8 @@
     - [C类礼包——日均播6小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/C.md)
     - [B类礼包——日均播3小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/B.md)
     - [A类礼包——日均播1.5小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/A.md)
-- 家庭用户
-
+  - 家庭用户
+    - [D类礼包——日均播12小时油管普清视频](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/D.md)
 
 ----------
 以下待定稿
