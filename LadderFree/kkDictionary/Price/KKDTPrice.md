@@ -1,8 +1,8 @@
 ###### 玩转金刚梯>金刚字典>
 ### 金刚流量价格
 
-- [01、2021年度第2批金刚钜惠酬宾双梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
-- [02、2021年度第3批金刚钜惠酬宾双梯礼包（备货中）](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck3.md)
+- [P01、2021年度第2批金刚钜惠酬宾双梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
+- [P02、2021年度第3批金刚钜惠酬宾双梯礼包（备货中）](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck3.md)
 - [1、金刚app梯流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfApp.md)
 - [2、通用常速金刚号梯流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel01.md)
 - [3、通用高速金刚号梯流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel02.md)
