@@ -165,7 +165,7 @@
 - [可用多个邮箱在金刚网注册多个账户吗？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/RegisterAtKKSiteZhWithMultiEmailAddress.md)
 
 #### “为什么”类
-- [金刚为什么请您提供手机号？]()
+- [金刚为什么请您提供手机号？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/MobileNo.md)
 
 #### 返回到
 - [免费安全自由上网 首选可信美制金刚](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
