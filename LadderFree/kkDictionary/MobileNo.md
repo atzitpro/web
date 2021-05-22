@@ -21,5 +21,6 @@ a、按定价购买——很不合算
 [2、高速通用金刚号梯流量价格表]()
 
 b、购买酬宾礼包——单价最便宜，每月¥10，且流量充裕，但得买有效期长达5年的金刚号
+
 [在售金刚酬宾钜惠双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
 
