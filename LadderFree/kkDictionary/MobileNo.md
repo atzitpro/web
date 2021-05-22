@@ -15,15 +15,11 @@
 
 6、如果您拒绝提供手机号、则：
 
-- 只能派您1枚其上捆绑免费流量包的金刚号，每天可用7分钟
-
+- 只能派您每天可用7分钟的金刚号
 - 付费购买
-
   - 按定价购买——不合算
-
     - [常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel01.md)
     - [高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel02.md)
-
   - 购买酬宾礼包——最合算
     - 单价最便宜，每月¥10，且流量充裕，但得买有效期长达5年的金刚号
     - [在售金刚酬宾钜惠双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
