@@ -18,9 +18,9 @@ B、付费购买
 
 a、按定价购买——不合算
 
-- [常速通用金刚号梯流量价格表]()
+- [常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel01.md)
 
-- [高速通用金刚号梯流量价格表]()
+- [高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel02.md)
 
 b、购买酬宾礼包——最合算
 
