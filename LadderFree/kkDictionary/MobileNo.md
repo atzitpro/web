@@ -15,7 +15,8 @@
 
 6、如果您拒绝提供手机号、则：
 
-- 只能派您每天可用7分钟的金刚号
+- 免费试用
+  - 派您每天可用7分钟的金刚号
 - 付费购买
   - 按定价购买——不合算
     - [常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel01.md)
