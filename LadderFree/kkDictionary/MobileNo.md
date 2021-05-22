@@ -22,7 +22,7 @@
     - [常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel01.md)
     - [高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel02.md)
   - 购买酬宾礼包——最合算
-    - 单价最便宜，每月¥10，且流量充裕，但得买有效期长达5年的金刚号
+    - 单价最便宜，但得买1、2、3、5年有效期的金刚号
     - [在售金刚酬宾钜惠双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
 
 #### 返回到
