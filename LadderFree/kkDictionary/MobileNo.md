@@ -18,13 +18,13 @@ B、付费购买
 
 a、按定价购买——不合算
 
-[1、常速通用金刚号梯流量价格表]()
+- [1、常速通用金刚号梯流量价格表]()
 
-[2、高速通用金刚号梯流量价格表]()
+- [2、高速通用金刚号梯流量价格表]()
 
 b、购买酬宾礼包——最合算
 
 单价最便宜，每月¥10，且流量充裕，但得买有效期长达5年的金刚号
 
-[在售金刚酬宾钜惠双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
+- [在售金刚酬宾钜惠双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
 
