@@ -16,15 +16,15 @@
 
 |代码|级别|有效期|流量|日均可用|现售USD|现售RMB|月均|
 |----|----| ------|-|-----| ------|------|-| 
-| D120|免费级 |日包|0.01GB| <strong> 7| <strong> $0.00| <strong> ¥0.00||
+| D120|免费级 |日包|0.01GB| <strong> 7| <strong> $0.00| <strong> ¥0.00|¥0.00|
 ||||||||
 | Y121A|玄铁级A |年包|48GB| <strong> 1.5| <strong> $14.40| <strong> ¥102.60|¥8.55|
-| Y121B|玄铁级B |年包|96GB| <strong> 3| <strong> $21.60| <strong> ¥153.90|¥|
-| Y122|赤钢级 |年包|192GB| <strong> 6| <strong> $32.40| <strong> ¥230.84|¥|
-| Y123|紫铜级 |年包|384GB| <strong> 12| <strong> $48.60| <strong> ¥346.27|¥|
-| Y124|白银级 |年包|768GB| <strong> 24| <strong> $72.90| <strong> ¥519.40|¥|
-| Y125|黄金级 |年包|1536GB| <strong> 48| <strong> $109.35| <strong> ¥779.10|¥|
-| Y126|铂金级 |年包|3072GB| <strong> 96| <strong> $164.03| <strong> ¥1,168.65|¥|
+| Y121B|玄铁级B |年包|96GB| <strong> 3| <strong> $21.60| <strong> ¥153.90|¥12.83|
+| Y122|赤钢级 |年包|192GB| <strong> 6| <strong> $32.40| <strong> ¥230.84|¥19.24|
+| Y123|紫铜级 |年包|384GB| <strong> 12| <strong> $48.60| <strong> ¥346.27|¥28.86|
+| Y124|白银级 |年包|768GB| <strong> 24| <strong> $72.90| <strong> ¥519.40|¥43.28|
+| Y125|黄金级 |年包|1536GB| <strong> 48| <strong> $109.35| <strong> ¥779.10|¥64.93|
+| Y126|铂金级 |年包|3072GB| <strong> 96| <strong> $164.03| <strong> ¥1,168.65|¥97.39|
 ||||||||
 | H121A|玄铁级A |半年包|24GB| <strong> 1.5| <strong> $9.60| <strong> ¥68.40|¥|
 | H121B|玄铁级B |半年包|48GB| <strong> 3| <strong> $14.40| <strong> ¥102.60|¥|
