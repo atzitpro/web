@@ -35,13 +35,13 @@
 |H115 	|黄金级	|半年包	|768GB 	  | <strong> 48 | <strong> $36.45| <strong> ¥259.70 	| ¥43.28  |
 |H116 	|铂金级	|半年包	|1536GB	  | <strong> 96 | <strong> $54.68| <strong> ¥389.55 	| ¥64.93  |
 ||||||||
-|M111A  |玄铁级A |月包    |4GB      | <strong> 1.5| <strong> $1.00 | <strong> ¥7.12       |        |
-|M111B  |玄铁级B |月包    |8GB      | <strong> 3  | <strong> $1.50 | <strong> ¥10.69      |        |
-|M112  	|赤钢级  |月包    |16GB     | <strong> 6  | <strong> $2.25 | <strong> ¥16.03      |        |
-|M113  	|紫铜级  |月包    |32GB     | <strong> 12 | <strong> $3.38 | <strong> ¥24.08      |        |
-|M114  	|白银级  |月包    |64GB     | <strong> 24 | <strong> $5.06 | <strong> ¥36.07      |        |
-|M115  	|黄金级  |月包    |128GB    | <strong> 48 | <strong> $7.59 | <strong> ¥54.10      |        |
-|M116 	|铂金级  |月包    |256GB    | <strong> 96 | <strong> $11.39| <strong> ¥81.16      |        |
+|M111A  |玄铁级A |月包    |4GB      | <strong> 1.5| <strong> $1.00 | <strong> ¥7.12       | ¥7.12  |
+|M111B  |玄铁级B |月包    |8GB      | <strong> 3  | <strong> $1.50 | <strong> ¥10.69      | ¥10.69 |
+|M112  	|赤钢级  |月包    |16GB     | <strong> 6  | <strong> $2.25 | <strong> ¥16.03      | ¥16.03 |
+|M113  	|紫铜级  |月包    |32GB     | <strong> 12 | <strong> $3.38 | <strong> ¥24.08      | ¥24.08 |
+|M114  	|白银级  |月包    |64GB     | <strong> 24 | <strong> $5.06 | <strong> ¥36.07      | ¥36.07 |
+|M115  	|黄金级  |月包    |128GB    | <strong> 48 | <strong> $7.59 | <strong> ¥54.10      | ¥54.10 |
+|M116 	|铂金级  |月包    |256GB    | <strong> 96 | <strong> $11.39| <strong> ¥81.16      | ¥81.16 |
 
 
 
