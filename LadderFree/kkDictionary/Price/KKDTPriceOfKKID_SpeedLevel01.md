@@ -20,7 +20,7 @@
 |D10 	|免费级	|日包    |0.01GB	  | <strong> 7 	| <strong> $0.00 | <strong> ¥0.00 	| ¥0.00	  | 
 |||||||| 
 |Y111A  |玄铁级A |年包	|48GB 	  | <strong> 1.5| <strong> $7.20 | <strong> ¥51.30 	| ¥4.28	  | 
-|Y111B 	|玄铁级B |年包	|96GB 	  | <strong> 3	| <strong> $10.80| <strong> ¥76.95 	| ¥ 	  | 
+|Y111B 	|玄铁级B |年包	|96GB 	  | <strong> 3	| <strong> $10.80| <strong> ¥76.95 	| ¥6.41	  | 
 |Y112 	|赤钢级	|年包	|192GB 	  | <strong> 6 	| <strong> $16.20| <strong> ¥115.42 	| 	  |
 |Y113 	|紫铜级 	|年包	|384GB 	  | <strong> 12	| <strong> $24.30| <strong> ¥173.13 	| 	  |
 |Y114 	|白银级 	|年包	|768GB 	  | <strong> 24	| <strong> $36.45| <strong> ¥259.70 	| 	  |
