@@ -10,18 +10,18 @@
 
 4、如果该手机号
   - 未在金刚系统中存档，则对其验证。一但通过验证，金刚将把该金刚之友的邮箱绑定在该手机号上并记录在案，并派捆绑大尺寸流量包的金刚号梯供其体验
-  - 已在金刚系统中存档，则将其邮箱再绑定到同一手机号上并再次记录在案，同时拒派可体验较长时间、捆绑大尺寸流量包的免费金刚号，从而避免金刚号被滥用
+  - 已在金刚系统中存档，则将其邮箱再绑定到同一手机号上并再次记录在案，同时拒派可体验较长时间、捆绑大尺寸流量包的免费金刚号梯，从而避免金刚号梯被滥用
 
 6、如果您拒绝提供手机号、则：
 - 免费试用
   - 派您每天可用7分钟的免费金刚号梯
   - [点击这里 ](https://gitlab.com/kk404/web/-/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)或[ 点击这里](https://bitbucket.org/h2505/web/src/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md) 下载安装金刚app梯
-- 付费购买
+- 付费购买金刚号梯
   - 按定价购买——不合算
     - [常速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel01.md)
     - [高速通用金刚号梯流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_SpeedLevel02.md)
   - 购买酬宾礼包——最合算
-    - 单价最便宜，但得买1、2、3、5年有效期的金刚号
+    - 单价最便宜，但得买1、2、3、5年有效期的金刚号梯
     - [在售金刚酬宾钜惠双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
 
 #### 返回到
