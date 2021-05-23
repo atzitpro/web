@@ -14,7 +14,7 @@
 
 6、如果您拒绝提供手机号、则：
 - 免费试用
-  - 派您每天可用7分钟的免费金刚号
+  - 派您每天可用7分钟的免费金刚号梯
   - [点击这里 ](https://gitlab.com/kk404/web/-/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)或[ 点击这里](https://bitbucket.org/h2505/web/src/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md) 下载安装金刚app梯
 - 付费购买
   - 按定价购买——不合算
