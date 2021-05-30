@@ -3,7 +3,7 @@
 
 - [什么是互联网上的<Strong> 墙 </Strong>？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheWallOnTheInternet.md)
 - [什么叫翻墙上网？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-- [互联网上的墙是如何工作的？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/HowDoesTheGFWWork.md)
+- [互联网上的<Strong> 墙 </Strong>是如何封堵其国民访问境外网站的？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/HowDoesTheGFWWork.md)
 - [什么是梯、梯子、云梯?](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/WhatsLadder.md)
 - [如何选择梯、梯子、云梯？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/HowToChooseALadder.md)
 - [如何保护您的隐私？]()
