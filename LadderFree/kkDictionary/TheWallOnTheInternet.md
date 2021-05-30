@@ -11,6 +11,10 @@
       - 独裁统治集团内部的贪腐罪证
       - 其反人类、反人道、反文明的统治暴行实录
 - <Strong>墙 </Strong>的各种称谓
+  - 墙
+  - 防火墙
+  - 防火长城
+  - 长城防火墙
 
 - 英文中的互联网上的<Strong> 墙 </Strong>一一<Strong> GFW </Strong>
   - <Strong> 中国长城 </Strong>的英文是<Strong> Great Wall </Strong>
