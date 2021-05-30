@@ -15,7 +15,7 @@
 
 - 英文中的互联网上的<Strong> 墙 </Strong>一一<Strong> GFW </Strong>
   - <Strong> 中国长城 </Strong>的英文是<Strong> Great Wall </Strong>
-  - GFW是Great Firewall的缩写
+  - 英文中的互联网上的<Strong> 墙 </Strong>一一<Strong> GFW </Strong> 是 英文中的互联网上的<Strong> 墙 </Strong>一一是英文<Strong> Great Firewall </Strong>的缩写
   - 中国长城Great Wall的功能是抵御外敌入侵；而GFW之类的功能是封堵国民，阻止国民自由获取公开信息
 
 #### 维基百科：
