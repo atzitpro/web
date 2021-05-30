@@ -15,7 +15,7 @@
   - <Strong> 中国长城 </Strong>的英文是<Strong> Great Wall </Strong>
   - 互联网上的<Strong> 墙 </Strong>一一<Strong> GFW </Strong>是英文<Strong> Great Firewall </Strong>的缩写
   - <Strong> GFW </Strong>一词最早出现在2002年5月17日由Charles R. Smith所写的一篇关于中国网络审查的文章《The Great Firewall of China》，取与 <Strong> 长城 Great Wall</Strong>相谐的效果，简写为<Strong> Great Firewall </Strong>，缩写<Strong> GFW </Strong>
-  - <Strong> 中国长城Great Wall </Strong>的功能是抵御外敌入侵；而<Strong> GFW </Strong>的功能是封堵国民访问境外网站，阻止国民自由获取公开信息
+  - <Strong> 中国长城Great Wall </Strong>的作用是抵御外敌入侵；而<Strong> GFW </Strong>的功能是封堵国民访问境外网站
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
