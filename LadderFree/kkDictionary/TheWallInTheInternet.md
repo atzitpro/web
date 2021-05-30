@@ -17,10 +17,6 @@
   - <Strong> GFW </Strong>一词最早出现在2002年5月17日由Charles R. Smith所写的一篇关于中国网络审查的文章《The Great Firewall of China》，取与 <Strong> 长城 Great Wall</Strong>相谐的效果，简写为<Strong> Great Firewall </Strong>，缩写<Strong> GFW </Strong>
   - <Strong> 中国长城Great Wall </Strong>的功能是抵御外敌入侵；而<Strong> GFW </Strong>的功能是封堵国民访问境外网站，阻止国民自由获取公开信息
 
-#### 维基百科：
-- 随着使用的拓广，中文“墙”和英文“GFW”有时也被用作动词，网友所说的“被墙”即指网站内容被防火长城所屏蔽或者指服务器的通讯被封阻
-
-
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
