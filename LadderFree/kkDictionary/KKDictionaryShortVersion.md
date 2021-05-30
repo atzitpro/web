@@ -6,8 +6,8 @@
 - [互联网上的墙是如何工作的？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/HowDoesTheGFWWork.md)
 - [什么是梯?](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/WhatsLadder.md)
 - [如何选择梯？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/HowToChooseALadder.md)
-
-[]()
+- [如何保护您的隐私？]()
+- [如何确保您的上网安全？]()
 []()
 []()
 []()
