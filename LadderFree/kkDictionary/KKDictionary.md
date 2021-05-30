@@ -3,7 +3,7 @@
 
 #### 翻墙ABC
 
-- [国际互联网里的“墙”](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheWallInTheInternet.md)
+- [国际互联网里的“墙”](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheWallOnTheInternet.md)
 - [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
 - [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
 - [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
