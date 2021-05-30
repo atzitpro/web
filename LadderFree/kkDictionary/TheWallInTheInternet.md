@@ -13,8 +13,8 @@
       - 独裁统治集团内部的贪腐罪证
       - 其反人类、反人道、反文明的统治暴行实录
 
-- 英文中的<Strong> 墙 </Strong>一一<Strong> GFW </Strong>
-  - <Strong> 中国长城 </Strong>的英文是 Great Wall
+- 英文中的互联网上的<Strong> 墙 </Strong>一一<Strong> GFW </Strong>
+  - <Strong> 中国长城 </Strong>的英文是<Strong> Great Wall </Strong>
   - GFW是Great Firewall的缩写
   - 中国长城Great Wall的功能是抵御外敌入侵；而GFW之类的功能是封堵国民，阻止国民自由获取公开信息
 
