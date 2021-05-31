@@ -3,11 +3,11 @@
 
 ### 服务器设在西方法制国家的电邮地址
 - 包括但不限于
-  - Gmail.com
+  - gmail.com
   - hotmail.com
   - outlook.com
   - yahoo.com
-  - neteasy.com
+  - protonmail.com
  
 
 
