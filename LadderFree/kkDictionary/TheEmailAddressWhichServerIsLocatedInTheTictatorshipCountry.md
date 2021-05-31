@@ -6,11 +6,11 @@
   - 126.com
   - 139.com
   - 163.com
-  - qq.com
-  - neteasy.com
-  - wo.cn
   - 189.cn
+  - neteasy.com
+  - qq.com
   - sina.cn
+  - wo.cn
 
 
 #### 返回到
