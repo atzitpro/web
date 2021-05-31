@@ -8,6 +8,8 @@
   - 163.com
   - qq.com
   - neteasy.com
+  - wo.cn
+  - 189.cn
 
 
 #### 返回到
