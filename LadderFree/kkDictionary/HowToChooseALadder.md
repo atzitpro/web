@@ -6,6 +6,8 @@
   - 釆用哪一家云梯厂商的产品，决定用户的人身安全
     - 任何一间云梯厂商都有机会、有能力获得用户的真实IP地址、用户设备ID等敏感信息
     - 如果上述信息落入独裁专制政权手中，确定用户是哪一位自然人将易如反掌，用户被喝茶、被抓捕将指日可待
+    - 不幸地是
+      - 独裁专制政权既造盾—GFW，也造矛—云梯。它所制造的云梯在供它的人（如胡锡进、华春莹们）使用的同时，也换副面孔向市场投放，作捕鼠器用
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
