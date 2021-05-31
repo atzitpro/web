@@ -10,7 +10,7 @@
   - 电邮
     - 不要提供
       - 您用于工作的电子邮箱
-      - 您的[服务器设在独裁专制国家的电子邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheEmailAddressThatServerIsLocatedInTheTictatorshipCountry.md)
+      - 您的[服务器设在独裁专制国家的电子邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheEmailAddressWhichServerIsLocatedInTheTictatorshipCountry.md)
       - 电邮地址中包含您的手机号码的电子邮箱
     - 而应提供
       - 您的[服务器设在西方法制国家的电子邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheEmailAddressWhichServerIsLocatedInAWesternLegalCountry.md)
