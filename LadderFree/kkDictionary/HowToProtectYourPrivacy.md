@@ -15,7 +15,7 @@
       - 您的[服务器设在独裁专制国家的电子邮箱](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheEmailAddressThatServerIsLocatedInTheTictatorshipCountry.md)
       - 电邮地址中包含您的手机号码的电子邮箱
     - 而应提供
-      - [服务器设在西方法制国家的电子邮箱]()
+      - 您的[服务器设在西方法制国家的电子邮箱]()
       - 您的  
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
