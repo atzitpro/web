@@ -10,7 +10,8 @@
     - 后台由若干台部署在境外的、充当跳板的虚拟服务器及部署于其上的后台软件构成
   - <strong>跳板型云梯 </strong>的工作原理
     - 因[ google.com](https://www.google.com/)、[YouTube.com ](https://m.youtube.com/)等早已被<strong> GFW </strong>所墙——即被<strong> GFW </strong>列入黑名单，故墙内用户无法直接访问它们
-    - 当墙内用户启动安装在自己设备上的<strong> 跳板型云梯 </strong>的前端软件时，该前端软件自动搜寻到安装在<strong> 跳板服务器 </strong>上的后端软件，在前后端软件之间的相互认证完成后开始通讯
+    - 当墙内用户启动安装在自己设备上的<strong> 跳板型云梯 </strong>的前端软件时，该前端软件穿透GFW自动搜寻到安装在<strong> 跳板服务器 </strong>上的后端软件，在前后端软件之间的相互认证完成后开始通讯
+    - 前端软件之所以能够穿透<strong> GFW </strong> ，重要原因是<strong> 跳板服务器 </strong>的IP地址不在<strong> GFW </strong>的黑名单里
     - 截止此刻，一条从用户设备到<strong> 跳板服务器 </strong>、再从<strong> 跳板服务器 </strong>到目标网站之间的通讯管道已经建立
     - 用户从自己的设备上发出访问被墙网站的请求
     - 该请求不再直接发往目标网站，而是发往<strong> 跳板服务器 </strong>上的后台软件
