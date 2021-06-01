@@ -21,8 +21,8 @@
     - 商品价格货币种类
     - 产品闭源
     - 前后端产品产自同一厂商
-- 2、应从网速的角度选择云梯
-- 3、应从价格的角度选择云梯
+- 2、应从<Strong> 网速</Strong> 的角度选择云梯
+- 3、应从<Strong> 价格</Strong> 的角度选择云梯
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
