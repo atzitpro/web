@@ -29,7 +29,7 @@
   - 区别外国人与本国人
     - 对来独裁专制国家公干、旅游的外国人的手机访问境外网站的请求，一律放行
   - 对本国人的流量进行监测分析
-  - 在所谓敏感时段加大监控力度并主动切断疑似翻墙访问外网的连接等
+  - 在所谓敏感时段加大监控力度并主动切断疑似翻墙访问境外网站的连接等
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
