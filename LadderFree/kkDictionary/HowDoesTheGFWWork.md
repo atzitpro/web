@@ -20,6 +20,13 @@
       - 在德国的IP地址是：142.250.184.238
   - <Strong> GFW </Strong>之类的<Strong> 墙 </Strong>最主要的任务之一是把它所憎恨的网站的IP地址及域名（如google.com、YouTube.com等）预先塞进它的黑名单里
   - 当你在手机、平板、Windows、Mac等设备上的浏览器地址栏里录入google.com、YouTube.com等域名并点前往时，该请求将被送到GFW之类的墙那里
+  - <Strong> GFW </Strong>之类的<Strong> 墙 </Strong>在收到该请求时，将先在域名黑名单里查找你提交的域名
+    - 如果已找到，将拒绝你的访问请求并反馈给你该网页不存在的代码为404的错误信息，或将你指向一个博彩网站
+    - 如果未找到，将在IP地址黑名单里查找你提交的请求经域名解析器解析后获得的IP地址
+      - 如果未找到，将放行
+      - 如果已找到，将拒绝你的访问请求并反馈给你该网页不存在的代码为404的错误信息，或将你指向一个博彩网站
+
+
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
