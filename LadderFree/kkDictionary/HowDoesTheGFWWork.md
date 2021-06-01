@@ -18,7 +18,7 @@
     - YouTube.com
       - 在美国的IP地址是：216.58.194.174
       - 在德国的IP地址是：142.250.184.238
-  - GFW之类的<Strong> 墙</Strong>最主要的任务之一是把它所憎恨的网站的IP地址及域名（）放置进它的黑名单里
+  - GFW之类的<Strong> 墙</Strong>最主要的任务之一是把它所憎恨的网站的IP地址及域名（如google.com、YouTube.com等）放置进它的黑名单里
 
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
