@@ -7,7 +7,7 @@
   - 什么是<strong> 代理型云梯</strong>
     - 所谓<strong> 代理型云梯</strong>，亦称<strong> 跳板型云梯</strong>，由前端、后台两部分构成
     - 前端是一套软件，安装在用户的设备（手机、Windows等）上
-    - 后台由若干台部署在境外的、充当跳板的虚拟服务器及部署于其上的一套后台软件构成
+    - 后台由若干台部署在境外的、充当跳板的虚拟服务器及部署于其上的后台软件构成
   - <strong>跳板型云梯 </strong>的工作原理
     - 因[ google.com](https://www.google.com/)、[YouTube.com ](https://m.youtube.com/)等早已被<strong> GFW </strong>所墙——即被<strong> GFW </strong>列入黑名单，故墙内用户无法直接访问它们
     - 当墙内用户启动安装在自己设备上的<strong> 跳板型云梯 </strong>的前端软件时，该前端软件自动搜寻到安装在<strong> 跳板服务器 </strong>上的后端软件，在前后端软件之间的相互认证完成后开始通讯
