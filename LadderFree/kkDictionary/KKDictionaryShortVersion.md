@@ -1,6 +1,6 @@
 ###### 玩转金刚>
 ### 金刚字典 精简版
-
+以下表述基于该假定：您来自且身处独裁专制国家
 - [什么是互联网上的<Strong> 墙 </Strong>？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheWallOnTheInternet.md)
 - [什么叫<Strong> 翻墙上网</Strong>？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
 - [互联网上的<Strong> 墙 </Strong>是如何封堵其国民访问境外网站的？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/HowDoesTheGFWWork.md)
