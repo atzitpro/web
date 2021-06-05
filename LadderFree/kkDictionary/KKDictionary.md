@@ -72,7 +72,7 @@
 - [金刚号梯 获取更多](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetMore.md)
 - [金刚号梯 找回](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDGetBack.md)
 - [专用金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDSinglepurpose.md)
-- [万能金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
+- [通用金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)
 - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 
 
@@ -84,7 +84,7 @@
 - [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
 - [金刚主号、金刚副号的用途](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
 - [专用金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)
-- [万能金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
+- [通用金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
 - [金刚号的价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsPrice.md)
 - [连通金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsUsage.md)
 - [金刚号获取](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDGet.md)
