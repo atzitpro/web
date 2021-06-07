@@ -9,7 +9,7 @@
 - 信息的表现形式有文字、图片、表格、视频
 - 信息的内容包罗万象、应有尽有。比如有教你做一道菜、制作一只弹弓、弓弩，以及剪纸、学习英式英语、美式英语等各式各样的视频，也有帮你回答问题的文字，比如：<Strong>荷马出生于哪一年？</Strong>，[维基百科](https://zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)会告诉你正确答案
 - 当然，信息的内容也包括让独裁专制政权恨得咬牙切齿、怕得魂飞魄散的。比如：[《天安门》](https://youtu.be/uyauJ34d2K0) 、[《坦克人》](https://youtu.be/fHMZmthg-Vk)、[《巴拿马文件》](https://youtu.be/YMMP6kt2J9g)、[《习近平家族财富》](https://youtu.be/s__XuLalzy4)
-- 所以独裁专制政权视[google.com](https://www.google.com/)、[YouTube.com](https://m.youtube.com/)等如洪水猛兽，严加封堵，阻止其国民访问，以免年轻的国民知晓、年长的国民想起其罪恶历史和正在发生的他们的犯罪和暴行，便于维持其统治。
+- 所以独裁专制政权视[google.com](https://www.google.com/)、[YouTube.com](https://m.youtube.com/)等如洪水猛兽，严加封堵，阻止其国民访问，以免年轻的国民知晓、年长的国民想起其罪恶历史和正在发生的他们的犯罪和暴行，便于维持其统治
 - 因此，独裁专制政权必定要筑造类似于GFW的<Strong> 墙</Strong>，以实现其封堵国民、阻止国民访问如[google.com](https://www.google.com/)、[YouTube.com](https://m.youtube.com/)之类的网站
 - 每一个网站都有1个或多个专属于自己的IP地址
   - [google.com](https://www.google.com/)
