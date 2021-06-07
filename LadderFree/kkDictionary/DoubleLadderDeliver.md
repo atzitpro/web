@@ -17,4 +17,4 @@
 - [玩转金刚](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 - [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPrice.md)
-- [价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/P04.md)
+- [2021年第4批钜惠酬宾通用金刚号梯双梯礼包流量价格表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/P04.md)
