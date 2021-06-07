@@ -6,8 +6,8 @@
 - 形态特征：<Strong> 通用金刚号梯 </Strong>中的金刚号不以c9开头
 - 适用设备：<Strong> 通用金刚号梯 </Strong>可配入不限数量的[ 多种智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)并连通使用
 - 在[ 金刚网>菜单>商店 ](https://atozitpro.net/shop)里：
-  - 所有<Strong> 通用金刚号梯 </Strong >均属于L2型
-  - 所有[ 专用金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)均属于SSL型
+  - 所有<Strong> 通用金刚号梯 </Strong >均属于L型
+  - 所有[ 专用金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)均属于S型
 - 价值：<Strong> 通用金刚号梯 </Strong>可帮您实现：
   - 全球视频资讯，无论何时何地，均可信手拈来
   - 视频既能播放于可移动的手机、平板、PC，又能播放于不可移动的TV
