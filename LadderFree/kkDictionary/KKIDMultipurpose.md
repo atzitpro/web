@@ -9,7 +9,7 @@
   - 所有<Strong> 通用金刚号梯 </Strong >均属于L型
   - 所有[ 专用金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)均属于S型
 - 价值：<Strong> 通用金刚号梯 </Strong>可帮您实现：
-  - 一梯在手，全家自由———[ 一拖九 ]()
+  - 一梯在手，全家自由———[ 一拖九 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
   - 全球视频资讯，无论何时何地，均可信手拈来
   - 视频既能播放于可移动的手机、平板、PC，又能播放于不可移动的TV
   - 让仅会使用遥控器的父辈们也能播放观看全球视频资讯
