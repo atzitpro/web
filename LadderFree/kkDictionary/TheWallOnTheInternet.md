@@ -21,7 +21,7 @@
   - <Strong> 中国长城 </Strong>的英文是<Strong> Great Wall </Strong>
   - 互联网上的<Strong> 墙 </Strong>一一<Strong> GFW </Strong>是英文<Strong> Great Firewall </Strong>的缩写
   - <Strong> GFW </Strong>是特指中共政权在中国大陆筑造的封堵中国大陆民众访问境外网站如google.com、YouTube.com等网站的防火墙
-  - <Strong> GFW </Strong>一词最早出现在2002年5月17日由 Charles R. Smith 所写的一篇关于中国网络审查的文章[《The Great Firewall of China》](https://zh.m.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)，取与 <Strong> 长城 Great Wall</Strong>相谐的效果，简写为<Strong> Great Firewall </Strong>，缩写<Strong> GFW </Strong>
+  - <Strong> GFW </Strong>一词最早出现在2002年5月17日由 Charles R. Smith 所写的一篇关于中国网络审查的文章[《The Great Firewall of China》](https://zh.m.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)，取与 <Strong> 长城 Great Wall </Strong>相谐的效果，简写为<Strong> Great Firewall </Strong>，缩写<Strong> GFW </Strong>
   - 中国古代帝王建造的<Strong> 长城 Great Wall </Strong>是用于抵御外敌入侵的；而独裁专制政权筑造的<Strong> GFW </Strong>是用于封堵自己的国民外出的
 
 #### 返回到
