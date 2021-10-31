@@ -23,7 +23,7 @@
 7. 勾选<strong> 现在不连接，仅进行设置以便稍后连接</strong>
 8. 单击<strong> 下一步</strong>
 9. 在弹窗<strong> 键入您的用户名和密码 </strong>中，<strong>用户名 </strong>处填入<strong> 金刚号 </strong>
-10. 在弹窗<strong> 键入您的用户名和密码 </strong>中，<strong> 密码 </strong>处填入</strong> 金刚密码 </strong>
+10. 在弹窗<strong> 键入您的用户名和密码 </strong>中，<strong> 密码 </strong>处填入<strong> 金刚密码 </strong>
 11. 单击<strong> 创建 </strong>，选择<strong> 关闭</strong>
 12. 重新回到<strong> 控制面板</strong>
 13. 运行<strong> 网络和共享中心</strong>
