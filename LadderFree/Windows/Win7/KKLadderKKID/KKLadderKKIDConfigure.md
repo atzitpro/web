@@ -29,7 +29,7 @@
 13. 运行<strong> 网络和共享中心</strong>
 14. 选择<strong> 连接到网络</strong>
 15. 在弹窗中，单击选中<strong> 金刚号 </strong>，右击选择<strong> 属性</strong>
-16. 选中<strong> 网络 </strong>选项卡，除<strong> Internet 协议版本 4 (TCP/IPv4) </strong>外，将其他选项的“勾”全部去掉。
+16. 选中<strong> 网络 </strong>选项卡，除<strong> Internet 协议版本 4 (TCP/IPv4) </strong>外，将其他选项的<strong> 勾 </strong>全部去掉。
 17. 选中<strong> 安全 </strong>选项卡，<strong> VPN类型 </strong>选择<strong> 使用 IPsec 的第2层隧道协议(L2…/IPSec) </strong> 
 18. 单击<strong> 高级设置</strong>
 19. 在<strong> 高级属性 </strong>窗口中，选择<strong> 使用预共享的密钥身份验证</strong>，填入密钥<strong> mft </strong> 后，单击<strong> 确定</strong>
