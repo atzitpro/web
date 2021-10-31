@@ -36,7 +36,7 @@
 19. 回到<strong> 控制面板</strong>，运行<strong> 网络和共享中心</strong>
 20. 选择<strong> 连接到网络</strong>
 21. 在弹窗中，单击选中<strong> VPN连接2 </strong>，单击<strong> 连接 </strong>
-22. 在<strong> 连接 【金刚号】 </strong>窗口，在<strong> 用户名</strong>处录入<strong> 【金刚号】</strong>，在<strong> 密码</strong>处录入<strong> 【金刚密码】 </strong> 
+22. 在<strong> 连接 【金刚号】 </strong>窗口，在<strong> 用户名 </strong>处录入<strong> 【金刚号】</strong>，在<strong> 密码 </strong>处录入<strong>【金刚密码】 </strong> 
 23. 单击<strong> 连接</strong>，连接成功后，即可自由上网
 24. 如果连接失败，则请参阅[ 金刚号梯报错、原因、对策 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
