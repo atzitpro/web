@@ -14,6 +14,7 @@
     - 请从<strong>《派号通知单》</strong>邮件 或 客服给您的邮件 中取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
     - 或请先在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)，用手机登录官网，在[ 官网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，点击<strong> 金刚号 </strong>，在 <strong> 配置信息 </strong>项下，取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
 
+0、请用刚刚取出的金刚参数替代以下1～26步中【】中的内容
 1. 打开<strong> 控制面板 </strong>，运行<strong> 网络和共享中心 </strong>
 2. 选择<strong> 设置新的连接或网络 </strong>，在弹窗<strong> 设置连接或网络 </strong>中，选中<strong> 连接到工作区 </strong>
 3. 单击<strong> 下一步</strong>，在窗口<strong> 连接到工作区 </strong>中，选择<strong> 否，创建新连接</strong>
