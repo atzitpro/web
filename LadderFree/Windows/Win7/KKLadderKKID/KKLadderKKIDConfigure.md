@@ -19,7 +19,7 @@
 3. 单击<strong> 下一步</strong>，在窗口<strong> 连接到工作区 </strong>中，选择<strong> 否，创建新连接</strong>
 4. 单击<strong> 下一步</strong>，选择<strong> 使用我的 Internet 连接(VPN) </strong>
 5. 在窗口<strong> 键入要连接的 Internet 地址 </strong>处填入<strong> atz开头的串 </strong> 
-6. <strong>目标名称 </strong>处填入<strong> AAA金刚</strong>
+6. <strong>目标名称 </strong>处填入<strong> 金刚号 </strong>
 7. 勾选<strong> 现在不连接，仅进行设置以便稍后连接</strong>
 8. 单击<strong> 下一步</strong>
 9. 在弹窗<strong> 键入您的用户名和密码 </strong>中，<strong>用户名 </strong>处填入<strong> 金刚号 </strong>
@@ -28,7 +28,7 @@
 12. 重新回到<strong> 控制面板</strong>
 13. 运行<strong> 网络和共享中心</strong>
 14. 选择<strong> 连接到网络</strong>
-15. 在弹窗中，单击选中<strong> AAA金刚 </strong>，右击选择<strong> 属性</strong>
+15. 在弹窗中，单击选中<strong> 金刚号 </strong>，右击选择<strong> 属性</strong>
 16. 选中<strong> 网络 </strong>选项卡，除<strong> Internet 协议版本 4 (TCP/IPv4) </strong>外，将其他选项的“勾”全部去掉。
 17. 选中<strong> 安全 </strong>选项卡，<strong> VPN类型 </strong>选择<strong> 使用 IPsec 的第2层隧道协议(L2…/IPSec) </strong> 
 18. 单击<strong> 高级设置</strong>
@@ -36,8 +36,8 @@
 20. 回到<strong> 控制面板</strong>，运行<strong> 网络和共享中心</strong>
 21. 选择<strong> 连接到网络</strong>
 22. 在弹窗中，单击选中<strong> VPN连接2 </strong>，单击<strong> 连接 </strong>
-23. 在<strong> 连接 AAA金刚 </strong>窗口，输入<strong> 用户名</strong>，即<strong> 金刚号</strong>
-24. 在<strong> 连接 AAA金刚 </strong>窗口，输入<strong> 密码</strong>，即<strong> 金刚密码 </strong> 
+23. 在<strong> 连接 金刚号 </strong>窗口，输入<strong> 用户名</strong>，即<strong> 金刚号</strong>
+24. 在<strong> 连接 金刚号 </strong>窗口，输入<strong> 密码</strong>，即<strong> 金刚密码 </strong> 
 25. 单击<strong> 连接</strong>，连接成功后，即可自由上网
 26. 如果连接失败，则请参阅[ 金刚号梯报错、原因、对策 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
 
