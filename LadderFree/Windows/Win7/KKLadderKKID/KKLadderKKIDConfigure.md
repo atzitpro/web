@@ -11,7 +11,7 @@
 - 预备工作
   - 在开始以下操作之前，请首先阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
   - 请准备好<strong> 金刚号</strong> 及<strong> 配套参数 </strong> 以备用
-    - 请在<strong>《派号通知单》</strong>邮件中取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
+    - 请从<strong>《派号通知单》</strong>邮件 或 客服给您的邮件 中取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
     - 或请先在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)，用手机登录官网，在[ 官网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下，点击<strong> 金刚号 </strong>，在 <strong> 配置信息 </strong>项下，取出<strong> 金刚号、金刚密码、服务器地址、预共享密钥 </strong>以备用
 
 1. 打开<strong> 控制面板 </strong>，运行<strong> 网络和共享中心 </strong>
