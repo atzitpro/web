@@ -18,7 +18,7 @@
 2. 选择<strong> 设置新的连接或网络 </strong>，在弹窗<strong> 设置连接或网络 </strong>中，选中<strong> 连接到工作区 </strong>
 3. 单击<strong> 下一步</strong>，在窗口<strong> 连接到工作区 </strong>中，选择<strong> 否，创建新连接</strong>
 4. 单击<strong> 下一步</strong>，选择<strong> 使用我的 Internet 连接(VPN) </strong>
-5. 在窗口<strong> 键入要连接的 Internet 地址 </strong>处填入<strong> atz开头的串 </strong> 
+5. 在窗口<strong> 键入要连接的 Internet 地址 </strong>处填入<strong> 服务器地址 </strong> 
 6. <strong>目标名称 </strong>处填入<strong> 金刚号 </strong>
 7. 勾选<strong> 现在不连接，仅进行设置以便稍后连接</strong>
 8. 单击<strong> 下一步</strong>
