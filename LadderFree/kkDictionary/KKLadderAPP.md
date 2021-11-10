@@ -9,9 +9,9 @@
   - 交付用户的产品形态全部都是app客户端
   - 将其下载、安装到您的手机上，运行之后即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
   - 针对每一类[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)，均有一款或数款app客户端软件与之对应。巳经发布的有：
-    - [适用于苹果手机的金刚app梯](http://cutt.ly/xxqCMtF)
-    - [适用于安卓手机的金刚app梯](http://cutt.ly/xxqCMtF)
-
+    - 适用于苹果手机的金刚app梯
+    - 适用于安卓手机的金刚app梯
+    - [点击这里下载安装] (http://cutt.ly/xxqCMtF)
 
 
 
