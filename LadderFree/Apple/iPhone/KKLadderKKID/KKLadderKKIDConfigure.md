@@ -12,7 +12,7 @@
   - 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
   - 如果您无法看到以下文档中的插图，请在您的手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md) 或 [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)，再用手机阅读该文档
   - 请准备好 金刚参数 以备用
-    - 请在《派号通知单》或 客服给您的邮件 中取出以下
+    - 请从《派号通知单》或 客服给您的邮件 中取出以下
       - 金刚号
       - 金刚密码
       - 服务器地址
