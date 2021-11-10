@@ -11,7 +11,7 @@
   - 针对每一类[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)，均有一款或数款app客户端软件与之对应。巳经发布的有：
     - 适用于苹果手机的金刚app梯
     - 适用于安卓手机的金刚app梯
-    - [点击这里下载安装] (http://cutt.ly/xxqCMtF)
+    - [点击这里下载安装](http://cutt.ly/xxqCMtF)
 
 
 
