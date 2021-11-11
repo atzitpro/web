@@ -26,7 +26,7 @@
 
 [](![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/1F022B4B-2F6B-482D-9A2B-78D2C92FC0BA.jpeg))
 0. 以下1～17步中【】中的文字需要您用刚刚取出的金刚参数去逐一替代
-1. 点开手机主屏上的 设置>通用>VPN>添加VPN配置… 弹出上图
+1. 点开手机主屏上的 <strong>设置>通用>VPN>添加VPN配置… </strong>
 2. 在 类型 的3个选项中：选 L2TP
 3. 在 描述 处填入：取自派号通知中配置图里的描述
 4. 在 服务器 处填入：取自派号通知中的服务器地址
