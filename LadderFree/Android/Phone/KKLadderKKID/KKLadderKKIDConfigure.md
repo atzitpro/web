@@ -24,7 +24,6 @@
 
 ![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>
 
-
 0. 以下1～16步中【】中的文字需要您用刚刚取出的金刚参数去逐一替代
 1. 点开手机主屏上的<strong> 设置</strong>， 在<strong> 设置 </strong>下，设法找到<strong> VPN </strong>
 2. 因采用安卓操作系统的手机厂商为数众多，<strong> 设置 </strong>下的条目五花八门，因此，金刚无法用统一的名词、术语做精准描述。现仅以 ViVO 手机为例叙述
@@ -44,11 +43,11 @@
 7. 点击后弹出<strong> 添加VPN网络屏 </strong>或<strong> 添加配置屏  </strong>
 8. 在<strong> 添加VPN网络屏 </strong>或 <strong>添加配置屏</strong>
     - 在<strong> 类型 </strong>的 6 个选项中：选<strong> L2…/IPSec PSK </strong>
-    - 在 名称 处填入：取自派号通知邮件中的金刚号
-    - 在 服务器 或 服务器地址 处填入：取自派号通知邮件中的服务器地址
-    - 在 L2…密钥 处：保持空白
-    - 在 IPSec标识符 处：保持空白
-    - 在 IPSec预共享密钥 处填入：取自派号通知邮件中的密钥
+    - 在<strong> 名称 </strong>处填入【金刚号】
+    - 在<strong> 服务器 </strong>或<strong> 服务器地址 </strong>处填入【服务器地址】
+    - 在<strong> L2…密钥 </strong>处：保持空白
+    - 在<strong> IPSec标识符 </strong>处：保持空白
+    - 在<strong> IPSec预共享密钥 </strong>处填入【密钥】
     - 在 用户名 处填入：取自派号通知邮件中的金刚号
     - 在 密码 处填入：取自派号通知邮件中的金刚密码
     - 应勾选 记住用户名和密码（有的安卓手机该项叫 保存用户信息）
