@@ -43,13 +43,13 @@
 7. 点击后弹出<strong> 添加VPN网络屏 </strong>或<strong> 添加配置屏  </strong>
 8. 在<strong> 添加VPN网络屏 </strong>或 <strong>添加配置屏</strong>
     - 在<strong> 类型 </strong>的 6 个选项中：选<strong> L2…/IPSec PSK </strong>
-    - 在<strong> 名称 </strong>处填入【金刚号】
-    - 在<strong> 服务器 </strong>或<strong> 服务器地址 </strong>处填入【服务器地址】
+    - 在<strong> 名称 </strong>处填入<strong>【金刚号】</strong>
+    - 在<strong> 服务器 </strong>或<strong> 服务器地址 </strong>处填入<strong>【服务器地址】</strong>
     - 在<strong> L2…密钥 </strong>处<strong> 保持空白</strong>
     - 在<strong> IPSec标识符 </strong>处<strong> 保持空白</strong>
-    - 在<strong> IPSec预共享密钥 </strong>处填入【密钥】
-    - 在<strong> 用户名 </strong>处填入【金刚号】
-    - 在<strong> 密码 </strong>处填入【金刚密码】
+    - 在<strong> IPSec预共享密钥 </strong>处填入<strong>【密钥】</strong>
+    - 在<strong> 用户名 </strong>处填入<strong>【金刚号】</strong>
+    - 在<strong> 密码 </strong>处填入<strong>【金刚密码】</strong>
     - 应勾选<strong> 记住用户名和密码 </strong>或<strong> 保存用户信息 </strong>
 9. 点屏幕右上角的<strong> 完成 </strong>，退出<strong> 添加VPN网络屏 </strong>或<strong> 添加配置屏 </strong>，到达<strong> VPN屏 </strong>
 10. 当<strong> 完成 </strong>为灰色、不可点击时，点屏幕左上角的<strong> 取消 </strong>，从<strong> 金刚号填空屏 </strong>，到达<strong> VPN屏</strong>
