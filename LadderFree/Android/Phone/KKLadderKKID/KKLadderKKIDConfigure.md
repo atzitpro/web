@@ -49,13 +49,13 @@
     - 在<strong> IPSec标识符 </strong>处：保持空白
     - 在<strong> IPSec预共享密钥 </strong>处填入【密钥】
     - 在<strong> 用户名 </strong>处填入【金刚号】
-    - 在<strong> 密码 </strong>处填入：【金刚密码】
+    - 在<strong> 密码 </strong>处填入【金刚密码】
     - 应勾选<strong> 记住用户名和密码 </strong>或<strong> 保存用户信息 </strong>
 9. 点屏幕右上角的<strong> 完成 </strong>，退出<strong> 添加VPN网络屏 </strong>或<strong> 添加配置屏 </strong>，到达<strong> VPN屏 </strong>
-10. 当 完成 为灰色、不可点击时，点屏幕左上角的 取消，从 金刚号填空屏，到达 VPN屏
-11. 在 VPN屏，如果手机上已经安装了多个VPN工具，则应确保 蓝色的勾 打在金刚所在的一行的左侧，而不可打在其他VPN工具上
-12. 在 VPN屏，打开 VPN开关，开始连接金刚
-13. 如果屏幕顶端出现 带框VPN >图标 或 钥匙 图标时，则表示 金刚连接成功，即可自由上网
+10. 当<strong> 完成 </strong>为灰色、不可点击时，点屏幕左上角的<strong> 取消 </strong>，从<strong> 金刚号填空屏 </strong>，到达<strong> VPN屏</strong>
+11. 在<strong> VPN屏</strong>，如果手机上已经安装了多个VPN工具，则应确保<strong> 蓝色的勾 </strong>打在金刚所在的一行的左侧，而不可打在其他VPN工具上
+12. 在<strong> VPN屏</strong>，打开<strong> VPN开关</strong>，开始连接金刚
+13. 如果屏幕顶端出现<strong> 带框VPN </strong>图标或<strong> 钥匙 </strong>图标时，则表示<strong> 金刚连接成功</strong>，即可自由上网
 14. 下载谷歌浏览器 Chrome 和 YouTube 视频播放器
 15. 在金刚保持连接的状态下，在谷歌浏览器内录入网址 google.com，然后搜索您感兴趣的任何内容，或在 YouTube 视频播放器里搜索您感兴趣的任何内容
 16. 如果连接失败，则请参阅[ 《金刚号梯报错信息、原因、对策》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDErroMessage.md)
