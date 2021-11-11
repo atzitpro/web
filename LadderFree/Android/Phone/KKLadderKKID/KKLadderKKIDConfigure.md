@@ -45,8 +45,8 @@
     - 在<strong> 类型 </strong>的 6 个选项中：选<strong> L2…/IPSec PSK </strong>
     - 在<strong> 名称 </strong>处填入【金刚号】
     - 在<strong> 服务器 </strong>或<strong> 服务器地址 </strong>处填入【服务器地址】
-    - 在<strong> L2…密钥 </strong>处：保持空白
-    - 在<strong> IPSec标识符 </strong>处：保持空白
+    - 在<strong> L2…密钥 </strong>处<strong> 保持空白</strong>
+    - 在<strong> IPSec标识符 </strong>处<strong> 保持空白</strong>
     - 在<strong> IPSec预共享密钥 </strong>处填入【密钥】
     - 在<strong> 用户名 </strong>处填入【金刚号】
     - 在<strong> 密码 </strong>处填入【金刚密码】
