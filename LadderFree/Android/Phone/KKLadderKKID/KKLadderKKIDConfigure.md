@@ -23,6 +23,7 @@
 
 
 [comment]:#
+<!-- 注释 -->
 []( ![image](https://github.com/a2zitpro/web/blob/master/B073B1E6-B647-48FA-8931-35923C5EA54F.jpeg)<br>)
 
 0. 以下1～16步中【】中的文字需要您用刚刚取出的金刚参数去逐一替代
