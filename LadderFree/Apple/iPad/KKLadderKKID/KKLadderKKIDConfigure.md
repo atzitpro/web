@@ -21,13 +21,12 @@
       - 预共享密钥</strong>
   
 
-- <strong>配置说明 </strong>
-
 [comment]:#
 <!-- 注释 -->
 
 [](![image](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/1F022B4B-2F6B-482D-9A2B-78D2C92FC0BA.jpeg))
 
+- <strong>配置说明 </strong>
   - 以下【】中的文字需要您用刚刚取出的金刚参数去逐一替代
   - 点开手机主屏上的 <strong>设置>通用>VPN>添加VPN配置… </strong>
   - 在<strong> 类型 </strong>的3个选项中选<strong> L2TP </strong>
