@@ -9,10 +9,10 @@
  
 #### 配置
     
-- 鸣谢
+- <strong>鸣谢</strong>
     - 该《配置说明》由金刚之友西归道人探索撰写、无尝奉献，为千千万万只能使用遥控器的中老年朋友自由上网、获取全球资讯开劈了一条康庄大道，功德无量。金刚特向朋友西归道人致以诚挚的谢意！
 
-- 预备工作
+- <strong>预备工作</strong>
   - 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
   - 如果无法看到以下文档中的插图，请先在手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)，再用手机阅读该文档
 
@@ -34,7 +34,7 @@
     - 凡安卓操作系统机顶盒均可比照此方法配置
   - 操纵工具
     - 机顶盒遥控器
-- 配置说明
+- <strong>配置说明</strong>
     - 以下诸条【】中的文字需要您用刚刚取出的金刚参数去逐一替代
     - 打开<strong> 机顶盒 </strong>
     - 找到<strong> 系统应用 </strong>
