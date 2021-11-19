@@ -1,6 +1,6 @@
 ##### 关于Apple ID
-### 如何创建美洲区 Apple ID?
-#### 创建美洲区 Apple ID 的方法
+### 如何创建美国区 Apple ID?
+#### 创建美国区 Apple ID 的方法
 - 请参照[ 创建台湾区 Apple ID ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/kkAppLadder/iOS/CreatAppleIDofTaiwan.md)的方法做
 - 区别是：在图P07所示标红处选择<strong> 美国 </strong>即可
 #### 返回到
