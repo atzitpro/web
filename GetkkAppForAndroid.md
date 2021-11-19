@@ -2,7 +2,7 @@
 ### 在安卓手机/平板上安装金刚app梯
 
 - <strong>安卓类手机/平板</strong> 是指三星、华为、OPPO、VIVO、小米等
-- 若持<strong> 安卓类手机/平板</strong>，请从如下3种途径中选一种途径安装金刚app
+- 若持<strong> 安卓类手机/平板</strong>，请从以下3种途径中选一种途径安装金刚app
   - [谷歌app商店](https://play.google.com/store/apps/details?id=com.kk.androidclient.kkapp)(中国大陆用户免梯无法访问)
   - [apkpure app 商店](https://apkpure.com/p/com.kk.androidclient.kkapp)
   - 避开以上app商店直接下载安装金刚app（适合中国大陆用户）：
