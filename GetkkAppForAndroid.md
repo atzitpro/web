@@ -1,7 +1,7 @@
 ###### 玩转金刚梯>金刚字典>
 ### 在安卓手机上下载安装金刚app梯
 
-- 持<strong> 安卓手机</strong>，从如下3种途径中选一种安装金刚app
+- 持<strong> 安卓手机</strong>，请从如下3种途径中选一种安装金刚app
   - [谷歌app商店](https://play.google.com/store/apps/details?id=com.kk.androidclient.kkapp)(中国用户免梯无法访问)
   - [apkpure app 商店](https://apkpure.com/p/com.kk.androidclient.kkapp)
   - 直接安装金刚app安装文件（跳过app商店直接下载安装，适合中国用户），详情如下：
