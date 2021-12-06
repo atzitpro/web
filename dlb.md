@@ -1,6 +1,8 @@
 ### 美国金刚公司出品一一
 
- ![image](/kkLOGO/kkLogoSmall.PNG) 
+<img src="https://github.com/a2zitpro/web/blob/master/kkLOGO/kkLogoSmall.PNG" alt="kk Logo" width="100"/>
+
+<!-- ![image](/kkLOGO/kkLogoSmall.PNG)  -->
 
 <!--![image](l-w-s-athird.png) -->
 
