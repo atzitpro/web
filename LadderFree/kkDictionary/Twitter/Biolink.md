@@ -10,7 +10,7 @@
     - [安卓类平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Pad/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [Win7](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win7/KKLadderKKID/KKLadderKKIDConfigure.md)
-    - [Win10]()
+    - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [Windows]()
     - [路由器]()
 - 免费翻墙•90天•高速线路•无广告
