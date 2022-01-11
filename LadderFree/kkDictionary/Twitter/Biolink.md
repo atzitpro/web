@@ -7,7 +7,7 @@
     - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPad/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [苹果电脑Mac](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [安卓手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderKKID/KKLadderKKIDConfigure.md)
-    - [安卓平板]()
+    - [安卓平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Pad/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [Win7]()
     - [Win10]()
     - [Windows]()
