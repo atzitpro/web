@@ -18,14 +18,14 @@
   - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 持安卓手机者完成以下，将获推荐码
     - 关注金刚官方推号
-    - 在金刚app梯我屏绑定您的私人邮箱
+    - 在[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏绑定您的私人邮箱
     - 向官推私信提交您的金刚app号
   - 持安卓手机者获取90天高速免费流量
-    - 在金刚app梯我屏填入推荐码将获奖励积分
+    - 在[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏填入推荐码将获奖励积分
     - 分3次用奖励积分购买流量月包
   - 金刚在手，全家自由
-      - 从金刚app梯我屏获取金刚号
-      - 把金刚号配入[这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
+      - 从[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏获取金刚号梯
+      - 把金刚号梯配入[这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
 - 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•长期•常速线路•有广告
     - 按上节操作
     - 3个月后关闭付费模式，以下设备长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
