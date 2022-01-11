@@ -15,7 +15,7 @@
     - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
     - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
 - 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•90天•高速线路•无广告
-  - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)金刚app梯
+  - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 持安卓手机者完成以下，将获推荐码
     - 关注金刚官方推号
     - 在金刚app梯我屏绑定您的私人邮箱
