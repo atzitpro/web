@@ -4,7 +4,7 @@
 - 金刚参数由以下各项构成
   - 金刚号：由一个拉丁字母开始，后按一串阿拉伯数字。如A123456789、C123456789
   - 金刚密码：由8位阿拉伯数字构成
-  - 服务器：形如 atz12.softether.net
+  - 服务器：形如 atz12.gleeze.com
   - 密钥：如mft
   - 其中[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)和<Strong> 金刚密码 </Strong >专属于您，<Strong> 归您独享，不可泄露 </Strong>
 
