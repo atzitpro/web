@@ -25,7 +25,7 @@
     - 分3次用奖励积分购买流量月包
   - 金刚在手，全家自由
       - 从金刚app梯我屏获取金刚号
-      - 把金刚号配入[这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ]()的本领
+      - 把金刚号配入[这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
 - 免费翻墙•长期•常速线路•有广告
     - 按上节操作
     - 3个月后关闭付费模式，以下设备长期免费翻墙
