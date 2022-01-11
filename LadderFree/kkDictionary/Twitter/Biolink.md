@@ -3,7 +3,7 @@
     - 苹果手机+平板
         - 看图翻墙
     - 以下设备
-      - 取图中红色内容（即[ 金刚参数 ]()）
+      - 取图中红色内容（即[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)）
       - 按[ 配置方法 ](https://CUTT.LY/7YjP3T7)填入设备即可翻墙
          - 安卓手机
          - 安卓平板
