@@ -18,7 +18,7 @@
       - 来自社交媒体上的金刚官方号
 
 - 配置说明
-  - 以下1～19步中【】中的文字需要您用刚刚取出的金刚参数去逐一替代
+  - 以下【】中的文字需要您用刚刚取出的金刚参数去逐一替代
   - 点击电脑左下角<strong> Windows图标>设置图标>网络和Internet>网络和共享中心>设置新的连接或网络>连接到工作区</strong>
   - 点击<strong> 下一步>使用我的Internet连接VPN </strong>
   - 在<strong> Internet地址 </strong>处填入：<strong>【服务器地址】</strong> 
