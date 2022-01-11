@@ -1,9 +1,9 @@
 ### 官推公开免费金刚号
 #### 第6批免费金刚号梯
-- 免费翻墙•最长15天
+- 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•最长15天
   - 取出图中红色[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
   - 点击以下设备，填入[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
-即可翻墙
+即可[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
     - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPad/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [苹果电脑Mac](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/KKLadderKKIDConfigure.md)
@@ -14,7 +14,7 @@
     - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
     - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
-- 免费翻墙•90天•高速线路•无广告
+- 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•90天•高速线路•无广告
   - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)金刚app梯
   - 持安卓手机者完成以下，将获推荐码
     - 关注金刚官方推号
@@ -26,9 +26,9 @@
   - 金刚在手，全家自由
       - 从金刚app梯我屏获取金刚号
       - 把金刚号配入[这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
-- 免费翻墙•长期•常速线路•有广告
+- 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•长期•常速线路•有广告
     - 按上节操作
-    - 3个月后关闭付费模式，以下设备长期免费翻墙
+    - 3个月后关闭付费模式，以下设备长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
       - 安卓手机
       - 安卓平板
       - 苹果手机
