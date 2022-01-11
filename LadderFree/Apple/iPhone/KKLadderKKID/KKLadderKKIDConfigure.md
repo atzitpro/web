@@ -9,7 +9,7 @@
 #### 配置
 - <strong>预备工作 </strong>
   - 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
-  - 如果无法看到以下文档中的插图，请先在手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)，再用手机阅读该文档
+ <!--  - 如果无法看到以下文档中的插图，请先在手机上连通 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)，再用手机阅读该文档-->
   - 请准备好<strong> 金刚参数 </strong>备用
     - 请从以下邮件中取出<strong> 金刚参数</strong>
       - 官网给您的《派号通知单》邮件
