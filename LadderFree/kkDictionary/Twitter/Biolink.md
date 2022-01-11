@@ -15,14 +15,17 @@
     - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
     - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
 - 免费翻墙•90天•高速线路•无广告
-    - 关注金刚官方推号
-    - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)金刚app梯
-    - 在金刚app梯我屏绑定您的私人邮箱
-    - 向官推私信提交您的金刚app号，将获推荐码
-    - 在金刚app梯我屏填入推荐码将获奖励积分
-    - 全部奖励积分可供您购买90天用的流量
-    - 从金刚app梯我屏获取金刚号
-    - 把金刚号配入上节所列设备，用这些设备翻墙
+  - 关注金刚官方推号
+  - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)金刚app梯
+    - 完成以下，将获推荐码
+      - 在金刚app梯我屏绑定您的私人邮箱
+      - 向官推私信提交您的金刚app号
+    - 获取90天高速免费流量
+      - 在金刚app梯我屏填入推荐码将获奖励积分
+      - 用全部奖励积分分3次购买流量月包
+    - 金刚在手，全家自由
+      - 从金刚app梯我屏获取金刚号
+      - 把金刚号配入上节所列设备，用这些设备翻墙
 - 免费翻墙•长期•常速线路•有广告
     - 按上节操作
     - 3个月后关闭付费模式，以下设备长期免费翻墙
