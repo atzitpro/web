@@ -11,7 +11,7 @@
     - [安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [Win7](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win7/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
-    - [Windows]()
+    - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
     - [路由器]()
 - 免费翻墙•90天•高速线路•无广告
     - 关注金刚官方推号
