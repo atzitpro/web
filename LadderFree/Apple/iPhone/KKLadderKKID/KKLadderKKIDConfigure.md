@@ -14,10 +14,10 @@
       - 官网给您的《派号通知单》邮件
       - 客服给您的包含金刚参数的邮件
     - 或连通您手机上的 [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)，用手机登录[官网](https://www.atozitpro.net/zh/)，在[ 官网>菜单>我的金刚 ](https://www.atozitpro.net/zh/my-account/)下点击 金刚号，在<strong> 配置信息 </strong>项下取出<strong> 金刚参数 </strong>
-      - <strong>金刚号
+      - 金刚号
       - 金刚密码
       - 服务器地址
-      - 预共享密钥</strong>
+      - 预共享密钥
   
 
 [comment]:#
