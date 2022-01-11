@@ -3,7 +3,7 @@
 - 免费翻墙•最长15天
   - 取出图中红色[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
   - 填入以下设备即可翻墙
-    - [苹果手机]()
+    - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [苹果平板]()
     - [安卓手机]()
     - [安卓平板]()
