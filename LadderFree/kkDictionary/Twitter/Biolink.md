@@ -12,7 +12,7 @@
     - [Win7](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win7/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
     - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
-    - [路由器]()
+    - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
 - 免费翻墙•90天•高速线路•无广告
     - 关注金刚官方推号
     - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)金刚app梯
