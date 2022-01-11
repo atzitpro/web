@@ -2,7 +2,7 @@
 #### 第6批免费金刚号梯
 - 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•最长15天
   - 产品：[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-  - 获取方法 
+  - 获取与使用方法 
     - 取出图中红色[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
     - 点击以下设备，填入[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
 即可[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
@@ -18,7 +18,7 @@
       - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
 - 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•90天•高速线路•无广告
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
-  - 获取方法
+  - 获取与使用方法
     - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
     - 持安卓手机者完成以下，将获推荐码
       - 关注金刚官方推号
@@ -32,7 +32,7 @@
       - 把金刚号梯配入[这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
 - 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•长期•常速线路•有广告
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
-  - 获取方法
+  - 获取与使用方法
     - 按上节操作
     - 3个月后关闭付费模式，以下设备长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
       - 安卓手机
