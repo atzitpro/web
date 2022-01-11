@@ -1,17 +1,18 @@
 ### 官推公开免费金刚号
 #### 第6批免费金刚号梯
-- 免费翻墙•最长15天•看图填空，即可翻墙
-    - 苹果手机+平板
-        - 看图填空，即可翻墙
-    - 以下设备
-      - 取出图中红色[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
-      - 按[ 配置方法 ](https://CUTT.LY/7YjP3T7)填空即可翻墙
-         - 安卓手机
-         - 安卓平板
-         - 苹果电脑Mac
-         - Windows
-         - 机顶盒
-         - 路由器
+- 免费翻墙•最长15天
+  - 取出图中红色[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
+  - 填入以下设备即可翻墙
+         - [苹果手机]()
+         - [苹果平板]()
+         - [安卓手机]()
+         - [安卓平板]()
+         - [苹果电脑Mac]()
+         - [Win7]()
+         - [Win10]()
+         - [Windows]()
+         - [机顶盒]()
+         - [路由器]()
 - 免费翻墙•90天•高速线路•无广告
     - 关注金刚官方推号
     - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)金刚app梯
