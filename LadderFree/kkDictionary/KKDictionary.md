@@ -176,4 +176,4 @@
 - [金刚字典 精简版](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionaryShortVersion.md)
 - [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPrice.md)
 - [金刚号梯的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
-- [推特公开免费金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Twitter/Biolink.md)
+- [官推公开免费金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Twitter/Biolink.md)
