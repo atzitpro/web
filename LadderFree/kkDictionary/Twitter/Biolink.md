@@ -2,10 +2,10 @@
 #### 第6批免费金刚号梯
 - 免费翻墙· <=15天
     - 苹果手机+平板
-        - 看图翻墙
+        - 看图填空，即可翻墙
     - 以下设备
-      - 取图中红色内容，即[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
-      - 按[ 配置方法 ](https://CUTT.LY/7YjP3T7)填入设备即可翻墙
+      - 取出图中红色[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
+      - 按[ 配置方法 ](https://CUTT.LY/7YjP3T7)填空即可翻墙
          - 安卓手机
          - 安卓平板
          - 苹果电脑Mac
