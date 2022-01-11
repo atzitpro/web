@@ -19,7 +19,7 @@
       - 来自社交媒体上的金刚官方号
 
 - 配置说明
-  - 以下1～24步中【】中的文字需要您用刚刚取出的金刚参数去逐一替代
+  - 以下【】中的文字需要您用刚刚取出的金刚参数去逐一替代
   - 打开<strong> 控制面板 </strong>，运行<strong> 网络和共享中心 </strong>
   - 选择<strong> 设置新的连接或网络 </strong>，在弹窗<strong> 设置连接或网络 </strong>中，选中<strong> 连接到工作区 </strong>
   - 单击<strong> 下一步</strong>，在窗口<strong> 连接到工作区 </strong>中，选择<strong> 否，创建新连接</strong>
