@@ -6,9 +6,10 @@
 - [安卓类手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderKKID/KKLadderKKIDConfigure.md)
 - [安卓类平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Pad/KKLadderKKID/KKLadderKKIDConfigure.md)
 - [安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderKKID/KKLadderKKIDConfigure.md)
-- [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
 - [Win7](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win7/KKLadderKKID/KKLadderKKIDConfigure.md)
 - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
+- [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
+
 #### 返回到
 - [免费安全自由上网 首选可信美制金刚](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
