@@ -1,7 +1,7 @@
 ###### 玩转金刚梯>金刚字典>
 ### 路由器
 
-- 部分路由器支持L2TP VPN客户端配置，可利用该功能配入金刚参数
+- 部分路由器支持L2TP VPN客户端配置，可利用该功能配入[金刚参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
 - 当配入并连通金刚号后，该路由器即处于翻墙成功状态
 - 用有线或无线（WiFi）方式连接在该路由器上的每部手机等设备不必翻墙即可访问油管等
 - 在路由器的管理端用户界面里找到VPN配置，再找L2TP的配置页面
