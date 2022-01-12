@@ -4,12 +4,12 @@
   - 产品：[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - 有效期：2022.02.15前可用
   - 金刚主号参数
-    - 金刚号：c59
+    - 金刚号：c598644
     - 金刚密码：
     - 服务器地址：atz59.gleeze.com
     - 密钥：3
   - 金刚备号参数
-    - 金刚号：c39
+    - 金刚号：c393226
     - 金刚密码：
     - 服务器地址：atz39.gleeze.com
     - 密钥：3
