@@ -1,8 +1,8 @@
 ### 官推公开免费金刚号
 #### 第6批免费金刚号梯
-- 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•最长15天
+- 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•短期
   - 产品：[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-  - 有效期：2022.02.15前可用
+  - 有效期：2022.02.01～15
   - 特色：以下参数可供9亿部下列设备同时使用
   - 金刚主号参数
     - 金刚号：c598644
