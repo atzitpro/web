@@ -2,10 +2,22 @@
 #### 第6批免费金刚号梯
 - 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•最长15天
   - 产品：[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-  - 获取与使用方法 
-    -从金刚官推置顶附图中取出红色[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
-    - 点击以下设备，填入[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
-即可[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+  - 有效期：
+  - 金刚参数
+    - 主号：
+      - 金刚号：
+      - 金刚密码：
+      - 服务器：
+      - 密钥：
+    - 备号：
+      - 金刚号：
+      - 金刚密码：
+      - 服务器：
+      - 密钥：
+  - 配置方法
+    - 把主备号全部配入以下设备即可[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+    - 主备号互为备胎，主号不通时用备号连
+    - 点击以下设备名称获取配置方法
       - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/KKLadderKKIDConfigure.md)
       - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPad/KKLadderKKID/KKLadderKKIDConfigure.md)
       - [苹果电脑Mac](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/KKLadderKKIDConfigure.md)
