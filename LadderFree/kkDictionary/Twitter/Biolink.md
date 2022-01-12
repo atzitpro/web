@@ -46,7 +46,7 @@
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
     - 按上节操作
-    - 3个月后关闭付费模式，以下设备长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+    - 3个月后以下设备长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
       - 安卓手机
       - 安卓平板
       - 苹果手机
