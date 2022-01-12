@@ -62,4 +62,4 @@
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 - [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPrice.md)
-- [推特公开免费金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Twitter/Biolink.md)
+- [官推公开免费金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Twitter/Biolink.md)
