@@ -2,14 +2,14 @@
 #### 第6批免费金刚号梯
 - 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•最长15天
   - 产品：[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-  - 有效期：
+  - 有效期：2022.02.15前可用
   - 金刚参数
-    - 主号：
+    - 主号
       - 金刚号：
       - 金刚密码：
       - 服务器：
       - 密钥：
-    - 备号：
+    - 备号
       - 金刚号：
       - 金刚密码：
       - 服务器：
