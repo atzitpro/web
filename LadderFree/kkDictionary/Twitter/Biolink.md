@@ -35,7 +35,8 @@
   - 获取与使用方法
     - 在安卓、苹果手机上执行以下之一下载安装[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
       - [ 点击这里 ](https://CUTT.LY/xxqCMtF)
-      - 在谷歌浏览器地址栏严格按大小写录入 CUTT.LY/xxqCMtF 再点前往
+      - 在谷歌浏览器地址栏严格按大小写录入以下再点<strong> 前往</strong> 
+        - CUTT.LY/xxqCMtF
     - 持安卓手机者完成以下，将获推荐码
       - 关注金刚官方推号
       - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏绑定您的私人邮箱
