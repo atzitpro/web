@@ -6,12 +6,12 @@
   - 特色：以下金刚参数可供9亿部下列设备同时[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
   - 金刚主号参数
     - 金刚号：c598644
-    - 金刚密码：私信金刚官方推号索取
+    - 金刚密码：从金刚官推置顶图片中提取
     - 服务器：atz59.gleeze.com
     - 密钥：3
   - 金刚备号参数
     - 金刚号：c393226
-    - 金刚密码：私信金刚官方推号索取
+    - 金刚密码：从金刚官推置顶图片中提取
     - 服务器：atz39.gleeze.com
     - 密钥：3
   - 配置方法
