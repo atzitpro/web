@@ -4,13 +4,13 @@
   - 产品：[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - 有效期：2022.02.01～2022.02.15
   - 特色：以下金刚参数可供9亿部下列设备同时[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-  - 金刚主号参数
+  - <strong>金刚号主号参数</strong>
     - 金刚号：c598644
     - 金刚密码：
       - 从金刚梯官推置顶图片中提取
     - 服务器：atz59.gleeze.com
     - 密钥：3
-  - 金刚备号参数
+  - <strong>金刚号备号参数</strong>
     - 金刚号：c393226
     - 金刚密码：
       - 从金刚梯官推置顶图片中提取
@@ -30,7 +30,7 @@
       - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
       - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
       - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
-- 90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•高速线路•无广告
+- <strong> 90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•高速线路•无广告</strong>
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
     - 在安卓、苹果手机上[ 下载安装 ](https://CUTT.LY/xxqCMtF)[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
@@ -44,7 +44,7 @@
     - 金刚在手，全家自由
       - 从[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏获取金刚号梯
       - 把金刚号梯配入[这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
-- 长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•常速线路•有广告
+- <strong>长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•常速线路•有广告</strong>
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
     - 按上节操作
