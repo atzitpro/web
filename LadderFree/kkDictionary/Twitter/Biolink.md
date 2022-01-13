@@ -1,6 +1,6 @@
 ### 官推公开免费金刚号
 #### 第6批免费金刚号梯
-- 免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•短期
+- 短期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
   - 产品：[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - 有效期：2022.02.01～2022.02.15
   - 特色：以下金刚参数可供9亿部下列设备同时[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
