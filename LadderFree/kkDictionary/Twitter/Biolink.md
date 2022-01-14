@@ -30,7 +30,7 @@
 #### <strong> 90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•高速线路•无广告</strong>
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
-    - 在安卓、苹果手机上按以下之一操作下载安装[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
+    - 在安卓、苹果手机上按下列之一操作下载安装[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
       - [ 点击这里 ](https://CUTT.LY/xxqCMtF)
       - 在谷歌浏览器地址栏严格按大小写录入以下再点<strong> 前往</strong> 
         - CUTT.LY/xxqCMtF
