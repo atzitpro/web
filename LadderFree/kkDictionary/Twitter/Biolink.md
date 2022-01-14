@@ -1,34 +1,32 @@
 ### 免费用金刚攻略
 #### <strong>10天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
-  - 产品：第6批免费[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-    - 有效期：2022.02.05～2022.02.15
-    - 特色：以下[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)可供9亿部下列设备同时[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-  - <strong>金刚号主号参数</strong>
-    - 金刚号：c598644
-    - 金刚密码：
-      - 从金刚梯官推置顶帖图片中提取
-    - 服务器：atz59.gleeze.com
-    - 密钥：3
-  - <strong>金刚号备号参数</strong>
-    - 金刚号：c393226
-    - 金刚密码：
-      - 从金刚梯官推置顶帖图片中提取
-    - 服务器：atz39.gleeze.com
-    - 密钥：3
-  - 配置方法
-    - 把主备号全部配入以下设备即可[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-    - 主备号互为备胎，当主号偶尔短时不通时用备号连；反之亦然
-    - 点击以下设备名称获取配置方法
-      - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/KKLadderKKIDConfigure.md)
-      - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPad/KKLadderKKID/KKLadderKKIDConfigure.md)
-      - [苹果电脑Mac](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/KKLadderKKIDConfigure.md)
-      - [安卓类手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderKKID/KKLadderKKIDConfigure.md)
-      - [安卓类平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Pad/KKLadderKKID/KKLadderKKIDConfigure.md)
-      - [安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderKKID/KKLadderKKIDConfigure.md)
-      - [Win7](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win7/KKLadderKKID/KKLadderKKIDConfigure.md)
-      - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
-      - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
-      - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
+- 产品：第6批免费[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
+  - 有效期：2022.02.05～2022.02.15
+  - 特色：以下[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)可供9亿部下列设备同时[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+- <strong>金刚号主号参数</strong>
+  - 金刚号：c598644
+  - 金刚密码：从金刚梯官推置顶帖图片中提取
+  - 服务器：atz59.gleeze.com
+  - 密钥：3
+- <strong>金刚号备号参数</strong>
+  - 金刚号：c393226
+  - 金刚密码：从金刚梯官推置顶帖图片中提取
+  - 服务器：atz39.gleeze.com
+  - 密钥：3
+- 配置方法
+  - 把主备号全部配入以下设备即可[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+  - 主备号互为备胎，当主号偶尔短时不通时用备号连；反之亦然
+  - 点击以下设备名称获取配置方法
+    - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/KKLadderKKIDConfigure.md)
+    - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPad/KKLadderKKID/KKLadderKKIDConfigure.md)
+    - [苹果电脑Mac](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/MacOS/KKLadderKKID/KKLadderKKIDConfigure.md)
+    - [安卓类手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Phone/KKLadderKKID/KKLadderKKIDConfigure.md)
+    - [安卓类平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/Pad/KKLadderKKID/KKLadderKKIDConfigure.md)
+    - [安卓类机顶盒](https://github.com/a2zitpro/web/blob/master/LadderFree/Android/TVBox/KKLadderKKID/KKLadderKKIDConfigure.md)
+    - [Win7](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win7/KKLadderKKID/KKLadderKKIDConfigure.md)
+    - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
+    - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
+    - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
 #### <strong> 90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•高速线路•无广告</strong>
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
