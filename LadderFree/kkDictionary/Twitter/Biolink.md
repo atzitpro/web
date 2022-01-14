@@ -2,7 +2,7 @@
 #### <strong>10天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
   - 产品：第6批免费[金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
     - 有效期：2022.02.05～2022.02.15
-    - 特色：以下金刚参数可供9亿部下列设备同时[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+    - 特色：以下[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)可供9亿部下列设备同时[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
   - <strong>金刚号主号参数</strong>
     - 金刚号：c598644
     - 金刚密码：
