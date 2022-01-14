@@ -36,13 +36,16 @@
       - [ 点击这里 ](https://CUTT.LY/xxqCMtF)
       - 在谷歌浏览器地址栏严格按大小写录入以下再点<strong> 前往</strong> 
         - CUTT.LY/xxqCMtF
-    - 持安卓手机者完成以下，将获推荐码
-      - 关注金刚官方推号
-      - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏绑定您的私人邮箱
-      - 向官推私信提交您的金刚app号
-    - 持安卓手机者获取90天高速免费流量
-      - 安装当天在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏填入推荐码将获奖励积分800点
-      - 分3次用奖励积分购买流量月包
+    - 持安卓手机者
+      - 完成以下将获推荐码
+        - 关注金刚官方推号
+        - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏绑定您的私人邮箱
+        - 向官推私信提交您的金刚app号
+      - 完成以下将获90天高速免费流量
+        - 安装当天在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏填入推荐码将获奖励积分800点
+        - 分3次用奖励积分购买流量月包
+    - 持苹果手机者
+      - 受苹果公司政策限制，安装[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)无法获得金刚公司的奖励积分
     - 金刚在手，全家自由
       - 从[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏获取金刚号梯
       - 把金刚号梯配入[ 这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
