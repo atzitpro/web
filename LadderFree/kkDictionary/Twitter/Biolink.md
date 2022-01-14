@@ -17,7 +17,7 @@
     - 密钥：3
   - 配置方法
     - 把主备号全部配入以下设备即可[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-    - 主备号互为备胎，主号偶尔短时不通时用备号连；反之亦然
+    - 主备号互为备胎，当主号偶尔短时不通时用备号连；反之亦然
     - 点击以下设备名称获取配置方法
       - [苹果手机](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPhone/KKLadderKKID/KKLadderKKIDConfigure.md)
       - [苹果平板](https://github.com/a2zitpro/web/blob/master/LadderFree/Apple/iPad/KKLadderKKID/KKLadderKKIDConfigure.md)
