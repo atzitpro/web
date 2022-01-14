@@ -42,7 +42,7 @@
         - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏绑定您的私人邮箱
         - 向官推私信提交您的金刚app号
       - 完成以下将获90天高速免费流量
-        - 安装当天在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏填入推荐码将获奖励积分800点
+        - 安装后24小时内在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏填入推荐码将获奖励积分800点
         - 分3次用奖励积分购买流量月包
     - 持苹果手机者
       - 受苹果公司政策限制，安装[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)无法获得金刚公司的奖励积分
