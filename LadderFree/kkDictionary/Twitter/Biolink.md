@@ -30,7 +30,7 @@
       - [Win10](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/Win10/KKLadderKKID/KKLadderKKIDConfigure.md)
       - [Windows](https://github.com/a2zitpro/web/blob/master/LadderFree/Windows/WinAllVersion/KKLadderAPP/KKLadderAPPConfigure.md)
       - [路由器](https://github.com/a2zitpro/web/blob/master/LadderFree/Router/KKIDConfigration.md)
-- <strong> 90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•高速线路•无广告</strong>
+#### <strong> 90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•高速线路•无广告</strong>
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
     - 在安卓、苹果手机上按以下之一操作下载安装[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
@@ -48,7 +48,7 @@
       - 从[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏获取金刚号梯
       - 把金刚号梯配入[ 这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
       - 金刚号梯比金刚app梯网速更快、适用面更广、更省流量
-- <strong>长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•常速线路•有广告</strong>
+#### <strong>长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•常速线路•有广告</strong>
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
     - 按上节操作
