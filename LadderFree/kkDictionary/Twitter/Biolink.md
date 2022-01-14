@@ -46,7 +46,7 @@
         - 分3次用奖励积分购买流量月包
     - 持苹果手机者
       - 受苹果公司政策限制，安装[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)无法获得金刚公司的奖励积分
-    - 金刚在手，全家自由
+    - <strong>一号在手，全家自由</strong>
       - 从[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)我屏获取金刚号梯
       - 把金刚号梯配入[ 这些设备](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使它们具备[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)的本领
       - 金刚号梯比[ 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md):
