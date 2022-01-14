@@ -53,7 +53,7 @@
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
     - 按<strong> 90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md) </strong>一节操作
-    - 90天后已安装[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的以下设备长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
+    - 90天后已安装[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的以下设备长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
       - 安卓手机
       - 安卓平板
       - 苹果手机
