@@ -67,7 +67,7 @@
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
     - 按<strong> 90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md) </strong>一节操作
-    - 按[ 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)<strong> 分享屏 </strong>指引操作将获奖励积分，用积分购买流量，选用高速线路
+    - 按[ 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)<strong> 分享屏 </strong>指引操作将获奖励积分，用积分购买流量，选用洛杉矶线路
 #### 客服邮箱
   - cs@a2zit.us
 
