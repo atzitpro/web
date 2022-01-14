@@ -50,12 +50,18 @@
 #### <strong>长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•常速线路•有广告</strong>
   - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 获取与使用方法
-    - 按上节操作
+    - 按90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)一节操作
     - 90天后以下设备长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
       - 安卓手机
       - 安卓平板
       - 苹果手机
       - 苹果平板
+
+#### <strong>长期免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)•高速线路•无广告</strong>
+  - 产品：[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
+  - 获取与使用方法
+    - 按90天免费[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)一节操作
+    - 从分享屏指引操作将获奖励积分，用奖励积分购买流量，选用高速线路
 #### 客服邮箱
     - cs@a2zit.us
 
