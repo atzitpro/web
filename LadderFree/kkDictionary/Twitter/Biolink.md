@@ -39,7 +39,7 @@
     - 持安卓手机者——安装后24小时内完成以下立获90天无广告高速流量
         - 关注金刚官方推号
         - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)<strong> 我屏 </strong>绑定您的私人邮箱
-        - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)<strong> 我屏 </strong>推荐码处填入364立获奖励积分800点，值$8.00
+        - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)<strong> 我屏 </strong>推荐码处填入（<strong> 官推自述 </strong>中找）立获奖励积分800点，值$8.00
         - 分3次用积分购买流量月包
     - 持苹果手机者
       - 受苹果公司政策限制，安装[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的用户无法获得金刚公司的奖励积分；但您填入推荐人的推荐码，您的推荐人将获得奖励积分
