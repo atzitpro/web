@@ -11,7 +11,7 @@
 - 金刚积分<strong> 60,000 </strong>点 <br>
 - 在金刚公司所有商店，以上积分值<strong> $600.00 </strong> ，即：买方可用这些积分从金刚公司所有商店购买<strong> $600.00 </strong> 的货物<br>
 
-3、经买卖双方协商一致，卖方愿将标的物以其价值<strong> $600.00 </strong>的<strong> 37.50% </strong>即<strong> $225.00 </strong>卖给买方，买方同意买入
+3、经买卖双方协商一致，卖方愿将标的物以其实际价值<strong> $600.00 </strong>的<strong> 37.50% </strong>即<strong> $225.00 </strong>卖给买方，买方同意买入
 
 4、买方将<strong> $225.00 </strong>或<strong> ¥1,575.00 </strong>一次性全额汇入卖方指定账户后，本合约订立并生效
 
