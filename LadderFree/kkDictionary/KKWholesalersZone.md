@@ -8,7 +8,8 @@
 - 第3类300名
 - 第4类600名
 - 第5类1000名
-请有意尝试者仔细阅读以下合约模板，然后来邮报名
+
+请有意尝试者仔细阅读以下合约模板，然后用欧美邮箱来邮报名
 
 以下政策2022.02.01开始执行
 - [金刚与1类批发商合约模板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/ContractKKandKKWholesaler01.md)
