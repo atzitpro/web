@@ -131,7 +131,8 @@
 - [金刚收费流量包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDataTrafficPackageToll.md)
 
 #### 金刚伙伴
-- [金刚伙伴](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)
+- [金刚伙伴](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Partner/KKpartner.md)
+- [金刚伙伴 待删](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)
 - [金刚广告商](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAdvertiser.md)
 - [金刚广告商邀请二维码](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationQRCodeFromAdvertiser.md)
 - [金刚广告商邀请链接](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKInvitationLinkFromAdvertiser.md)
