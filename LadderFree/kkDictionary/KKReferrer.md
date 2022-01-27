@@ -6,7 +6,7 @@
   - 是分享[ 金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)给他人、使他人成为[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)、自己赚取[ 积分 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPoints.md)的[ 金刚伙伴 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKPartner.md)
 
 - <Strong>报酬</Strong>：
-  - 每分享成功一位[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)获积分150点，值$1.50
+  - 每分享成功一位[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)获积分300点，值$3.00
 
 - <Strong> 成为 金刚推荐人 </Strong> ：
   - 每一位[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)同时也是<strong> 金刚推荐人 </strong>
