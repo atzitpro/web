@@ -12,7 +12,7 @@
 请有意尝试者仔细阅读以下合约模板，然后用欧美邮箱来邮报名
 
 以下政策2022.02.01开始执行
-- [金刚与1类合作伙伴进货合约模板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/ContractKKandKKWholesaler01.md)
+- [金刚与1类合作伙伴合约模板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/ContractKKandKKWholesaler01.md)
 - [金刚与2类合作伙伴合约模板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/ContractKKandKKWholesaler02.md)
 - [金刚与3类合作伙伴合约模板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/ContractKKandKKWholesaler03.md)
 - [金刚与4类合作伙伴合约模板](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/ContractKKandKKWholesaler04.md)
