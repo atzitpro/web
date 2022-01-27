@@ -4,7 +4,7 @@
 - <Strong> 金刚伙伴 </Strong>共两类
   - [ 金刚广告商 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKAdvertiser.md)
   - [ 金刚推荐人 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKReferrer.md)
-
+  - [ 金刚批发商 ]()
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
