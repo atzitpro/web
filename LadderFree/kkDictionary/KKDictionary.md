@@ -73,12 +73,10 @@
 
 
 #### 金刚号梯类
-- [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
-<!--  - [专用金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)
+<!-- - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)  - [专用金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDSinglepurpose.md)
   - [通用金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md) -->
-  - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
-
-    - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
+- [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMultipurpose.md)
+  - [一拖九](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OneForNine.md)
 - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKID.md)
   - [金刚主号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDMain.md)
   - [金刚副号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDAuxiliary.md)
