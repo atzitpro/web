@@ -25,5 +25,5 @@
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
-
+- [上一级](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1.md)
 
