@@ -1,8 +1,9 @@
 ###### 玩转金刚梯>金刚字典>
-### 金刚流量价格
-- 酬宾礼包价格
+### 金刚酬宾礼包流量价格
 
 <!--
+
+- 酬宾礼包价格
   - [2022年度第1批钜惠酬宾双梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForAtozitpro.md)
 -->
   - [2022 kkapp 流量定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1Forkkapp.md)
