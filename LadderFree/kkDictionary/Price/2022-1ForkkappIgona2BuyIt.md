@@ -7,7 +7,7 @@
     - [下载链接2](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
   - 点击金刚app梯右下角的<Strong> 我 </Strong>切换到<Strong> 我屏 </Strong>
   - 点击<Strong> 充流量积分</Strong>
-  - 勾选并购您相中的流量包
+  - 勾选购买您相中的流量包
   - 在<Strong> 我屏 </Strong>点击<Strong> 获取免费金刚号</Strong>
   - 在<Strong> 我屏 </Strong>点击<Strong> 主号</Strong>或<Strong> 备号</Strong>
   - 在<Strong> 我屏 </Strong>点击<Strong> 设备种类 </Strong>以获取金刚参数和配置方法
