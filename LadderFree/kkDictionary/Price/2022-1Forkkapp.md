@@ -1,18 +1,20 @@
 ###### 玩转金刚梯>金刚字典>
 
-### 2022.02生效适用于的kkapp的流量包定价
+### 2022.02生效适用于kkapp的流量包定价
 
 - 以下礼包是为酬谢与金刚长期合作的金刚之友而备
 - 对金刚公司品德、产品品质尚存疑虑的朋友请绕行
 
 - 价值
   - 购买下表中的任何一个流量包，可供您的[ 多种智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)翻墙
-- 名词含义
-  - [日均可用]()
+
 - 阅读方法
   - <strong>把手机横过来 </strong>阅读
   - <strong>左右滑动表格 </strong>阅读
   - <strong>蓝色文字可点击</strong>
+
+- 名词含义
+  - [日均可用]()
 
 #### 5年有效期流量包定价
 
