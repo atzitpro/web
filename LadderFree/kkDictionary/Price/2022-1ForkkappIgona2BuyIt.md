@@ -14,8 +14,10 @@
   - 获取双梯装入设备
     - 点击金刚app梯右下角的<Strong> 我 </Strong>切换到<Strong> 我屏 </Strong>
     - 点击<Strong> 获取免费金刚号</Strong>
-    - 点击<Strong> 主号</Strong>或<Strong> 备号</Strong>
-    - 点击<Strong> 设备种类 </Strong>以获取[ 金刚号梯参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)及其在[ 多种智能设备上的配置方法 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
+    - 先后点击<Strong> 主号</Strong>和<Strong> 备号</Strong>
+    - 点击<Strong> 设备种类 </Strong>以获取
+      - [ 金刚号梯参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
+      - [ 金刚号梯在多种智能设备上的配置方法 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
     - 把[ 金刚号梯参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)配入选中的设备，该设备即可翻墙
 
      
