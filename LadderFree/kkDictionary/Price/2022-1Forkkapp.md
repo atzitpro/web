@@ -14,7 +14,7 @@
   - <strong>蓝色文字可点击</strong>
 
 - 名词含义
-  - [日均可用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/UsableTimePerDay.dm)
+  - [日均可用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/UsableTimePerDay.md)
 
 #### 5年有效期流量包定价
 
