@@ -15,7 +15,7 @@
     - 先后点击<Strong> 主号</Strong>和<Strong> 备号</Strong>
     - 点击<Strong> 设备种类 </Strong>获取以下
       - [ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
-      - 金刚参数在多种智能设备上的[ 配置方法 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
+      - [ 配置方法 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
   - 装备设备
     - 把[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)配入选中的设备，该设备即可翻墙
 
