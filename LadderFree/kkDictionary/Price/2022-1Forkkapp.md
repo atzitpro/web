@@ -10,10 +10,10 @@
     - 这些[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)中的10部可以同时翻墙
     - 您的所有[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)共享该流量包中的流量
 
-- 阅读方法
+- 表格阅读方法
   - <strong>把手机横过来 </strong>阅读
   - <strong>左右滑动表格 </strong>阅读
-  - <strong>蓝色文字可点击</strong>
+  - <strong>蓝色文字均可点击</strong>
 
 - 名词含义
   - [日均可用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/UsableTimePerDay.md)
