@@ -14,7 +14,7 @@
     - 点击<Strong> 获取免费金刚号</Strong>
     - 点击<Strong> 主号</Strong>或<Strong> 备号</Strong>
     - 点击<Strong> 设备种类 </Strong>以获取[ 金刚号梯参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)及其在[ 多种智能设备上的配置方法 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
-    - 把[ 金刚号梯参数 ]()配入选中的设备，该设备即可翻墙
+    - 把[ 金刚号梯参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)配入选中的设备，该设备即可翻墙
 - 已经安装金刚app梯
 
      
