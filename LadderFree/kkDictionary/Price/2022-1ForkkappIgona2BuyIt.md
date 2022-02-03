@@ -10,7 +10,7 @@
   - 勾选购买您相中的流量包
   - 在<Strong> 我屏 </Strong>点击<Strong> 获取免费金刚号</Strong>
   - 在<Strong> 我屏 </Strong>点击<Strong> 主号</Strong>或<Strong> 备号</Strong>
-  - 在<Strong> 我屏 </Strong>点击<Strong> 设备种类 </Strong>以获取金刚参数和配置方法
+  - 在<Strong> 我屏 </Strong>点击<Strong> 设备种类 </Strong>以获取[金刚号梯参数]()和在[多种智能设备上的配置方法]()
   - 把金刚号配入选中的设备，该设备即可翻墙
 - 已经安装金刚app梯
 
