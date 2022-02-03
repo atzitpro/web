@@ -11,7 +11,7 @@
     - 点击金刚app梯右下角的<Strong> 我 </Strong>，切换到<Strong> 我屏 </Strong>
     - 点击<Strong> 充流量积分</Strong>
     - 勾选购买您相中的流量包
-  - 获取双梯装入设备
+  - 获取双梯，装入设备
     - 点击金刚app梯右下角的<Strong> 我 </Strong>切换到<Strong> 我屏 </Strong>
     - 点击<Strong> 获取免费金刚号</Strong>
     - 先后点击<Strong> 主号</Strong>和<Strong> 备号</Strong>
