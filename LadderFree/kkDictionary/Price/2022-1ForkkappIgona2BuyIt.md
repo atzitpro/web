@@ -3,7 +3,7 @@
 ### 决定购买
 - 尚未安装金刚app梯
   - 请在安卓手机上点击以下链接之一下载安装金刚app梯
-    - [下载链接1]()
+    - [下载链接1](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
     - [下载链接2]()
   - 点击金刚app梯右下角的<Strong> 我 </Strong>切换到<Strong> 我屏 </Strong>
   - 点击<Strong> 充流量积分</Strong>
