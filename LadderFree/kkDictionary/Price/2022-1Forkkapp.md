@@ -6,14 +6,14 @@
 
 |序号|日均可用|流量GB|价格USD|价格RMB|月均价RMB|购买|试用|
 |-|-:|-:|-:|-:|-:|:-:|:-:|
-|51 |1.5|480| <strong> $40.96| <strong> ¥266.24 |¥4.44| [购买]()|[试用]()|
-|52 |3|960| <strong> $51.20| <strong> ¥332.80 |¥5.55| [购买]()| [试用]()|
-|53 |6|1,290| <strong> $64.00| <strong> ¥416.00 |¥6.93 | [购买]()| [试用]()|
-|54 |12|3,840| <strong> $80.00| <strong> ¥520.00 |¥8.67 | [购买]()| [试用]()|
-|55 |24|7,680| <strong> $100.00| <strong> ¥650.00 |¥10.83 | [购买]()| [试用]()|
-|56 |48|15,360| <strong> $125.00| <strong> ¥812.50 |¥13.54 | [购买]()| [试用]()|
-|57 |96|30,720| <strong> $156.25| <strong> ¥1015.63 |¥16.93 | [购买]()| [试用]()|
-|58 |192|61,440| <strong> $195.31| <strong> ¥1269.53 |¥21.16 | [购买]()| [试用]()|
+|51 |1.5|480| <strong> $40.96| <strong> ¥266.24 |¥4.44| [购买]()|[试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
+|52 |3|960| <strong> $51.20| <strong> ¥332.80 |¥5.55| [购买]()| [试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
+|53 |6|1,290| <strong> $64.00| <strong> ¥416.00 |¥6.93 | [购买]()| [试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
+|54 |12|3,840| <strong> $80.00| <strong> ¥520.00 |¥8.67 | [购买]()| [试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
+|55 |24|7,680| <strong> $100.00| <strong> ¥650.00 |¥10.83 | [购买]()| [试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
+|56 |48|15,360| <strong> $125.00| <strong> ¥812.50 |¥13.54 | [购买]()| [试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
+|57 |96|30,720| <strong> $156.25| <strong> ¥1015.63 |¥16.93 | [购买]()| [试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
+|58 |192|61,440| <strong> $195.31| <strong> ¥1269.53 |¥21.16 | [购买]()| [试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 
 
 #### 2年有效期流量包定价
