@@ -107,8 +107,7 @@
           - 可播放油管4K视频约60分钟
         - 在使用金刚app梯时，每1GB金刚流量
           - 可播放油管普清视频约300分钟
-    - 影响金刚流量消耗率的因素
-      - [点此阅读](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Influence_Factor.md)
+    - 金刚流量消耗率的[影响因素](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Influence_Factor.md)
       
     - 剩余流量
         - 登录[ 金刚官网 ](https://www.atozitpro.net/zh/)，在<Strong> 我的金刚 </Strong>下可查阅截止当天北京时间3:00的剩余流量
