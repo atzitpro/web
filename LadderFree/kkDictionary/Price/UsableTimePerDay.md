@@ -10,7 +10,7 @@
   - 连通金刚号梯，每1GB流量可播放
     - 油管普清视频700分钟
     - 油管4K视频60分钟
-- [流量消耗率的影响因素]()
+- [流量消耗率的影响因素](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Influence_Factor.md)
 
 #### 返回到
 - [免费安全自由上网 首选可信美制金刚](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
