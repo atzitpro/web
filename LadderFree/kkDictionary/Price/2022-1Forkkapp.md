@@ -7,7 +7,7 @@
 - 请把手机横过来 或 左右滑动表格以阅读表内全部内容
 - 请通读下表尤其是表格之下<Strong> 说明 </Strong>部分
 - 所有蓝色文字均可点击
-- 购买下表中的任何一个包，可供您的[ 多种智能设备 ]()翻墙
+- 购买下表中的任何一个包，可供您的[ 多种智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)翻墙
 - []()
 - [日均可用]()
 
