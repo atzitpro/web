@@ -2,7 +2,7 @@
 
 ### 试用双梯礼包
 
-[我要试用](mailto: cs@a2zit.us)
+[我要试用](mailto:cs@a2zit.us)
 
 
 
