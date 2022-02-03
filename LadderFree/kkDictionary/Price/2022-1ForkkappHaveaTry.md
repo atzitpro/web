@@ -28,4 +28,4 @@
 - [金刚字典 精简版](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionaryShortVersion.md)
 - [金刚号梯的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
 - [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPrice.md)
-- [礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1Forkkapp.md)
+- [2022年第1批酬宾礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1Forkkapp.md)
