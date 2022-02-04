@@ -53,7 +53,7 @@
 
 [附件1、批发商类别](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/KKWholesalerClassification.md) <br>
 [附件2、金刚app梯的金刚公司零售定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderAPP.md) <br>
-[附件3、金刚号梯的金刚公司零售定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderKKID.md) <br>
+[附件3、金刚号梯的金刚公司零售定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForAtozitpro.md) <br>
 
 
 
