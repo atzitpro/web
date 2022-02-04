@@ -7,7 +7,7 @@
 - 价值
   - 购买下表中的任何一个流量包
     - 可供您的无数部多种[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)翻墙
-    - 这些[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)中的10部可以同时翻墙
+    - 这些[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)中的10部可以<strong>同时翻墙</strong>
     - 这些[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)共享该流量包中的流量
 
 - 表格阅读方法
