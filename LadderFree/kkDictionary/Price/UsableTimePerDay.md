@@ -1,7 +1,7 @@
 ### 日均可用
 
 - 单位：小时
-- <strong>日均可用 </strong>是指在以下情形下，流量包可供用户平均每天使用时间
+- <strong>日均可用 </strong>是指在以下情形下，特定尺寸的流量包可供用户平均每天使用的估算时间
   - 连通[ 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 播放油管普清视频
 - <strong>日均可用 </strong>值是在金刚实验室实测数据的基础上估算而来，并非金刚公司对用户的承诺
