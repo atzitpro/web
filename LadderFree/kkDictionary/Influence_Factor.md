@@ -8,8 +8,8 @@
 - 高清视频
   - 当播放高清视频时，如播放4K、8K视频，单位时间内流量消耗将显著增加
   - 据金刚实验室实测数据
-    - 在用[ 金刚号梯 ]()播放4K视频时，每1GB金刚流量可播60分钟
-    - 在用[ 金刚号梯 ]()播放普清视频时，每1GB金刚流量可播700分钟
+    - 在用[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)播放4K视频时，每1GB金刚流量可播60分钟
+    - 在用[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)播放普清视频时，每1GB金刚流量可播700分钟
 - 播放视频的设备
   - 在iPad上与在iPhone上播放油管同一链接指向的视频文件时，iPad要比iPhone消耗更多的流量，因为前者的屏幕尺寸更大，油管要传输到前者上的数据量更大
 - 地理位置
