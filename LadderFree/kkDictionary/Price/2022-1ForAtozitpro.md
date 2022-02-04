@@ -64,11 +64,7 @@
   - <Strong> 礼包内容 </Strong>
     - 高速[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)1架
     - 常速[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKIDMultipurpose.md)1架
-    - 两架金刚号梯互为备胎
-
-  - <Strong> 金刚号梯 </Strong>
-    - 金刚号梯可用于装备无数部多种[ 智能设备 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)，使这些设备具有翻墙的本领
-    - 装入同1架金刚号梯的众多设备中的9部可同时翻墙
+    - 两架金刚号梯互为备胎；当其中之一偶尓短时无法连通时，可立即用另一架连
 
   - <Strong> 网速 </Strong>
     - 据金刚实验室测试数据：
