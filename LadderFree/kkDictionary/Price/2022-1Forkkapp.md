@@ -24,7 +24,7 @@
 
 #### 5年有效期流量包定价
 
-|序号|日均可用|流量GB|价格USD|价格RMB|月均价RMB|购买|试用|
+|商品号|日均可用|流量GB|价格USD|价格RMB|月均价RMB|购买|试用|
 |-|-:|-:|-:|-:|-:|:-:|:-:|
 |51 | <strong> 1.5| <strong> 480| <strong> $40.96| <strong> ¥266.24 |¥4.44| [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 |52 | <strong> 3| <strong> 960| <strong> $51.20| <strong> ¥332.80 |¥5.55| [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)| [<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
@@ -38,7 +38,7 @@
 
 #### 2年有效期流量包定价
 
-|序号|日均可用|流量GB|价格USD|价格RMB|月均价RMB|购买|试用|
+|商品号|日均可用|流量GB|价格USD|价格RMB|月均价RMB|购买|试用|
 |-|-:|-:|-:|-:|-:|:-:|:-:|
 |21 | <strong> 1.5| <strong> 192| <strong> $30.72| <strong> ¥199.68 |¥8.32 |  [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 |22 | <strong> 3| <strong> 384| <strong> $38.40| <strong> ¥249.60 |¥10.40 |  [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
@@ -52,7 +52,7 @@
 
 #### 1年有效期流量包定价
 
-|序号|日均可用|流量GB|价格USD|价格RMB|月均价RMB|购买|试用|
+|商品号|日均可用|流量GB|价格USD|价格RMB|月均价RMB|购买|试用|
 |-|-:|-:|-:|-:|-:|:-:|:-:|
 |11 | <strong> 1.5| <strong> 96| <strong> $20.48| <strong> ¥133.12 | ¥11.09 | [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 |12 | <strong> 3| <strong> 192| <strong> $25.60| <strong> ¥166.40 | ¥13.87 |  [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
@@ -65,7 +65,7 @@
 
 #### 1月有效期流量包定价
 
-|序号|日均可用|流量GB|价格USD|价格RMB|购买|试用|
+|商品号|日均可用|流量GB|价格USD|价格RMB|购买|试用|
 |-|-:|-:|-:|-:|:-:|:-:|
 |01 | <strong> 1.5| <strong> 8| <strong> $3.00| <strong> ¥19.50 | [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 |02 | <strong> 3| <strong> 16| <strong> $3.75| <strong> ¥24.38 | [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
