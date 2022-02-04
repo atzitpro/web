@@ -52,7 +52,7 @@
 15、法律遵从：买卖双方确保签订、履行本合约符合各自所在国家或地区的法律
 
 [附件1、批发商类别](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/KKWholesalerClassification.md) <br>
-[附件2、金刚app梯的金刚公司零售定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDatatrafficPriceOfLadderAPP.md) <br>
+[附件2、金刚app梯的金刚公司零售定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1Forkkapp.md) <br>
 [附件3、金刚号梯的金刚公司零售定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForAtozitpro.md) <br>
 
 
