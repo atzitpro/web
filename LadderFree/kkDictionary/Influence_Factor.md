@@ -28,5 +28,5 @@
 #### 返回到
 - [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
-- [<strong>2022酬宾礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1Forkkapp.md)
+- [2022 金刚流量定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1Forkkapp.md)
 
