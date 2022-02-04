@@ -1,7 +1,7 @@
 ###### 玩转金刚梯>金刚字典>
 ### 金刚流量消耗率的影响因素
 - 金刚梯类型
-  - 金刚号梯
+  - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
     - 每1GB金刚流量可播放700分钟油管普清视频
   - 金刚app梯
     - 每1GB金刚流量可播放300分钟油管普清视频
