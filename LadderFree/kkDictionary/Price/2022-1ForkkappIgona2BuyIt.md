@@ -2,10 +2,10 @@
 
 ### 购买流程
 - <Strong>尚未安装金刚app梯</Strong>
-  - 请在安卓手机上点击以下链接之一下载安装金刚app梯
+  - 请在安卓手机上点击以下链接之一下载安装[ 金刚app梯]()
     - [下载链接1](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk)
     - [下载链接2](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk)
-    - 按照下列<Strong> 已经安装金刚app梯 </Strong>各步骤操作
+    - 按照下列已经安装[ 金刚app梯 ]()项下各步骤操作
 - <Strong>已经安装金刚app梯</Strong>
   - 购买流量包
     - 点击金刚app梯右下角的<Strong> 我 </Strong>，切换到<Strong> 我屏 </Strong>
