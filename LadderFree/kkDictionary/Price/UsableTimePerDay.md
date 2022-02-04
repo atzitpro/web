@@ -5,7 +5,7 @@
   - 连通[ 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
   - 播放油管普清视频
 - <strong>日均可用 </strong>值是在金刚实验室实测数据的基础上估算而来，并非金刚公司对用户的承诺
-- 受多种[ 因素 ]()影响，每位用户的流量消耗率各不相同
+- 受多种[ 因素 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Influence_Factor.md)影响，每位用户的流量消耗率各不相同
 - 建议用户以<strong> 日均可用 </strong>值作参考购买第1个流量包，在购买后续流量包时，再据实际消耗情况选择流量包的尺寸和有效期
 - 据金刚实验室实测数据
   - 连通[ 金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)，每1GB金刚流量可播放
