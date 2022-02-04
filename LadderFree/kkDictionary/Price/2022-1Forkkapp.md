@@ -18,9 +18,6 @@
 - 名词含义
   - [日均可用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/UsableTimePerDay.md)
 
-- 为谁而备
-  - 以下礼包是为酬谢与金刚长期合作的金刚之友而备
-  - 对金刚公司品德、产品品质尚存疑虑的朋友请绕行
 
 #### 5年有效期流量包定价
 
