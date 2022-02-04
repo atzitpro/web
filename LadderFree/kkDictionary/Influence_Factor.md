@@ -1,8 +1,9 @@
 ###### 玩转金刚梯>金刚字典>
 ### 金刚流量消耗率的影响因素
 - [金刚梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)类型
-  - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)——每1GB金刚流量可播放700分钟油管普清视频
-  - [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)——每1GB金刚流量可播放300分钟油管普清视频
+  - 据金刚实验室实测数据
+    - [金刚号梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)——每1GB金刚流量可播放700分钟油管普清视频
+    - [金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)——每1GB金刚流量可播放300分钟油管普清视频
 - 油管技术
   - 假定播放油管普清视频
     - 当网络拥堵时，为确保播放流畅，油管将以较低清晰度、较低画质向用户传输视频数据，单位时间内传输的数据量较小，流量消耗较少
