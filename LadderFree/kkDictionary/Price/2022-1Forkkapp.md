@@ -21,7 +21,7 @@
 
 #### 5年有效期流量包定价
 
-|商品号|日均可用小时|流量包尺寸GB|价格USD|价格RMB|月均价RMB|购买|试用|
+|商品号|日均可用|流量包尺寸GB|价格USD|价格RMB|月均价RMB|购买|试用|
 |-|-:|-:|-:|-:|-:|:-:|:-:|
 |D51 | <strong> 1.5| <strong> 480| <strong> $40.96| <strong> ¥266.24 |¥4.44| [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 |D52 | <strong> 3| <strong> 960| <strong> $51.20| <strong> ¥332.80 |¥5.55| [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)| [<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
