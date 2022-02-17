@@ -8,12 +8,12 @@
 - <strong>金刚主号参数</strong>
   - 金刚号：c598644
   - 金刚密码：从图片中提取
-  - 服务器：atz59.gleeze.com
+  - 服务器：atz59.mine.bz
   - 密钥：3
 - <strong>金刚备号参数</strong>
   - 金刚号：c393226
   - 金刚密码：从图片中提取
-  - 服务器：atz39.gleeze.com
+  - 服务器：atz39.mine.bz
   - 密钥：3
 - 配置方法
   - 把主备号全部配入以下设备即可[翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
