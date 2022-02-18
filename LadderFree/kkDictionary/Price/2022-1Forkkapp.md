@@ -19,7 +19,7 @@
   - [日均可用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/UsableTimePerDay.md)
 
 
-#### 5年有效期流量包线下定价
+#### 5年有效期流量包线下售价
 
 |商品号|日均可用|流量包尺寸GB|价格USD|价格RMB|月均价RMB|购买|试用|
 |-|-:|-:|-:|-:|-:|:-:|:-:|
@@ -28,7 +28,7 @@
 |D53 | <strong> 6| <strong> 1,920| <strong> $92.16| <strong> ¥599.04 |¥9.98 | [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)| [<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 
 
-#### 2年有效期流量包线下定价
+#### 2年有效期流量包线下售价
 
 |商品号|日均可用|流量包尺寸GB|价格USD|价格RMB|月均价RMB|购买|试用|
 |-|-:|-:|-:|-:|-:|:-:|:-:|
@@ -36,7 +36,7 @@
 |D22 | <strong> 3| <strong> 384| <strong> $57.60| <strong> ¥374.40 |¥15.60 |  [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 |D23 | <strong> 6| <strong> 768| <strong> $69.12| <strong> ¥449.28 |¥18.72 |  [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 
-#### 1年有效期流量包线下定价
+#### 1年有效期流量包线下售价
 
 |商品号|日均可用|流量包尺寸GB|价格USD|价格RMB|月均价RMB|购买|试用|
 |-|-:|-:|-:|-:|-:|:-:|:-:|
@@ -44,7 +44,7 @@
 |D12 | <strong> 3| <strong> 192| <strong> $38.40| <strong> ¥249.60 | ¥20.80 |  [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 |D13 | <strong> 6| <strong> 384| <strong> $46.08| <strong> ¥299.52 | ¥24.96 |  [<strong>购买](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappIgona2BuyIt.md)|[<strong>试用](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForkkappHaveaTry.md)|
 
-#### 1月有效期流量包定价（线下无货）
+#### 1月有效期流量包售价（线上有售、线下无货）
 
 |商品号|日均可用|流量包尺寸GB|价格USD|价格RMB|购买|试用|
 |-|-:|-:|-:|-:|:-:|:-:|
