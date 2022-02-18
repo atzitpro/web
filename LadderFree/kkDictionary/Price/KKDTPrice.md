@@ -6,7 +6,7 @@
 <!-- 
 
 - 酬宾礼包价格
-  - [2022 双金刚号梯 流量定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForAtozitpro.md)
+  - [2022 双金刚号梯 流量售价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForAtozitpro.md)
 -->
 
  <!-- - [P02 2021年度第2批金刚钜惠酬宾双梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPriceOfKKID_DoubleLadderGiftsPeck.md)
