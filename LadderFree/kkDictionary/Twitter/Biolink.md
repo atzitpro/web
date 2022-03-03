@@ -9,12 +9,12 @@
   - 特色：<strong>以下主备号[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)可供9亿部下列设备同时[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
 - <strong>金刚主号参数</strong>
   - 金刚号：c598675
-  - 金刚密码：从图片中提取
+  - 金刚密码：从官推置顶推文图片中提取
   - 服务器：atz59.mine.bz
   - 密钥：3
 - <strong>金刚备号参数</strong>
   - 金刚号：c393254
-  - 金刚密码：从图片中提取
+  - 金刚密码：从官推置顶推文图片中提取
   - 服务器：atz39.mine.bz
   - 密钥：3
 
