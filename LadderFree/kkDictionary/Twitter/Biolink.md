@@ -1,23 +1,24 @@
 ### 免费用金刚攻略
-#### <strong>23天免费[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
-<!--
+#### <strong>26天免费[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
+
 
 - 产品：第7批免费[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - 有效期：
     - 起：2022.03.06 BJT00:00
-    - 止：2022.03.31 BJT23:59
+    - 止：2022.03.31 BJT24:00
   - 特色：<strong>以下主备号[ 金刚参数 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)可供9亿部下列设备同时[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
 - <strong>金刚主号参数</strong>
-  - 金刚号：c598645
+  - 金刚号：c598675
   - 金刚密码：从图片中提取
   - 服务器：atz59.mine.bz
   - 密钥：3
 - <strong>金刚备号参数</strong>
-  - 金刚号：c393227
+  - 金刚号：c393254
   - 金刚密码：从图片中提取
   - 服务器：atz39.mine.bz
   - 密钥：3
--->
+
+<!--
 
 - 产品：第6批免费[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - 有效期：
@@ -34,6 +35,8 @@
   - 金刚密码：从图片中提取
   - 服务器：atz39.mine.bz
   - 密钥：3
+
+-->
 
 - 配置方法
   - 把主备号全部配入以下设备即可[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
