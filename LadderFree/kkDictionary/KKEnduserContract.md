@@ -22,10 +22,12 @@
       - 金刚app
       - 金刚号
     - 服务
-      - 用流量作为服务的度量尺度
+      - 用流量作为服务的度量和计价尺度
 - 免费与收费
-  - 卖方的所有[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)均免费供应
-  - 卖方仅对标明价格且经由[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)收费
+  - 免费提供
+    - 所有 产品
+    - 附着在 产品 上标明免费字样或价格为0的流量
+  - 卖方仅对标明价格且经由产品向用户提供的金刚流量收费
 
 三、卖方产品和服务的价值
   - 帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)隐藏、保护其IP地址、地理位置等个人隐私信息，使其所访问的网站（不包括地图类网站）无法捕获上述信息
