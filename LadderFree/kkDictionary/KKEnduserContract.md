@@ -65,14 +65,13 @@
   - 买方或买方雇员在使用卖方产品与服务的过程中，若遭受设备损坏、数据丢失等损失，除经买卖双方均认可的权威机构鉴定，证明该损失完全是因使用卖方产品和服务而引发外，卖方不承担任何赔偿责任
   - 
 九、合约的生效与解除
+- 自然人用户
   - 合约签署与生效
-    - 当您点击<Strong> 巳经阅读并接受《金刚公司与最终用户合约》条款 </Strong >时，则意味着您已经同意并接受本合约的所有条款，且在本合约上签名、合约生效。
-
+    - 当您点击<Strong> 巳经阅读并接受《金刚公司与最终用户合约》条款 </Strong >时，则意味着您已经同意并接受本合约的所有条款，且在本合约上签名、合约生效
   - 合约解除
-    - 自然人用户
-      - 使用[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)的用户解除合约时
-        - 给金刚客服邮箱发送邮件“解除合约”，则启动合约解除流程
-      - 使用[ 金刚App ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的用户解除合约时
-        - 卸载金刚客户端即意味着解除合约
-    - 公司（或非公司组织）用户
-     - 另签协议以解除本合约
+    - 使用[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)的用户解除合约时
+      - 给金刚客服邮箱发送邮件“解除合约”，则启动合约解除流程
+    - 使用[ 金刚App ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的用户解除合约时
+      - 卸载金刚客户端即意味着解除合约
+- 公司（或非公司组织）用户
+      - 联系客服以订立或解除合约
