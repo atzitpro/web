@@ -19,8 +19,8 @@
 二、本合约所涉及的卖方产品和服务
   - 本合约仅涉及卖方的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)（以下简称产品）和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)（以下简称服务）
   - 目前在售的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
-    - [ 金刚app ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
-    - [ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)及[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
+    - 金刚app 及 金刚VPN服务
+    - 金刚号 及 金刚VPN服务
 - 免费与收费
   - 卖方的所有[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)均免费供应
   - 卖方仅对标明价格且经由[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)向[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)提供的[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)收费
