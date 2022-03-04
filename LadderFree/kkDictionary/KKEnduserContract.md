@@ -32,7 +32,8 @@
   - 帮助卖方的公司（或非公司组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的[ 网络防火墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)，完成身份认证，进而访问公司内部网
 
 四、合法与合规
-  - 因卖方当前尚未决定进入欧盟成员国市场，故未对[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)做符合欧盟GDPR的合规检查和改造，因此，如果您来自欧盟成员国，请不要下载、安装、使用本合约所涉卖方产品和服务
+  - 来自欧盟成员国用户请不要使用本合约所涉产品与服务
+    - 因卖方当前尚未决定进入欧盟成员国市场，故未对本合约所涉产品与服务做符合欧盟GDPR的合规检查和改造，因此，如果您来自欧盟成员国，请不要下载、安装、使用本合约所涉卖方产品和服务
   - 卖方反对利用卖方产品与服务从事违反美国法律、国际公约、买方所在国家或地区的法律的一切行为
   - 卖方反对利用卖方产品与服务从事侵害第三方权益的一切行为
   - 卖方反对买方及买方下属用户侵害卖方及卖方员工人格、声誉、利益等权益的一切行为
