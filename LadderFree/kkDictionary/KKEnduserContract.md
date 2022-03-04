@@ -43,8 +43,6 @@ Lafayette, CO 80026, USA
 
 三、卖方产品和服务的价值
 
-- 使用[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)
-
   - 帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)隐藏、保护其IP地址、地理位置等个人隐私信息，使其所访问的网站（不包括地图类网站）无法捕获上述信息
 
   - 帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)隐藏、保护其所访问的目标网站的域名等信息，使为其提供Internet接入服务的用户本地电话公司及第三方无法捕获上述信息，无法对[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)进行上网行为分析
