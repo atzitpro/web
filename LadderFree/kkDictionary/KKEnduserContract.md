@@ -16,8 +16,8 @@
   - 公司电话：+1-805-738-8520
   - 公司电邮：cs@a2zit.us
 
-二、本合约所涉及的卖方产品和服务
-  - 本合约仅涉及卖方的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)（以下简称<strong> 产品</strong>）和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)（以下简称<strong> 服务</strong>）
+二、本合约所涉及的产品和服务
+  - 本合约仅涉及卖方自主研制、具有完整知识产權的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)（以下简称<strong> 产品</strong>）和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)（以下简称<strong> 服务</strong>）
     - 产品
       - 金刚app
       - 金刚号
@@ -65,7 +65,7 @@
   - 当卖方产品不能有效发挥作用时，并不意味着卖方对买方承担退费责任、赔偿责任
   - 卖方产品供买方先试用后购买。买方应利用试用机会确认卖方产品在买方设备、环境中能否发挥作用。只有在买方确信卖方产品在买方设备、环境中可正常运行时，再行购买
   - 卖方不提供退费服务
-    - 用金钱购买服务或积分，不提供退还金钱的服务
+    - 用金钱购买流量（或积分），不提供退还金钱的服务
     - 用积分购买服务，不提供退还积分的服务
   - 买方或买方雇员在使用卖方产品与服务的过程中，若遭受设备损坏、数据丢失等损失，除经买卖双方均认可的权威机构鉴定，证明该损失完全是因使用卖方产品和服务而引发外，卖方不承担任何赔偿责任
   - 来自欧盟成员国的用户若无视本合约第四条第1款的约定使用本合约所涉产品与服务，导致违背GDPR的后果由用户负责，与卖方无关
