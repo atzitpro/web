@@ -17,7 +17,7 @@
   - 公司电邮：cs@a2zit.us
 
 二、本合约所涉及的产品和服务
-  - 本合约仅涉及卖方自主研制、具有完整知识产權的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)（以下简称<strong> 产品</strong>）和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)（以下简称<strong> 服务</strong>）
+  - 本合约仅涉及卖方自主研制、具有完整知识产权的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)（以下简称<strong> 产品</strong>）和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)（以下简称<strong> 服务</strong>）
     - 产品
       - 金刚app
       - 金刚号
