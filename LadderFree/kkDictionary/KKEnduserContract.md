@@ -69,6 +69,9 @@ Lafayette, CO 80026, USA
 
 买方承诺：将严格遵守本条款。
 
+4、因卖方当前尚未决定进入欧盟成员国市场，故未对[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)和[ VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)做关于符合欧盟GDPR的合规改造，因此，如果您来自欧盟成员国，请不要下载安装使用卖方的前述产品和服务
+
+
 五、卖方对买方及用户隐私的保护
 
 卖方郑重承诺：将严格按照美国法律对买方及用户个人信息及用户使用卖方产品与服务过程中产生的数据永久保密，绝不泄露给第三方，比如用户所在国家或地区的政府、司法机关或其他机构。
