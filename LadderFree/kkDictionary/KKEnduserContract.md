@@ -74,4 +74,4 @@
     - 使用[ 金刚App ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的用户解除合约时
       - 卸载金刚客户端即意味着解除合约
 - 公司（或非公司组织）用户
-      - 联系客服以订立或解除合约
+  - 联系客服以订立或解除合约
