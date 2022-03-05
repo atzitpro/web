@@ -19,8 +19,8 @@
 二、本合约所涉及的产品和服务
   - 本合约仅涉及卖方自主研制、具有完整知识产权的[ 金刚VPN产品 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadder.md)（以下简称<strong> 产品</strong>）和[ 金刚VPN服务 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKServices.md)（以下简称<strong> 服务</strong>）
     - 产品
-      - 金刚app
-      - 金刚号
+      - [金刚app](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
+      - [金刚号](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
     - 服务
       - 用流量作为服务的度量尺度和计价尺度
 - 免费与收费
@@ -79,10 +79,10 @@
   - 合约签署与生效
     - 当您点击<Strong> 巳经阅读并接受《金刚公司与最终用户合约》条款 </Strong>时，则意味着您已经同意并接受本合约的所有条款，且在本合约上签名、合约生效
   - 合约解除
-    - 使用[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)的用户解除合约
+    - 使用金刚号的用户解除合约
       - 给金刚客服邮箱发送邮件说：<Strong> 解除合约 </Strong>，则启动合约解除流程
-    - 使用[ 金刚app ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的用户解除合约
-      - 卸载金刚客户端即意味着解除合约
+    - 使用金刚app的用户解除合约
+      - 卸载金刚app即意味着解除合约
 - 公司（或非公司组织）用户
   - 联系客服以订立或解除合约
 
