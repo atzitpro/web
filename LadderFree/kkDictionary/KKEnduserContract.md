@@ -32,9 +32,9 @@
 三、卖方产品和服务的价值
   - 帮助[ 金刚用户 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)（简称<strong> 用户 </strong>）隐藏、保护其IP地址、地理位置等个人隐私信息，使其所访问的网站（不包括地图类网站）无法捕获上述信息
   - 帮助用户隐藏、保护其所访问的目标网站的域名等信息，使为其提供Internet接入服务的用户本地电话公司及第三方无法捕获上述信息，无法对用户进行上网行为分析
-  - 帮助用户突破第三方设立的旨在阻止用户访问某些网站的[ 网络防火墙的限制 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)，使其在Internet上畅行无阻，自由上网
+  - 帮助用户突破第三方设立的旨在阻止用户访问某些网站的[ 网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)的限制，使其在Internet上畅行无阻，自由上网
   - 加密用户与其所访问的目标网站之间、用户使用社交媒体时所传输的全部往来信息，使第三方即使采用当今最先进的技术也无法破译，从而保护用户的隐私和安全
-  - 帮助卖方的公司（或非公司组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的[ 网络防火墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)，完成身份认证，进而访问公司内部网
+  - 帮助卖方的公司（或非公司组织）用户，使其员工有能力在机场、酒店等公共场所穿透公司自己设立的网络防火墙，完成身份认证，进而访问公司内部网
 
 四、合法与合规
   - 来自欧盟成员国用户请不要使用本合约所涉产品与服务
