@@ -2,7 +2,7 @@
 #### <strong>26天免费[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
 
 
-- 产品：第7批免费[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
+- 产品：第8批免费[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
   - 有效期：
     - 起：2022.04.06 BJT00:00
     - 止：2022.04.30 BJT24:00
