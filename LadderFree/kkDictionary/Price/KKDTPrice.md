@@ -1,5 +1,5 @@
 ###### 玩转金刚梯>金刚字典>
-###  [2022第1批钜惠酬宾双金刚号礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1.md)
+###  [2022第1批钜惠酬宾双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1.md)
 
 <!-- 
 
