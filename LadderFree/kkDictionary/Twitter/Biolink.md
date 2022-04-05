@@ -1,5 +1,5 @@
 ### 免费用金刚攻略
-#### <strong>26天免费[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
+#### <strong>31天免费[ 翻墙 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)</strong>
 
 
 - 产品：第8批免费[ 金刚号梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderKKID.md)
