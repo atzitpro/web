@@ -45,7 +45,9 @@
 - [开源操作系统 OpenSourceOS](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_OpenSourceOS.md)
 - [闭源操作系统 ClosedSourceOS](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OS_ClosedSourceOS.md)
 
-
+#### 关于安全
+- [金刚梯安全吗]()
+- [安全注意事项]()
 #### 金刚用户类
 - [金刚用户](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKUser.md)
 - [注册定义](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Registration.md)
