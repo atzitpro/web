@@ -1,10 +1,6 @@
 ### 關於AppStore
 ### 如何在蘋果手機/平板上使用金剛梯
 
-朋友，您好！
-
-若持蘋果手机/平板，建议阅读以下
-
 1、蘋果手機的所有app都必須從AppStore下載安裝
 
 2、AppStore有許多個，比如有中國大陸區的AppStore、美國區的AppStore、台灣區的AppStore等
