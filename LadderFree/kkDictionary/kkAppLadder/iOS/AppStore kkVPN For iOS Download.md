@@ -3,7 +3,10 @@
 
 1、蘋果手機的所有app都必須從AppStore下載安裝
 
-2、AppStore有許多個，比如有中國大陸區的AppStore、美國區的AppStore、台灣區的AppStore等
+2、AppStore有許多個
+- 中國大陸區AppStore
+- 美國區AppStore
+- 台灣區AppStore 等
 
 3、由於蘋果公司拒绝金剛App梯在中國大陸區的AppStore上架，因此，金剛App梯目前僅在美國區和台灣區的AppStore上架
 
