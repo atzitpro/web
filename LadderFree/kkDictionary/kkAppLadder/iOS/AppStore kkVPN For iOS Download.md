@@ -19,7 +19,7 @@
 
 7、美國區的Apple ID或台灣區的Apple ID既可按金剛的教程自助操作獲得，也可以去淘寶花¥10～¥20買到
 
-8、詳情[ 請點這里 ](CUTT.LY/xxqCMtF)
+8、詳情[ 請點這里 ](https://gitlab.com/kk404/web/-/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
 
 9、但令人遗憾的是總有來自中國大陸區的蘋果手機用戶无法完成上述AppStore的切换
 
