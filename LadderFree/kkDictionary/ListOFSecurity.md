@@ -1,6 +1,7 @@
 ### 关于安全
 
-
+- [金刚梯安全吗](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Security/kk.md)
+- [安全注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Security/twitter.md)
 
 #### 返回到
 - [上一級](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
