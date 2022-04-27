@@ -1,19 +1,7 @@
 ###### 玩转金刚>
 ### 金刚字典
 
-#### 翻墙ABC
-
-- [国际互联网里的“墙”](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheWallOnTheInternet.md)
-- [安全上网](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ValueOfKKProducts&KKServices.md)
-- [搭梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderReady.md)
-- [翻墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/OverTheWall.md)
-- [网络防火墙](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/FireWall.md)
-- [什么是VPN？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/VPN.md)
-- [什么是VPS？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/VPS.md)
-- [什么是代理服务器？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Proxy.md)
-- [VPN与代理服务器的区别？](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/TheDiferenceOfVPN%26Proxy.md)
-- [一款优秀的翻墙云梯应具备的特征](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/LadderExcellentFeatures.md)
-
+#### [翻墙ABC](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ListOFCrossTheGreatWall.md)
 
 #### 金刚ABC
 - [金刚公司](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Atozitpro.md)
