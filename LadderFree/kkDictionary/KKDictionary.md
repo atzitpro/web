@@ -7,7 +7,7 @@
 
 #### [设备ABC](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ListOFDevicesABC.md)
 
-#### 关于安全
+#### [关于安全](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ListOFSecurity.md)
 - [金刚梯安全吗](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Security/kk.md)
 - [安全注意事项](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Security/twitter.md)
 #### 金刚用户类
