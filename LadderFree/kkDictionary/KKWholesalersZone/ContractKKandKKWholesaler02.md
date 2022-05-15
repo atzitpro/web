@@ -1,21 +1,21 @@
 ###### 玩转金刚梯>金刚字典>金刚批发商专区>
-### 《金刚公司 与 2类批发商 合作合约》
+### 《金刚公司 与 2級批发商 合作合约》
 卖方：金刚公司<br>
 买方： <underlin>          </underlin> 
 
 1、买卖双方认可以下约定<br>
-- 汇率：人民币/美元=7.000<br>
+- 汇率：人民币/美元=6.500<br>
 - 1美元=积分100点
 
 2、本合约标的物：<br>
-- 金刚积分<strong> 342,900 </strong>点 <br>
-- 在金刚公司所有商店，以上积分值<strong> $3,429.00 </strong> ，即：买方可用这些积分从金刚公司所有商店购买<strong> $3,429.00 </strong> 的货物<br>
+- 金刚积分<strong> 160,000 </strong>点 <br>
+- 在金刚公司所有商店，以上积分值<strong> $1,600.00 </strong> ，即：买方可用这些积分从金刚公司所有商店购买<strong> $8,000.00 </strong> 的货物<br>
 
-3、经买卖双方协商一致，卖方愿将标的物以其实际价值<strong> $3,429.00 </strong>的<strong> 17.50% </strong>即<strong> $600.00 </strong>卖给买方，买方同意买入
+3、经买卖双方协商一致，卖方愿将标的物以其实际价值<strong> $1,600.00 </strong>的<strong> 25.00% </strong>即<strong> $400.00 </strong>卖给买方，买方同意买入
 
-4、买方将<strong> $600.00 </strong>或<strong> ¥4,200.00 </strong>一次性全额汇入卖方指定账户后，本合约订立并生效
+4、买方将<strong> $400.00 </strong>或<strong> ¥2,600.00 </strong>一次性全额汇入卖方指定账户后，本合约订立并立即生效
 
-5、合约订立后，卖方将在1小时内把与<strong> $3,429.00 </strong>等值的积分 <strong> 342,900 </strong>点立即一次性足额充入由买方指定的以下账户之一
+5、合约订立后，卖方将在1小时内把与<strong> $8,000.00 </strong>等值的积分 <strong> 800,000 </strong>点立即一次性足额充入由买方指定的以下账户之一
 - 买方在金刚官网账户下的积分户 
 - 买方在用的金刚app内的积分户
 
@@ -51,10 +51,11 @@
 
 15、法律遵从：买卖双方确保签订、履行本合约符合各自所在国家或地区的法律
 
-[附件1、批发商类别](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/KKWholesalerClassification.md) <br>
-[附件2、金刚app梯的金刚流量定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1Forkkapp.md) <br>
+[附件1、批发商級别](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKWholesalersZone/KKWholesalerClassification.md) <br>
+[附件2、2022 金刚流量定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1Forkkapp.md) <br>
+<!--
 [附件3、金刚号梯的金刚流量定价](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1ForAtozitpro.md) <br>
-
+-->
 
 
 #### 返回到
