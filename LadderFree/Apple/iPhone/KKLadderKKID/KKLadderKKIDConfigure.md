@@ -12,7 +12,7 @@
   - 准备好<strong> [金刚参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md) </strong>备用
     - 金刚参数的来源
       - 来自金刚官网给您的《派号通知单》邮件
-      - 来自金刚客服给您的的邮件
+      - 来自金刚客服给您的邮件
       - 来自 [官网>我的金刚](https://www.atozitpro.net/zh/my-account/) 下
       - 来自您在用的[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)
       - 来自社交媒体上的金刚官方号
