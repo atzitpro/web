@@ -1,13 +1,13 @@
 ###### 玩转金刚梯>金刚字典>
 ### 路由器
-
+- 预备工作
   - 准备好<strong> [金刚参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md) </strong>备用
     - 金刚参数的来源
       - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)<Strong> 我屏 </Strong>点击<Strong> 获取免费金刚号</Strong>
       - 来自金刚官网给您的《派号通知单》邮件
       - 来自金刚客服给您的邮件
       - 来自 [官网>我的金刚](https://www.atozitpro.net/zh/my-account/) 下
-       - 来自社交媒体上的金刚官方号
+      - 来自社交媒体上的金刚官方号
   - 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
 - 配置说明
   - 部分路由器支持L2TP VPN客户端配置，可利用该功能配入[金刚参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md)
