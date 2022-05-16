@@ -11,7 +11,7 @@
   - 在开始以下操作之前，请阅读[《配置注意事项》](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/ConsiderationsWhileConfigureKKID.md)
   - 准备好<strong> [金刚参数](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKIDsParameters0.md) </strong>备用
     - 金刚参数的来源
-      - 在[金刚app梯](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)的<Strong> 我屏 </Strong>点击<Strong> 获取免费金刚号</Strong>
+      - 在[ 金刚app梯 ](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderAPP.md)<Strong> 我屏 </Strong>点击<Strong> 获取免费金刚号</Strong>
       - 来自金刚官网给您的《派号通知单》邮件
       - 来自金刚客服给您的邮件
       - 来自 [官网>我的金刚](https://www.atozitpro.net/zh/my-account/) 下
