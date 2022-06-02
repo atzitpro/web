@@ -2,7 +2,7 @@
 #### [2022第1批钜惠酬宾双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1.md)
 #### [2022第2批钜惠酬宾双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-2.md)
 #### [2022第3批钜惠酬宾双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-3.md)
-
+#### [2022第4批钜惠酬宾双金刚号梯礼包](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-4.md)
 
 <!-- 
 
