@@ -7,7 +7,7 @@
 
 <br>
 
-#### [禮包線下购买流程]()
+#### [禮包線下购买流程](https://github.com/atzitpro/web/blob/master/LadderFree/kkDictionary/Price/Purches.md)
 
 <!-- 
 
