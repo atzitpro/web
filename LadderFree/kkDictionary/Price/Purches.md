@@ -13,3 +13,6 @@
 
 - 金刚公司不允许代理商向您提供微信收款二维码
 - 金剛不退費，請知晓
+
+
+[返回上級](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPrice.md)
