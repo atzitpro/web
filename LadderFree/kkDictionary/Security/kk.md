@@ -30,3 +30,13 @@ D、打從金剛號梯或金剛app梯連通的那一刻起，從油管傳至你�
 E、中國大陆當前约有1亿人在翻牆，原因形形色色，其中包含外貿業務等。如果中共要把所有訪問境外IP地址的都篩出來立案審一遍，它的技術能力、警力是否夠用，值得懷疑
 
 但這不等于說，用了安全可靠的云梯就萬無一失，恰恰相反，你需要知道的是：安全是系統工程，云梯只管其中一個環節，其他環節仍需小心謹慎，好比防彈背心并不能排除溺水的風險一樣
+
+#### 返回到
+- [上一級](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
+- [免费安全自由上网 首选可信美制金刚](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
+- [玩转金刚梯](https://github.com/a2zitpro/web/blob/master/LadderFree/A.md)
+- [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
+- [金刚字典 精简版](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionaryShortVersion.md)
+- [金刚流量价格](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/KKDTPrice.md)
+- [金刚号梯的配置](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKLadderConfigration/KKLadderConfigration.md)
+- [免费用金刚攻略](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Twitter/Biolink.md)
