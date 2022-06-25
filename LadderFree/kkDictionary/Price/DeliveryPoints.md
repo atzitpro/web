@@ -12,6 +12,6 @@
     - 點<Strong> 用xx點积分支付 </Strong>
   - 蘋果手機
     - 打開<Strong> 我同意使用條款 </Strong>開關
-    - 點<Strong>用xx點积分支付</Strong>
+    - 點<Strong> 用xx點积分支付</Strong>
 
 [返回上級](https://github.com/atzitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-6.md)
