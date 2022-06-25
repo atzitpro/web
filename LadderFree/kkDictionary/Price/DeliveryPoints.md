@@ -13,4 +13,4 @@
    - 打開 接受條款 開關
    - 點 用xx點积分支付
 
-[返回上級](https://github.com/atzitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-6.md）
+[返回上級](https://github.com/atzitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-6.md)
