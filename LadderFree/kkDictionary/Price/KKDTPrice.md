@@ -1,9 +1,9 @@
 ###### 玩转金刚梯>金刚字典>
-#### [2022第1批鉅惠酬賓雙金剛號梯禮包線下售價表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1.md)
-#### [2022第2批鉅惠酬賓雙金剛號梯禮包線下售價表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-2.md)
-#### [2022第3批鉅惠酬賓雙金剛號梯禮包線下售價表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-3.md)
-#### [2022第4批鉅惠酬賓雙金剛號梯禮包線下售價表 待發布](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-4.md)
-#### [2022第5批鉅惠酬賓雙金剛號梯禮包線下售價表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-5.md)
+#### [2022第1批鉅惠酬賓雙金剛號梯禮包線下售價表 已停售](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-1.md)
+#### [2022第2批鉅惠酬賓雙金剛號梯禮包線下售價表 已停售](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-2.md)
+#### [2022第3批鉅惠酬賓雙金剛號梯禮包線下售價表 已停售](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-3.md)
+#### [2022第4批鉅惠酬賓雙金剛號梯禮包線下售價表 已停售](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-4.md)
+#### [2022第5批鉅惠酬賓雙金剛號梯禮包線下售價表 已停售](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-5.md)
 #### [2022第6批鉅惠酬賓雙金剛號梯禮包線下售價表](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/Price/2022-6.md)
 
 <br>
