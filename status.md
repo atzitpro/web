@@ -7,7 +7,7 @@
 
 | 后台 | 状态 | 
 | ----------- | ----------- | 
-| 1. 金刚app（安卓/苹果） | <font color="green">服务器被墙</font>| 
+| 1. 金刚app（安卓/苹果） | <font color="green">服务受阻</font>| 
 | 2. 金刚Windows app| <font color="White">不再支持，请使用金刚号</font> | 
 | 3. 只需配置的L2型金刚号| <font color="White">正常</font> | 
  
