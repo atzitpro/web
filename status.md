@@ -7,9 +7,8 @@
 
 | 后台 | 状态 | 
 | ----------- | ----------- | 
-| 1. 金刚app（安卓/苹果） | <font color="green">服务受阻</font>| 
-| 2. 金刚Windows app| <font color="White">不再支持，请使用金刚号</font> | 
-| 3. 只需配置的L2型金刚号| <font color="White">正常</font> | 
+| 1. 金刚app（安卓） | <font color="green">新app正常，升级到最新版app</font>| 
+| 2.只需配置的L2型金刚号| <font color="White">正常-最近频繁被墙，恢复需要约半小时；建议多用app，金刚号做备胎</font> | 
  
 [最新版金刚安卓app下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
 
