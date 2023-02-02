@@ -8,7 +8,7 @@
 | 后台 | 状态 | 
 | ----------- | ----------- | 
 | 1. 金刚app（安卓/苹果） | <font color="green">正常</font>| 
-| 2.只需配置的L2型金刚号| <font color="White">频繁被墙，体验不稳定；请换用app</font> | 
+| 2.只需配置的L2型金刚号| <font color="White">频繁被墙 体验不稳定 请换用app</font> | 
  
 [最新版金刚安卓app下载页面](https://github.com/a2zitpro/web/blob/master/%E5%BE%80%E5%90%8E%E7%BF%BB.md)
 
