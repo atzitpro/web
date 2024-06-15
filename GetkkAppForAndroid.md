@@ -6,8 +6,8 @@
   - [apkpure app 商店](https://apkpure.com/p/com.kk.androidclient.kkapp)
   - 避开以上app商店直接下载安装金刚app（适合中国大陆用户）：
     - 请点击以下两行蓝色文字之一下开始下载p<br> <br>
-      - [下载链接1](https://github.com/a2zitpro/client/releases/download/latest/app-prod-release.apk) <br> <br>
-      - [下载链接2](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk) <br> <br>
+      - [下载链接1](https://bitbucket.org/kk64/public/downloads/app-prod-release.apk) <br> <br>
+      - [下载链接2](https://gitlab.com/grp86/pubapp/-/raw/main/app-prod-release.apk) <br> <br>
     - ⚠️<font color="red">微信用户</font>：点右上角 •••，再选<strong> 在浏览器中打开 </strong>，然后选默认浏览器，或指定另一个浏览器，点击以上蓝色文字即可下载。下载时请选<strong> 直接下载 </strong>，不要用<strong> 腾讯应用宝 </strong>下载
     - 当点击以上蓝色文字无响应、无法下载时
       - 请长按蓝色文字，选<Strong> 复制链接网址</Strong>，将其粘贴到您信任的安全浏览器——比如Chrome——的地址栏中，再点<strong> 前往 </strong>下载
