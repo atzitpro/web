@@ -34,21 +34,21 @@ B、从官网的IP地址识别
 
 如果一架梯拒绝提供其官网域名，则建议你抛弃它、远离它
 
-如果一架梯提供其官网域名（比如金刚公司官网域名https://atozitpro.net/zh/），则建议你把其官网域名送入以下两款工具之一，以获取其官网IP地址（比如金刚公司官网IP地址138.68.251.117）：
+如果一架梯提供其官网域名（比如[ 金刚公司官网 ](https://atozitpro.net/zh)域名[ https://atozitpro.net/zh/ ](https://atozitpro.net/zh)），则建议你把其官网域名送入以下工具1或工具2，以获取其官网IP地址
 
-www.nslookup.io
+工具1:[ 查域名对应的IP地址 ](https://www.nslookup.io)（或把该工具域名 https://www.nslookup.io 贴入浏览器地址栏查詢）
 
-https://domaintoipconverter.com
+工具2:[ 查域名对应的IP地址 ](https://domaintoipconverter.com)（或把该工具域名 https://domaintoipconverter.com 贴入浏览器地址栏查詢）
 
-再把官网IP地址送入以下工具以查明其官网所在国家的地理位置、经纬度，看该IP地址是否属于欧美
+再把官网IP地址（比如金刚公司官网IP地址 138.68.251.117 ）送入以下工具3查明其官网所在国家的地理位置、经纬度，看该IP地址是否属于欧美
 
-https://Whahismyipaddress.com
+工具3:[ 查IP地址所在地理位置 ](https://whatismyipaddress.com)（或把该工具的域名 https://Whatismyipaddress.com 贴入浏览器地址栏查詢）
 
 C、从公司电话号码识别
 
 如果一架梯拒绝提供其公司电话号码，则建议你抛弃它、远离它
 
-如果一架梯提供其公司电话号码，则请你关注其中的国家号是否[属于欧美](https://zh.m.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E7%94%B5%E8%AF%9D%E5%8C%BA%E5%8F%B7%E5%88%97%E8%A1%A8)，并看其能否拨通
+如果一架梯提供其公司电话号码，则请你关注其中的国家号是否[ 属于欧美 ](https://zh.m.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E7%94%B5%E8%AF%9D%E5%8C%BA%E5%8F%B7%E5%88%97%E8%A1%A8)，并看其能否拨通
 
 如果其国家号不属于欧美，或属于欧美但无法拨通，则建议你抛弃它、远离它
 
@@ -378,7 +378,7 @@ B、其他国家制造
 
 不知究竟有多少“反贼”落入了蓝灯的罗网！
 
-https://youtu.be/RmCIrfkNj0U?si=QjtJx4f8wSXvEoag
+[ https://youtu.be/RmCIrfkNj0U?si=QjtJx4f8wSXvEoag ](https://youtu.be/RmCIrfkNj0U?si=QjtJx4f8wSXvEoag)
 
 结论：
 
@@ -566,7 +566,7 @@ B、在墙外的所有网站、社交媒体上不要留下任何暴露你真实�
 
 近期披露的上海安洵文件外泄事件显示，这间公司如何渗透推特并从推特中获取中国大陆异议人士的推号
 
-https://twitter.com/jakobsonradical/status/1759733731588464684
+[ https://twitter.com/jakobsonradical/status/1759733731588464684 ](https://twitter.com/jakobsonradical/status/1759733731588464684)
 
 六、应该选择什么样的梯？
 
