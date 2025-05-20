@@ -21,7 +21,7 @@
 * 每推荐两个朋友赚一个月服务
 * 推荐朋友赚积分，积分可付服务费
 
-注册链接不好用？请[发电邮给客服，告诉客服您正面临什么样的困难](mailto:cs@a2zitpro.com)，让客服来帮您。
+注册链接不好用？请[发电邮给客服，告诉客服您正面临什么样的困难](mailto:cs@atozitpro.net)，让客服来帮您。
 
 ### 老朋友无法访问金刚网？
 * 先连通您的[ 金刚号 ](https://github.com/a2zitpro/web/blob/master/kkid.md)翻墙，再访问[ 金刚网 ](https://atozitpro.net/zh)   
