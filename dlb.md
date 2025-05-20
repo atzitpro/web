@@ -54,7 +54,7 @@
 - [金刚字典](https://github.com/a2zitpro/web/blob/master/LadderFree/kkDictionary/KKDictionary.md)
 
 ### 四、联系客服
-- 让客服来帮您：[电邮客服](mailto:cs@a2zitpro.com)
+- 让客服来帮您：[电邮客服](mailto:cs@atozitpro.net)
 
 
 #### 返回到
